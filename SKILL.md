@@ -52,10 +52,29 @@ Plik danych ma słownictwo współdzielone i listę perykop:
 }
 ```
 
-Przy pierwszej perykopie `books` musi zawierać samego Mateusza:
-`["Mt", "Ewangelia według św. Mateusza", "NT", 47]`. Pozycje już istniejące
-pomija `INSERT OR IGNORE` — nie dubluj leksemów i motywów. Sprawdź przed
-dopisaniem: `SELECT lemma FROM lexeme` i `SELECT name FROM theme`.
+**Pierwszy plik danych wnosi dwie rzeczy, których nie wniesie żaden
+następny.** `books` musi zawierać samego Mateusza —
+`["Mt", "Ewangelia według św. Mateusza", "NT", 47]` — bo bez tego wiersza
+`book_of("Mt")` nie ma czego znaleźć. `meta` musi zawierać klucz `projekt`,
+bo `export_pericope.py` bierze z niego nagłówek pierwszego poziomu
+(`meta.get('projekt', 'Egzegeza')`); `wprowadzenie.json` wnosi tylko klucze
+`intro_*`, więc `projekt` nie pojawi się sam:
+
+```jsonc
+"meta": [["projekt", "Egzegeza Ewangelii według św. Mateusza"],
+         ["edycja_tekstu_greckiego", "Nestle-Aland"],
+         ["przeklad", "roboczy, własny, celowo dosłowny"]],
+```
+
+Pozycje już istniejące pomija `INSERT OR IGNORE` — nie dubluj leksemów
+i motywów. Sprawdź przed dopisaniem: `SELECT lemma FROM lexeme`
+i `SELECT name FROM theme`.
+
+**Czego FTS nie indeksuje.** Tytuł perykopy, autor dzieła i terminy semickie
+nie wchodzą do `fts_tresc` — wyszukiwarka widzi `analysis_unit`, `section`,
+`commentary_block`, `lexeme` i `patristic_comment` (locus i treść, nie autora).
+Jeśli chcesz, by coś było przeszukiwalne, musi stać w treści któregoś z nich,
+nie w samym tytule czy w polu `work.author`.
 
 ## Krok 2: bundle perykopy
 
