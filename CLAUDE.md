@@ -85,10 +85,10 @@ produkcji przed jej domknięciem. Pierwszy plik danych musi wnieść także
 (`placek/matthew`) i dwie rutyny Claude Code commitują prosto na `master`:
 
 - `Mateusz — perykopa 1 (wzorzec)` — jednorazowa, pisze perykopę 1 i gaśnie;
-- `Mateusz — kolejna perykopa (co 6 h)` — cykliczna, bierze z tabeli
-  delimitacji w `README.md` pierwszą perykopę bez pliku danych, pisze ją
-  i wypycha. Gaśnie sama, gdy wszystkie 63 mają pliki. Startuje **wyłączona**
-  i włącza ją człowiek po zatwierdzeniu wzorca.
+- `Mateusz — kolejna perykopa (co 6 h)` — cykliczna i **włączona**, bierze
+  z tabeli delimitacji w `README.md` pierwszą perykopę bez pliku danych, pisze
+  ją i wypycha. Chodzi o 01:46, 07:46, 13:46 i 19:46 (czas warszawski) i gaśnie
+  sama, gdy wszystkie 63 mają pliki — zgłasza wtedy `KOMPLET` i nic nie pisze.
 
 Stąd dwie konsekwencje dla pracy lokalnej: **zrób `git pull` przed każdą
 sesją**, bo historia rośnie bez ciebie, i nie pisz perykopy, która może być
