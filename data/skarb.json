@@ -1,0 +1,3129 @@
+{
+ "books": [
+  [
+   "Koh",
+   "Księga Koheleta",
+   "ST",
+   23
+  ],
+  [
+   "2 Kor",
+   "Drugi List do Koryntian",
+   "NT",
+   54
+  ],
+  [
+   "Flp",
+   "List do Filipian",
+   "NT",
+   57
+  ],
+  [
+   "1 Tm",
+   "Pierwszy List do Tymoteusza",
+   "NT",
+   61
+  ]
+ ],
+ "verses": {
+  "chapter": 6,
+  "items": [
+   [
+    19,
+    "Μὴ θησαυρίζετε ὑμῖν θησαυροὺς ἐπὶ τῆς γῆς, ὅπου σὴς καὶ βρῶσις ἀφανίζει καὶ ὅπου κλέπται διορύσσουσιν καὶ κλέπτουσιν·",
+    "Nie gromadźcie sobie skarbów na ziemi, gdzie mól i wyjadanie niszczy i gdzie złodzieje przekopują się i kradną."
+   ],
+   [
+    20,
+    "θησαυρίζετε δὲ ὑμῖν θησαυροὺς ἐν οὐρανῷ, ὅπου οὔτε σὴς οὔτε βρῶσις ἀφανίζει καὶ ὅπου κλέπται οὐ διορύσσουσιν οὐδὲ κλέπτουσιν·",
+    "Gromadźcie zaś sobie skarby w niebie, gdzie ani mól, ani wyjadanie nie niszczy i gdzie złodzieje nie przekopują się ani nie kradną."
+   ],
+   [
+    21,
+    "ὅπου γάρ ἐστιν ὁ θησαυρός σου, ἐκεῖ ἔσται καὶ ἡ καρδία σου.",
+    "Gdzie bowiem jest skarb twój, tam będzie i serce twoje."
+   ],
+   [
+    22,
+    "Ὁ λύχνος τοῦ σώματός ἐστιν ὁ ὀφθαλμός. ἐὰν οὖν ᾖ ὁ ὀφθαλμός σου ἁπλοῦς, ὅλον τὸ σῶμά σου φωτεινὸν ἔσται·",
+    "Lampą ciała jest oko. Jeśli więc oko twoje byłoby proste, całe ciało twoje będzie świetliste;"
+   ],
+   [
+    23,
+    "ἐὰν δὲ ὁ ὀφθαλμός σου πονηρὸς ᾖ, ὅλον τὸ σῶμά σου σκοτεινὸν ἔσται. εἰ οὖν τὸ φῶς τὸ ἐν σοὶ σκότος ἐστίν, τὸ σκότος πόσον.",
+    "jeśli zaś oko twoje byłoby złe, całe ciało twoje będzie ciemne. Jeśli więc światło, które w tobie, jest ciemnością — ciemność jakaż!"
+   ],
+   [
+    24,
+    "Οὐδεὶς δύναται δυσὶ κυρίοις δουλεύειν· ἢ γὰρ τὸν ἕνα μισήσει καὶ τὸν ἕτερον ἀγαπήσει, ἢ ἑνὸς ἀνθέξεται καὶ τοῦ ἑτέρου καταφρονήσει. οὐ δύνασθε θεῷ δουλεύειν καὶ μαμωνᾷ.",
+    "Nikt nie może dwóm panom być niewolnikiem: albo bowiem jednego znienawidzi, a drugiego pokocha, albo jednego będzie się trzymał, a drugim wzgardzi. Nie możecie Bogu być niewolnikami i mamonie."
+   ],
+   [
+    25,
+    "Διὰ τοῦτο λέγω ὑμῖν· μὴ μεριμνᾶτε τῇ ψυχῇ ὑμῶν τί φάγητε [ἢ τί πίητε], μηδὲ τῷ σώματι ὑμῶν τί ἐνδύσησθε. οὐχὶ ἡ ψυχὴ πλεῖόν ἐστιν τῆς τροφῆς καὶ τὸ σῶμα τοῦ ἐνδύματος;",
+    "Dla tego mówię wam: nie martwcie się o życie wasze, co zjecie [albo co wypijecie], ani o ciało wasze, co na siebie wdziejecie. Czyż życie nie jest czymś więcej niż pokarm, a ciało niż odzienie?"
+   ],
+   [
+    26,
+    "ἐμβλέψατε εἰς τὰ πετεινὰ τοῦ οὐρανοῦ ὅτι οὐ σπείρουσιν οὐδὲ θερίζουσιν οὐδὲ συνάγουσιν εἰς ἀποθήκας, καὶ ὁ πατὴρ ὑμῶν ὁ οὐράνιος τρέφει αὐτά· οὐχ ὑμεῖς μᾶλλον διαφέρετε αὐτῶν;",
+    "Wpatrzcie się w ptaki nieba, że nie sieją ani nie żną, ani nie zbierają do spichlerzy — a Ojciec wasz niebieski karmi je. Czyż wy nie jesteście warci więcej niż one?"
+   ],
+   [
+    27,
+    "τίς δὲ ἐξ ὑμῶν μεριμνῶν δύναται προσθεῖναι ἐπὶ τὴν ἡλικίαν αὐτοῦ πῆχυν ἕνα;",
+    "Kto zaś z was, martwiąc się, może dołożyć do swojego wzrostu jeden łokieć?"
+   ],
+   [
+    28,
+    "καὶ περὶ ἐνδύματος τί μεριμνᾶτε; καταμάθετε τὰ κρίνα τοῦ ἀγροῦ πῶς αὐξάνουσιν· οὐ κοπιῶσιν οὐδὲ νήθουσιν·",
+    "A o odzienie dlaczego się martwicie? Przyjrzyjcie się dokładnie liliom pola, jak wzrastają: nie trudzą się ani nie przędą."
+   ],
+   [
+    29,
+    "λέγω δὲ ὑμῖν ὅτι οὐδὲ Σολομὼν ἐν πάσῃ τῇ δόξῃ αὐτοῦ περιεβάλετο ὡς ἓν τούτων.",
+    "Mówię zaś wam, że i Salomon w całej chwale swojej nie odział się jak jedna z nich."
+   ],
+   [
+    30,
+    "εἰ δὲ τὸν χόρτον τοῦ ἀγροῦ σήμερον ὄντα καὶ αὔριον εἰς κλίβανον βαλλόμενον ὁ θεὸς οὕτως ἀμφιέννυσιν, οὐ πολλῷ μᾶλλον ὑμᾶς, ὀλιγόπιστοι;",
+    "Jeśli zaś trawę pola, dziś będącą, a jutro w piec wrzucaną, Bóg tak przyodziewa, czy nie o wiele bardziej was, małej wiary?"
+   ],
+   [
+    31,
+    "μὴ οὖν μεριμνήσητε λέγοντες· τί φάγωμεν; ἤ· τί πίωμεν; ἤ· τί περιβαλώμεθα;",
+    "Nie martwcie się więc, mówiąc: co zjemy? albo: co wypijemy? albo: czym się odziejemy?"
+   ],
+   [
+    32,
+    "πάντα γὰρ ταῦτα τὰ ἔθνη ἐπιζητοῦσιν· οἶδεν γὰρ ὁ πατὴρ ὑμῶν ὁ οὐράνιος ὅτι χρῄζετε τούτων ἁπάντων.",
+    "Tego wszystkiego bowiem poszukują narody; wie bowiem Ojciec wasz niebieski, że potrzebujecie tego wszystkiego."
+   ],
+   [
+    33,
+    "ζητεῖτε δὲ πρῶτον τὴν βασιλείαν [τοῦ θεοῦ] καὶ τὴν δικαιοσύνην αὐτοῦ, καὶ ταῦτα πάντα προστεθήσεται ὑμῖν.",
+    "Szukajcie zaś najpierw królestwa [Bożego] i sprawiedliwości jego, a to wszystko będzie wam dodane."
+   ],
+   [
+    34,
+    "μὴ οὖν μεριμνήσητε εἰς τὴν αὔριον, ἡ γὰρ αὔριον μεριμνήσει ἑαυτῆς· ἀρκετὸν τῇ ἡμέρᾳ ἡ κακία αὐτῆς.",
+    "Nie martwcie się więc o jutro: jutro bowiem będzie się martwiło o siebie samo. Wystarczy dniowi zło jego."
+   ]
+  ]
+ },
+ "lexemes": [
+  [
+   "θησαυρίζω",
+   "thesaurizo",
+   "czasownik",
+   "gromadzić, odkładać na zapas — u Mateusza dwa wystąpienia i oba w Mt 6,19–20, z własnym przedmiotem θησαυρούς w obu. Figura etymologiczna skarbić skarby jest w tym dystychu nośnikiem całej antytezy: ten sam czasownik raz zakazany, raz nakazany, a różnicę niesie wyłącznie określenie miejsca"
+  ],
+  [
+   "σής",
+   "ses",
+   "rzeczownik",
+   "mól — u Mateusza dwa wystąpienia, oba w Mt 6,19–20. Szkodnik tkanin, a więc wskazanie, że majątkiem, o którym mowa, są przede wszystkim szaty. Obraz jest mądrościowy i obiegowy (Iz 51,8; Jk 5,2–3)"
+  ],
+  [
+   "βρῶσις",
+   "brosis",
+   "rzeczownik",
+   "jedzenie, wyjadanie, i stąd korozja — u Mateusza dwa wystąpienia w Mt 6,19–20. Wyraz nazywa czynność pożerania, nie szkodnika; Wulgata oddaje go przez ærugo (rdza), odwracając przy tym kolejność pary, i ta decyzja utrwaliła się w przekładach zachodnich"
+  ],
+  [
+   "κλέπτης",
+   "kleptes",
+   "rzeczownik",
+   "złodziej, włamywacz — u Mateusza trzy wystąpienia: dwa w Mt 6,19–20 i jedno w 24,43, gdzie gospodarz nie wie, o której straży przychodzi. Poza tym jednym miejscem wyraz nie wychodzi u niego z obrazu zagrożonego majątku"
+  ],
+  [
+   "κλέπτω",
+   "klepto",
+   "czasownik",
+   "kraść — u Mateusza pięć wystąpień: Mt 6,19.20 w parze z rzeczownikiem o tym samym rdzeniu, 19,18 w przytoczeniu Dekalogu (οὐ κλέψεις), a w 27,64 i 28,13 w zarzucie, że ciało Jezusa ukradziono. Ostatnie kradzieże tej Ewangelii nie dotyczą już mienia"
+  ],
+  [
+   "διορύσσω",
+   "diorysso",
+   "czasownik",
+   "przekopać się na wylot — u Mateusza trzy wystąpienia: Mt 6,19.20 i 24,43. Czasownik odpowiada realiom budowlanym: ściany z suszonej cegły glinianej były słabsze niż drzwi, więc drogą włamania był otwór w murze"
+  ],
+  [
+   "ἁπλοῦς",
+   "haplous",
+   "przymiotnik",
+   "pojedynczy, niezłożony, niepodzielony, a w użyciu dotyczącym jałmużny — szczodry. U Mateusza jednorazowy (6,22). Rzeczownik ἁπλότης oznacza u Pawła hojność składki (2 Kor 8,2; 9,11.13), a w 1 Krn 29,17 stoi przy ofierze złożonej z prostotą serca. Przekład zdrowy nie ma w grece podstawy"
+  ],
+  [
+   "φωτεινός",
+   "photeinos",
+   "przymiotnik",
+   "świetlisty, prześwietlony — u Mateusza dwa wystąpienia: o ciele człowieka (6,22) i o obłoku na górze przemienienia (17,5). Poza tym jednym obłokiem Mateusz używa tego przymiotnika wyłącznie o człowieku"
+  ],
+  [
+   "σκοτεινός",
+   "skoteinos",
+   "przymiotnik",
+   "ciemny, zaciemniony — u Mateusza jednorazowy (6,23). Stoi dokładnie w miejscu, w którym w zdaniu bliźniaczym stoi φωτεινός, i razem z nim tworzy jedyną w tej Ewangelii parę przymiotników światła i ciemności odniesioną do ciała"
+  ],
+  [
+   "δουλεύω",
+   "douleuo",
+   "czasownik",
+   "być niewolnikiem, należeć do kogoś jako własność — u Mateusza dwa wystąpienia i oba w Mt 6,24. Rdzeń ten sam co δοῦλος, więc czasownik zakłada własność, nie zatrudnienie. Jedynym u Mateusza czasownikiem służby kultycznej jest natomiast λατρεύω (4,10)"
+  ],
+  [
+   "κύριος",
+   "kyrios",
+   "rzeczownik",
+   "pan, właściciel, Pan — u Mateusza osiemdziesiąt wystąpień, przeważnie o Bogu i o Jezusie, w wołaczu najczęściej w ustach proszących. Celownik liczby mnogiej κυρίοις stoi tylko w Mt 6,24, i tylko tam dwaj panowie są ze sobą porównani"
+  ],
+  [
+   "μαμωνᾶς",
+   "mamonas",
+   "rzeczownik",
+   "mamona, majątek, zasób — u Mateusza jednorazowy (6,24) i jedyny wyraz aramejski Kazania pozostawiony bez tłumaczenia. Pod zapisem greckim stoi מָמוֹן, poświadczone w hebrajskim Syrachu, w targumach i w literaturze rabinicznej w znaczeniu neutralnym. Nowa jest tu składnia: celownik po δουλεύειν stawia majątek w szeregu, w którym stoi Bóg"
+  ],
+  [
+   "ἀντέχομαι",
+   "antechomai",
+   "czasownik",
+   "uchwycić się czegoś i trzymać — u Mateusza jednorazowy (6,24), w stronie medialnej z dopełniaczem. Stoi w drugiej z dwóch par czasowników tego wiersza, opisującej postępowanie, nie skłonność"
+  ],
+  [
+   "καταφρονέω",
+   "kataphroneo",
+   "czasownik",
+   "mieć za nic, nie brać pod uwagę — u Mateusza dwa wystąpienia: Mt 6,24 i 18,10, w zakazie lekceważenia jednego z tych małych. Wyraz nie znaczy nienawidzić, lecz pomijać jako nieważne"
+  ],
+  [
+   "μεριμνάω",
+   "merimnao",
+   "czasownik",
+   "troszczyć się, zabiegać, dzielić się myślą — u Mateusza siedem wystąpień: sześć w Mt 6,25–34 i jedno w 10,19, o uczniach wydanych sądom. Rdzeń wiąże się z μερίζω (dzielić), więc troska jest rozdzieleniem i przez to stoi w jednym szeregu z niepodzielnością z Mt 6,24. Mateusz odmienia go w tej perykopie przez cztery różne formy"
+  ],
+  [
+   "τροφή",
+   "trophe",
+   "rzeczownik",
+   "pokarm — u Mateusza cztery wystąpienia: 3,4 o pokarmie Chrzciciela, 6,25 w parze z życiem, 10,10 o robotniku godnym swego pokarmu, 24,45 o słudze rozdającym pokarm w porę. Wyraz obejmuje pożywienie jako to, co utrzymuje, nie jako potrawę"
+  ],
+  [
+   "ἐνδύω",
+   "endyo",
+   "czasownik",
+   "wdziać, przyoblec — u Mateusza trzy wystąpienia: 6,25 o trosce o odzienie, 22,11 o człowieku nieodzianym w strój weselny, 27,31 o żołnierzach ubierających Jezusa w jego własne szaty. Trzy wystąpienia dotyczą trzech różnych porządków: potrzeby, uczty i męki"
+  ],
+  [
+   "πετεινόν",
+   "peteinon",
+   "rzeczownik",
+   "ptak, stworzenie skrzydlate — u Mateusza cztery wystąpienia: 6,26, 8,20 o ptakach mających gniazda, 13,4 i 13,32 w przypowieściach. Zwrot τὰ πετεινὰ τοῦ οὐρανοῦ jest formułą Septuaginty z opowieści o stworzeniu; Łukasz w miejscu paralelnym ma kruki, ptaka z listy nieczystych"
+  ],
+  [
+   "σπείρω",
+   "speiro",
+   "czasownik",
+   "siać — u Mateusza osiemnaście wystąpień, z czego jedno w Mt 6,26 i prawie wszystkie pozostałe w trzynastym rozdziale, w przypowieściach o siewcy i o chwaście. Jedyny raz poza przypowieściami czasownik opisuje to, czego ptaki nie robią"
+  ],
+  [
+   "θερίζω",
+   "therizo",
+   "czasownik",
+   "żąć — u Mateusza trzy wystąpienia: Mt 6,26 oraz dwa w przypowieści o talentach (25,24.26), gdzie pan żnie tam, gdzie nie posiał. Para siać–żąć obejmuje cały rok rolniczy i w obu miejscach służy do opisania czynności nienaturalnie rozdzielonych"
+  ],
+  [
+   "συνάγω",
+   "synago",
+   "czasownik",
+   "zbierać, gromadzić, zwoływać — u Mateusza dwadzieścia cztery wystąpienia, od zwołania arcykapłanów (2,4) do zebrania Rady (26,57). W Mt 3,12 i 6,26 dotyczy zsypu plonu do spichlerza; rdzeń jest ten sam co w συναγωγή"
+  ],
+  [
+   "τρέφω",
+   "trepho",
+   "czasownik",
+   "karmić, utrzymywać — u Mateusza dwa wystąpienia: Mt 6,26 o Ojcu karmiącym ptaki i 25,37 w pytaniu sprawiedliwych, kiedy nakarmili Pana. Karmienie jest więc najpierw czynnością Ojca, a na końcu Ewangelii czynnością ludzi wobec Syna Człowieczego"
+  ],
+  [
+   "διαφέρω",
+   "diaphero",
+   "czasownik",
+   "przewyższać, być wartym więcej — u Mateusza trzy wystąpienia i wszystkie w argumentach od mniejszego do większego: człowiek wobec ptaków (6,26), uczniowie wobec wróbli (10,31), człowiek wobec owcy (12,12). Dwa z tych trzech miejsc służą oddaleniu lęku albo troski"
+  ],
+  [
+   "προστίθημι",
+   "prostithemi",
+   "czasownik",
+   "dodać, dołożyć — u Mateusza dwa wystąpienia i oba w tej perykopie: w bezokoliczniku o tym, czego człowiek nie może dodać do swojego wzrostu (6,27), i w stronie biernej o tym, co zostanie mu dodane (6,33). Strona bierna bez sprawcy jest u Mateusza zwyczajowym sposobem mówienia o działaniu Boga"
+  ],
+  [
+   "ἡλικία",
+   "helikia",
+   "rzeczownik",
+   "wzrost ciała albo wiek życia — u Mateusza jednorazowy (6,27). Dwuznaczność rozstrzyga miara stojąca obok: łokieć jest jednostką długości, więc mowa raczej o wzroście, a dołożenie łokcia dorosłemu człowiekowi jest wielkością niedorzeczną"
+  ],
+  [
+   "πῆχυς",
+   "pechys",
+   "rzeczownik",
+   "łokieć, miara długości około czterdziestu pięciu centymetrów — u Mateusza jednorazowy (6,27). Wyraz oznacza pierwotnie przedramię i jest miarą cielesną, co wzmacnia obraz: człowiek nie dołoży do siebie nawet tego, czym mierzy"
+  ],
+  [
+   "καταμανθάνω",
+   "katamanthano",
+   "czasownik",
+   "wyuczyć się czegoś z przedmiotu, przyjrzeć się dokładnie — u Mateusza jednorazowy (6,28). Jest wzmocnioną postacią μανθάνω, którego najważniejsze miejsce to 11,29: uczcie się ode mnie. Łukasz ma w paraleli κατανοέω, czasownik rozważania, nie uczenia się"
+  ],
+  [
+   "κρίνον",
+   "krinon",
+   "rzeczownik",
+   "lilia, a szerzej kwiat okazały — u Mateusza jednorazowy (6,28). Nazwa nie jest gatunkowa; na wiosennych nieuprawianych gruntach Galilei pierwszym kandydatem jest anemon koronowy, obok lilii białej i tulipana polnego. Rozstrzygnięcie botaniczne nie zmienia argumentu, bo porównanie dotyczy jednego kwiatu"
+  ],
+  [
+   "ἀγρός",
+   "agros",
+   "rzeczownik",
+   "pole, grunt poza osadą — u Mateusza siedemnaście wystąpień, najwięcej w trzynastym rozdziale, gdzie pole jest światem (13,38) i miejscem ukrytego skarbu (13,44). W Mt 6,28.30 określa grunt nieuprawiany, na którym rosną lilie i trawa"
+  ],
+  [
+   "αὐξάνω",
+   "auxano",
+   "czasownik",
+   "wzrastać — u Mateusza dwa wystąpienia: Mt 6,28 o liliach i 13,32 o ziarnie gorczycy, które staje się drzewem. Oba miejsca opisują wzrost, w którym człowiek nie uczestniczy"
+  ],
+  [
+   "κοπιάω",
+   "kopiao",
+   "czasownik",
+   "pracować do zmęczenia, trudzić się — u Mateusza dwa wystąpienia: Mt 6,28 o liliach, które się nie trudzą, i 11,28 w wezwaniu do utrudzonych i obciążonych. Ten sam czasownik nazywa więc raz brak trudu w przyrodzie, raz trud, z którego się przychodzi"
+  ],
+  [
+   "νήθω",
+   "netho",
+   "czasownik",
+   "prząść — u Mateusza jednorazowy (6,28). Praca kobiet, poświadczona w Prz 31,19 i przez przęśliki znajdowane w każdym domostwie tej epoki. Razem z κοπιάω obejmuje cały proces wytworzenia odzieży: trud mężczyzny i przędzenie kobiety"
+  ],
+  [
+   "Σολομών",
+   "Solomon",
+   "imię",
+   "Salomon — u Mateusza pięć wystąpień: dwa w rodowodzie (1,6.7), jedno w Mt 6,29 i dwa w 12,42, gdzie królowa z południa przybywa słuchać jego mądrości, a mowa kończy się na kimś większym od niego. W tej Ewangelii Salomon jest więc miarą przewyższoną dwa razy: w stroju przez kwiat, w mądrości przez Jezusa"
+  ],
+  [
+   "περιβάλλω",
+   "periballo",
+   "czasownik",
+   "odziać, okryć — u Mateusza pięć wystąpień: dwa w tej perykopie (6,29 o Salomonie, 6,31 w pytaniu uczniów) i trzy w scenie sądu ostatecznego, gdzie przyodzianie nagiego jest jednym z dzieł miłosierdzia (25,36.38.43). Troska o własne odzienie zostaje odjęta, troska o cudze — wymagana"
+  ],
+  [
+   "χόρτος",
+   "chortos",
+   "rzeczownik",
+   "trawa, zielona roślinność, siano — u Mateusza trzy wystąpienia: Mt 6,30 o trawie wrzucanej w piec, 13,26 o zbożu i 14,19 o trawie, na której siada tłum. W wierszu trzydziestym przemianowuje lilie z wiersza dwudziestego ósmego i tym przemianowaniem domyka argument"
+  ],
+  [
+   "κλίβανος",
+   "klibanos",
+   "rzeczownik",
+   "piec gliniany, kopułka rozgrzewana od wewnątrz — u Mateusza jednorazowy (6,30). W kraju bezleśnym opałem były suche chwasty, ciernie i łodygi, więc roślina kwitnąca w marcu mogła w kwietniu znaleźć się w palenisku. Ciasto przylepiano do rozgrzanej ścianki"
+  ],
+  [
+   "ἀμφιέννυμι",
+   "amphiennymi",
+   "czasownik",
+   "przyodziewać — u Mateusza dwa wystąpienia: Mt 6,30 o Bogu przyodziewającym trawę i 11,8 o człowieku odzianym w miękkie szaty, który mieszka w domach królewskich. Oba dotyczą stroju i oba stoją przy pytaniu, czego się szuka"
+  ],
+  [
+   "ὀλιγόπιστος",
+   "oligopistos",
+   "przymiotnik",
+   "małej wiary — u Mateusza cztery wystąpienia: Mt 6,30, 8,26 podczas burzy, 14,31 do Piotra zapadającego się w wodę, 16,8 przy nieporozumieniu o chlebach; rzeczownik ὀλιγοπιστία raz, w 17,20, gdzie aparat waha się między nim a niewiarą. Poza Mateuszem przymiotnik ma w Nowym Testamencie jedno wystąpienie, w paraleli u Łukasza (12,28)"
+  ],
+  [
+   "ἐπιζητέω",
+   "epizeteo",
+   "czasownik",
+   "poszukiwać uporczywie, dopytywać się — u Mateusza trzy wystąpienia: Mt 6,32 o narodach szukających jedzenia i odzienia oraz 12,39 i 16,4 o pokoleniu szukającym znaku. Czynność jest u niego zawsze przypisana tym, którzy szukają nie tego, co trzeba"
+  ],
+  [
+   "χρῄζω",
+   "chrezo",
+   "czasownik",
+   "potrzebować — u Mateusza jednorazowy (6,32). Zastępuje omowę χρείαν ἔχειν, której Mateusz użył w zdaniu bliźniaczym dwadzieścia cztery wiersze wcześniej (6,8); jedno z dwóch słów tego wiersza, które stoją u niego tylko raz"
+  ],
+  [
+   "ζητέω",
+   "zeteo",
+   "czasownik",
+   "szukać — u Mateusza czternaście wystąpień, od szukania dziecka przez Heroda (2,13) do szukania Jezusa przez kobiety u grobu (28,5). Tryb rozkazujący ζητεῖτε pada trzy razy, a dwa pierwsze są w Kazaniu: szukajcie najpierw królestwa (6,33) i szukajcie, a znajdziecie (7,7)"
+  ],
+  [
+   "αὔριον",
+   "aurion",
+   "przysłówek",
+   "jutro — u Mateusza trzy wystąpienia i wszystkie w tej perykopie: raz o trawie wrzucanej w piec (6,30) i dwa razy w ostatnim wierszu (6,34), gdzie przysłówek zostaje użyty jako rzeczownik z rodzajnikiem żeńskim i staje się podmiotem czasownika troski"
+  ],
+  [
+   "ἀρκετός",
+   "arketos",
+   "przymiotnik",
+   "wystarczający — u Mateusza dwa wystąpienia: Mt 6,34 o dniu, któremu wystarczy jego własne zło, i 10,25, gdzie wystarczy uczniowi, żeby był jak jego nauczyciel. Oba zdania mają składnię bez orzeczenia: przymiotnik z celownikiem i podmiotem w mianowniku"
+  ],
+  [
+   "κακία",
+   "kakia",
+   "rzeczownik",
+   "złość, zło moralne, a w użyciu semickim także nieszczęście i utrapienie — u Mateusza jednorazowy (6,34). Hieronim oddaje go przez malitia i musi dopisać objaśnienie, że mowa o trudzie, nie o przewinie; za tym stoi hebrajskie רָעָה, pokrywające oba znaczenia"
+  ],
+  [
+   "ἐμβλέπω",
+   "emblepo",
+   "czasownik",
+   "wpatrzyć się, spojrzeć w kogoś — u Mateusza dwa wystąpienia: Mt 6,26 o patrzeniu na ptaki i 19,26, gdzie Jezus wpatruje się w uczniów przed zdaniem, że u Boga wszystko jest możliwe. Oba miejsca dotyczą majątku i oba każą patrzeć, zamiast rachować"
+  ],
+  [
+   "σῶμα",
+   "soma",
+   "rzeczownik",
+   "ciało — u Mateusza czternaście wystąpień. Zwrot ὅλον τὸ σῶμά σου (całe ciało twoje) pada cztery razy: dwa o ciele wrzuconym do Gehenny (5,29.30) i dwa w Mt 6,22–23, o ciele prześwietlonym i o ciemnym. W 26,26 rzeczownik nazywa ciało wydane w chlebie"
+  ],
+  [
+   "ὀφθαλμός",
+   "ophthalmos",
+   "rzeczownik",
+   "oko — u Mateusza dwadzieścia cztery wystąpienia. Trzy z nich stoją w Mt 6,22–23, a pozostałe w sąsiedztwie Kazania wyznaczają dzieje tego organu: oko wyłupione (5,29), oko za oko (5,38), oko z belką (7,3–5). W 20,15 oko złe oznacza zawiść wobec cudzej zapłaty"
+  ],
+  [
+   "ἀγαπάω",
+   "agapao",
+   "czasownik",
+   "kochać, wybierać — u Mateusza osiem wystąpień: przytoczenie przykazania miłości bliźniego (5,43; 19,19; 22,37.39), nakaz miłości nieprzyjaciół (5,44.46) i Mt 6,24, gdzie czasownik stoi w parze z μισέω jako członek semickiego idiomu wyboru i odrzucenia"
+  ],
+  [
+   "δύναμαι",
+   "dynamai",
+   "czasownik",
+   "móc, być w stanie — u Mateusza dwadzieścia siedem wystąpień. W tej perykopie pada trzy razy i wszystkie trzy dotyczą granicy ludzkiej możności: dwóch panów (6,24 dwukrotnie) i łokcia dodanego do wzrostu (6,27). Odpowiedzią na tę granicę jest zdanie z 19,26 o tym, co możliwe u Boga"
+  ],
+  [
+   "πρῶτον",
+   "proton",
+   "przysłówek",
+   "najpierw, na pierwszym miejscu — forma przysłówkowa od πρῶτος. U Mateusza dziewięć wystąpień (5,24; 6,33; 7,5; 8,21; 12,29; 13,30; 17,10; 17,27; 23,26) i prawie wszystkie porządkują dwie rzeczy, nie odwołując żadnej: najpierw pojednaj się z bratem (5,24), najpierw wyrzuć belkę (7,5), najpierw zwiąż mocarza (12,29), najpierw szukajcie królestwa (6,33)"
+  ],
+  [
+   "ἅπας",
+   "hapas",
+   "przymiotnik",
+   "wszystek razem, cały bez wyjątku — u Mateusza trzy wystąpienia: Mt 6,32 o wszystkim, czego potrzebujecie, 24,39 o potopie, który zabrał wszystkich, i 28,11 o straży donoszącej o wszystkim. Forma wzmocniona wobec πᾶς i u Mateusza rzadka"
+  ]
+ ],
+ "semitic": [
+  [
+   "מָמוֹן",
+   "mamon",
+   "aram",
+   "majątek, mienie, zasób pieniężny — wyraz bez odcienia nagannego, poświadczony w hebrajskim Syrachu, w targumach jako odpowiednik kilku określeń bogactwa oraz w literaturze rabinicznej, gdzie odróżnia sprawy majątkowe od gardłowych. Pod greckim μαμωνᾷ z Mt 6,24 stoi ten wyraz w postaci nieprzetłumaczonej. Zakresy poświadczeń wymagają sprawdzenia w wydaniach"
+  ],
+  [
+   "עַיִן רָעָה",
+   "ajin ra'a",
+   "hbr",
+   "złe oko — określenie skąpstwa i zawiści, nie choroby wzroku ani szkodliwego spojrzenia. Stoi za ὀφθαλμὸς πονηρός z Mt 6,23; pole znaczeniowe wyznaczają Pwt 15,9, Prz 23,6, Prz 28,22, Syr 14,8–10 i Tb 4,7, a u samego Mateusza rozstrzyga 20,15"
+  ],
+  [
+   "עַיִן טוֹבָה",
+   "ajin towa",
+   "hbr",
+   "dobre oko — szczodrość, przeciwieństwo złego oka; para przeciwstawna poświadczona w literaturze rabinicznej, w traktacie Awot. Pod greckim ὀφθαλμὸς ἁπλοῦς z Mt 6,22 stoi najprawdopodobniej ten idiom, co tłumaczy, dlaczego przymiotnik znaczy niepodzielony, a nie zdrowy. Miejsca misznaickie wymagają sprawdzenia"
+  ],
+  [
+   "אוֹצָר",
+   "ocar",
+   "hbr",
+   "skarb, skarbiec, magazyn — wyraz oznacza zarazem zgromadzone dobra i miejsce ich przechowania. Septuaginta oddaje go zwykle przez θησαυρός, co tłumaczy, dlaczego grecki rzeczownik w Mt 6,19–21 chwieje się między zapasem a składem: gromadzić skarby i mieć skarb w niebie to w tym języku jedna czynność i jedno miejsce"
+  ],
+  [
+   "שׁוֹשַׁנָּה",
+   "szoszanna",
+   "hbr",
+   "lilia, kwiat okazały — wyraz z Pieśni nad Pieśniami i z Oz 14,6, oddawany w Septuagincie przez κρίνον. Podobnie jak grecki odpowiednik nie jest nazwą gatunkową i obejmuje kwiaty o barwnym okwiecie, co czyni rozstrzygnięcie botaniczne w Mt 6,28 niemożliwym i niepotrzebnym"
+  ],
+  [
+   "חָצִיר",
+   "chacir",
+   "hbr",
+   "trawa, zielona roślinność, siano — wyraz z Iz 40,6 (wszelkie ciało jest trawą) i z Ps 103,15, oddawany przez χόρτος. Obraz trawy jako tego, co usycha najszybciej, jest w Starym Testamencie obrazem człowieka; Mt 6,30 odwraca jego zastosowanie i mówi o Bożej trosce o to, co przemija"
+  ],
+  [
+   "רָעָה",
+   "ra'a",
+   "hbr",
+   "zło — zarówno przewina moralna, jak i nieszczęście, które kogoś spotyka. Ta dwuznaczność stoi za jednorazowym κακία w Mt 6,34: dniowi nie przypisuje się złości, lecz utrapienie. Hieronim oddał wyraz przez malitia i dopisał objaśnienie, bo łacina tej dwuznaczności nie ma"
+  ]
+ ],
+ "lexeme_semitic": [
+  [
+   "μαμωνᾶς",
+   "mamon",
+   "Grecki rzeczownik jest transkrypcją, nie przekładem, i jedynym takim w Kazaniu. Pod nim stoi aramejskie מָמוֹן w znaczeniu neutralnym. Naganny odcień nie pochodzi więc z samego wyrazu, lecz z celownika po δουλεύειν, który stawia majątek obok Boga."
+  ],
+  [
+   "ἁπλοῦς",
+   "ajin towa",
+   "Przymiotnik odpowiada hebrajskiemu idiomowi dobrego oka, czyli szczodrości. To tłumaczy, dlaczego nie znaczy zdrowy i dlaczego obraz oka z Mt 6,22 wiąże się z jałmużną z Mt 6,2–4, która nie ma wiedzieć, co robi własna prawica."
+  ],
+  [
+   "πονηρός",
+   "ajin ra'a",
+   "Zestawienie oka z przymiotnikiem zły jest u Mateusza idiomem, nie opisem. Potwierdza to 20,15, gdzie oko złe oznacza zawiść wobec cudzej zapłaty. Wiara w złe spojrzenie, obecna w całym basenie Morza Śródziemnego, nie ma z tym miejscem związku, bo mowa o oku własnym."
+  ],
+  [
+   "θησαυρός",
+   "ocar",
+   "Hebrajskie אוֹצָר znaczy zarazem zgromadzone dobra i skarbiec, a Septuaginta oddaje je przez θησαυρός. Dlatego w Mt 6,19–21 jeden rzeczownik obejmuje zapas i miejsce jego przechowania, a przejście od skarbów w liczbie mnogiej do skarbu w pojedynczej nie jest zmianą tematu."
+  ],
+  [
+   "κρίνον",
+   "szoszanna",
+   "Grecki i hebrajski wyraz pokrywają ten sam zakres: kwiat okazały, bez wskazania gatunku. Septuaginta oddaje szoszanna przez κρίνον w Pieśni nad Pieśniami i u Ozeasza. Dlatego pytanie, o jaki kwiat chodzi w Mt 6,28, nie ma odpowiedzi w samym tekście."
+  ],
+  [
+   "χόρτος",
+   "chacir",
+   "Pod greckim χόρτος w Mt 6,30 stoi obraz חָצִיר z Iz 40,6 i Ps 103,15, gdzie trawa jest figurą przemijania człowieka. Mateusz zachowuje wyraz i obraz, a zmienia wniosek: z szybkości przemijania wyprowadza nie marność, lecz dowód troski."
+  ],
+  [
+   "κακία",
+   "ra'a",
+   "Semickie רָעָה pokrywa zło moralne i nieszczęście; greckie κακία pokrywa tylko pierwsze. Stąd trudność ostatniego zdania perykopy i stąd objaśnienie Hieronima, który tłumacząc przez malitia musiał dopisać, że chodzi o utrapienie dnia."
+  ]
+ ],
+ "occurrences": [
+  [
+   "βρῶσις",
+   19,
+   "βρῶσις"
+  ],
+  [
+   "γῆ",
+   19,
+   "γῆς"
+  ],
+  [
+   "διορύσσω",
+   19,
+   "διορύσσουσιν"
+  ],
+  [
+   "θησαυρίζω",
+   19,
+   "θησαυρίζετε"
+  ],
+  [
+   "θησαυρός",
+   19,
+   "θησαυροὺς"
+  ],
+  [
+   "κλέπτης",
+   19,
+   "κλέπται"
+  ],
+  [
+   "κλέπτω",
+   19,
+   "κλέπτουσιν"
+  ],
+  [
+   "σής",
+   19,
+   "σὴς"
+  ],
+  [
+   "ἀφανίζω",
+   19,
+   "ἀφανίζει"
+  ],
+  [
+   "βρῶσις",
+   20,
+   "βρῶσις"
+  ],
+  [
+   "διορύσσω",
+   20,
+   "διορύσσουσιν"
+  ],
+  [
+   "θησαυρίζω",
+   20,
+   "θησαυρίζετε"
+  ],
+  [
+   "θησαυρός",
+   20,
+   "θησαυροὺς"
+  ],
+  [
+   "κλέπτης",
+   20,
+   "κλέπται"
+  ],
+  [
+   "κλέπτω",
+   20,
+   "κλέπτουσιν"
+  ],
+  [
+   "οὐρανός",
+   20,
+   "οὐρανῷ"
+  ],
+  [
+   "σής",
+   20,
+   "σὴς"
+  ],
+  [
+   "ἀφανίζω",
+   20,
+   "ἀφανίζει"
+  ],
+  [
+   "θησαυρός",
+   21,
+   "θησαυρός"
+  ],
+  [
+   "καρδία",
+   21,
+   "καρδία"
+  ],
+  [
+   "λύχνος",
+   22,
+   "λύχνος"
+  ],
+  [
+   "σῶμα",
+   22,
+   "σώματός"
+  ],
+  [
+   "σῶμα",
+   22,
+   "σῶμά"
+  ],
+  [
+   "φωτεινός",
+   22,
+   "φωτεινὸν"
+  ],
+  [
+   "ἁπλοῦς",
+   22,
+   "ἁπλοῦς"
+  ],
+  [
+   "ὀφθαλμός",
+   22,
+   "ὀφθαλμός"
+  ],
+  [
+   "ὀφθαλμός",
+   22,
+   "ὀφθαλμός"
+  ],
+  [
+   "πονηρός",
+   23,
+   "πονηρὸς"
+  ],
+  [
+   "σκοτεινός",
+   23,
+   "σκοτεινὸν"
+  ],
+  [
+   "σκότος",
+   23,
+   "σκότος"
+  ],
+  [
+   "σκότος",
+   23,
+   "σκότος"
+  ],
+  [
+   "σῶμα",
+   23,
+   "σῶμά"
+  ],
+  [
+   "φῶς",
+   23,
+   "φῶς"
+  ],
+  [
+   "ὀφθαλμός",
+   23,
+   "ὀφθαλμός"
+  ],
+  [
+   "δουλεύω",
+   24,
+   "δουλεύειν"
+  ],
+  [
+   "δουλεύω",
+   24,
+   "δουλεύειν"
+  ],
+  [
+   "δύναμαι",
+   24,
+   "δύναται"
+  ],
+  [
+   "δύναμαι",
+   24,
+   "δύνασθε"
+  ],
+  [
+   "καταφρονέω",
+   24,
+   "καταφρονήσει"
+  ],
+  [
+   "κύριος",
+   24,
+   "κυρίοις"
+  ],
+  [
+   "μαμωνᾶς",
+   24,
+   "μαμωνᾷ"
+  ],
+  [
+   "μισέω",
+   24,
+   "μισήσει"
+  ],
+  [
+   "ἀγαπάω",
+   24,
+   "ἀγαπήσει"
+  ],
+  [
+   "ἀντέχομαι",
+   24,
+   "ἀνθέξεται"
+  ],
+  [
+   "μεριμνάω",
+   25,
+   "μεριμνᾶτε"
+  ],
+  [
+   "σῶμα",
+   25,
+   "σώματι"
+  ],
+  [
+   "σῶμα",
+   25,
+   "σῶμα"
+  ],
+  [
+   "τροφή",
+   25,
+   "τροφῆς"
+  ],
+  [
+   "ψυχή",
+   25,
+   "ψυχῇ"
+  ],
+  [
+   "ψυχή",
+   25,
+   "ψυχὴ"
+  ],
+  [
+   "ἐνδύω",
+   25,
+   "ἐνδύσησθε"
+  ],
+  [
+   "ἔνδυμα",
+   25,
+   "ἐνδύματος"
+  ],
+  [
+   "διαφέρω",
+   26,
+   "διαφέρετε"
+  ],
+  [
+   "θερίζω",
+   26,
+   "θερίζουσιν"
+  ],
+  [
+   "οὐράνιος",
+   26,
+   "οὐράνιος"
+  ],
+  [
+   "οὐρανός",
+   26,
+   "οὐρανοῦ"
+  ],
+  [
+   "πατήρ",
+   26,
+   "πατὴρ"
+  ],
+  [
+   "πετεινόν",
+   26,
+   "πετεινὰ"
+  ],
+  [
+   "σπείρω",
+   26,
+   "σπείρουσιν"
+  ],
+  [
+   "συνάγω",
+   26,
+   "συνάγουσιν"
+  ],
+  [
+   "τρέφω",
+   26,
+   "τρέφει"
+  ],
+  [
+   "ἀποθήκη",
+   26,
+   "ἀποθήκας"
+  ],
+  [
+   "ἐμβλέπω",
+   26,
+   "ἐμβλέψατε"
+  ],
+  [
+   "δύναμαι",
+   27,
+   "δύναται"
+  ],
+  [
+   "μεριμνάω",
+   27,
+   "μεριμνῶν"
+  ],
+  [
+   "προστίθημι",
+   27,
+   "προσθεῖναι"
+  ],
+  [
+   "πῆχυς",
+   27,
+   "πῆχυν"
+  ],
+  [
+   "ἡλικία",
+   27,
+   "ἡλικίαν"
+  ],
+  [
+   "αὐξάνω",
+   28,
+   "αὐξάνουσιν"
+  ],
+  [
+   "καταμανθάνω",
+   28,
+   "καταμάθετε"
+  ],
+  [
+   "κοπιάω",
+   28,
+   "κοπιῶσιν"
+  ],
+  [
+   "κρίνον",
+   28,
+   "κρίνα"
+  ],
+  [
+   "μεριμνάω",
+   28,
+   "μεριμνᾶτε"
+  ],
+  [
+   "νήθω",
+   28,
+   "νήθουσιν"
+  ],
+  [
+   "ἀγρός",
+   28,
+   "ἀγροῦ"
+  ],
+  [
+   "ἔνδυμα",
+   28,
+   "ἐνδύματος"
+  ],
+  [
+   "Σολομών",
+   29,
+   "Σολομὼν"
+  ],
+  [
+   "δόξα",
+   29,
+   "δόξῃ"
+  ],
+  [
+   "περιβάλλω",
+   29,
+   "περιεβάλετο"
+  ],
+  [
+   "αὔριον",
+   30,
+   "αὔριον"
+  ],
+  [
+   "κλίβανος",
+   30,
+   "κλίβανον"
+  ],
+  [
+   "χόρτος",
+   30,
+   "χόρτον"
+  ],
+  [
+   "ἀγρός",
+   30,
+   "ἀγροῦ"
+  ],
+  [
+   "ἀμφιέννυμι",
+   30,
+   "ἀμφιέννυσιν"
+  ],
+  [
+   "ὀλιγόπιστος",
+   30,
+   "ὀλιγόπιστοι"
+  ],
+  [
+   "μεριμνάω",
+   31,
+   "μεριμνήσητε"
+  ],
+  [
+   "περιβάλλω",
+   31,
+   "περιβαλώμεθα"
+  ],
+  [
+   "οἶδα",
+   32,
+   "οἶδεν"
+  ],
+  [
+   "οὐράνιος",
+   32,
+   "οὐράνιος"
+  ],
+  [
+   "πατήρ",
+   32,
+   "πατὴρ"
+  ],
+  [
+   "χρῄζω",
+   32,
+   "χρῄζετε"
+  ],
+  [
+   "ἅπας",
+   32,
+   "ἁπάντων"
+  ],
+  [
+   "ἐπιζητέω",
+   32,
+   "ἐπιζητοῦσιν"
+  ],
+  [
+   "ἔθνος",
+   32,
+   "ἔθνη"
+  ],
+  [
+   "βασιλεία",
+   33,
+   "βασιλείαν"
+  ],
+  [
+   "δικαιοσύνη",
+   33,
+   "δικαιοσύνην"
+  ],
+  [
+   "ζητέω",
+   33,
+   "ζητεῖτε"
+  ],
+  [
+   "προστίθημι",
+   33,
+   "προστεθήσεται"
+  ],
+  [
+   "πρῶτον",
+   33,
+   "πρῶτον"
+  ],
+  [
+   "αὔριον",
+   34,
+   "αὔριον"
+  ],
+  [
+   "αὔριον",
+   34,
+   "αὔριον"
+  ],
+  [
+   "κακία",
+   34,
+   "κακία"
+  ],
+  [
+   "μεριμνάω",
+   34,
+   "μεριμνήσητε"
+  ],
+  [
+   "μεριμνάω",
+   34,
+   "μεριμνήσει"
+  ],
+  [
+   "ἀρκετός",
+   34,
+   "ἀρκετὸν"
+  ]
+ ],
+ "works": [
+  [
+   "św. Augustyn",
+   "De opere monachorum",
+   "O pracy mnichów",
+   "ok. 400",
+   "patrystyka"
+  ],
+  [
+   "św. Cyprian z Kartaginy",
+   "De opere et eleemosynis",
+   "O uczynku dobrym i jałmużnie",
+   "ok. 253",
+   "patrystyka"
+  ],
+  [
+   "M. Luter",
+   "Der Große Katechismus",
+   "Duży katechizm",
+   "1529",
+   "inna"
+  ],
+  [
+   "J. Milton",
+   "Paradise Lost",
+   "Raj utracony",
+   "1667",
+   "inna"
+  ],
+  [
+   "T. C. Skeat",
+   "The Lilies of the Field",
+   null,
+   "1938",
+   "wspolczesna"
+  ]
+ ],
+ "themes": [
+  [
+   "skarb na ziemi i skarb w niebie",
+   "Mt 6,19–21 zbudowane jest z dwóch nakazów o identycznej składni, różniących się tylko określeniem miejsca: ἐπὶ τῆς γῆς (na ziemi) i ἐν οὐρανῷ (w niebie), oraz z sentencji o sercu, które idzie za skarbem. Rzeczownik θησαυρός pada u Mateusza dziewięć razy, pierwszy raz w 2,11, gdzie magowie otwierają swoje skarby i je wydają, a dalej w 12,35 o skarbie serca, w 13,44 o skarbie ukrytym w polu i w 19,21 o skarbie w niebiosach obiecanym bogatemu. Pod greckim rzeczownikiem stoi hebrajskie אוֹצָר, oznaczające zarazem zapas i skarbiec. Obraz niszczenia zapasu — mól, wyjadanie, włamanie przez przekopaną ścianę — jest mądrościowy i obiegowy (Iz 51,8; Jk 5,2–3), a oba jego wyrazy o złodzieju wracają u Mateusza tylko raz, w 24,43, czyli w mowie o nieznanej godzinie."
+  ],
+  [
+   "oko proste i oko złe",
+   "Mt 6,22–23 nazywa oko lampą ciała i wiąże jasność całego ciała z jednym przymiotnikiem. ἁπλοῦς znaczy niepodzielony, a w użyciu dotyczącym jałmużny szczodry — ἁπλότης oznacza u Pawła hojność składki (2 Kor 8,2; 9,11.13), a w 1 Krn 29,17 stoi przy ofierze złożonej z prostotą serca. Jego przeciwieństwo, ὀφθαλμὸς πονηρός, jest idiomem semickim oznaczającym skąpstwo i zawiść (Pwt 15,9; Prz 23,6; 28,22; Syr 14,8–10; Tb 4,7), a u samego Mateusza rozstrzyga o tym 20,15, gdzie gospodarz pyta najemnika o jego złe oko wobec cudzej zapłaty. Obraz jest zatem częścią wywodu o własności, nie dygresją o widzeniu, a jego augustyńska lektura jako obrazu intencji dała Zachodowi całą naukę o intentio."
+  ],
+  [
+   "dwaj panowie i mamona",
+   "Mt 6,24 orzeka, że nikt nie może być niewolnikiem dwóch panów, i wniosek stawia dwa celowniki w jednym szeregu: θεῷ i μαμωνᾷ. Czasownik δουλεύω zakłada własność, nie zatrudnienie, i pada u Mateusza tylko w tym wierszu, dwa razy; jedynym czasownikiem służby kultycznej jest u niego λατρεύω z 4,10, w odpowiedzi na trzecie kuszenie. Twierdzenie nie jest oczywistością prawną, bo prawo rzymskie znało servus communis (niewolnika wspólnego) — dotyczy natury samego oddania. Μαμωνᾶς jest jedynym wyrazem aramejskim Kazania pozostawionym bez przekładu; pod nim stoi מָמוֹן w znaczeniu neutralnym, a naganny odcień tworzy dopiero składnia. Od Augustyna i Hieronima, którzy wyraz objaśniali jako nazwę bogactwa, przez moralistykę średniowieczną i Lutra, aż do Miltona, mamona stawała się stopniowo imieniem własnym."
+  ],
+  [
+   "troska jako rozdzielenie",
+   "Czasownik μεριμνάω pada u Mateusza siedem razy: sześć w Mt 6,25–34 i raz w 10,19, o uczniach wydanych sądom. Jego rdzeń wiąże się z μερίζω (dzielić), więc troska jest rozdzieleniem i przez to stoi w jednym szeregu z niepodzielnością z 6,24 i z prostotą oka z 6,22. Zakaz troski pada cztery razy i nie dwa razy tak samo: w w. 25 i 28 w czasie teraźniejszym trybu rozkazującego, czyli przestańcie, a w w. 31 i 34 w aoryście trybu łączącego, czyli nie zaczynajcie. Przedmiotem troski są kolejno życie, ciało, jedzenie, odzienie i na końcu czas. Przypowieść o siewcy nazwie to samo rzeczownikiem: μέριμνα τοῦ αἰῶνος (troska tego wieku) dusi słowo (13,22)."
+  ],
+  [
+   "argument od mniejszego do większego",
+   "Perykopa czterokrotnie wnioskuje od rzeczy niższej do wyższej i za każdym razem innym wyrażeniem: οὐχὶ … πλεῖον o życiu i pokarmie (w. 25), οὐχ … μᾶλλον διαφέρετε o ptakach (w. 26), οὐ πολλῷ μᾶλλον o trawie (w. 30), a w części pierwszej jego odwrócenie — τὸ σκότος πόσον (w. 23), gdzie ta sama miara pracuje w stronę mroku. Czasownik διαφέρω pada u Mateusza trzy razy i wszystkie trzy wystąpienia należą do tego typu rozumowania (6,26; 10,31; 12,12), podobnie jak zaimek πόσος w 7,11, 10,25 i 12,12. Argument zakłada hierarchię stworzeń, nie czułość wobec przyrody, i nie wynika z niego, że człowiek nie ma siać ani żąć — wynika, że karmienie nie jest jego dziełem."
+  ],
+  [
+   "czego dodać nie można i co zostaje dodane",
+   "Czasownik προστίθημι pada u Mateusza dwa razy i oba razy w tej perykopie: w bezokoliczniku o tym, czego człowiek nie może dodać do swojego wzrostu (6,27), i w stronie biernej bez sprawcy o tym, co zostanie mu dodane (6,33). Te dwie formy dzieli sześć wierszy i obejmują one całą drogę rozumowania. Klamrę domykają przy tym dwa celowniki: θησαυρίζετε ὑμῖν (gromadźcie sobie, w. 19) i προστεθήσεται ὑμῖν (będzie wam dodane, w. 33). Najbliższy wzór tej składni stoi w 1 Krl 3,11–13, gdzie Salomon prosi o jedno i dostaje w dodatku to, o co nie prosił. Odwrotnością obietnicy jest ταῦτά σοι πάντα δώσω (to wszystko tobie dam) z 4,9, czyli oferta diabła na górze bardzo wysokiej."
+  ],
+  [
+   "dzień i jutro: miara czasu u Mateusza",
+   "Przysłówek αὔριον pada u Mateusza trzy razy i wszystkie trzy w tej perykopie: raz o trawie wrzucanej w piec (6,30) i dwa razy w ostatnim wierszu (6,34), gdzie zostaje użyty jako rzeczownik z rodzajnikiem i staje się podmiotem czasownika troski. Para σήμερον–αὔριον ma w tym rozdziale poprzednika w czwartej prośbie Modlitwy Pańskiej, gdzie o chleb proszono na dziś (6,11), a wzór starotestamentalny w regule zbierania manny, która psuła się, gdy odłożono ją na następny dzień (Wj 16,16–20). Zdanie zamykające perykopę — ἀρκετὸν τῇ ἡμέρᾳ ἡ κακία αὐτῆς — nie ma orzeczenia i używa jednorazowego u Mateusza rzeczownika κακία w znaczeniu semickim: utrapienie, nie przewina. Całe to zdanie i poprzednie nie mają paraleli u Łukasza."
+  ],
+  [
+   "chwała i jej właściciele",
+   "Rzeczownik δόξα pada u Mateusza siedem razy i jego rozkład jest wymowny. Pierwsze wystąpienie należy do diabła, który na górze bardzo wysokiej pokazuje królestwa świata i ich chwałę (4,8); drugie do Salomona, który w całej swojej chwale nie odział się jak jeden kwiat polny (6,29). Pięć pozostałych należy do Syna Człowieczego i do Ojca: przyjście w chwale Ojca (16,27), tron chwały (19,28), obłoki i wielka chwała (24,30), zasiadanie na tronie chwały (25,31). Zwrot ἐν πάσῃ τῇ δόξῃ αὐτοῦ z 6,29 jest przy tym bliski składniowo zwrotowi πάσας τὰς βασιλείας … καὶ τὴν δόξαν αὐτῶν z 4,8. Perykopa nie polemizuje z blaskiem jako takim; odbiera mu właściciela."
+  ]
+ ],
+ "pericopes": [
+  {
+   "pericope": {
+    "cs": 6,
+    "vs": 19,
+    "ce": 6,
+    "ve": 34,
+    "title": "Skarb w niebie i troska o życie",
+    "motto": "Haec omnia adjicientur vobis (to wszystko będzie wam dodane)",
+    "status": "w_opracowaniu",
+    "position": 12
+   },
+   "intro": "Szesnaście wierszy między trzema uczynkami pobożnymi a nakazem nieosądzania mówi o majątku, jedzeniu i odzieniu, a trzyma się na jednym celowniku. W wierszu dziewiętnastym stoi θησαυρίζετε ὑμῖν (gromadźcie sobie), w wierszu trzydziestym trzecim προστεθήσεται ὑμῖν (będzie wam dodane): ten sam zaimek raz nazywa rachunek własny, raz dar przyjęty. Pomiędzy nimi Mateusz kładzie cztery obrazy — skarb, oko, dwóch panów, ptaki i lilie — i jedno zdanie, które wiąże pierwszą połowę z drugą: διὰ τοῦτο (dla tego). Zakaz troski jest tu wnioskiem z niemożliwości podwójnej służby, nie osobnym pouczeniem o ufności, i to przesunięcie decyduje o całej lekturze. Rozstrzyga się ono w jednym czasowniku. Προστίθημι stoi w tej Ewangelii wyłącznie w tych szesnastu wierszach: raz w pytaniu o to, czego człowiek nie dołoży do własnego wzrostu, raz w obietnicy, że zostanie mu dodane. Co niemożliwe dla troski, dzieje się bez niej.",
+   "blocks": [
+    {
+     "cs": 6,
+     "vs": 19,
+     "ce": 6,
+     "ve": 21,
+     "label": "w. 19–21",
+     "greek": "Μὴ θησαυρίζετε ὑμῖν θησαυροὺς ἐπὶ τῆς γῆς, ὅπου σὴς καὶ βρῶσις ἀφανίζει καὶ ὅπου κλέπται διορύσσουσιν καὶ κλέπτουσιν· θησαυρίζετε δὲ ὑμῖν θησαυροὺς ἐν οὐρανῷ, ὅπου οὔτε σὴς οὔτε βρῶσις ἀφανίζει καὶ ὅπου κλέπται οὐ διορύσσουσιν οὐδὲ κλέπτουσιν· ὅπου γάρ ἐστιν ὁ θησαυρός σου, ἐκεῖ ἔσται καὶ ἡ καρδία σου.",
+     "transl": "Nie gromadźcie sobie skarbów na ziemi, gdzie mól i wyjadanie niszczy i gdzie złodzieje przekopują się i kradną. Gromadźcie zaś sobie skarby w niebie, gdzie ani mól, ani wyjadanie nie niszczy i gdzie złodzieje nie przekopują się ani nie kradną. Gdzie bowiem jest skarb twój, tam będzie i serce twoje.",
+     "units": [
+      [
+       "Μὴ θησαυρίζετε ὑμῖν θησαυρούς",
+       "Nie gromadźcie sobie skarbów",
+       "Zakaz otwiera figurę etymologiczną: czasownik θησαυρίζω i jego własny przedmiot θησαυρούς, czyli skarbienie skarbów. Taką samą budowę ma wiersz dwudziesty, już w trybie rozkazującym twierdzącym, i cały dystych trzyma się na jednym rdzeniu. Czasownik pada u Mateusza dwa razy i oba razy tutaj; rzeczownik dziewięć razy, a pierwszy raz w 2,11, gdzie magowie otwierają swoje skarby i je wydają — pierwsze skarby tej Ewangelii zostały rozwiązane, nie zgromadzone. Przeczenie μή z czasem teraźniejszym trybu rozkazującego zakazuje czynności trwającej, a nie jednorazowej: nakaz dotyczy praktyki, która już się toczy. Najważniejszy jest jednak celownik ὑμῖν — dativus commodi, sobie, na własny rachunek. Ten sam celownik wróci w ostatnim zdaniu perykopy jako ὑμῖν przy czasowniku w stronie biernej (προστεθήσεται ὑμῖν), i między tymi dwoma celownikami rozciąga się cały wywód: raz człowiek odkłada sam dla siebie, raz zostaje mu dodane."
+      ],
+      [
+       "ἐπὶ τῆς γῆς … ἐν οὐρανῷ",
+       "na ziemi … w niebie",
+       "Dwa miejsca złożenia są wyrażone dwiema różnymi konstrukcjami: ἐπί z dopełniaczem przy ziemi, ἐν z miejscownikiem przy niebie. Liczba pojedyncza οὐρανῷ jest u Mateusza przy skarbie osobliwa, bo jego formuły idą zwykle w mnogiej (ὁ πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς) i tak samo w mnogiej stoi skarb obiecany bogatemu młodzieńcowi w 19,21 — tam jednak aparat notuje wahanie świadków. Para niebo–ziemia nie jest tu nowa: dwadzieścia wierszy wcześniej, w trzeciej prośbie, wola Ojca miała się stać ὡς ἐν οὐρανῷ καὶ ἐπὶ γῆς (jak w niebie, tak i na ziemi). Modlitwa prosiła o jedność tych dwóch miejsc, a teraz te same dwa miejsca są przedstawione jako dwa rozłączne depozyty. Przy przysiędze (5,34–35) niebo i ziemia były tronem i podnóżkiem, czyli jednym Bożym terenem; przy skarbie są dwiema kasami, z których jedna przecieka."
+      ],
+      [
+       "ὅπου σὴς καὶ βρῶσις ἀφανίζει",
+       "gdzie mól i wyjadanie niszczy",
+       "Rzeczowniki σής i βρῶσις padają u Mateusza po dwa razy i wyłącznie w tym dystychu. Pierwszy to mól, szkodnik tkanin, i wskazuje, że majątkiem, o którym mowa, są przede wszystkim szaty. Drugi znaczy dosłownie jedzenie, czynność pożerania — nie nazwę szkodnika, lecz to, co szkodnik robi. Wulgata rozdziela tę dwuznaczność, zamieniając kolejność i oddając βρῶσις przez ærugo (rdza): et tinea demolitur staje na drugim miejscu, a rdza na pierwszym. Decyzja Hieronima zrobiła z pary mól–wyjadanie parę mól–rdza, utrwaloną we wszystkich przekładach zachodnich, i zatarła to, że grecki rzeczownik jest tym samym wyrazem, którym nazywa się pokarm. Orzeczenie ἀφανίζει stoi w liczbie pojedynczej przy dwóch podmiotach, co w grece jest zwykłe, ale tu daje jednolity obraz jednego procesu. Sam czasownik ἀφανίζω pada u Mateusza trzy razy: w 6,16 obłudnicy nim zacierają swoje twarze, żeby stać się widoczni, a w 6,19–20 niszczy on to, co zgromadzone. Trzy wiersze po perykopie o trzech uczynkach ten sam czasownik przenosi się z twarzy na majątek."
+      ],
+      [
+       "ὅπου κλέπται διορύσσουσιν καὶ κλέπτουσιν",
+       "gdzie złodzieje przekopują się i kradną",
+       "Druga para jest zbudowana tak samo jak pierwsza: rzeczownik κλέπται i czasownik κλέπτουσιν z jednego rdzenia, czyli kradnący kradną. Czasownik διορύσσω znaczy przekopać się na wylot i odpowiada realiom budowlanym: ściany domu w galilejskiej wsi stawiano z suszonej gliny na kamiennej podmurówce, więc drogą złodzieja był otwór w ścianie, nie wyłamane drzwi. Oba wyrazy — włamywacz i przekopanie — spotykają się u Mateusza po raz drugi i ostatni w 24,43, w zdaniu o gospodarzu, który nie wie, o której straży nocnej przychodzi złodziej. Obraz z Kazania wraca więc w mowie eschatologicznej jako obraz Dnia. Dekalogowe οὐ κλέψεις (nie będziesz kradł) ten sam czasownik przytoczy w 19,18, a w 27,64 i 28,13 zostanie użyty do zarzutu, że ciało Jezusa ukradziono — czyli ostatnie kradzieże tej Ewangelii dotyczą już nie majątku."
+      ],
+      [
+       "ὅπου γάρ ἐστιν ὁ θησαυρός σου",
+       "Gdzie bowiem jest skarb twój",
+       "Trzeci wiersz zmienia liczbę: po dwóch nakazach w drugiej osobie mnogiej wchodzi zaimek σου w liczbie pojedynczej i utrzyma się przez cały następny obraz oka. Przejście jest u Mateusza regularne — tak samo robiła perykopa o trzech uczynkach, gdzie zakaz szedł w mnogiej, a obietnica w pojedynczej — i tak samo regularnie kopiści je wyrównywali: ὑμῶν zamiast σου mają tu L, W, Θ, 0233, obie rodziny minuskułowe, minuskuł 33 i większość bizantyjska. Spójnik γάρ nadaje zdaniu status uzasadnienia, nie dalszego nakazu, a brak czasownika rozkazującego czyni z niego sentencję: zdanie nie każe niczego, tylko stwierdza, jak to jest. Forma, w jakiej stwierdza, jest przysłowiowa i daje się wyobrazić jako obiegowa maksyma; Mateusz wstawia ją w miejsce, gdzie wyjaśnia dwa poprzednie rozkazy."
+      ],
+      [
+       "ἐκεῖ ἔσται καὶ ἡ καρδία σου",
+       "tam będzie i serce twoje",
+       "Orzeczenie stoi w czasie przyszłym, nie teraźniejszym: nie tam jest, lecz tam będzie serce. Wulgata zrównała czasy (ubi est thesaurus tuus, ibi est et cor tuum) i tak zdanie weszło w obieg łaciński, zacierając kierunek, który greka wskazuje. Kierunek ten jest treścią całego wiersza: wybór miejsca złożenia pociąga serce za sobą, a nie odwrotnie. Serce jest u Mateusza siedzibą myśli i zamiaru, nie uczucia — stamtąd wychodzą złe pomysły (15,19), tam dokonuje się cudzołóstwo przed czynem (5,28), tam zapada czystość błogosławieństwa szóstego (5,8). Powiedzieć, że serce pójdzie za skarbem, to powiedzieć, że człowiek myśli tam, gdzie złożył swoje. Kodeks Watykański opuszcza καί, co drobnym kosztem usuwa z wiersza nacisk na owo i serce także."
+      ]
+     ]
+    },
+    {
+     "cs": 6,
+     "vs": 22,
+     "ce": 6,
+     "ve": 23,
+     "label": "w. 22–23",
+     "greek": "Ὁ λύχνος τοῦ σώματός ἐστιν ὁ ὀφθαλμός. ἐὰν οὖν ᾖ ὁ ὀφθαλμός σου ἁπλοῦς, ὅλον τὸ σῶμά σου φωτεινὸν ἔσται· ἐὰν δὲ ὁ ὀφθαλμός σου πονηρὸς ᾖ, ὅλον τὸ σῶμά σου σκοτεινὸν ἔσται. εἰ οὖν τὸ φῶς τὸ ἐν σοὶ σκότος ἐστίν, τὸ σκότος πόσον.",
+     "transl": "Lampą ciała jest oko. Jeśli więc oko twoje byłoby proste, całe ciało twoje będzie świetliste; jeśli zaś oko twoje byłoby złe, całe ciało twoje będzie ciemne. Jeśli więc światło, które w tobie, jest ciemnością — ciemność jakaż!",
+     "units": [
+      [
+       "Ὁ λύχνος τοῦ σώματός ἐστιν ὁ ὀφθαλμός",
+       "Lampą ciała jest oko",
+       "Zdanie nie ma żadnego zaimka: ani lampa, ani ciało, ani oko nie są niczyje, a dopiero zdanie warunkowe wprowadza σου. Wulgata dopisuje oba (lucerna corporis tui est oculus tuus) i zamienia definicję w zwrot do jednostki. Rzeczownik λύχνος wrócił po siedemnastu wierszach: w 5,15 lampy nie stawia się pod naczyniem, lecz na świeczniku, żeby świeciła wszystkim w domu. Obraz lampy przenosi się więc z wnętrza domu do wnętrza człowieka, a ciało zajmuje miejsce domu. Starożytna optyka znała dwa objaśnienia widzenia: wypływ promienia z oka i wpływ obrazu do oka. Zdanie działa przy obu, bo nie twierdzi, że oko świeci, tylko że od niego zależy, czy wnętrze jest jasne; sens przenośny — oko jako sposób patrzenia na dobra — nie zależy od rozstrzygnięcia fizjologicznego."
+      ],
+      [
+       "ἐὰν οὖν ᾖ ὁ ὀφθαλμός σου ἁπλοῦς",
+       "Jeśli więc oko twoje byłoby proste",
+       "Przymiotnik ἁπλοῦς jest u Mateusza jednorazowy i nie znaczy zdrowy. Pierwsze jego znaczenie to pojedynczy, niezłożony, a przez to niepodzielony; drugie, wyrosłe z użycia w sprawach jałmużny, to szczodry. Rzeczownik ἁπλότης oddaje u Pawła wprost hojność składki (2 Kor 8,2; 9,11.13), a w 1 Krn 29,17 stoi przy ofierze złożonej z prostotą serca; Testament Issachara, cały poświęcony tej cnocie, wiąże ją z niewyrachowanym dawaniem. Oko proste jest zatem okiem niepodzielonym i rozdającym, czyli przeciwieństwem obliczania — i tą drogą obraz łączy się z jałmużną z 6,2–4, która nie ma wiedzieć, co robi własna prawica. Spójnik οὖν opiera nowy obraz na poprzednim, a zdanie warunkowe z ἐάν i trybem łączącym mówi o możliwości realnej, nie o przypuszczeniu nierzeczywistym. Kodeks Sinaiticus οὖν opuszcza i tym samym rozcina szew między skarbem a okiem."
+      ],
+      [
+       "ὅλον τὸ σῶμά σου φωτεινὸν ἔσται",
+       "całe ciało twoje będzie świetliste",
+       "Zwrot ὅλον τὸ σῶμά σου pada u Mateusza wcześniej dwa razy, w 5,29 i 5,30, i za każdym razem chodzi tam o całe ciało wrzucone do Gehenny. Ta sama fraza, która służyła ostrzeżeniu o zatracie, teraz nazywa to, co ma być prześwietlone — a różnica zależy od jednego organu, który w 5,29 kazano wyłupić, jeśli staje się powodem upadku. Przymiotnik φωτεινός pada dwa razy: tutaj i w 17,5, gdzie obłok na górze przemienienia jest świetlisty. Poza tym jednym wierszem Mateusz używa go wyłącznie o człowieku. Czas przyszły ἔσται nie jest obietnicą eschatologiczną, lecz następstwem logicznym warunku: tak będzie, jeśli tak jest."
+      ],
+      [
+       "ἐὰν δὲ ὁ ὀφθαλμός σου πονηρὸς ᾖ",
+       "jeśli zaś oko twoje byłoby złe",
+       "Złe oko jest idiomem semickim i nie dotyczy wzroku. W Pwt 15,9 ostrzeżenie dotyczy tego, by oko nie stało się złe wobec ubogiego brata, któremu należy pożyczyć; Prz 23,6 i 28,22 mówią o człowieku złego oka, czyli skąpcu; Syr 14,8–10 opisuje go szerzej, a Tb 4,7 zakazuje, by oko było zazdrosne przy dawaniu jałmużny. Rozstrzygające jest jednak miejsce u samego Mateusza: w 20,15 gospodarz winnicy pyta robotnika — czy oko twoje jest złe, że ja jestem dobry? — a tam nie ma już wątpliwości, że chodzi o zawiść wobec cudzej zapłaty. Oko złe jest więc okiem liczącym, co komu przypadło. Szyk wyrazów w obu członach warunku jest w rękopisach ruchomy (L, Θ i większość bizantyjska przestawiają go w w. 22, pierwotny Sinaiticus w w. 23), co świadczy, że skrybowie wyczuwali symetrię i próbowali ją domknąć."
+      ],
+      [
+       "εἰ οὖν τὸ φῶς τὸ ἐν σοὶ σκότος ἐστίν",
+       "Jeśli więc światło, które w tobie, jest ciemnością",
+       "Trzecie zdanie warunkowe porzuca oko i mówi o świetle, które jest w tobie, czyli przenosi wywód z organu na to, czemu organ służy. Konstrukcja z εἰ i orzekającym ἐστίν zakłada przy tym, że przypadek jest rzeczywisty, nie teoretyczny. Czytelnik Kazania słyszał już o sobie, że jest światłem świata (5,14) i że jego światło ma świecić wobec ludzi (5,16); teraz to samo światło zostaje postawione pod pytaniem, czy nie jest ciemnością. Iz 5,20 wypowiada groźbę nad tymi, którzy ciemność nazywają światłem, i zdanie Mateusza idzie tą samą drogą, tylko bez formuły biada: nie nazywa pomyłki, lecz liczy jej koszt."
+      ],
+      [
+       "τὸ σκότος πόσον",
+       "ciemność jakaż",
+       "Ostatnie zdanie nie ma orzeczenia. Dwa wyrazy — rodzajnik z rzeczownikiem i zaimek pytajny πόσον — zostawiają nierozstrzygnięte, czy to pytanie, czy okrzyk, i wydawcy stawiają tu raz znak pytania, raz kropkę. Wulgata dopisuje czasownik (ipsæ tenebræ quantæ erunt?) i rozstrzyga za autora na rzecz pytania w czasie przyszłym. Zaimek πόσος wraca u Mateusza w argumentach od mniejszego do większego: πόσῳ μᾶλλον przy darach Ojca (7,11), przy domownikach Belzebuba (10,25), przy człowieku wobec owcy (12,12). Tutaj ta sama miara pracuje w odwrotną stronę: nie o ile więcej dobra, lecz o ile więcej mroku. Składnia urwana oddaje to lepiej niż jakiekolwiek dopowiedzenie."
+      ]
+     ]
+    },
+    {
+     "cs": 6,
+     "vs": 24,
+     "ce": 6,
+     "ve": 24,
+     "label": "w. 24",
+     "greek": "Οὐδεὶς δύναται δυσὶ κυρίοις δουλεύειν· ἢ γὰρ τὸν ἕνα μισήσει καὶ τὸν ἕτερον ἀγαπήσει, ἢ ἑνὸς ἀνθέξεται καὶ τοῦ ἑτέρου καταφρονήσει. οὐ δύνασθε θεῷ δουλεύειν καὶ μαμωνᾷ.",
+     "transl": "Nikt nie może dwóm panom być niewolnikiem: albo bowiem jednego znienawidzi, a drugiego pokocha, albo jednego będzie się trzymał, a drugim wzgardzi. Nie możecie Bogu być niewolnikami i mamonie.",
+     "units": [
+      [
+       "Οὐδεὶς δύναται δυσὶ κυρίοις δουλεύειν",
+       "Nikt nie może dwóm panom być niewolnikiem",
+       "Czasownik δουλεύω znaczy być niewolnikiem, a nie usługiwać; rdzeń jest ten sam co δοῦλος i zakłada własność, nie zatrudnienie. U Mateusza pada dwa razy, oba razy w tym wierszu, i stoi w ten sposób obok jednorazowego λατρεύω z 4,10, gdzie w cytacie z Powtórzonego Prawa odrzucenie szatana brzmi: jemu samemu służyć będziesz. Twierdzenie nie jest przy tym oczywistością prawną. Prawo rzymskie znało servus communis (niewolnika wspólnego), a papirusy poświadczają współwłasność ludzi tak samo jak współwłasność gruntu; niewolnik dwóch panów był postacią realną, nie absurdem. Zdanie mówi więc nie o niemożliwości administracyjnej, lecz o tym, że samo δουλεύειν jest ze swojej natury oddaniem całości — i że tam, gdzie oddaje się całość, nie zostaje nic na drugi raz. Rzeczownik κύριος pada u Mateusza osiemdziesiąt razy, przeważnie o Bogu i o Jezusie; celownik liczby mnogiej κυρίοις ma tylko tutaj."
+      ],
+      [
+       "ἢ γὰρ τὸν ἕνα μισήσει καὶ τὸν ἕτερον ἀγαπήσει",
+       "albo bowiem jednego znienawidzi, a drugiego pokocha",
+       "Nienawiść i miłość są tu parą semicką oznaczającą odrzucenie i wybór, nie dwa stany uczuciowe. Tak czyta się Rdz 29,30–31 o Lei i Racheli, Pwt 21,15–17 o dwóch żonach, z których jedna jest kochana, a druga znienawidzona, i prawo pierworodztwa tę parę reguluje, oraz Ml 1,2–3 o Jakubie i Ezawie. Dwa czasowniki w czasie przyszłym mają sens gnomiczny: opisują regułę, nie zapowiadają zdarzenia. Zaimek ἕτερος, drugi z dwóch, trzyma wywód w ramach pary — gdyby stało ἄλλος, panów mogłoby być więcej. Oba czasowniki przyszły zresztą z wcześniejszej części Kazania: ἀγαπήσεις i μισήσεις stanęły razem w przytoczeniu z 5,43, a nakaz miłości nieprzyjaciół z 5,44 kazał tę parę rozerwać. Teraz ta sama para wraca jako opis tego, czego rozerwać nie można."
+      ],
+      [
+       "ἢ ἑνὸς ἀνθέξεται καὶ τοῦ ἑτέρου καταφρονήσει",
+       "albo jednego będzie się trzymał, a drugim wzgardzi",
+       "Drugi człon nie powtarza pierwszego innymi słowami. Czasownik ἀντέχομαι w stronie medialnej z dopełniaczem znaczy uchwycić się czegoś i trzymać, i jest u Mateusza jednorazowy; καταφρονέω znaczy mieć za nic, nie zauważać wagi, i pada u niego jeszcze raz w 18,10, w zakazie lekceważenia jednego z tych małych. Pierwsza para mówiła o skłonności — kogo się nienawidzi, kogo kocha. Druga mówi o postępowaniu: za czym się chwyta ręka i czego się nie bierze pod uwagę. Zdanie przechodzi więc od wnętrza do praktyki, a wniosek w następnym członie dotyczy już samego aktu służby."
+      ],
+      [
+       "οὐ δύνασθε θεῷ δουλεύειν καὶ μαμωνᾷ",
+       "Nie możecie Bogu być niewolnikami i mamonie",
+       "Wniosek zmienia liczbę na mnogą (δύνασθε) i stawia dwa celowniki w jednym szeregu: θεῷ i μαμωνᾷ, gramatycznie równorzędne. Μαμωνᾶς jest jedynym wyrazem aramejskim, którego Mateusz w Kazaniu nie przetłumaczył — zachował go tak, jak w 27,46 zachowa słowa z krzyża, i inaczej niż w 1,23, gdzie imię Emmanuel objaśnia. Pod greckim zapisem stoi מָמוֹן, własność, zapas, to, co się posiada; wyraz jest poświadczony w hebrajskim Syrachu, w targumach i w literaturze rabinicznej, gdzie zwykle znaczy po prostu majątek, bez odcienia nagannego. Etymologia wiążąca go z rdzeniem אמן (być pewnym, wierzyć), a więc z tym, czemu się zaufało, jest ludowa i nie wytrzymuje krytyki, ale dobrze opisuje, co z wyrazem robi ten wiersz: majątek zostaje tu nazwany panem, a przez to postawiony w miejscu, w którym szatan z 4,9 chciał postawić siebie. Augustyn notuje, że mammona znaczy po punijsku zysk, Hieronim — że po syryjsku bogactwo; oba świadectwa są wczesne i oba wymagają sprawdzenia przy źródłach."
+      ]
+     ]
+    },
+    {
+     "cs": 6,
+     "vs": 25,
+     "ce": 6,
+     "ve": 27,
+     "label": "w. 25–27",
+     "greek": "Διὰ τοῦτο λέγω ὑμῖν· μὴ μεριμνᾶτε τῇ ψυχῇ ὑμῶν τί φάγητε [ἢ τί πίητε], μηδὲ τῷ σώματι ὑμῶν τί ἐνδύσησθε. οὐχὶ ἡ ψυχὴ πλεῖόν ἐστιν τῆς τροφῆς καὶ τὸ σῶμα τοῦ ἐνδύματος; ἐμβλέψατε εἰς τὰ πετεινὰ τοῦ οὐρανοῦ ὅτι οὐ σπείρουσιν οὐδὲ θερίζουσιν οὐδὲ συνάγουσιν εἰς ἀποθήκας, καὶ ὁ πατὴρ ὑμῶν ὁ οὐράνιος τρέφει αὐτά· οὐχ ὑμεῖς μᾶλλον διαφέρετε αὐτῶν; τίς δὲ ἐξ ὑμῶν μεριμνῶν δύναται προσθεῖναι ἐπὶ τὴν ἡλικίαν αὐτοῦ πῆχυν ἕνα;",
+     "transl": "Dla tego mówię wam: nie martwcie się o życie wasze, co zjecie [albo co wypijecie], ani o ciało wasze, co na siebie wdziejecie. Czyż życie nie jest czymś więcej niż pokarm, a ciało niż odzienie? Wpatrzcie się w ptaki nieba, że nie sieją ani nie żną, ani nie zbierają do spichlerzy — a Ojciec wasz niebieski karmi je. Czyż wy nie jesteście warci więcej niż one? Kto zaś z was, martwiąc się, może dołożyć do swojego wzrostu jeden łokieć?",
+     "units": [
+      [
+       "Διὰ τοῦτο λέγω ὑμῖν",
+       "Dla tego mówię wam",
+       "Zwrot jest wnioskiem i wskazuje wstecz na zdanie o dwóch panach, nie na zdanie o skarbie. Troska zostaje więc wyprowadzona z niemożliwości podwójnej służby i otrzymuje przez to miano, którego sama by sobie nie dała: jest tym, czym służba mamonie jest u człowieka, który mamony nie ma. Bogaty gromadzi, ubogi się martwi, a wiersz dwudziesty piąty mówi, że to jedno i to samo poddaństwo. Formuła λέγω ὑμῖν pada u Mateusza dziesiątki razy i prawie zawsze wprowadza wypowiedź o własnej powadze mówiącego; διὰ τοῦτο wróci w 21,43, gdy królestwo zostanie odebrane. Bez tego spójnika druga połowa perykopy byłaby osobnym pouczeniem o ufności; z nim jest dalszym krokiem jednego dowodu."
+      ],
+      [
+       "μὴ μεριμνᾶτε τῇ ψυχῇ ὑμῶν",
+       "nie martwcie się o życie wasze",
+       "Czasownik μεριμνάω pada u Mateusza siedem razy: sześć w tej perykopie i raz w 10,19, gdzie uczniowie wydani sądom nie mają się martwić, jak i co mówić. Poza troską o jedzenie Mateusz zna więc tylko jedną troskę — tę przed trybunałem, i tam również odpowiedzią jest dar, który przyjdzie w owej godzinie. Rdzeń wiąże się z μερίζω (dzielić) i z μέρος (część), co odpowiada temu, co wiersz dwudziesty czwarty orzekł o niepodzielności: troska jest rozdzieleniem. Celownik τῇ ψυχῇ nie jest dopełnieniem bliskim, lecz wskazaniem, czego troska dotyczy. Sama ψυχή znaczy tu życie jako to, co trzeba karmić, a nie duszę nieśmiertelną — tak samo jak w 2,20, gdzie szukano życia dziecka, i w 20,28, gdzie Syn Człowieczy daje swoje jako okup. Tryb rozkazujący czasu teraźniejszego zakazuje stanu trwającego, podobnie jak w wierszu dziewiętnastym; w wierszach trzydziestym pierwszym i trzydziestym czwartym Mateusz przejdzie na aoryst."
+      ],
+      [
+       "οὐχὶ ἡ ψυχὴ πλεῖόν ἐστιν τῆς τροφῆς",
+       "Czyż życie nie jest czymś więcej niż pokarm",
+       "Wzmocnione οὐχί zakłada odpowiedź twierdzącą i wprowadza pierwszy z czterech argumentów od mniejszego do większego. Stopień wyższy πλεῖον rządzi dopełniaczem porównania. Zdanie ustawia dwie pary — życie i pokarm, ciało i odzienie — a te dwie pary wyznaczają porządek całej dalszej mowy: najpierw jedzenie (w. 26–27), potem ubranie (w. 28–30). Właśnie dlatego dodatek ἢ τί πίητε (albo co wypijecie), który część świadków wnosi do wiersza dwudziestego piątego, jest podejrzany: picie nie ma w tej parze swojego odpowiednika i rozsadza symetrię, którą zdanie samo zakłada. Trzy pytania wiersza trzydziestego pierwszego, gdzie picie stoi obok jedzenia i odzienia, podają gotowe źródło takiego uzupełnienia."
+      ],
+      [
+       "ἐμβλέψατε εἰς τὰ πετεινὰ τοῦ οὐρανοῦ",
+       "Wpatrzcie się w ptaki nieba",
+       "Czasownik ἐμβλέπω ma u Mateusza dwa miejsca: to i 19,26, gdzie Jezus wpatruje się w uczniów przed zdaniem, że u Boga wszystko jest możliwe. Oba miejsca dotyczą majątku i oba każą patrzeć, zamiast rachować. Aoryst trybu rozkazującego wzywa do jednego spojrzenia, nie do stałej obserwacji. Wyrażenie τὰ πετεινὰ τοῦ οὐρανοῦ jest zwrotem Septuaginty, znanym z opowieści o stworzeniu (Rdz 1,26.30) i z Psalmu ósmego — Mateusz posługuje się językiem, w którym ptak jest częścią porządku poddanego człowiekowi, i to zaplecze jest potrzebne do wniosku w następnym zdaniu. Łukasz w miejscu paralelnym (12,24) ma kruki, ptaka nieczystego z listy Kpł 11,15; Mateusz wybiera formułę ogólną, niewprowadzającą sporu o czystość. W 8,20 ptaki będą miały gniazda, a Syn Człowieczy nie będzie miał gdzie złożyć głowy."
+      ],
+      [
+       "οὐ σπείρουσιν οὐδὲ θερίζουσιν οὐδὲ συνάγουσιν εἰς ἀποθήκας",
+       "nie sieją ani nie żną, ani nie zbierają do spichlerzy",
+       "Trzy czasowniki obejmują cały rok rolniczy: zasiew, żniwo i zsyp. Ptaki nie są przy tym bezczynne — żerują, i zdanie tego nie przeczy; brak dotyczy wyłącznie zapasu, czyli tego, co wiersz dziewiętnasty nazwał gromadzeniem. Rzeczownik ἀποθήκη pada u Mateusza trzy razy i dwa pozostałe miejsca są eschatologiczne: w 3,12 Chrzciciel zapowiada, że mocniejszy zbierze swoją pszenicę do spichlerza, a w 13,30 tak samo kończy się przypowieść o chwaście. Spichlerz jest więc u Mateusza obrazem końcowego zebrania i tutaj jedyny raz stoi w ludzkich rękach jako to, czego ptaki nie mają. Czasownik συνάγω, którym Mateusz opisuje także zbieranie się rad i tłumów, wiąże ten wiersz z 3,12 tym samym rdzeniem."
+      ],
+      [
+       "ὁ πατὴρ ὑμῶν ὁ οὐράνιος τρέφει αὐτά",
+       "a Ojciec wasz niebieski karmi je",
+       "Mateusz ma dwa sposoby umiejscowienia Ojca: ὁ ἐν τοῖς οὐρανοῖς (ten w niebiosach) trzynaście razy i przymiotnik οὐράνιος (niebieski) siedem razy. W tej perykopie stoi dwa razy sam przymiotnik (6,26.32), a formuła z niebiosami nie pojawia się ani raz — w przeciwieństwie do poprzedniej perykopy, gdzie Ojciec występował dziesięć razy i był umiejscowiony także w ukryciu. Karmienie wraca u Mateusza jeszcze raz, w 25,37, gdzie sprawiedliwi pytają, kiedy nakarmili Pana — i to są dwa jedyne wystąpienia czasownika τρέφω. Karmienie jest więc najpierw czynnością Ojca wobec ptaków, a na końcu Ewangelii czynnością ludzi wobec Syna Człowieczego. Zaplecze starotestamentalne jest dobrze poświadczone: Ps 147,9 o pokarmie dla kruczych piskląt, Hi 38,41 o tym samym, Ps 104,27–28 o wszystkim, co czeka na pokarm w swoim czasie."
+      ],
+      [
+       "οὐχ ὑμεῖς μᾶλλον διαφέρετε αὐτῶν",
+       "Czyż wy nie jesteście warci więcej niż one",
+       "Zaimek ὑμεῖς jest wyrażony, choć forma czasownika go nie wymaga, i przez to nacisk pada na porównanie osób. Czasownik διαφέρω pada u Mateusza trzy razy i wszystkie trzy wystąpienia należą do argumentów tego samego typu: człowiek wobec ptaków tutaj, uczniowie wobec wielu wróbli w 10,31, człowiek wobec owcy w 12,12. Dwa z tych trzech miejsc mają przy tym to samo zastosowanie — oddalenie lęku (10,31: nie bójcie się) i oddalenie troski (tutaj) — a trzecie rozstrzyga spór o szabat. Argument zakłada hierarchię stworzeń, nie czułość wobec przyrody: skoro mniejsze jest karmione, większe nie zostanie pominięte. Z samego porównania nie wynika przy tym, że człowiek nie ma siać ani żąć; wynika, że karmienie nie jest jego dziełem."
+      ],
+      [
+       "προσθεῖναι ἐπὶ τὴν ἡλικίαν αὐτοῦ πῆχυν ἕνα",
+       "dołożyć do swojego wzrostu jeden łokieć",
+       "Czasownik προστίθημι pada u Mateusza dwa razy i oba razy w tej perykopie: tutaj w bezokoliczniku o tym, czego człowiek nie może dodać, a w wierszu trzydziestym trzecim w stronie biernej o tym, co zostanie dodane jemu. Ta para jest osią całości. Rzeczownik ἡλικία znaczy zarówno wzrost ciała, jak i wiek życia, a πῆχυς jest miarą długości — około czterdziestu pięciu centymetrów — więc miara przemawia za wzrostem; łokieć doczepiony dorosłemu człowiekowi jest wielkością niedorzeczną i na tej niedorzeczności zdanie stoi. Oba wyrazy są u Mateusza jednorazowe. Imiesłów μεριμνῶν ma tu wartość przyzwolenia: choćby się i martwił. Wulgata tłumaczy go przez cogitans (myśląc), a trzy wiersze dalej ten sam grecki czasownik oddaje przez solliciti esse — rozchwianie, które utrudnia łacińskiemu czytelnikowi zobaczenie, że chodzi za każdym razem o jedno słowo."
+      ]
+     ]
+    },
+    {
+     "cs": 6,
+     "vs": 28,
+     "ce": 6,
+     "ve": 30,
+     "label": "w. 28–30",
+     "greek": "καὶ περὶ ἐνδύματος τί μεριμνᾶτε; καταμάθετε τὰ κρίνα τοῦ ἀγροῦ πῶς αὐξάνουσιν· οὐ κοπιῶσιν οὐδὲ νήθουσιν· λέγω δὲ ὑμῖν ὅτι οὐδὲ Σολομὼν ἐν πάσῃ τῇ δόξῃ αὐτοῦ περιεβάλετο ὡς ἓν τούτων. εἰ δὲ τὸν χόρτον τοῦ ἀγροῦ σήμερον ὄντα καὶ αὔριον εἰς κλίβανον βαλλόμενον ὁ θεὸς οὕτως ἀμφιέννυσιν, οὐ πολλῷ μᾶλλον ὑμᾶς, ὀλιγόπιστοι;",
+     "transl": "A o odzienie dlaczego się martwicie? Przyjrzyjcie się dokładnie liliom pola, jak wzrastają: nie trudzą się ani nie przędą. Mówię zaś wam, że i Salomon w całej chwale swojej nie odział się jak jedna z nich. Jeśli zaś trawę pola, dziś będącą, a jutro w piec wrzucaną, Bóg tak przyodziewa, czy nie o wiele bardziej was, małej wiary?",
+     "units": [
+      [
+       "καταμάθετε τὰ κρίνα τοῦ ἀγροῦ",
+       "Przyjrzyjcie się dokładnie liliom pola",
+       "Czasownik καταμανθάνω jest u Mateusza jednorazowy i jest wzmocnionym μανθάνω (uczyć się) — nie oglądnięciem, lecz wyuczeniem się czegoś z przedmiotu. Sam μανθάνω pada trzy razy, a najważniejsze jego miejsce to 11,29: uczcie się ode mnie, bo jestem cichy. Lilie są więc postawione w roli nauczyciela w tym samym znaczeniu, w jakim później stanie w niej Jezus. Łukasz w miejscu paralelnym ma κατανοήσατε (zważcie), czasownik rozważania, nie uczenia się. Rzeczownik κρίνον jest u Mateusza jednorazowy i nie da się go z pewnością przypisać gatunkowi botanicznemu: nazwa obejmowała w grece różne kwiaty okazałe, a w galilejskim krajobrazie wiosennym pierwszym kandydatem jest anemon koronowy o czerwonym kielichu, obok lilii białej i tulipana polnego. Dopełniacz τοῦ ἀγροῦ (pola) powtórzy się w wierszu trzydziestym przy trawie i wiąże oba zdania jednym miejscem: wszystko to rośnie na nieuprawianym gruncie."
+      ],
+      [
+       "οὐ κοπιῶσιν οὐδὲ νήθουσιν",
+       "nie trudzą się ani nie przędą",
+       "Dwa czasowniki odpowiadają dwóm czasownikom z poprzedniego obrazu: tam zasiew i żniwo, tutaj trud i przędzenie. Κοπιάω znaczy pracować do zmęczenia i pada u Mateusza jeszcze raz w 11,28, w wezwaniu do utrudzonych; νήθω, prząść, jest jednorazowe i wskazuje pracę kobiet, poświadczoną w Prz 31,19 i przez przęśliki znajdowane w każdym domostwie z tej epoki. Pierwszy czasownik obejmuje więc pracę mężczyzny, drugi pracę kobiety, a razem obejmują cały proces wytworzenia odzieży. Liczba mnoga orzeczeń przy rzeczowniku nijakim w liczbie mnogiej (κρίνα … αὐξάνουσιν) jest w grece klasycznej nieregularna, bo podmiot nijaki mnogi brał tam orzeczenie pojedyncze; dlatego część rękopisów konsekwentnie przechodzi na liczbę pojedynczą, a aparat notuje przy tym wierszu kilka różnych rozwiązań — w tym jedno, które przynosi dodatkowy czasownik o gręplowaniu wełny."
+      ],
+      [
+       "οὐδὲ Σολομὼν ἐν πάσῃ τῇ δόξῃ αὐτοῦ",
+       "i Salomon w całej chwale swojej",
+       "Imię Salomona pada u Mateusza pięć razy: dwa w rodowodzie (1,6.7), raz tutaj i dwa w 12,42, gdzie królowa z południa przybywa słuchać jego mądrości, a kończy się to zdaniem, że tu jest coś więcej niż Salomon. W tej Ewangelii Salomon pojawia się zatem najpierw jako ogniwo genealogii, potem jako miara przewyższona dwukrotnie: raz w ubraniu przez kwiat, raz w mądrości przez Jezusa. Zwrot ἐν πάσῃ τῇ δόξῃ αὐτοῦ ma u Mateusza bliskiego sąsiada w 4,8, gdzie diabeł pokazuje πάσας τὰς βασιλείας τοῦ κόσμου καὶ τὴν δόξαν αὐτῶν (wszystkie królestwa świata i ich chwałę). Ten sam rzeczownik, ten sam zaimek dzierżawczy, ta sama miara całości — i w obu miejscach chodzi o splendor, który ktoś pokazuje albo nosi. Dalej w Ewangelii δόξα należeć będzie już wyłącznie do Syna Człowieczego i do Ojca (16,27; 19,28; 24,30; 25,31). Realia strojów królewskich opisuje 1 Krl 10, w relacji o przepychu dworu, który odebrał dech królowej Saby."
+      ],
+      [
+       "περιεβάλετο ὡς ἓν τούτων",
+       "nie odział się jak jedna z nich",
+       "Czasownik περιβάλλω stoi w aoryście medialnym, czyli opisuje czynność dokonaną na sobie: Salomon się odział. U Mateusza pada pięć razy. Dwa wystąpienia są w tej perykopie (6,29 i 6,31), trzy pozostałe w scenie sądu ostatecznego, gdzie stanowią jedno z sześciu dzieł miłosierdzia: byłem nagi, a przyodzialiście mnie (25,36.38.43). Ten sam czasownik służy więc najpierw do oddalenia troski o własne odzienie, a na końcu Ewangelii do pytania o odzienie cudze. Zwrot ὡς ἓν τούτων (jak jedna z nich) porównuje króla z jednym kwiatem, nie z łąką, i na tej pojedynczości trzyma się cały argument — przegrywa nie z obfitością, ale z jednym egzemplarzem."
+      ],
+      [
+       "τὸν χόρτον τοῦ ἀγροῦ σήμερον ὄντα καὶ αὔριον εἰς κλίβανον βαλλόμενον",
+       "trawę pola, dziś będącą, a jutro w piec wrzucaną",
+       "Zdanie przemianowuje lilie: to, co trzy wiersze wyżej było kwiatem przewyższającym króla, teraz nazywa się trawą i idzie na opał. Rzeczownik χόρτος pada u Mateusza trzy razy (tu, 13,26 o zbożu, 14,19 o trawie, na której siedzi tłum), a κλίβανος — gliniany piec kopułkowy, rozgrzewany od wewnątrz — jest jednorazowy. Realia są zwyczajne: w kraju bezleśnym opałem były suche chwasty, ciernie i łodygi, więc wiosenna roślina pola kończyła w piecu w ciągu kilku dni. Para σήμερον–αὔριον pojawia się tu pierwszy raz i rozstrzyga o całym zakończeniu perykopy: przysłówek αὔριον pada u Mateusza trzy razy, tutaj i dwa razy w wierszu trzydziestym czwartym. Σήμερον ma za sobą czwartą prośbę Modlitwy Pańskiej, gdzie o chleb proszono na dziś (6,11). Imiesłów bierny βαλλόμενον w czasie teraźniejszym opisuje czynność powtarzalną, a nie jedno zdarzenie."
+      ],
+      [
+       "ὁ θεὸς οὕτως ἀμφιέννυσιν",
+       "Bóg tak przyodziewa",
+       "Podmiotem jest tutaj ὁ θεός, nie Ojciec — jedyne miejsce w tej perykopie, gdzie Mateusz używa rzeczownika Bóg w zdaniu o opatrzności, i jedno z nielicznych w całym Kazaniu. Przy ptakach karmił Ojciec wasz niebieski; przy trawie przyodziewa Bóg, i różnica jest celowa: ptaki należą do słuchaczy przez porównanie, trawa nie należy do nikogo. Czasownik ἀμφιέννυμι wraca w tej Ewangelii tylko raz, w 11,8, gdzie mowa o człowieku odzianym w miękkie szaty, który mieszka w domach królewskich. Dwa jedyne jego wystąpienia dotyczą więc stroju: raz trawy, raz dworzanina, i oba stoją w kontekście pytania, czego się szuka."
+      ],
+      [
+       "οὐ πολλῷ μᾶλλον ὑμᾶς, ὀλιγόπιστοι",
+       "czy nie o wiele bardziej was, małej wiary",
+       "Wołacz ὀλιγόπιστοι jest jedynym miejscem w Kazaniu, w którym Jezus nazywa słuchaczy wprost przez to, czego im brakuje. Przymiotnik pada u Mateusza cztery razy: tutaj, w 8,26 podczas burzy na jeziorze, w 14,31 do Piotra zapadającego się w wodę i w 16,8 przy nieporozumieniu o chlebach; rzeczownik ὀλιγοπιστία stoi raz, w 17,20, i tam aparat waha się między nim a niewiarą. Z trzech późniejszych wystąpień dwa są na wodzie, a jedno przy chlebie — czyli tam, gdzie chodzi o utrzymanie się i o wyżywienie. Kazanie wypowiada to słowo, zanim którakolwiek z tych scen się zdarzy. Poza Mateuszem przymiotnik ma w Nowym Testamencie jedno wystąpienie, w paralelnym miejscu u Łukasza (12,28), więc jest praktycznie Mateuszowy. Zwrot πολλῷ μᾶλλον z celownikiem miary zamyka trzeci argument od mniejszego do większego w tej perykopie."
+      ]
+     ]
+    },
+    {
+     "cs": 6,
+     "vs": 31,
+     "ce": 6,
+     "ve": 32,
+     "label": "w. 31–32",
+     "greek": "μὴ οὖν μεριμνήσητε λέγοντες· τί φάγωμεν; ἤ· τί πίωμεν; ἤ· τί περιβαλώμεθα; πάντα γὰρ ταῦτα τὰ ἔθνη ἐπιζητοῦσιν· οἶδεν γὰρ ὁ πατὴρ ὑμῶν ὁ οὐράνιος ὅτι χρῄζετε τούτων ἁπάντων.",
+     "transl": "Nie martwcie się więc, mówiąc: co zjemy? albo: co wypijemy? albo: czym się odziejemy? Tego wszystkiego bowiem poszukują narody; wie bowiem Ojciec wasz niebieski, że potrzebujecie tego wszystkiego.",
+     "units": [
+      [
+       "μὴ οὖν μεριμνήσητε λέγοντες",
+       "Nie martwcie się więc, mówiąc",
+       "Zakaz wraca po raz trzeci, ale pierwszy raz w aoryście trybu łączącego (μὴ μεριμνήσητε), a nie w czasie teraźniejszym trybu rozkazującego. Zmiana nie jest ozdobą: aoryst zakazuje podjęcia czynności, teraźniejszy — jej kontynuowania, więc wiersz dwudziesty piąty mówił — przestańcie się martwić, a ten mówi — nie zaczynajcie. Imiesłów λέγοντες dodaje to, czego w poprzednich zakazach nie było: troska zostaje tu ujęta jako mowa, jako zdanie, które człowiek wypowiada. Pytania w następnym członie są jej przytoczeniem. Spójnik οὖν opiera wniosek na argumencie o trawie, a powtórzy się jeszcze w wierszu trzydziestym czwartym, przy ostatnim zakazie."
+      ],
+      [
+       "τί φάγωμεν; ἤ· τί πίωμεν; ἤ· τί περιβαλώμεθα;",
+       "co zjemy? albo: co wypijemy? albo: czym się odziejemy?",
+       "Trzy pytania w pierwszej osobie liczby mnogiej stoją w trybie łączącym deliberatywnym, używanym wtedy, gdy pytający naprawdę nie wie, co zrobić. Dwa pierwsze czasowniki powracają z wiersza dwudziestego piątego, trzeci jest nowy: tam stało ἐνδύσησθε (wdziejecie), tutaj περιβαλώμεθα (odziejemy się), czyli ten sam czasownik, którym odział się Salomon. Trójka jedzenie–picie–odzienie jest przy tym pełniejsza niż para z wiersza dwudziestego piątego i właśnie dlatego część rękopisów uzupełniła o picie także tamten wiersz. Trzy pytania odpowiadają trzem rzeczom wyliczonym w wierszu trzydziestym drugim jako tym, czego szukają narody i o których wie Ojciec."
+      ],
+      [
+       "πάντα γὰρ ταῦτα τὰ ἔθνη ἐπιζητοῦσιν",
+       "Tego wszystkiego bowiem poszukują narody",
+       "Narody wracają w Kazaniu po raz trzeci: w 5,47 witający tylko braci postępują jak poganie, w 6,7 wielomówni w modlitwie są jak poganie, a tutaj poszukujący jedzenia i odzienia robią to, co robią narody. Dwa pierwsze miejsca mają ἐθνικοί, przymiotnik rzeczownikowy, ten ma ἔθνη, rzeczownik — Mateusz nie trzyma się jednej formy, a sam rzeczownik przyjmie w 28,19 znaczenie odwrotne: wszystkie narody staną się adresatem nakazu. Czasownik ἐπιζητέω, szukać uporczywie, pada u Mateusza trzy razy i dwa pozostałe wystąpienia są bliźniacze (12,39; 16,4): pokolenie złe i cudzołożne poszukuje znaku. Poszukiwanie jest więc u Mateusza czynnością dwóch grup — narodów szukających utrzymania i pokolenia szukającego znaku — a w wierszu następnym ten sam temat dostanie czasownik prostszy, ζητεῖτε. Część świadków stawia tu liczbę pojedynczą ἐπιζητεῖ, zgodnie z klasyczną zgodą orzeczenia z podmiotem nijakim mnogim."
+      ],
+      [
+       "οἶδεν γὰρ ὁ πατὴρ ὑμῶν ὁ οὐράνιος ὅτι χρῄζετε",
+       "wie bowiem Ojciec wasz niebieski, że potrzebujecie",
+       "Zdanie powtarza w tym samym rozdziale swoje własne otwarcie: w 6,8 stało οἶδεν γὰρ ὁ πατὴρ ὑμῶν ὧν χρείαν ἔχετε (wie bowiem Ojciec wasz, czego potrzebujecie), przed Modlitwą Pańską i jako uzasadnienie, że nie trzeba wielu słów. Tutaj to samo zdanie uzasadnia, że nie trzeba troski. Mateusz zmienia przy tym dwie rzeczy: dodaje przymiotnik οὐράνιος i zamienia omowę χρείαν ἔχειν na jednowyrazowy czasownik χρῄζω, u niego jednorazowy. Tak samo jednorazowe jest wzmocnione ἁπάντων w zakończeniu wiersza — tego wszystkiego razem. Wiedza Ojca pojawia się więc w tym rozdziale dwa razy i za każdym razem odbiera powód jakiejś czynności: raz wielomówności, raz zabiegania. Czego nie odbiera, powie dopiero wiersz następny."
+      ]
+     ]
+    },
+    {
+     "cs": 6,
+     "vs": 33,
+     "ce": 6,
+     "ve": 34,
+     "label": "w. 33–34",
+     "greek": "ζητεῖτε δὲ πρῶτον τὴν βασιλείαν [τοῦ θεοῦ] καὶ τὴν δικαιοσύνην αὐτοῦ, καὶ ταῦτα πάντα προστεθήσεται ὑμῖν. μὴ οὖν μεριμνήσητε εἰς τὴν αὔριον, ἡ γὰρ αὔριον μεριμνήσει ἑαυτῆς· ἀρκετὸν τῇ ἡμέρᾳ ἡ κακία αὐτῆς.",
+     "transl": "Szukajcie zaś najpierw królestwa [Bożego] i sprawiedliwości jego, a to wszystko będzie wam dodane. Nie martwcie się więc o jutro: jutro bowiem będzie się martwiło o siebie samo. Wystarczy dniowi zło jego.",
+     "units": [
+      [
+       "ζητεῖτε δὲ πρῶτον",
+       "Szukajcie zaś najpierw",
+       "Pierwszy nakaz twierdzący od czternastu wierszy. Czasownik ζητέω jest prostszą postacią tego, co w poprzednim wierszu robiły narody (ἐπιζητοῦσιν), i Mateusz odbiera im nie samo szukanie, lecz jego przedmiot i kolejność. Tryb rozkazujący czasu teraźniejszego nakazuje czynność trwałą. Przysłówek πρῶτον pada u Mateusza dziewięć razy i prawie zawsze porządkuje dwie rzeczy, z których żadnej nie odwołuje: najpierw pojednaj się z bratem, potem złóż dar (5,24); najpierw wyrzuć belkę, potem drzazgę (7,5); najpierw zwiąż mocarza, potem zrabuj dom (12,29). Również tutaj to, co stoi na drugim miejscu, nie znika — zostaje dodane. Ten sam czasownik w tym samym trybie wróci w 7,7 jako ζητεῖτε καὶ εὑρήσετε (szukajcie, a znajdziecie), już bez dopełnienia."
+      ],
+      [
+       "τὴν βασιλείαν [τοῦ θεοῦ]",
+       "królestwa [Bożego]",
+       "Dopełnienie stoi w nawiasie kwadratowym, bo dwa najstarsze świadectwa go nie mają: Sinaiticus czyta samo τὴν βασιλείαν καὶ τὴν δικαιοσύνην αὐτοῦ, kodeks Watykański odwraca szyk i daje sprawiedliwość przed królestwem, a Klemens Aleksandryjski ma u siebie Mateuszowe βασιλεία τῶν οὐρανῶν (królestwo niebios). Rzecz ma wagę, bo Mateusz mówi o królestwie niebios trzydzieści kilka razy, a o królestwie Boga tylko w czterech miejscach pewnych (12,28; 19,24; 21,31; 21,43) — i gdyby τοῦ θεοῦ stało tu pierwotnie, byłoby to jedyne takie wystąpienie w Kazaniu. Za lekcją dłuższą stoi jednak zaimek αὐτοῦ przy sprawiedliwości: bez wyrazu Bóg zaimek nie ma w zdaniu rzeczownika, do którego mógłby się odnieść, i właśnie to mogło skłonić skrybów do uzupełnienia. Wydawcy drukują nawias, bo oba rozumowania są odwracalne."
+      ],
+      [
+       "καὶ τὴν δικαιοσύνην αὐτοῦ",
+       "i sprawiedliwości jego",
+       "Rzeczownik δικαιοσύνη pada u Mateusza siedem razy, a w Kazaniu trzy: jako miara wejścia do królestwa (5,20), jako nazwa trzech uczynków (6,1) i tutaj, jako przedmiot szukania. Tutaj jednak, i tylko tutaj, ma przy sobie zaimek dzierżawczy odnoszący się do Boga — sprawiedliwość jego, a nie wasza. Różnica z 6,1, gdzie stało δικαιοσύνην ὑμῶν (sprawiedliwość waszą), jest dokładnie różnicą dwóch zaimków w jednym rozdziale. To miejsce jest też jedyną podstawą, na której można u Mateusza mówić o sprawiedliwości jako o czymś Bożym, co się otrzymuje, a nie tylko o postępowaniu, które się pełni; cała reszta jego użycia wskazuje na postępowanie. Rozstrzygnięcie zależy przy tym od wariantu z poprzedniej jednostki: jeśli τοῦ θεοῦ jest wtórne, αὐτοῦ może odnosić się także do królestwa."
+      ],
+      [
+       "καὶ ταῦτα πάντα προστεθήσεται ὑμῖν",
+       "a to wszystko będzie wam dodane",
+       "Strona bierna bez wskazania sprawcy jest u Mateusza zwyczajowym sposobem mówienia o działaniu Boga, a czasownik προστίθημι pada tu po raz drugi i ostatni, po bezokoliczniku z wiersza dwudziestego siódmego. Człowiek nie może dodać do swojego wzrostu łokcia; to wszystko zostaje mu dodane. Między tymi dwoma formami jednego czasownika mieści się cała teza perykopy, a celownik ὑμῖν domyka klamrę otwartą w wierszu dziewiętnastym przez θησαυρίζετε ὑμῖν (gromadźcie sobie). Zdanie ma przy tym jeszcze jedno echo: ταῦτά σοι πάντα δώσω (to wszystko tobie dam) powiedział diabeł na górze bardzo wysokiej (4,9), a odpowiedzią był wtedy nakaz służenia Bogu samemu. Te same trzy wyrazy — to wszystko dam, to wszystko będzie dodane — rozdzielają dwa źródła tego samego daru. Tę samą składnię ma już 1 Krl 3,13, gdzie Salomon prosi o rozsądek i dostaje w dodatku to, o co nie prosił."
+      ],
+      [
+       "μὴ οὖν μεριμνήσητε εἰς τὴν αὔριον",
+       "Nie martwcie się więc o jutro",
+       "Czwarty i ostatni zakaz troski, znów w aoryście, przynosi przedmiot, którego nie było w żadnym z poprzednich: nie jedzenie i nie odzienie, lecz czas. Przyimek εἰς z biernikiem wskazuje kierunek — na jutro, w stronę jutra. Przysłówek αὔριον, użyty tu jako rzeczownik z rodzajnikiem żeńskim (domyślne ἡμέρα), pada u Mateusza trzy razy i wszystkie trzy w tej perykopie: raz o trawie wrzucanej w piec, dwa razy tutaj. Całe zdanie nie ma paraleli u Łukasza i należy do dwóch zdań tej perykopy, których Mateusz nie dzieli z nikim."
+      ],
+      [
+       "ἡ γὰρ αὔριον μεριμνήσει ἑαυτῆς",
+       "jutro bowiem będzie się martwiło o siebie samo",
+       "Jutro zostaje tu podmiotem czasownika, który przez cały poprzedni wywód miał podmiot ludzki: dzień się martwi. Personifikacja jest jedyna w swoim rodzaju u Mateusza i brzmi przysłowiowo, co może wskazywać na obiegowe powiedzenie. Składnia dopełnienia jest w rękopisach najbardziej rozchwianym miejscem całej perykopy — świadkowie dają αὐτῆς, τὰ ἑαυτῆς, τὸ ἑαυτῆς i ἑαυτῇ — i rozchwianie to jest samo świadectwem trudności: pisarzom przeszkadzało, że dzień ma troskę o siebie. Czas przyszły μεριμνήσει dopełnia zestaw form tego czasownika w perykopie: tryb rozkazujący, tryb łączący, imiesłów i czas przyszły, czyli Mateusz odmienia go niemal przez wszystkie dostępne postacie."
+      ],
+      [
+       "ἀρκετὸν τῇ ἡμέρᾳ ἡ κακία αὐτῆς",
+       "Wystarczy dniowi zło jego",
+       "Zdanie nie ma orzeczenia — przymiotnik ἀρκετόν z celownikiem i podmiotem w mianowniku tworzy formułę zwięzłą do granic. Przymiotnik ἀρκετός ma w tej Ewangelii drugie i ostatnie miejsce w 10,25, gdzie wystarczy uczniowi, żeby był jak jego nauczyciel. Rzeczownik κακία jest jednorazowy i tu zaczyna się trudność: w grece znaczy przede wszystkim zło moralne, złośliwość, a dniowi takiego zła przypisać nie można. Hieronim tłumaczy go przez malitia i sam musi dodać objaśnienie, że mowa o utrapieniu, nie o przewinie; za takim rozumieniem stoi semicki zwyczaj, w którym רָעָה znaczy zarówno zło moralne, jak i nieszczęście, które kogoś spotyka. Zdanie mówi więc, że każdy dzień przynosi własną porcję kłopotu i że to wystarczy — co jest najbliższe trzeźwości Koheleta i stoi w tej perykopie na końcu, po obietnicy dodania wszystkiego. Dwa ostatnie zdania perykopy nie łagodzą obietnicy; umieszczają ją w dniu, który ma swoje kłopoty."
+      ]
+     ]
+    }
+   ],
+   "struktura": "Perykopa ma dwie części nierównej długości i jedno zdanie szwu. Część pierwsza (w. 19–24) składa się z trzech obrazów samodzielnych, każdy o innej budowie: dystych antytetyczny o skarbie z sentencją na końcu (w. 19–21), podwójne zdanie warunkowe o oku z urwanym okrzykiem (w. 22–23), zdanie o dwóch panach zbudowane z dwóch par czasowników i wniosku (w. 24). Trzy obrazy nie są ze sobą spięte żadnym spójnikiem logicznym — stoją obok siebie i dopiero czytelnik widzi, że mówią o jednym.\n\nSzwem jest διὰ τοῦτο λέγω ὑμῖν (w. 25). Część druga (w. 25–34) jest już jednym wywodem i ma budowę szkolną: teza z podziałem na dwa (życie i pokarm, ciało i odzienie, w. 25), dowód pierwszy o ptakach z wnioskiem a minori (w. 26), wtręt o łokciu (w. 27), dowód drugi o liliach z wnioskiem a minori i wołaczem (w. 28–30), powtórzenie zakazu w trzech pytaniach (w. 31), dwa uzasadnienia przez γάρ — narody szukają, Ojciec wie (w. 32) — nakaz twierdzący z obietnicą (w. 33) i koda o jutrze (w. 34). Kolejność dowodów idzie dokładnie za kolejnością tezy: najpierw jedzenie, potem odzienie.\n\nZakaz troski pada cztery razy i nie dwa razy tak samo. W w. 25 i 28 stoi czas teraźniejszy trybu rozkazującego (μὴ μεριμνᾶτε), czyli przestańcie; w w. 31 i 34 aoryst trybu łączącego (μὴ μεριμνήσητε), czyli nie zaczynajcie. Rozkład jest symetryczny: dwa zakazy czynności trwającej w części dowodowej, dwa zakazy czynności podjętej w części wnioskowej.\n\nArgument od mniejszego do większego wraca cztery razy i za każdym razem innym wyrażeniem: οὐχὶ … πλεῖον (w. 25), οὐχ … μᾶλλον διαφέρετε (w. 26), οὐ πολλῷ μᾶλλον (w. 30), a w części pierwszej jego odwrócenie — τὸ σκότος πόσον (w. 23). Trzy razy wniosek idzie od Bożej troski o rzeczy niższe do troski o człowieka; raz, w wierszu dwudziestym trzecim, od mniejszego mroku do większego.\n\nAdresat zmienia liczbę trzy razy. Wiersze 19–20 mówią w liczbie mnogiej, wiersze 21–23 w pojedynczej, od wiersza 24 do końca znów w mnogiej, z jednym wyjątkiem w wierszu dwudziestym siódmym (τίς ἐξ ὑμῶν … αὐτοῦ). Granica pierwszego przejścia przebiega przez sentencję o skarbie i sercu, która jest jedynym zdaniem perykopy mówiącym o człowieku w trzeciej osobie rzeczy: skarb jest, serce będzie.",
+   "sections": [
+    {
+     "type": "kontekst",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
+     "body": null,
+     "children": [
+      [
+       "Gdzie trzymano majątek, gdy nie było banku",
+       "Rzymskiej Palestyny nie obsługiwały banki depozytowe w dzisiejszym rozumieniu; świątynia jerozolimska przechowywała sumy publiczne i prywatne, a w miastach hellenistycznych działali trapezyci przyjmujący wkłady, ale drobny posiadacz galilejski nie miał do nich dostępu. Zapas trzymano więc w domu albo w ziemi, i to drugie rozwiązanie zakłada Mateuszowa przypowieść o skarbie ukrytym w polu (13,44), a także praktyka poświadczona archeologicznie w licznych skarbach monetarnych z tego obszaru, zakopywanych przed zagrożeniem i nieodzyskanych. Z Qumran pochodzi zwój miedziany (3Q15), spis miejsc, w których złożono kosztowności — dokument niezależnie od swojej wiarygodności świadczy o samym nawyku. Zakopanie i zamurowanie są przy tym dwiema stronami jednego problemu: majątek nieobracany musi gdzieś leżeć, a każde miejsce, w którym leży, jest dostępne komuś innemu."
+      ],
+      [
+       "Szata jako majątek i mól jako ryzyko",
+       "Mól stoi w tym wierszu na pierwszym miejscu, bo tkanina była jedną z głównych form bogactwa. Szata wełniana kosztowała wielokrotność dziennego zarobku, przechodziła w spadku, służyła za zastaw i za zabezpieczenie pożyczki — stąd przepis Wj 22,25–26 nakazujący zwrócić płaszcz przed nocą, i stąd zdanie z Kazania o oddaniu także płaszcza temu, kto zabiera suknię (5,40). Majątek przechowywany w szatach nie przynosił pożytku i psuł się sam. List Jakuba opisuje to samo zjawisko w tej samej parze obrazów: szaty zjedzone przez mole, złoto i srebro pokryte nalotem (Jk 5,2–3), a Iz 51,8 zapowiada przeciwnikom, że mól zje ich jak odzież. Ten zbiór obrazów był obiegowy i Mateusz nie wprowadza do niego nic nowego; nowe jest to, co z niego wyprowadza."
+      ],
+      [
+       "Dom z gliny i czasownik przekopywania",
+       "Przeciętny dom galilejski z pierwszego wieku miał kamienną podmurówkę i ściany z suszonej na słońcu cegły glinianej albo z kamienia łączonego gliną, dach z belek, mat i udeptanej ziemi. W takiej konstrukcji najsłabszym miejscem nie były drzwi, lecz ściana, i to tłumaczy czasownik διορύσσω — przekopać się na wylot. Wykopaliska w Kafarnaum pokazują ciasne zespoły izb wokół wspólnych dziedzińców, bez sieni i bez zamków w dzisiejszym sensie; zabezpieczeniem była obecność domowników, nie konstrukcja. Zdanie z 24,43 o gospodarzu, który nie wie, o której straży przychodzi złodziej, i o domu, który został przekopany, opisuje tę samą technikę włamania. Obraz jest więc całkowicie zwyczajny i dlatego nośny: skarb ukryty w ścianie leży za przegrodą grubości jednej cegły."
+      ],
+      [
+       "Złe oko: idiom, nie okulistyka",
+       "Hebrajskie עַיִן רָעָה (ajin ra'a, złe oko) i jego przeciwieństwo עַיִן טוֹבָה (ajin towa, dobre oko) są w literaturze żydowskiej określeniami skąpstwa i szczodrości. Miszna w traktacie Awot przeciwstawia te dwie postawy wprost, a księgi mądrościowe trzymają się tego samego języka: Prz 23,6 ostrzega przed stołem człowieka złego oka, Prz 28,22 nazywa go pośpiesznym do bogactwa, Syr 14,8–10 opisuje jego rachunek, Tb 4,7 zakazuje zazdrosnego oka przy jałmużnie, a Pwt 15,9 ostrzega, by oko nie stało się złe wobec ubogiego brata w roku darowania długów. Osobną sprawą jest wierzenie w złe oko jako w szkodliwe spojrzenie, obecne w całym basenie Morza Śródziemnego i poświadczone amuletami; wiersz dwudziesty trzeci nie ma z nim związku, bo mówi o oku własnym, nie o cudzym. Wiersz 20,15, w którym gospodarz pyta najemnika o jego złe oko wobec cudzej zapłaty, pokazuje, w którym z tych dwóch pól Mateusz się porusza."
+      ],
+      [
+       "Mamona: co znaczył ten wyraz, zanim znaczył bożka",
+       "Aramejskie מָמוֹן (mamon) i hebrajskie w tej samej postaci znaczą majątek, mienie, zasób pieniężny — bez odcienia nagannego. Wyraz stoi w hebrajskim tekście Syracha, w targumach jako odpowiednik kilku hebrajskich określeń bogactwa oraz w literaturze rabinicznej, gdzie typowo odróżnia sprawy majątkowe od spraw gardłowych w prawie sądowym. Etymologia jest niepewna: wywodzenie od rdzenia אמן (być pewnym), a więc od tego, czemu się zaufało, jest atrakcyjne i prawdopodobnie wtórne, bo wyrasta z chrześcijańskiej lektury tego właśnie wiersza. Nowe w Mt 6,24 nie jest zatem słowo, ale składnia: majątek dostaje celownik po czasowniku δουλεύειν, a więc zostaje wpisany w szereg, w którym stoi Bóg. Zakresy poświadczeń targumicznych i rabinicznych wymagają sprawdzenia w wydaniach."
+      ],
+      [
+       "Servus communis: dwaj panowie byli możliwi",
+       "Niewolnik należący do dwóch właścicieli jest w prawie rzymskim postacią znaną i opisaną: servus communis, własność wspólna, z regułami podziału pożytków i odpowiedzialności za szkodę. Papirusy egipskie poświadczają współwłasność ludzi w częściach ułamkowych, podobnie jak współwłasność gruntu czy domu. Zdanie — nikt nie może dwóm panom być niewolnikiem — nie jest więc stwierdzeniem faktu prawnego, lecz orzeczeniem o naturze samej służby, i słuchacz obeznany z realiami musiał to usłyszeć jako twierdzenie mocne. Łukasz w miejscu paralelnym (16,13) dodaje οἰκέτης, domownik, czyli niewolnik należący do gospodarstwa domowego, i ten właśnie wyraz wnoszą do Mateusza kodeks L, Δ i minuskuł 1241 — harmonizacja, która zawęża zdanie do niewolnika domowego i tym samym osłabia jego ogólność."
+      ],
+      [
+       "Gospodarka dnia: zarobek bez zapasu",
+       "Dzienna zapłata najemnika wynosiła denara (20,2), a wyrażenie — wystarczy dniowi — zakłada tę samą rachubę: człowiek pracujący na dniówkę jadł z tego, co zarobił dziś, i nie miał z czego odłożyć. Przypowieść o robotnikach ostatniej godziny pokazuje mechanizm: stali na rynku, bo nie mieli zapasu, który pozwoliłby przeczekać dzień bez pracy. W takim ustroju troska o jutro nie jest wadą charakteru, lecz skutkiem położenia, i mowa kierowana do słuchaczy z takiej warstwy ma inny ciężar niż ta sama mowa kierowana do posiadaczy. Perykopa mówi kolejno do jednych i do drugich: wiersze 19–24 zakładają, że jest co gromadzić, wiersze 25–34 — że nie ma."
+      ],
+      [
+       "Które to kwiaty i co szło do pieca",
+       "Greckie κρίνον nie jest nazwą gatunkową; obejmowało kwiaty okazałe o barwnym okwiecie. Na wiosennych nieuprawianych gruntach Galilei najliczniejszy jest anemon koronowy, czerwony i widoczny z odległości, a obok niego występują lilia biała i tulipan polny. Rozstrzygnięcie botaniczne nie zmienia argumentu, bo zdanie porównuje strój królewski z jednym kwiatem, nie z gatunkiem. Druga połowa obrazu dotyczy opału: w kraju pozbawionym lasów piec gliniany rozpalano suchymi chwastami, cierniami i łodygami, więc roślina kwitnąca w marcu mogła w kwietniu znaleźć się w palenisku. Piec κλίβανος był kopułką z gliny, nagrzewaną od wewnątrz; ciasto przylepiano do rozgrzanej ścianki. Przejście od kwiatu do opału trwa w tym obrazie jedną dobę i jest podane przysłówkami: dziś, jutro."
+      ],
+      [
+       "Salomon w chwale i co to znaczyło",
+       "Opis dworu Salomona w 1 Krl 10 wylicza złoto, kość słoniową, małpy i pawie, roczny dochód w talentach oraz tron ze stopniami — i kończy się zdaniem, że królowej z Saby zabrakło tchu. Do tego obrazu odwołuje się wiersz dwudziesty dziewiąty i on też jest w Ewangelii Mateusza punktem odniesienia dwa razy: w 6,29 przegrywa z kwiatem, w 12,42 z kimś większym od siebie. Strój królewski w tradycji żydowskiej pierwszego wieku był przy tym tematem drażliwym, bo Herodowie ubierali się po grecku i rzymsku, a Józef Flawiusz opisuje szaty królewskie Agryppy I jako przedmiot podziwu i zgorszenia zarazem. Kazanie nie wchodzi w tę polemikę; bierze Salomona jako najwyższą dostępną miarę przepychu i odmierza nią jeden kwiat polny."
+      ]
+     ]
+    },
+    {
+     "type": "teologia",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "body": "Zdanie o dwóch panach jest twierdzeniem o strukturze woli, nie zaleceniem moralnym, i właśnie dlatego da się je czytać metafizycznie. Tomasz dowodzi, że jedna wola nie może mieć zarazem dwóch celów ostatecznych, bo cel ostateczny jest tym, przez co wszystko inne jest chciane; dwa takie cele znosiłyby się jako cele. Perykopa zakłada to samo i wyprowadza z tego dwa wnioski praktyczne — o gromadzeniu i o trosce — a w zakończeniu dodaje trzeci, o porządku szukania. Cztery podsekcje poniżej idą tą drogą: od niemożliwości dwóch celów, przez miejsce bogactwa w porządku dóbr i przez naturę troski, do pytania o to, jak obietnica dodania mieści się w nauce o opatrzności.",
+     "children": [
+      [
+       "Dwa panowania i jeden cel ostateczny",
+       "Tomasz rozstrzyga, że niemożliwe jest, aby jedna wola miała jednocześnie dwa cele ostateczne, bo cel ostateczny domyka pragnienie i nie zostawia miejsca na drugi tak samo domykający (ST I–II, q. 1, a. 5). Wiersz dwudziesty czwarty orzeka to samo w języku własności: δουλεύειν jest oddaniem całości, a całość oddana raz nie jest już dostępna. Argument nie dotyczy ilości — nie mówi, że służby jest za mało na dwóch panów — lecz jej rodzaju. Z tego wynika rozstrzygnięcie o mamonie, które w tej perykopie jest rozstrzygnięciem formalnym: majątek jest nazwany panem nie dlatego, że ma w sobie coś z bóstwa, ale dlatego, że zajmuje miejsce, w którym stoi cel ostateczny. Bałwochwalstwo polega tu na strukturze aktu, nie na przedmiocie — i dokładnie w tym punkcie zdanie Mateusza spotyka się z pierwszym przykazaniem, które zakazuje nie tyle czczenia drewna, ile oddawania czegokolwiek stworzonego temu miejscu."
+      ],
+      [
+       "Bogactwo w porządku dóbr",
+       "Pytanie, czy szczęście polega na bogactwie, Tomasz rozstrzyga przez podział: bogactwa naturalne służą usunięciu braku i mają miarę w potrzebie, bogactwa sztuczne — pieniądz — miary w sobie nie mają, bo powstały dla wymiany (ST I–II, q. 2, a. 1). Dobro użyteczne nie może być celem, bo samo jest ku czemuś. Rozróżnienie to ma w perykopie dokładny odpowiednik leksykalny. Wiersz trzydziesty drugi mówi χρῄζετε — potrzebujecie, i czasownik ten wyznacza miarę, o której Tomasz mówi przy bogactwach naturalnych: potrzeba jest skończona, więc to, co ją zaspokaja, też daje się domknąć. Ten sam wiersz mówi natomiast o narodach, że ἐπιζητοῦσιν — poszukują uporczywie, a ten czasownik żadnej miary nie zakłada. Jedno zdanie zawiera zatem oba terminy tomistycznego podziału: miarę potrzeby i bezmiar pragnienia, które nie ma czym się domknąć."
+      ],
+      [
+       "Troska dozwolona i troska zakazana",
+       "Tomasz pyta wprost, czy wolno troszczyć się o rzeczy doczesne, i odpowiada rozróżnieniem: troska nieuporządkowana jest ta, która stawia doczesne jako cel, która odbiera zaufanie Bożej pomocy albo która wybiega w przyszłość ponad to, co dziś należy zrobić (ST II–II, q. 55, a. 6–7). Trzecie z tych rozróżnień jest komentarzem do wiersza trzydziestego czwartego i Tomasz cytuje go w tym artykule. Grecki czasownik potwierdza to rozróżnienie etymologicznie: μεριμνάω wiąże się z μερίζω (dzielić), więc troska jest rozdzieleniem — i staje przez to w jednym szeregu z niepodzielnością z wiersza dwudziestego czwartego oraz z prostotą oka z wiersza dwudziestego drugiego. Przewidywanie, planowanie i praca nie są zakazane; zakazane jest to, co w nich rozdziela wolę. Dlatego siew i żniwo nie zostają odwołane, choć ptaki ich nie znają — ptaki są dowodem na karmiącego, nie wzorem postępowania."
+      ],
+      [
+       "Oko jako intencja i gatunek moralny czynu",
+       "Obraz oka, od którego zależy jasność całego ciała, Augustyn odczytał jako obraz intencji i to odczytanie przeszło do scholastyki jako teza o roli celu w konstytuowaniu czynu. Tomasz uczy, że czyn ludzki otrzymuje swój gatunek moralny od przedmiotu i od celu, a wola jest tym, przez co cel wchodzi w czyn (ST I–II, q. 18, a. 4; q. 12, a. 1). Z tego wynika dwustronna konsekwencja, którą Kazanie na górze pokazało już wcześniej na innym materiale: ten sam czyn zewnętrzny — jałmużna, modlitwa, post — może mieć dwa różne gatunki moralne, zależnie od tego, dla czego został podjęty (6,1–18). Tutaj to samo twierdzenie zostaje wypowiedziane nie o pojedynczym czynie, lecz o całości: całe ciało, czyli całe postępowanie, jest jasne albo ciemne wedle tego, czym jest oko. Dlatego wiersz dwudziesty trzeci kończy się rachunkiem mroku, a nie wezwaniem do poprawy."
+      ],
+      [
+       "Obietnica dodania i przyczyny wtórne",
+       "Obietnica z wiersza trzydziestego trzeciego brzmi jak zapowiedź skutku bez przyczyny i tak ją czytali ci, którzy wyciągali z niej zakaz pracy. Tomasz rozwiązuje to przez naukę o opatrzności, która wykonuje swoje postanowienia przez przyczyny wtórne i nie znosi ich, lecz ustanawia (ST I, q. 22, a. 3). Bóg karmi ptaki przez porządek natury, w którym ptak żeruje; karmi człowieka przez porządek, w którym człowiek sieje. Dodanie nie jest więc obejściem przyczyn, tylko wskazaniem źródła. Stąd też wniosek odwrotny do tego, który wyciągali mnisi upominani przez Augustyna: zdanie o ptakach nie jest argumentem przeciw pracy rąk, bo opisuje sposób, w jaki Bóg daje, a nie zwalnia z bycia narzędziem tego dawania. Pozostaje przy tym twardy rdzeń obietnicy, którego żadne rozróżnienie nie usuwa: perykopa nie mówi, że rzeczy doczesne przyjdą same, mówi, że przyjdą jako dodatek do czegoś, co trzeba szukać pierwsze."
+      ]
+     ]
+    },
+    {
+     "type": "autor_ludzki",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
+     "body": "Cztery obrazy tej perykopy są u Łukasza rozrzucone po trzech rozdziałach i nigdzie nie stoją razem. Skarb i serce czyta się u niego w 12,33–34, lampę i oko w 11,33–36, dwóch panów w 16,13, troskę o jedzenie i odzienie w 12,22–31. Mateusz zbiera je w jedno i to zebranie jest jego interpretacją: cztery niezależne powiedzenia zostają ustawione tak, że tworzą jeden wywód o własności, a spójnik διὰ τοῦτο w wierszu dwudziestym piątym wiąże je w rozumowanie. U Łukasza każde z tych powiedzeń ma inny kontekst i inny adresat; u Mateusza wszystkie mają jednego — ucznia słuchającego Kazania.\n\nDwa zdania perykopy nie mają u Łukasza odpowiednika i oba są u Mateusza doniosłe. Pierwsze to καὶ τὴν δικαιοσύνην αὐτοῦ (i sprawiedliwości jego) w wierszu trzydziestym trzecim — Łukasz ma tam samo królestwo (12,31). Drugie to cały wiersz trzydziesty czwarty o jutrze. Pierwszy dodatek wciąga obietnicę w sieć Mateuszowej sprawiedliwości, która w tym samym rozdziale była nazwą trzech uczynków (6,1) i w rozdziale poprzednim miarą wejścia do królestwa (5,20); drugi zamyka całość zdaniem przysłowiowym o kłopocie dnia. To, co Mateusz dodał, idzie więc w dwie przeciwne strony: pierwsze podnosi obietnicę do porządku królestwa, drugie sprowadza ją do jednej doby.\n\nWidoczna jest też jego ręka w tym, czego nie wziął. Łukasz poprzedza zdanie o skarbie nakazem sprzedania majątku (12,33: πωλήσατε τὰ ὑπάρχοντα ὑμῶν), którego Mateusz nie ma — i zachowa go na scenę z bogatym młodzieńcem (19,21), gdzie stanie jako rada dla jednego człowieka, nie jako zasada dla wszystkich. Łukasz pisze o krukach (12,24), Mateusz o ptakach nieba, co usuwa pytanie o zwierzę nieczyste z listy Kpł 11,15 i wprowadza zwrot Septuaginty z opowieści o stworzeniu. Łukasz każe zważyć lilie, Mateusz — wyuczyć się z nich, czasownikiem, którym w 11,29 Jezus powie o sobie. Każda z tych różnic jest drobna i każda idzie w tę samą stronę: obraz zostaje osadzony w Piśmie i w słowniku samego Mateusza.\n\nMiejsce perykopy w kompozycji Kazania wyznaczają dwie klamry. Pierwsza jest wewnętrzna: rzeczownik δικαιοσύνη stoi w 5,20, 6,1 i 6,33, a te trzy wystąpienia dzielą środkową część mowy na odcinki — nauka o sprawiedliwości przewyższającej, trzy uczynki, szukanie sprawiedliwości Bożej. Nasza perykopa domyka ten szereg. Druga klamra sięga dalej, do narracji przed Kazaniem: na górze bardzo wysokiej diabeł pokazał wszystkie królestwa świata i ich chwałę, mówiąc ταῦτά σοι πάντα δώσω (4,8–9), a odpowiedzią było przytoczenie o służeniu Bogu samemu (4,10). Tutaj te same dwa motywy stoją w tej samej kolejności: najpierw niemożliwość podwójnej służby (6,24), potem ταῦτα πάντα προστεθήσεται ὑμῖν (6,33). Mateusz pisze więc Kazanie jako rozwinięcie tego, co jego Jezus rozstrzygnął na pustyni, i czytelnik, który przeszedł przez czwarty rozdział, ma w ręku całą składnię tej odpowiedzi.\n\nAdresat jest przy tym podwójny, co widać w zmianach liczby. Wiersze 19–20 i 24–34 mówią do wielu, wiersze 21–23 do jednego. Pierwsza część zakłada, że słuchacz ma co gromadzić; druga, że nie ma z czego odłożyć na jutro. Gmina, dla której Mateusz pisał — mieszana, miejska, po roku siedemdziesiątym, z wyraźną pamięcią o rozejściu z synagogą — zawierała jednych i drugich, a mowa, która zrównuje gromadzenie z zabieganiem, dotyka obu warstw jednym zdaniem. Trzecie wystąpienie narodów w Kazaniu (6,32), po 5,47 i 6,7, działa w tej samej gminie jako granica tożsamości: tak postępują tamci. Że ta granica nie jest u Mateusza ostatnim słowem, powie zdanie zamykające Ewangelię, w którym te same ἔθνη staną się adresatem nakazu (28,19).",
+     "children": []
+    },
+    {
+     "type": "autor_bozy",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
+     "body": "To, co w tej perykopie jest natchnione, daje się w dużej mierze wskazać palcem w gramatyce: dwa celowniki, jeden czasownik powtórzony w dwóch stronach, jeden wołacz i jedno przejście od dawania do dodawania. Pięć podsekcji poniżej trzyma się tych miejsc, bo w nich orędzie jest zapisane dokładniej niż w jakimkolwiek jego streszczeniu.",
+     "children": [
+      [
+       "Sobie i wam: dwa celowniki jednej perykopy",
+       "Perykopa otwiera się celownikiem ὑμῖν przy czasowniku, którego podmiotem jest człowiek, i zamyka tym samym celownikiem przy czasowniku w stronie biernej. Gromadźcie sobie — zostanie wam dodane. Pierwszy celownik nazywa korzyść własną, zorganizowaną własnymi rękami; drugi tę samą korzyść, przyjętą z czyjejś. Nic w zdaniu nie mówi, że człowiek ma przestać mieć; zmienia się tryb, w jakim ma. Dlatego nakaz z wiersza dwudziestego nie brzmi — nie gromadźcie wcale, lecz powtarza ten sam czasownik i ten sam celownik z innym określeniem miejsca. Składnia jest tu nośnikiem treści: nie usuwa się posiadania, przenosi się jego rachunek."
+      ],
+      [
+       "Czego dodać nie można i co zostaje dodane",
+       "Obietnica z wiersza trzydziestego trzeciego ma formę, która w Kazaniu na górze ma swoją rodzinę: προστεθήσεται jest stroną bierną bez wskazania sprawcy. Taką samą formę noszą cztery z ośmiu obietnic błogosławieństw — zostaną pocieszeni, zostaną nasyceni, dostąpią miłosierdzia, zostaną nazwani synami Bożymi (5,4.6.7.9) — i taką samą nosi zapewnienie z 7,7: będzie wam dane, zostanie wam otworzone. Mateusz nie wymienia w żadnym z tych miejsc sprawcy, bo nie musi. Gramatyka decyduje tu o tym, do jakiego szeregu zdanie należy: obietnica dodania rzeczy doczesnych stoi w tym samym trybie co obietnica pocieszenia i nasycenia, a więc nie jest obliczeniem skutku, lecz zapowiedzią daru. Jedyna forma czynna tego czasownika w całej Ewangelii jest natomiast ludzka i stoi w pytaniu, na które odpowiedź brzmi — nie."
+      ],
+      [
+       "Ojciec, który wie, i Ojciec, który widzi",
+       "Szósty rozdział mówi o Ojcu dwa razy w tym samym zdaniu wyjściowym: οἶδεν γὰρ ὁ πατὴρ ὑμῶν (w. 8) i οἶδεν γὰρ ὁ πατὴρ ὑμῶν ὁ οὐράνιος (w. 32). Pierwsze uzasadnia, że modlitwa nie potrzebuje wielu słów; drugie, że życie nie potrzebuje troski. Czasownik jest jeden, wnioski dwa, a między nimi stoi Modlitwa Pańska z prośbą o chleb na dziś. W poprzedniej perykopie Ojciec był tym, który widzi w ukryciu, i widzenie dotyczyło czynu człowieka; tutaj jest tym, który wie o potrzebie, i wiedza dotyczy jego braku. Ta sama osoba, dwa czasowniki poznania i dwa przedmioty: co człowiek zrobił i czego mu brakuje."
+      ],
+      [
+       "Wołacz, który wyprzedza zdarzenia",
+       "Jedyne miejsce w Kazaniu, w którym Jezus nazywa słuchaczy słowem o ich wierze, brzmi ὀλιγόπιστοι (małej wiary, 6,30). Trzy dalsze wystąpienia tego przymiotnika mają już konkretną scenę: łódź w czasie burzy (8,26), Piotr zapadający się w wodę (14,31), nieporozumienie o chlebach (16,8). Dwa z trzech dzieją się na wodzie, jedno przy jedzeniu — czyli dokładnie tam, gdzie chodzi o utrzymanie się przy życiu i o wyżywienie. Słowo pada więc w Kazaniu, zanim którakolwiek z tych sytuacji nastąpi, i czytelnik Ewangelii słyszy je trzy razy jako echo tego, co zostało powiedziane na górze. Nie jest to obelga ani wyrok; to nazwa stanu, w którym troska bierze się nie z braku chleba, ale z braku zaufania."
+      ],
+      [
+       "Chwała, która zmienia właściciela",
+       "Rzeczownik δόξα pada u Mateusza siedem razy i jego rozkład jest wymowny. Pierwsze wystąpienie należy do diabła, który pokazuje królestwa świata i ich chwałę (4,8). Drugie do Salomona, który w całej swojej chwale przegrywa z jednym kwiatem (6,29). Pięć pozostałych należy do Syna Człowieczego i do Ojca: przyjście w chwale Ojca (16,27), tron chwały (19,28), obłoki i wielka chwała (24,30), zasiadanie na tronie chwały (25,31). Chwała przechodzi więc w tej Ewangelii z rąk do rąk i oba jej doczesne posiadania zostają unieważnione — jedno przez odmowę pokłonu, drugie przez porównanie z trawą. Perykopa nie polemizuje z blaskiem jako takim; odbiera mu tylko właściciela."
+      ]
+     ]
+    },
+    {
+     "type": "odniesienia",
+     "title": "Sieć odniesień biblijnych",
+     "body": "Odniesienia tej perykopy rozkładają się na trzy pola. Pierwsze jest wewnątrzmateuszowe i najgęstsze: cztery obrazy czerpią słownik z całej Ewangelii, a kilka wyrazów ma tu swoje pierwsze z dwóch wystąpień i wraca dopiero w mowie eschatologicznej albo w scenie sądu. Drugie to mądrościowa literatura Starego Testamentu i deuterokanoniczna, z której pochodzi idiom złego oka, obraz mola i reguła o jutrze. Trzecie to miejsca o Bożym karmieniu stworzeń, przede wszystkim psalmiczne. Osobno stoją dwa odniesienia narracyjne, bez których zakończenie perykopy traci połowę wagi: trzecie kuszenie z 4,8–10 i prośba Salomona z 1 Krl 3.",
+     "children": [
+      [
+       "Mt 4,8–10 → perykopa",
+       "Diabeł pokazuje wszystkie królestwa świata i ich chwałę, mówiąc ταῦτά σοι πάντα δώσω (to wszystko tobie dam), a odpowiedź przytacza nakaz służenia Bogu samemu. Perykopa odpowiada na tę samą scenę dwoma zdaniami: nie możecie służyć Bogu i mamonie (w. 24) oraz to wszystko będzie wam dodane (w. 33). Te same dwa tematy, ta sama kolejność, odwrócony sprawca daru."
+      ],
+      [
+       "1 Krl 3,11–13 → w. 33–34",
+       "Salomon prosi o serce rozumne do sądzenia, a otrzymuje w dodatku bogactwo i chwałę, o które nie prosił. Składnia obietnicy jest tu identyczna z Mateuszową: coś jedno jest przedmiotem prośby, reszta przychodzi jako dodatek. Perykopa przywołuje Salomona dwa wiersze wcześniej w innej roli, więc oba odniesienia do niego stoją w jednym odcinku i oświetlają się wzajemnie."
+      ],
+      [
+       "Mt 6,16 → w. 19–21",
+       "Czasownik ἀφανίζω pada u Mateusza trzy razy: obłudnicy zacierają nim swoje twarze, a mól i wyjadanie niszczą zgromadzony majątek. Trzy wiersze po zakończeniu perykopy o trzech uczynkach ten sam wyraz przechodzi z ciała na mienie, i to jest najmocniejszy szew między perykopą jedenastą a dwunastą."
+      ],
+      [
+       "Mt 6,8 → w. 31–32",
+       "Zdanie οἶδεν γὰρ ὁ πατὴρ ὑμῶν (wie bowiem Ojciec wasz) stoi w szóstym rozdziale dwa razy. Przed Modlitwą Pańską uzasadnia, że nie trzeba wielu słów; przed nakazem szukania królestwa — że nie trzeba troski. Mateusz powtarza je w jednym rozdziale, zmieniając tylko sposób wyrażenia potrzeby i dokładając przymiotnik niebieski."
+      ],
+      [
+       "Mt 6,10–11 → w. 33–34",
+       "Trzecia prośba Modlitwy Pańskiej wiązała niebo i ziemię, czwarta prosiła o chleb na dziś. Perykopa rozsuwa niebo i ziemię jako dwa składy (w. 19–20), a kończy na dniu, który ma dość własnego kłopotu. Prośba o chleb na dziś i zakaz troski o jutro są dwiema stronami jednej miary czasu, a stoją w odstępie dwudziestu trzech wierszy."
+      ],
+      [
+       "Mt 5,15 → w. 22–23",
+       "Lampy nie stawia się pod naczyniem, lecz na świeczniku, żeby świeciła wszystkim w domu. Siedemnaście wierszy później ten sam rzeczownik nazywa oko, a ciało zajmuje miejsce domu. Obraz przenosi się z jawności uczynków do wnętrza człowieka, nie tracąc swojej logiki: lampa służy po to, żeby było widać."
+      ],
+      [
+       "Mt 5,29–30 → w. 22–23",
+       "Zwrot ὅλον τὸ σῶμά σου pada u Mateusza cztery razy. Dwa pierwsze wystąpienia dotyczą ciała wrzuconego do Gehenny, gdy oko albo ręka stają się powodem upadku; dwa następne, w Mt 6,22–23, ciała prześwietlonego i ciemnego — i znów rozstrzyga o tym oko. Ta sama fraza i ten sam organ prowadzą do dwóch przeciwnych końców."
+      ],
+      [
+       "Mt 20,15 → w. 22–23",
+       "Gospodarz winnicy pyta najemnika: czy oko twoje jest złe, że ja jestem dobry? To jedyne poza naszą perykopą miejsce u Mateusza, w którym oko i przymiotnik zły stoją razem, i jedyne, w którym sens jest całkowicie jasny — chodzi o zawiść wobec cudzej zapłaty. Wiersz dwudziesty trzeci należy czytać w tym samym polu."
+      ],
+      [
+       "Pwt 15,9 → w. 22–23",
+       "Prawo roku darowania długów ostrzega, by oko nie stało się złe wobec ubogiego brata, któremu należy pożyczyć. To najstarsze poświadczenie idiomu w znaczeniu skąpstwa i jedyne, w którym stoi on w kontekście prawnym. Kazanie używa tego samego wyrażenia bez odwołania do prawa, ale z tą samą treścią."
+      ],
+      [
+       "Prz 23,6; Prz 28,22; Syr 14,8–10; Tb 4,7 → w. 22–23",
+       "Cztery miejsca mądrościowe rozwijają postać człowieka złego oka: nie je się jego chleba, śpieszy się do bogactwa, liczy cudze kęsy, zazdrości przy jałmużnie. Tb 4,7 jest z nich najbliższe Kazaniu, bo zakaz dotyczy wprost dawania jałmużny — a jałmużna stała w tej Ewangelii osiemnaście wierszy wcześniej."
+      ],
+      [
+       "Iz 51,8 → w. 19–21",
+       "Zapowiedź nad przeciwnikami ludu brzmi, że mól zje ich jak odzież, a robak jak wełnę. Mateuszowy obraz bierze z tej tradycji szkodnika i materiał, zmienia natomiast przedmiot: niszczy się nie przeciwnik, lecz zapas. Obraz był obiegowy i to jego obiegowość pozwala użyć go bez objaśnienia."
+      ],
+      [
+       "Jk 5,2–3 → w. 19–21",
+       "List Jakuba opisuje bogactwo zbutwiałe, szaty zjedzone przez mole, złoto i srebro pokryte nalotem — trzy obrazy w jednym zdaniu, dwa z nich wspólne z Mt 6,19. Zbieżność nie wymaga zależności literackiej: oba teksty czerpią z tego samego zasobu mądrościowego, a Jakub rozwija go w oskarżenie, Mateusz w zakaz."
+      ],
+      [
+       "Syr 29,9–12 → w. 19–21",
+       "Syrach nakazuje pomóc ubogiemu wedle przykazania i złożyć swój skarb w skarbcach Najwyższego, obiecując, że wyda on większy pożytek niż złoto. Jest to najbliższy przedchrześcijański odpowiednik skarbu w niebie i wiąże go z jałmużną. Zakres i brzmienie miejsc wymagają sprawdzenia w wydaniu krytycznym."
+      ],
+      [
+       "Mt 19,21 → w. 19–21",
+       "Bogaty młodzieniec ma sprzedać majątek, dać ubogim i mieć skarb w niebiosach. Mateusz nie wprowadza nakazu sprzedaży do Kazania, choć Łukasz ma go przy tym samym powiedzeniu o skarbie (12,33); zachowuje go na jedną rozmowę z jednym człowiekiem. Skarb w niebie jest więc u niego obietnicą dla wszystkich, a sprzedaż radą dla jednego."
+      ],
+      [
+       "Mt 13,44 i Mt 13,22 → perykopa",
+       "Królestwo niebios jest podobne do skarbu ukrytego w polu, po którego znalezieniu człowiek sprzedaje wszystko — skarb i pole wracają jako obraz pozytywny. Przypowieść o siewcy nazywa natomiast μέριμνα τοῦ αἰῶνος (troskę tego wieku) i ἀπάτη τοῦ πλούτου (zwodniczość bogactwa) tym, co dusi słowo. Obie strony naszej perykopy mają więc w trzynastym rozdziale swoje przedłużenie."
+      ],
+      [
+       "Mt 24,43 → w. 19–21",
+       "Gospodarz, który nie wie, o której straży przyjdzie złodziej, i dom, który zostaje przekopany, powtarzają oba rzeczowniki i czasownik z Mt 6,19–20. Poza tymi dwoma miejscami Mateusz nie łączy tych wyrazów. Obraz zagrożonego majątku wraca zatem jako obraz nieznanej godziny Dnia."
+      ],
+      [
+       "Rdz 29,30–31; Pwt 21,15–17; Ml 1,2–3 → w. 24",
+       "Trzy miejsca pokazują, że para kochać–nienawidzić znaczy w tym języku wybrać i odrzucić. Jakub kocha Rachelę, a Lea jest znienawidzona; prawo reguluje pierworodztwo syna żony znienawidzonej; prorok mówi o Jakubie i Ezawie. Wiersz dwudziesty czwarty nie przypisuje więc nikomu uczucia nienawiści do Boga, lecz opisuje rozstrzygnięcie."
+      ],
+      [
+       "Łk 16,13 → w. 24",
+       "Łukasz ma to samo zdanie z dodanym rzeczownikiem οἰκέτης (domownik) i w zupełnie innym miejscu — po przypowieści o nieuczciwym rządcy. Właśnie ten wyraz wnoszą do Mateusza niektórzy świadkowie, co pokazuje kierunek harmonizacji. U Mateusza zdanie zamyka ciąg obrazów o własności, u Łukasza puentuje przypowieść."
+      ],
+      [
+       "Ps 147,9; Hi 38,41; Ps 104,27–28 → w. 25–27",
+       "Trzy miejsca mówią o Bogu dającym pokarm zwierzętom i pisklętom kruka, które wołają. Psalm sto czwarty rozwija to w obraz wszystkiego, co czeka na pokarm w swoim czasie. Argument Kazania zakłada tę tradycję jako znaną i nie dowodzi jej; dowodzi z niej wniosku o człowieku."
+      ],
+      [
+       "Wj 16,16–20 → w. 33–34",
+       "Manna była zbierana co dzień wedle potrzeby, a to, co zostawiono na następny dzień, zalęgło się robakami. Reguła dnia obowiązywała przez czterdzieści lat jako porządek wyżywienia ludu w drodze. Zakaz troski o jutro i prośba o chleb na dziś mają w tej regule wspólny wzór, a para dziś–jutro z wiersza trzydziestego czwartego jest jej najkrótszym streszczeniem."
+      ],
+      [
+       "Iz 40,6–8; Ps 103,15–16 → w. 28–30",
+       "Wszelkie ciało jest trawą, a jego wdzięk jak kwiat polny; trawa usycha, kwiat opada. Psalm mówi to samo o dniach człowieka. Mateusz odwraca zastosowanie tego obrazu: tradycja mówiła o przemijaniu człowieka, a Kazanie mówi o trosce Boga o to, co przemija najszybciej — żeby wyprowadzić wniosek o człowieku."
+      ],
+      [
+       "1 Krl 10,4–7 i Mt 12,42 → w. 28–30",
+       "Królowa z Saby traci dech wobec przepychu dworu Salomona, a relacja wylicza złoto, tron i porządek służby. Mateusz przywołuje tę scenę dwa razy: raz jako miarę przepychu przewyższoną przez kwiat, raz jako miarę mądrości przewyższoną przez kogoś większego od Salomona (12,42). Oba przewyższenia dotyczą tego samego króla."
+      ],
+      [
+       "Mt 25,36–40 → w. 28–30",
+       "Czasowniki περιβάλλω i τρέφω padają u Mateusza po dwa albo kilka razy, a poza naszą perykopą wyłącznie w scenie sądu ostatecznego: byłem nagi, a przyodzialiście mnie; kiedy nakarmiliśmy ciebie? Troska o własne odzienie i pokarm zostaje w Kazaniu odjęta, a na końcu Ewangelii te same dwa czasowniki opisują troskę o odzienie i pokarm cudzy."
+      ],
+      [
+       "Mt 10,19 i 10,31 → w. 25–27",
+       "Dwa zdania mowy misyjnej powtarzają oba narzędzia tej perykopy. Nie martwcie się, jak i co mówić — jedyne poza szóstym rozdziałem wystąpienie czasownika μεριμνάω u Mateusza. Jesteście warci więcej niż wiele wróbli — ten sam czasownik διαφέρω i ten sam argument od mniejszego do większego, tylko wobec lęku, nie wobec troski."
+      ],
+      [
+       "Prz 27,1 i Koh 11,1–6 → w. 33–34",
+       "Nie chwal się dniem jutrzejszym, bo nie wiesz, co dzień przyniesie — reguła mądrościowa stojąca najbliżej wiersza trzydziestego czwartego. Kohelet rozwija ją w naukę o działaniu bez pewności skutku, bo człowiek nie zna drogi wiatru. Zdanie o dniu, który ma dość własnego zła, należy do tej samej szkoły trzeźwości i Mateusz nie łagodzi jej wydźwięku."
+      ],
+      [
+       "Mt 6,32 i Mt 28,19 → w. 31–32",
+       "Narody są w Kazaniu trzy razy miarą tego, czego uczeń nie robi (5,47; 6,7; 6,32). Ostatnie zdanie Ewangelii czyni z tych samych narodów adresata nakazu chrzczenia i nauczania. Granica tożsamości, którą perykopa wyznacza, jest więc u Mateusza granicą czasową, nie ostateczną."
+      ],
+      [
+       "Flp 4,6; 1 P 5,7; 1 Tm 6,8–10 → perykopa",
+       "Trzy miejsca nowotestamentalne kontynuują tę naukę trzema różnymi drogami. Paweł nakazuje o nic się nie troszczyć, lecz w modlitwie przedstawiać prośby; Pierwszy List Piotra każe złożyć na Boga całą troskę, cytując Ps 55,23; List do Tymoteusza wyprowadza z wystarczalności pokarmu i odzienia ostrzeżenie o korzeniu wszelkiego zła. Trzeci z tych tekstów używa dokładnie tej samej pary rzeczy — jedzenie i okrycie — co Mt 6,25."
+      ]
+     ]
+    },
+    {
+     "type": "recepcja",
+     "title": "Znaczenie w historii i liturgii Kościoła",
+     "body": null,
+     "children": [
+      [
+       "Mamona: od objaśnienia językowego do imienia własnego",
+       "Augustyn notuje, że mammona jest u Hebrajczyków nazwą bogactwa, i dodaje obserwację ze swojego otoczenia: po punijsku mamon znaczy zysk. Hieronim pisze, że po syryjsku wyraz oznacza bogactwo. Obaj traktują go więc jako rzeczownik pospolity, który trzeba przetłumaczyć. Proces, w którym stał się nazwą osobową, przebiegł na łacińskim Zachodzie: moralistyka średniowieczna zaczęła mówić o Mammonie jak o władcy, alegoryczna poezja angielska dała mu postać, a Milton w pierwszej księdze Raju utraconego umieścił go wśród upadłych aniołów jako tego, który w niebie wypatrywał złota pod posadzką. Luter w Dużym katechizmie nazwał mamonę najpowszechniejszym bożkiem na ziemi, wiążąc wiersz z pierwszym przykazaniem. Katechizm Kościoła Katolickiego wraca do tego ujęcia, wyliczając mamonę wśród postaci bałwochwalstwa. Oba świadectwa patrystyczne o punijskim i syryjskim brzmieniu wymagają sprawdzenia przy źródłach."
+      ],
+      [
+       "Ptaki niebieskie i spór o pracę rąk",
+       "Wiersz dwudziesty szósty był w starożytności argumentem przeciw pracy. Augustyn napisał osobne dzieło O pracy mnichów około roku czterysta, odpowiadając mnichom kartagińskim, którzy odmawiali zajęć zarobkowych, powołując się właśnie na ptaki, które nie sieją. Jego odpowiedź idzie dwiema drogami: wskazuje przykład Pawła pracującego własnymi rękami i pokazuje, że porównanie dotyczy źródła pokarmu, nie sposobu jego uzyskania. Pokrewny spór dotyczył messalian, upominanych w czwartym wieku za to, że modlitwę przeciwstawiali pracy; Epifaniusz opisuje ich w Panarionie. Reguła benedyktyńska rozstrzygnęła to praktycznie, wiążąc modlitwę z pracą, a nie wybierając między nimi. Ten sam wiersz wraca w czternastym wieku w sporze o ubóstwo franciszkańskie, gdzie Jan XXII w konstytucji Cum inter nonnullos z roku 1323 uznał za błędne twierdzenie, że Chrystus i apostołowie nie mieli niczego."
+      ],
+      [
+       "Oko proste i dzieje pojęcia intencji",
+       "Lektura, którą Augustyn dał wierszom dwudziestemu drugiemu i dwudziestemu trzeciemu — oko jest intencją, z jaką czyn się podejmuje — stała się na Zachodzie podstawą całej nauki o intentio. Druga księga jego dzieła o Kazaniu Pańskim jest zbudowana właśnie na niej: ten sam czyn może mieć dwie wartości, zależnie od tego, dla czego został podjęty. Scholastyka przejęła to rozstrzygnięcie w postaci tezy, że czyn ludzki otrzymuje gatunek moralny od przedmiotu i od celu. W duchowości potrydenckiej wyrosło z tego rozbudowane ćwiczenie intencji czystej, obecne i w tradycji ignacjańskiej, i w pisarstwie szkoły francuskiej. Łacińskie simplex, którym Wulgata oddała ἁπλοῦς, przyniosło przy tym własny wątek: prostota serca jako cnota stała się tematem osobnym, oderwanym od znaczenia szczodrości, które niósł grecki przymiotnik."
+      ],
+      [
+       "Skarb w niebie a jałmużna i zasługa",
+       "Cyprian zbudował na wierszach dziewiętnastym i dwudziestym całe dzieło o jałmużnie, traktując skarb w niebie jako rachunek, który jałmużna otwiera; linia ta biegnie dalej przez kaznodziejstwo łacińskie aż do średniowiecznych summ o siedmiu dziełach miłosierdzia. W szesnastym wieku ta sama para wierszy weszła w spór o zasługę, bo obietnica skarbu zdawała się wiązać dar z jego zapłatą. Trydenckie rozstrzygnięcie o usprawiedliwieniu utrzymało możliwość zasługi, zastrzegając, że wszystko w niej pochodzi z łaski Chrystusa — co zostawia obietnicę skarbu nietkniętą, przenosząc ją z porządku wymiany do porządku obietnicy. Tradycja wschodnia nie wytworzyła w tym miejscu sporu doktrynalnego i pozostała przy lekturze ascetycznej: skarb w niebie jako przedmiot pamięci o śmierci."
+      ],
+      [
+       "Liturgia",
+       "W rycie rzymskim w postaci odnowionej po Soborze Watykańskim II cała perykopa, w zakresie Mt 6,24–34, jest Ewangelią ósmej niedzieli zwykłej roku A, czytaną razem z Iz 49,14–15 o matce zapominającej swego dziecka i z 1 Kor 4,1–5 o szafarzach, których sądzi Pan. Dobór pierwszego czytania jest dokładny: zapomnienie matki stoi obok pytania o Ojca, który wie. Ponieważ ósma niedziela zwykła wypada tylko w latach o późnej Wielkanocy, czytanie to w praktyce pojawia się rzadko. W dni powszednie Kazanie na górze idzie przez dwa tygodnie zwykłe i perykopa dzieli się wtedy na dwa dni: Mt 6,19–23 i Mt 6,24–34 czytane są pod koniec jedenastego tygodnia, w obu latach cyklu — dokładne przypisanie dni wymaga sprawdzenia w Lekcjonarzu. W rycie rzymskim w formie trydenckiej Mt 6,24–33 jest Ewangelią czternastej niedzieli po Zesłaniu Ducha Świętego, zestawioną z Ga 5,16–24 o walce ducha z ciałem; zakres kończy się na wierszu trzydziestym trzecim, czyli bez zdania o jutrze. W tradycji bizantyjskiej perykopa czytana jest jako Ewangelia trzeciej niedzieli po Pięćdziesiątnicy w zakresie Mt 6,22–33, a więc zaczyna się od oka, nie od skarbu, i również pomija wiersz trzydziesty czwarty. Różnica delimitacji między Wschodem a Zachodem jest tu zatem podwójna: inny początek i w obu starszych porządkach brak kody o dniu. Wiersz trzydziesty trzeci wszedł osobno do antyfon mszalnych, a wiersze dziewiętnasty i dwudziesty do formularzy o świętych, którzy rozdali majątek; konkretne sigla trzeba sprawdzić w Graduale i w Lekcjonarzu. Zdanie o dwóch panach weszło natomiast do obrzędu profesji zakonnej i do kaznodziejstwa misyjnego jako formuła wyboru, choć nie jest tam czytaniem lekcjonarzowym, lecz przytoczeniem."
+      ]
+     ]
+    },
+    {
+     "type": "patrystyka",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
+     "body": "Cztery głosy wybrano wedle tego, co każdy z nich w tej perykopie rozstrzyga, a nie wedle liczby. Hilary czyta skarb i serce w porządku eschatologicznym, Augustyn buduje na oku całą naukę o intencji, Chryzostom zajmuje się dwoma panami i zarzutem, że mowa o ptakach zakazuje pracy, Hieronim rozwiązuje trudność ostatniego wyrazu perykopy. Żaden z nich nie powtarza drugiego i każdy odpowiada na inne pytanie tekstu: gdzie leży skarb, czym jest oko, kto jest panem, co znaczy zło dnia. Treść podano w parafrazie, nie jako cytat, a loci wymagają sprawdzenia przy źródłach.",
+     "children": []
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "body": "Czasownik προστίθημι pada w całej Ewangelii Mateusza dwa razy i oba razy w tej perykopie, w odstępie sześciu wierszy. Najpierw w pytaniu, czy ktoś z was, martwiąc się, może dołożyć do swojego wzrostu jeden łokieć. Potem w obietnicy, że to wszystko będzie wam dodane. Pierwsze zdanie jest pytaniem retorycznym o granicę ludzkiej sprawności i odpowiedź na nie brzmi — nie. Drugie jest stroną bierną bez sprawcy, czyli zwyczajowym u Mateusza sposobem mówienia o Bogu. Między tymi dwoma formami jednego czasownika zamyka się wszystko, co perykopa ma do powiedzenia: dodawanie jest czynnością, do której człowiek nie ma dostępu, i właśnie dlatego nie ma powodu się martwić.\n\nDroga do tej tezy prowadzi przez cztery obrazy, których Mateusz nie wiąże żadnym spójnikiem i które dopiero w zestawieniu okazują się jednym dowodem. Skarb na ziemi psuje się sam i daje się ukraść; oko rozstrzyga, czy wnętrze jest jasne; dwóch panów nie da się obsłużyć; ptaki i lilie są karmione i odziewane bez zapasu. Zdanie szwu — διὰ τοῦτο — wskazuje przy tym wstecz nie na skarb, lecz na dwóch panów, i to wskazanie jest najostrzejszym posunięciem całej perykopy. Troska o jedzenie zostaje w ten sposób nazwana tym samym, co gromadzenie: oddaniem się w służbę. Bogaty odkłada, ubogi liczy do następnego dnia, a mowa mówi obu, że robią jedno.\n\nRachunek zamyka się na dwóch celownikach. Perykopa otwiera się nakazem θησαυρίζετε ὑμῖν (gromadźcie sobie) i kończy obietnicą προστεθήσεται ὑμῖν (będzie wam dodane), i w obu miejscach stoi ten sam zaimek. Nie ma tu pogardy dla rzeczy, o które chodzi — wiersz trzydziesty drugi mówi wprost, że ich potrzebujecie, a wiersz trzydziesty trzeci obiecuje ich dodanie. Zmienia się rachunek, nie przedmiot: to, co człowiek odkładał dla siebie, zostaje mu dane. A ponieważ jest dane jako dodatek, perykopa stawia warunek kolejności, nie warunek wyrzeczenia: najpierw królestwo, resztę dołożą.\n\nNa samym końcu Mateusz dopisuje dwa zdania, których nie dzieli z nikim i które brzmią jak zdjęcie obietnicy z wysokości. Jutro będzie się martwiło o siebie samo; wystarczy dniowi zło jego. Rzeczownik κακία, jednorazowy u Mateusza, znaczy po grecku złośliwość, a dniowi złośliwości przypisać nie można, więc Hieronim musiał dopisać objaśnienie o utrapieniu. Obietnica dodania nie zostaje tym zdaniem odwołana ani złagodzona — zostaje umieszczona w dobie, która ma własny kłopot. Kto słyszał trzy rozdziały wcześniej, że diabeł obiecał na górze ταῦτά σοι πάντα δώσω (to wszystko tobie dam), ma wreszcie drugą połowę tej rozmowy: te same rzeczy, ten sam zasięg, inna ręka i inny porządek — i żadnej zapowiedzi, że dzień, w którym się je dostaje, będzie dniem bez kłopotu.",
+     "children": []
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "body": "Tekst grecki, Wulgatę klementyńską i noty aparatu wzięto z db.sqlite (księga 470), formy wyrazowe i kody morfologiczne MorphGNT z tabeli words. Przekład roboczy jest własny i celowo dosłowny; przekład międzywierszowy w bazie służył wyłącznie do kontroli form. Znaki aparatu (°, ⸀, ⸂, ⸉, ⸆) usunięto z zapisu greckiego bloków i wersetów, nawiasy kwadratowe wydawców w w. 25 i 33 zachowano.\n\nLiczby wystąpień wyrazów w Ewangelii Mateusza (ἀφανίζω trzy razy, θησαυρίζω dwa, προστίθημι dwa, μεριμνάω siedem, διαφέρω trzy, περιβάλλω pięć, τρέφω dwa, ἀρκετός dwa, καταφρονέω dwa, δόξα siedem, ὀλιγόπιστος cztery, ἐπιζητέω trzy, ἀποθήκη trzy, Σολομών pięć) policzono maszynowo po kolumnie strong w tabeli words i są one o tyle pewne, o ile pewne jest przypisanie numerów Stronga w tym module. Miejsca jednorazowe — ἁπλοῦς, σκοτεινός, μαμωνᾶς, ἀντέχομαι, ἡλικία, πῆχυς, καταμανθάνω, κρίνον, νήθω, κλίβανος, χρῄζω, κακία — sprawdzono tym samym sposobem. Przy ponownym przejściu warto skolacjonować je z konkordancją do NA, bo sześćdziesiąt słów w tym module nie ma kodu morfologicznego i kilka miejsc mogło zostać pominięte.\n\nDo sprawdzenia przy źródłach:\n\n1. Loci patrystyczne. Numeracja homilii Chryzostoma na ten odcinek szóstego rozdziału (podano Hom. in Mt. 20–22) jest oparta na pamięci i wymaga weryfikacji w PG 57–58 albo w przekładzie Źródeł Myśli Teologicznej. Podział dzieła Augustyna o Kazaniu Pańskim na księgę drugą, rozdziały trzynasty do siedemnastego, oraz ciągłość komentarza Hilarego w rozdziale piątym trzeba sprawdzić w wydaniu. Komentarz Hieronima do Mateusza cytowany jest wedle ksiąg, bez numerów wewnętrznych.\n2. Świadectwo Augustyna o punijskim mamon i Hieronima o syryjskim brzmieniu wyrazu podano z pamięci; oba są dobrze znane, ale sformułowania wymagają kolacji.\n3. Sigla liturgiczne. Ósma niedziela zwykła roku A i czternasta niedziela po Zesłaniu Ducha Świętego są pewne co do zakresu; przypisanie Mt 6,19–23 i Mt 6,24–34 do konkretnych dni jedenastego tygodnia zwykłego oraz zakres bizantyjski Mt 6,22–33 na trzecią niedzielę po Pięćdziesiątnicy trzeba potwierdzić w Lekcjonarzu i w Ewangeliarzu. Wzmianka o antyfonach mszalnych jest ogólna i wymaga sprawdzenia w Graduale.\n4. Poświadczenia wyrazu mamon w hebrajskim Syrachu, w targumach i w literaturze rabinicznej podano bez sygnatur; zakres miejsc trzeba ustalić w wydaniach. To samo dotyczy przeciwstawienia dobrego i złego oka w Misznie.\n5. Zwój miedziany z Qumran (3Q15) przywołano jako świadectwo nawyku ukrywania kosztowności, nie jako dokument wiarygodny co do treści.\n6. Wariant ℵ* w w. 28 z czasownikiem o gręplowaniu wełny opisano wedle aparatu; argumentacja za jego pierwotnością pochodzi od T. C. Skeata (ZNW 1938) i rok oraz miejsce publikacji wymagają sprawdzenia.\n7. Dane botaniczne o kwiatach wiosennych Galilei i o opale do pieca podano wedle literatury popularnej z zakresu realiów biblijnych; nie są to ustalenia z pierwszej ręki.\n\nNie dodano leksemów ani motywów, które już były w bazie — listę sprawdzono zapytaniem przed dopisaniem. Sekcji liturgicznej nie wydzielono do osobnej tabeli, zgodnie z regułą z CLAUDE.md.",
+     "children": []
+    }
+   ],
+   "refs": [
+    [
+     [
+      "pericope"
+     ],
+     "Mt",
+     4,
+     8,
+     4,
+     10,
+     "Mt 4,8–10",
+     "kontrast",
+     "Diabeł pokazuje królestwa świata i ich chwałę, mówiąc ταῦτά σοι πάντα δώσω (to wszystko tobie dam), a odpowiedź przytacza nakaz służenia Bogu samemu. Perykopa ma oba te tematy w tej samej kolejności: niemożliwość podwójnej służby (w. 24), a potem to wszystko będzie wam dodane (w. 33). Różni się ręka, która daje."
+    ],
+    [
+     [
+      "unit",
+      "w. 33–34",
+      3
+     ],
+     "Mt",
+     4,
+     9,
+     4,
+     9,
+     "Mt 4,9",
+     "kontrast",
+     "ταῦτά σοι πάντα δώσω wobec ταῦτα πάντα προστεθήσεται ὑμῖν. Te same trzy wyrazy o całości daru rozdzielają dwa źródła: obietnicę za pokłon i dodatek do szukania królestwa."
+    ],
+    [
+     [
+      "unit",
+      "w. 33–34",
+      3
+     ],
+     "1 Krl",
+     3,
+     11,
+     3,
+     13,
+     "1 Krl 3,11–13",
+     "typologia",
+     "Salomon prosi o serce rozumne, a bogactwo i chwałę dostaje jako to, o co nie prosił. Figura: prośba o jedno i dodanie reszty. Wypełnienie: szukajcie najpierw królestwa, a to wszystko będzie wam dodane."
+    ],
+    [
+     [
+      "unit",
+      "w. 19–21",
+      2
+     ],
+     "Mt",
+     6,
+     16,
+     6,
+     16,
+     "Mt 6,16",
+     "paralela",
+     "Czasownik ἀφανίζω pada u Mateusza trzy razy: raz o obłudnikach zacierających twarze, dwa razy o molu i wyjadaniu niszczących zapas. Trzy wiersze dzielą te dwa użycia i wiążą perykopę jedenastą z dwunastą jednym wyrazem."
+    ],
+    [
+     [
+      "unit",
+      "w. 31–32",
+      3
+     ],
+     "Mt",
+     6,
+     8,
+     6,
+     8,
+     "Mt 6,8",
+     "paralela",
+     "οἶδεν γὰρ ὁ πατὴρ ὑμῶν stoi w szóstym rozdziale dwa razy: raz przeciw wielomówności w modlitwie, raz przeciw trosce o jedzenie. Mateusz zmienia tylko sposób wyrażenia potrzeby i dokłada przymiotnik niebieski."
+    ],
+    [
+     [
+      "unit",
+      "w. 33–34",
+      4
+     ],
+     "Mt",
+     6,
+     11,
+     6,
+     11,
+     "Mt 6,11",
+     "paralela",
+     "Prośba o chleb na dziś i zakaz troski o jutro odmierzają ten sam odcinek czasu z dwóch stron. Oba zdania stoją w jednym rozdziale, w odstępie dwudziestu trzech wierszy."
+    ],
+    [
+     [
+      "unit",
+      "w. 19–21",
+      1
+     ],
+     "Mt",
+     6,
+     10,
+     6,
+     10,
+     "Mt 6,10",
+     "kontrast",
+     "Trzecia prośba Modlitwy Pańskiej wiąże niebo i ziemię w jedno miejsce woli Ojca; wiersze dziewiętnasty i dwudziesty rozsuwają te same dwa miejsca jako dwa składy, z których jeden przecieka."
+    ],
+    [
+     [
+      "unit",
+      "w. 22–23",
+      0
+     ],
+     "Mt",
+     5,
+     15,
+     5,
+     15,
+     "Mt 5,15",
+     "rozwiniecie",
+     "Lampa postawiona na świeczniku świeci wszystkim w domu. Ten sam rzeczownik λύχνος wraca po siedemnastu wierszach jako nazwa oka, a ciało zajmuje miejsce domu."
+    ],
+    [
+     [
+      "unit",
+      "w. 22–23",
+      2
+     ],
+     "Mt",
+     5,
+     29,
+     5,
+     30,
+     "Mt 5,29–30",
+     "kontrast",
+     "Zwrot ὅλον τὸ σῶμά σου dotyczy w piątym rozdziale ciała wrzuconego do Gehenny, gdy oko staje się powodem upadku; tutaj — ciała prześwietlonego, gdy oko jest proste. Jedna fraza, jeden organ, dwa końce."
+    ],
+    [
+     [
+      "unit",
+      "w. 22–23",
+      3
+     ],
+     "Mt",
+     20,
+     15,
+     20,
+     15,
+     "Mt 20,15",
+     "paralela",
+     "Jedyne poza tą perykopą miejsce u Mateusza, gdzie oko i przymiotnik zły stoją razem: gospodarz pyta najemnika o jego złe oko wobec cudzej zapłaty. Sens jest tam bezsporny i rozstrzyga o lekturze w. 23."
+    ],
+    [
+     [
+      "unit",
+      "w. 22–23",
+      3
+     ],
+     "Pwt",
+     15,
+     9,
+     15,
+     9,
+     "Pwt 15,9",
+     "tlo",
+     "Prawo roku darowania długów ostrzega, by oko nie stało się złe wobec ubogiego brata, któremu należy pożyczyć. Najstarsze poświadczenie idiomu w znaczeniu skąpstwa."
+    ],
+    [
+     [
+      "unit",
+      "w. 22–23",
+      3
+     ],
+     "Prz",
+     23,
+     6,
+     23,
+     6,
+     "Prz 23,6",
+     "tlo",
+     "Nie jedz chleba człowieka złego oka. Mądrościowa postać skąpca, nazwana tym samym idiomem, co w wierszu dwudziestym trzecim."
+    ],
+    [
+     [
+      "unit",
+      "w. 22–23",
+      3
+     ],
+     "Syr",
+     14,
+     8,
+     14,
+     10,
+     "Syr 14,8–10",
+     "tlo",
+     "Rozwinięty opis człowieka złego oka, który liczy cudze kęsy i odmawia sobie oraz innym. Tekst grecki używa tu rzeczownika oko wprost, co ułatwia porównanie z Mateuszem."
+    ],
+    [
+     [
+      "unit",
+      "w. 22–23",
+      3
+     ],
+     "Tb",
+     4,
+     7,
+     4,
+     7,
+     "Tb 4,7",
+     "tlo",
+     "Zakaz, by oko było zazdrosne przy dawaniu jałmużny. Najbliższe Kazaniu, bo jałmużna stała w tym samym rozdziale osiemnaście wierszy wcześniej."
+    ],
+    [
+     [
+      "unit",
+      "w. 19–21",
+      2
+     ],
+     "Iz",
+     51,
+     8,
+     51,
+     8,
+     "Iz 51,8",
+     "aluzja",
+     "Mól zje ich jak odzież, a robak jak wełnę. Mateusz bierze z tej tradycji szkodnika i materiał, zmieniając przedmiot zniszczenia z przeciwnika na zapas."
+    ],
+    [
+     [
+      "unit",
+      "w. 19–21",
+      2
+     ],
+     "Jk",
+     5,
+     2,
+     5,
+     3,
+     "Jk 5,2–3",
+     "paralela",
+     "Szaty zjedzone przez mole, złoto i srebro pokryte nalotem. Dwa z trzech obrazów są wspólne z Mt 6,19; oba teksty czerpią z jednego zasobu mądrościowego, a wnioski wyciągają różne."
+    ],
+    [
+     [
+      "unit",
+      "w. 19–21",
+      0
+     ],
+     "Syr",
+     29,
+     9,
+     29,
+     12,
+     "Syr 29,9–12",
+     "tlo",
+     "Złóż swój skarb w skarbcach Najwyższego, a wyda większy pożytek niż złoto. Najbliższy przedchrześcijański odpowiednik skarbu w niebie, i wiążący go z jałmużną. Zakres wymaga sprawdzenia w wydaniu."
+    ],
+    [
+     [
+      "unit",
+      "w. 19–21",
+      1
+     ],
+     "Mt",
+     19,
+     21,
+     19,
+     21,
+     "Mt 19,21",
+     "paralela",
+     "Skarb w niebiosach obiecany bogatemu młodzieńcowi, z nakazem sprzedaży majątku. Mateusz nie wprowadza tego nakazu do Kazania, choć Łukasz ma go przy tym samym powiedzeniu; zachowuje go dla jednej rozmowy."
+    ],
+    [
+     [
+      "unit",
+      "w. 19–21",
+      4
+     ],
+     "Mt",
+     13,
+     44,
+     13,
+     44,
+     "Mt 13,44",
+     "rozwiniecie",
+     "Królestwo niebios podobne do skarbu ukrytego w polu, po którego znalezieniu człowiek sprzedaje wszystko. Skarb wraca w trzynastym rozdziale jako obraz pozytywny, a ukrycie zmienia sens."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mt",
+     13,
+     22,
+     13,
+     22,
+     "Mt 13,22",
+     "rozwiniecie",
+     "Troska tego wieku i zwodniczość bogactwa duszą słowo i czynią je bezowocnym. Przypowieść o siewcy nazywa rzeczownikiem to, co Kazanie zakazywało czasownikiem."
+    ],
+    [
+     [
+      "unit",
+      "w. 19–21",
+      3
+     ],
+     "Mt",
+     24,
+     43,
+     24,
+     43,
+     "Mt 24,43",
+     "paralela",
+     "Gospodarz nie wie, o której straży przychodzi złodziej, i dom zostaje przekopany. Jedyne poza Mt 6,19–20 miejsce, w którym rzeczownik κλέπτης i czasownik διορύσσω stoją razem."
+    ],
+    [
+     [
+      "unit",
+      "w. 24",
+      1
+     ],
+     "Rdz",
+     29,
+     30,
+     29,
+     31,
+     "Rdz 29,30–31",
+     "tlo",
+     "Jakub kocha Rachelę, a Lea jest znienawidzona. Para kochać–nienawidzić znaczy w tym języku wybrać i odrzucić, nie przeżywać dwóch uczuć."
+    ],
+    [
+     [
+      "unit",
+      "w. 24",
+      1
+     ],
+     "Pwt",
+     21,
+     15,
+     21,
+     17,
+     "Pwt 21,15–17",
+     "tlo",
+     "Prawo o pierworodztwie syna żony znienawidzonej dowodzi, że idiom jest prawnie funkcjonalny: znienawidzona znaczy odstawiona, a nie znieważona."
+    ],
+    [
+     [
+      "unit",
+      "w. 24",
+      1
+     ],
+     "Ml",
+     1,
+     2,
+     1,
+     3,
+     "Ml 1,2–3",
+     "tlo",
+     "Jakuba umiłowałem, a Ezawa znienawidziłem. Trzecie poświadczenie tej pary jako formuły wyboru, tym razem o Bożym rozstrzygnięciu."
+    ],
+    [
+     [
+      "unit",
+      "w. 24",
+      3
+     ],
+     "Mt",
+     4,
+     10,
+     4,
+     10,
+     "Mt 4,10",
+     "paralela",
+     "Jemu samemu służyć będziesz — jedyne u Mateusza wystąpienie czasownika λατρεύω, w cytacie z Powtórzonego Prawa. δουλεύω z Mt 6,24 mówi to samo w języku własności, nie kultu."
+    ],
+    [
+     [
+      "unit",
+      "w. 25–27",
+      5
+     ],
+     "Ps",
+     147,
+     9,
+     147,
+     9,
+     "Ps 147,9",
+     "tlo",
+     "Bóg daje pokarm bydłu i pisklętom kruka, które wołają. Zaplecze argumentu o ptakach; Łukasz w miejscu paralelnym ma właśnie kruki."
+    ],
+    [
+     [
+      "unit",
+      "w. 25–27",
+      5
+     ],
+     "Hi",
+     38,
+     41,
+     38,
+     41,
+     "Hi 38,41",
+     "tlo",
+     "Kto przygotowuje krukowi żer, gdy jego pisklęta wołają do Boga? Pytanie z mowy Boga do Joba zakłada tę samą opatrzność, z której Kazanie wyprowadza wniosek o człowieku."
+    ],
+    [
+     [
+      "unit",
+      "w. 25–27",
+      5
+     ],
+     "Ps",
+     104,
+     27,
+     104,
+     28,
+     "Ps 104,27–28",
+     "tlo",
+     "Wszystko czeka na pokarm w swoim czasie, a Bóg otwiera rękę. Najszerszy obraz tej samej tradycji, obejmujący całość stworzenia, nie tylko ptaki."
+    ],
+    [
+     [
+      "unit",
+      "w. 25–27",
+      4
+     ],
+     "Mt",
+     3,
+     12,
+     3,
+     12,
+     "Mt 3,12",
+     "kontrast",
+     "Mocniejszy zbierze swoją pszenicę do spichlerza, a plewy spali. Rzeczownik ἀποθήκη jest u Mateusza obrazem końcowego zebrania; w Mt 6,26 jedyny raz stoi w ludzkich rękach jako to, czego ptaki nie mają."
+    ],
+    [
+     [
+      "unit",
+      "w. 33–34",
+      4
+     ],
+     "Wj",
+     16,
+     16,
+     16,
+     20,
+     "Wj 16,16–20",
+     "typologia",
+     "Mannę zbierano co dzień wedle potrzeby, a odłożona na jutro zalęgła się robakami. Figura: porządek wyżywienia bez zapasu. Wypełnienie: chleb na dziś i zakaz troski o jutro."
+    ],
+    [
+     [
+      "unit",
+      "w. 28–30",
+      4
+     ],
+     "Iz",
+     40,
+     6,
+     40,
+     8,
+     "Iz 40,6–8",
+     "aluzja",
+     "Wszelkie ciało jest trawą, a jego wdzięk jak kwiat polny. Mateusz odwraca zastosowanie: tradycja mówiła o przemijaniu człowieka, Kazanie o trosce Boga o to, co przemija najszybciej."
+    ],
+    [
+     [
+      "unit",
+      "w. 28–30",
+      4
+     ],
+     "Ps",
+     103,
+     15,
+     103,
+     16,
+     "Ps 103,15–16",
+     "aluzja",
+     "Dni człowieka jak trawa, jak kwiat polny, który przechodzi wiatr i już go nie ma. Ten sam obraz w zastosowaniu do życia ludzkiego."
+    ],
+    [
+     [
+      "unit",
+      "w. 28–30",
+      2
+     ],
+     "1 Krl",
+     10,
+     4,
+     10,
+     7,
+     "1 Krl 10,4–7",
+     "tlo",
+     "Królowej z Saby zabrakło tchu wobec mądrości i przepychu dworu Salomona. Realia, które stoją za zwrotem w całej chwale swojej."
+    ],
+    [
+     [
+      "unit",
+      "w. 28–30",
+      2
+     ],
+     "Mt",
+     12,
+     42,
+     12,
+     42,
+     "Mt 12,42",
+     "paralela",
+     "Królowa z południa przybyła słuchać mądrości Salomona, a tu jest coś więcej niż Salomon. Mateusz przewyższa tego króla dwa razy: w stroju przez kwiat, w mądrości przez Jezusa."
+    ],
+    [
+     [
+      "unit",
+      "w. 28–30",
+      3
+     ],
+     "Mt",
+     25,
+     36,
+     25,
+     40,
+     "Mt 25,36–40",
+     "kontrast",
+     "Byłem nagi, a przyodzialiście mnie; kiedy nakarmiliśmy ciebie? Czasowniki περιβάλλω i τρέφω poza tą perykopą należą u Mateusza do scen sądu: troska o własne odzienie odjęta, o cudze — wymagana."
+    ],
+    [
+     [
+      "unit",
+      "w. 25–27",
+      1
+     ],
+     "Mt",
+     10,
+     19,
+     10,
+     19,
+     "Mt 10,19",
+     "paralela",
+     "Nie martwcie się, jak i co mówić — jedyne poza szóstym rozdziałem wystąpienie czasownika μεριμνάω u Mateusza. Również tam odpowiedzią jest dar, który przyjdzie w owej godzinie."
+    ],
+    [
+     [
+      "unit",
+      "w. 25–27",
+      6
+     ],
+     "Mt",
+     10,
+     31,
+     10,
+     31,
+     "Mt 10,31",
+     "paralela",
+     "Jesteście warci więcej niż wiele wróbli. Ten sam czasownik διαφέρω i ten sam argument od mniejszego do większego, tylko użyty przeciw lękowi, nie przeciw trosce."
+    ],
+    [
+     [
+      "unit",
+      "w. 25–27",
+      6
+     ],
+     "Mt",
+     12,
+     12,
+     12,
+     12,
+     "Mt 12,12",
+     "paralela",
+     "O ileż więcej wart jest człowiek od owcy. Trzecie i ostatnie wystąpienie διαφέρω u Mateusza, tutaj w rozstrzygnięciu sporu o szabat."
+    ],
+    [
+     [
+      "unit",
+      "w. 33–34",
+      6
+     ],
+     "Prz",
+     27,
+     1,
+     27,
+     1,
+     "Prz 27,1",
+     "tlo",
+     "Nie chwal się dniem jutrzejszym, bo nie wiesz, co dzień przyniesie. Reguła mądrościowa stojąca najbliżej wiersza trzydziestego czwartego."
+    ],
+    [
+     [
+      "unit",
+      "w. 33–34",
+      6
+     ],
+     "Koh",
+     11,
+     1,
+     11,
+     6,
+     "Koh 11,1–6",
+     "tlo",
+     "Rzuć swój chleb na wodę, siej rano i wieczorem, bo nie znasz drogi wiatru. Nauka o działaniu bez pewności skutku, do której trzeźwość ostatniego zdania perykopy należy."
+    ],
+    [
+     [
+      "unit",
+      "w. 31–32",
+      2
+     ],
+     "Mt",
+     5,
+     47,
+     5,
+     47,
+     "Mt 5,47",
+     "paralela",
+     "Witający tylko braci postępują jak poganie. Pierwsze z trzech miejsc Kazania, w których narody są miarą tego, czego uczeń nie robi."
+    ],
+    [
+     [
+      "unit",
+      "w. 31–32",
+      2
+     ],
+     "Mt",
+     6,
+     7,
+     6,
+     7,
+     "Mt 6,7",
+     "paralela",
+     "Wielomówni w modlitwie postępują jak poganie. Drugie z tych trzech miejsc i najbliższe, bo stoi w tym samym rozdziale i również dotyczy proszenia o rzeczy potrzebne."
+    ],
+    [
+     [
+      "unit",
+      "w. 31–32",
+      2
+     ],
+     "Mt",
+     28,
+     19,
+     28,
+     19,
+     "Mt 28,19",
+     "kontrast",
+     "Nauczajcie wszystkie narody. Ten sam rzeczownik ἔθνη, który w Kazaniu wyznaczał granicę tożsamości, w ostatnim zdaniu Ewangelii staje się adresatem nakazu."
+    ],
+    [
+     [
+      "unit",
+      "w. 33–34",
+      0
+     ],
+     "Mt",
+     7,
+     7,
+     7,
+     11,
+     "Mt 7,7–11",
+     "rozwiniecie",
+     "Szukajcie, a znajdziecie; o ileż więcej Ojciec da dobre rzeczy proszącym. Ten sam czasownik ζητεῖτε w tym samym trybie, już bez dopełnienia, i ten sam argument od mniejszego do większego cztery rozdziały dalej."
+    ],
+    [
+     [
+      "unit",
+      "w. 33–34",
+      2
+     ],
+     "Mt",
+     5,
+     20,
+     5,
+     20,
+     "Mt 5,20",
+     "paralela",
+     "Jeśli wasza sprawiedliwość nie będzie obfitsza niż uczonych w Piśmie i faryzeuszów, nie wejdziecie do królestwa niebios. Pierwsze z trzech wystąpień δικαιοσύνη w tym odcinku Kazania; w 6,33 stoi trzecie i jedyne z zaimkiem odnoszącym się do Boga."
+    ],
+    [
+     [
+      "unit",
+      "w. 33–34",
+      2
+     ],
+     "Mt",
+     6,
+     1,
+     6,
+     1,
+     "Mt 6,1",
+     "kontrast",
+     "Sprawiedliwość wasza — i sprawiedliwość jego. Dwa zaimki przy jednym rzeczowniku w jednym rozdziale, w odstępie trzydziestu dwóch wierszy, wyznaczają granicę między tym, co się czyni, a tym, czego się szuka."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Flp",
+     4,
+     6,
+     4,
+     7,
+     "Flp 4,6–7",
+     "rozwiniecie",
+     "O nic się nie troszczcie, ale w modlitwie przedstawiajcie prośby. Paweł zastępuje troskę prośbą, czyli dokładnie tym, co w szóstym rozdziale Mateusza stoi między wiedzą Ojca a nakazem szukania."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "1 P",
+     5,
+     7,
+     5,
+     7,
+     "1 P 5,7",
+     "rozwiniecie",
+     "Całą waszą troskę złóżcie na Niego, bo On się o was troszczy. Rzeczownik od tego samego rdzenia co Mateuszowe μεριμνάω, użyty dwa razy w jednym zdaniu w dwóch kierunkach."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "1 Tm",
+     6,
+     8,
+     6,
+     10,
+     "1 Tm 6,8–10",
+     "rozwiniecie",
+     "Mając pokarm i odzienie, poprzestawajmy na tym. Ta sama para rzeczy co w Mt 6,25, z której List wyprowadza ostrzeżenie o korzeniu wszelkiego zła."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "2 Kor",
+     9,
+     11,
+     9,
+     13,
+     "2 Kor 9,11–13",
+     "tlo",
+     "Rzeczownik ἁπλότης oznacza u Pawła hojność składki na ubogich w Jerozolimie. To najmocniejsze poświadczenie, że ἁπλοῦς z Mt 6,22 należy do pola szczodrości, nie zdrowia."
+    ],
+    [
+     [
+      "unit",
+      "w. 22–23",
+      1
+     ],
+     "1 Krn",
+     29,
+     17,
+     29,
+     17,
+     "1 Krn 29,17",
+     "tlo",
+     "Dawid składa ofiarę w prostocie serca, a lud ochotnie. Grecki rzeczownik ἁπλότης stoi tu przy darze, co wiąże prostotę z dawaniem, nie z brakiem przebiegłości."
+    ],
+    [
+     [
+      "unit",
+      "w. 22–23",
+      4
+     ],
+     "Iz",
+     5,
+     20,
+     5,
+     20,
+     "Iz 5,20",
+     "aluzja",
+     "Biada tym, którzy ciemność nazywają światłem, a światło ciemnością. Zdanie Mateusza idzie tą samą drogą bez formuły biada: nie nazywa pomyłki, lecz liczy jej koszt."
+    ],
+    [
+     [
+      "unit",
+      "w. 22–23",
+      4
+     ],
+     "Mt",
+     5,
+     14,
+     5,
+     16,
+     "Mt 5,14–16",
+     "kontrast",
+     "Jesteście światłem świata i wasze światło ma świecić wobec ludzi. Siedemnaście wierszy później to samo światło zostaje postawione pod pytaniem, czy nie jest ciemnością."
+    ]
+   ],
+   "patristic": [
+    [
+     "w. 19–21",
+     "św. Hilary z Poitiers",
+     "Commentarius in Matthaeum",
+     "In Matth. 5",
+     "Hilary czyta parę skarbów w porządku ostatecznym: ziemia jest miejscem, w którym wszystko jest wystawione na zniszczenie i na cudzą rękę, niebo — tym, w którym nie działa ani jedno, ani drugie, a zdanie o sercu podaje sprawdzianem, gdzie człowiek faktycznie złożył swoje. Jego wykład jest przy tym bardziej eschatologiczny niż moralny: nie pyta, ile komu wolno mieć, lecz co się stanie z tym, co ma, i wylicza przemijanie jako cechę samego miejsca, nie jako karę. Serce idące za skarbem jest u niego dowodem, że człowiek już teraz mieszka tam, gdzie będzie mieszkał. Taki tok prowadzi go do wniosku, którego nie ma w tekście wprost: skoro serce idzie za skarbem, to przeniesienie skarbu jest jedynym sposobem przeniesienia serca, a sama praca nad sercem byłaby odwróceniem kolejności."
+    ],
+    [
+     "w. 22–23",
+     "św. Augustyn",
+     "De sermone Domini in monte",
+     "De serm. Dom. II,13",
+     "Augustyn odczytuje oko jako intencję, z jaką czyn się podejmuje, i to odczytanie rządzi całą drugą księgą jego dzieła o Kazaniu Pańskim. Rozstrzygnięcie jest formalne: ciało oznacza u niego całość postępowania, a oko to, dla czego się postępuje, więc ten sam uczynek może być jasny albo ciemny bez żadnej zmiany w sobie. Stąd jego nacisk na ostatnie zdanie: mrok jest tu większy niż u tego, kto nie miał światła wcale, bo polega na pomyleniu celu, a nie na niewiedzy. Augustyn łączy przy tym ten obraz z pierwszymi wierszami rozdziału, gdzie trzy uczynki różniły się jedynie zdaniem celowym — i w ten sposób wiąże dwie perykopy jedną nauką o intencji. W wykładzie dwóch panów odnotowuje, że mammona znaczy u Hebrajczyków bogactwo, i dodaje, że po punijsku ten wyraz oznacza zysk."
+    ],
+    [
+     "w. 24",
+     "św. Jan Chryzostom",
+     "Homiliae in Matthaeum",
+     "Hom. in Mt. 21",
+     "Chryzostom zatrzymuje się na tym, że majątek zostaje nazwany panem, i wyciąga z tego wniosek, którego tekst nie wypowiada: mamona nie jest panem z natury, lecz staje się nim przez tych, którzy jej służą, a tym samym poddaństwo jest tu dziełem poddanego. Gdyby pan był prawdziwy, służba byłaby losem; ponieważ jest ustanowiony, jest wyborem. Drugi jego akcent pada na dwie pary czasowników: nienawiść i miłość opisują, co człowiek czuje, trzymanie się i wzgarda — co robi, i Chryzostom nie pozwala sprowadzić jednej pary do drugiej. Przy wierszach o ptakach odrzuca wprost zarzut, że mowa zakazuje pracy, wskazując, że Jezus nie powiedział ludziom — nie siejcie, tylko pokazał ptaki, które nie sieją; różnica dotyczy źródła pokarmu, nie zajęcia. Trąbieniu w rozdziale szóstym odmawiał dosłowności, tutaj odmawia jej obrazowi ptaków."
+    ],
+    [
+     "w. 33–34",
+     "św. Hieronim",
+     "Commentariorum in Matthaeum libri IV",
+     "In Matth. I",
+     "Hieronim rozstrzyga trudność ostatniego wyrazu perykopy. Przetłumaczył κακία przez malitia i sam musiał dopisać, że malitia nie znaczy tu przewiny przeciwnej cnocie, lecz trud i utrapienie — bo dniowi nie przypisuje się złości. Objaśnienie jest językowe i trafne: za greckim rzeczownikiem stoi semicki zwyczaj, w którym jedno słowo pokrywa zło moralne i nieszczęście. Przy wierszu o dwóch panach notuje, że mamona jest słowem syryjskim na bogactwo. Jego wykład obietnicy dodania jest krótki i powściągliwy: szukanie królestwa stoi na pierwszym miejscu, a reszta przychodzi jako następstwo, bez zapowiedzi, że przyjdzie w obfitości — zwięzłość tego miejsca jest u niego zamierzona i odpowiada charakterowi całego komentarza, który ma być krótki z zasady."
+    ]
+   ],
+   "textual": [
+    [
+     20,
+     "οὐδὲ κλέπτουσιν",
+     "wariant spójnika",
+     "Zamiast οὐδὲ κλέπτουσιν (ani nie kradną) Sinaiticus, rodzina f1, lekcjonarz 844 i kilka innych, przekłady starołacińskie oraz syryjski curetoniański mają καὶ κλέπτουσιν (i kradną); kodeks W oraz starołaciński k opuszczają człon w całości.",
+     "Lekcja z καί wyrównuje wiersz dwudziesty do dziewiętnastego, gdzie oba czasowniki łączy właśnie καί; przeczenie οὐδέ jest trudniejsze, bo po οὐ διορύσσουσιν wymaga drugiego przeczenia. Opuszczenie w W i k jest skrótem dwuwierszowej symetrii. Tekst drukowany trzyma formę, w której drugi człon jest zaprzeczony osobno."
+    ],
+    [
+     21,
+     "καὶ ἡ καρδία σου",
+     "opuszczenie",
+     "Spójnik καί przed serce opuszcza kodeks Watykański i jeden rękopis bohairski; mają go pozostali świadkowie.",
+     "Opuszczenie jest drobne i nie zmienia zdania, ale odbiera mu nacisk: z καί sentencja mówi, że tam będzie i serce także, bez niego — że tam będzie serce. Lekcja Watykańskiego jest w tym miejscu samotna i raczej uproszczeniem niż śladem pierwotnej zwięzłości."
+    ],
+    [
+     21,
+     "ὁ θησαυρός σου",
+     "wyrównanie liczby",
+     "Zaimek σου w obu miejscach wiersza (przy skarbie i przy sercu) zamieniają na ὑμῶν kodeksy L, W, Koridethi, 0250 w zapisie 0233, obie rodziny minuskułowe, minuskuł 33, większość bizantyjska, starołaciński f, tradycja syryjska i część bohairskiej. Liczbę pojedynczą mają Sinaiticus, Watykański, kilka minuskułów, przekłady łacińskie i koptyjskie oraz Bazyli.",
+     "Przejście z liczby mnogiej nakazów (w. 19–20) na pojedynczą sentencji (w. 21) jest u Mateusza regularne i powtarza to, co zrobiła perykopa o trzech uczynkach. Skrybowie wyrównywali je w obu miejscach, co czyni lekcję mnogą wtórną; wymowne jest, że korekta objęła oba zaimki jednocześnie."
+    ],
+    [
+     22,
+     "ἐὰν οὖν",
+     "opuszczenie",
+     "Spójnik οὖν opuszczają Sinaiticus, kilka minuskułów, przekłady łacińskie, syryjski curetoniański, średnioegipski i jeden rękopis bohairski.",
+     "Wniosek z οὖν opiera obraz oka na obrazie skarbu i czyni z trzech obrazów części jednego wywodu. Bez niego zdanie o oku stoi osobno. Ponieważ obraz oka jest u Łukasza zupełnie gdzie indziej, opuszczenie może odzwierciedlać pamięć o jego samodzielności, ale świadectwo jest zbyt wąskie, by na nim budować."
+    ],
+    [
+     22,
+     "ᾖ ὁ ὀφθαλμός σου ἁπλοῦς",
+     "szyk wyrazów",
+     "Kodeksy L, Koridethi, obie rodziny minuskułowe, minuskuł 33, większość bizantyjska i przekłady starołacińskie przestawiają szyk tak, że orzeczenie idzie na koniec; tekst drukowany idzie za Sinaiticusem, Watykańskim i W.",
+     "Przestawienie upodabnia wiersz dwudziesty drugi do dwudziestego trzeciego, gdzie orzeczenie stoi na końcu, i tym samym domyka symetrię obu warunków. Tekst krytyczny zachowuje szyk niesymetryczny jako trudniejszy. Rozstrzygnięcie nie dotyczy treści."
+    ],
+    [
+     23,
+     "ὁ ὀφθαλμός σου πονηρὸς ᾖ",
+     "szyk wyrazów",
+     "Pierwotny Sinaiticus, kodeks W i minuskuł 33 przestawiają tu szyk w drugą stronę, przenosząc orzeczenie na początek — czyli upodabniają wiersz dwudziesty trzeci do dwudziestego drugiego.",
+     "Dwie poprawki idą w przeciwnych kierunkach i to jest w nich najciekawsze: skrybowie wyczuwali brak symetrii w parze warunków i usuwali go raz z jednej, raz z drugiej strony. Taki rozkład poprawek sam świadczy, że tekst drukowany jest pierwotny."
+    ],
+    [
+     24,
+     "Οὐδεὶς δύναται",
+     "dodatek z paraleli",
+     "Kodeksy L, Δ, minuskuł 1241 i kilka innych dodają po οὐδείς rzeczownik οἰκέτης (domownik, niewolnik domowy).",
+     "Dodatek pochodzi wprost z Łk 16,13, gdzie οἰκέτης stoi w tekście pewnym, i aparat oznacza go jako harmonizację do paraleli. Zawęża on zdanie do niewolnika należącego do gospodarstwa domowego i tym samym osłabia jego ogólność, bo wyłącza z obrazu każdą inną postać poddaństwa. Lekcja krótsza jest u Mateusza pewna."
+    ],
+    [
+     25,
+     "ἢ τί πίητε",
+     "dodatek wątpliwy",
+     "Trzy możliwości. Kodeksy L, Koridethi, 0233 i większość bizantyjska wraz z syryjskimi mają καὶ τί πίητε (i co wypijecie). Sinaiticus, rodzina f1, minuskuł 892, lekcjonarz 2211, część starołacińskich, Wulgata, syryjski curetoniański i część sahidyckich człon opuszczają. Tekst drukowany, z ἤ i w nawiasie, idzie za Watykańskim, W, rodziną f13, minuskułem 33 i częścią przekładów, a wśród pisarzy za Orygenesem.",
+     "Teza wiersza dwudziestego piątego jest dwuczłonowa: życie i pokarm, ciało i odzienie — i dalszy wywód trzyma się dokładnie tych dwóch członów (w. 26–27 o jedzeniu, w. 28–30 o odzieniu). Picie nie ma w tej parze odpowiednika, a trzy pytania wiersza trzydziestego pierwszego podają gotowe źródło uzupełnienia. Przemawia to za lekcją krótszą, choć świadkowie są podzieleni i wydawcy drukują nawias."
+    ],
+    [
+     26,
+     "εἰς ἀποθήκας",
+     "dodatek rodzajnika",
+     "Korektor Sinaiticusa, kodeks L, lekcjonarz 2211 i kilka minuskułów dodają rodzajnik τάς przed spichlerzami.",
+     "Z rodzajnikiem spichlerze stają się określone, czyli te znane, należące do kogoś; bez niego są wskazaniem rodzaju czynności. Poprawka jest tego samego typu, co w 3,12, gdzie spichlerz jest określony i należy do mocniejszego. Lekcja bez rodzajnika pozostaje pierwotna."
+    ],
+    [
+     28,
+     "αὐξάνουσιν· οὐ κοπιῶσιν οὐδὲ νήθουσιν",
+     "wariant lekcji",
+     "Cztery lekcje. Kodeks Watykański, poparty przez minuskuł 33, ma κοπιοῦσιν w innej postaci. Pierwotny Sinaiticus czyta οὐ ξαίνουσιν οὐδὲ νήθουσιν οὐδὲ κοπιῶσιν (nie gręplują ani nie przędą, ani się nie trudzą). Kodeksy L, W, 0233, 0281, rodzina f13 i większość bizantyjska mają wszystko w liczbie pojedynczej: αὐξάνει· οὐ κοπιᾷ οὐδὲ νήθει. Tekst drukowany idzie za korektorem Sinaiticusa, rodziną f1 i Atanazym.",
+     "Lekcja bizantyjska jest normalizacją gramatyczną: podmiot nijaki liczby mnogiej brał w grece klasycznej orzeczenie w liczbie pojedynczej, więc poprawka przywraca regułę i dlatego jest wtórna. Lekcja pierwotnego Sinaiticusa wnosi czasownik ξαίνω, o gręplowaniu wełny, i daje trzy kolejne etapy obróbki tkaniny; T. C. Skeat uznał ją za pierwotną, wywodząc tekst drukowany z pomyłki kopisty. Argument jest poważny, ale świadek jeden, a trójka czasowników u Mateusza nie ma odpowiednika w budowie paralelnego wiersza o ptakach, który ma również trzy czasowniki, lecz inne. Rok i miejsce publikacji Skeata wymagają sprawdzenia."
+    ],
+    [
+     32,
+     "ἐπιζητοῦσιν",
+     "wyrównanie liczby",
+     "Liczbę pojedynczą ἐπιζητεῖ mają kodeksy L, W, 0233 i większość bizantyjska; mnogą — Sinaiticus, Watykański, Koridethi, obie rodziny minuskułowe, minuskuł 33 i lekcjonarz 844.",
+     "Poprawka jest tego samego rodzaju co w wierszu dwudziestym ósmym: τὰ ἔθνη jest podmiotem nijakim liczby mnogiej i klasyczna składnia wymagałaby orzeczenia pojedynczego. Dwa takie wyrównania w czterech wierszach pokazują, jak konsekwentnie tradycja bizantyjska porządkowała grekę Mateusza."
+    ],
+    [
+     32,
+     "πάντα γὰρ ταῦτα",
+     "szyk wyrazów",
+     "Sinaiticus, kodeksy N, Δ, Koridethi, rodzina f13, minuskuły 892 i 1241 oraz część innych, przekłady łacińskie i syryjski curetoniański odwracają szyk na ταῦτα γὰρ πάντα; tę lekcję zna także Bazyli.",
+     "Odwrócony szyk zbliża wiersz trzydziesty drugi do trzydziestego trzeciego, gdzie stoi ταῦτα πάντα, i do Mt 4,9, gdzie stoi ταῦτά σοι πάντα. Właśnie dlatego jest podejrzany jako wyrównanie: tekst drukowany ma w wierszu trzydziestym drugim inny szyk niż w trzydziestym trzecim, a różnica ta jest u Mateusza znacząca."
+    ],
+    [
+     33,
+     "τὴν βασιλείαν [τοῦ θεοῦ] καὶ τὴν δικαιοσύνην",
+     "dodatek wątpliwy",
+     "Sinaiticus, starołaciński k, lekcjonarz, przekłady sahidycki i bohairski oraz Euzebiusz czytają τὴν βασιλείαν καὶ τὴν δικαιοσύνην αὐτοῦ, bez τοῦ θεοῦ. Kodeks Watykański odwraca szyk i daje sprawiedliwość przed królestwem, również bez τοῦ θεοῦ. Klemens Aleksandryjski ma βασιλείαν τῶν οὐρανῶν καὶ τὴν δικαιοσύνην. Tekst drukowany, z nawiasem kwadratowym, idzie za L, W, Koridethi, 0233, obiema rodzinami, minuskułem 33, większością bizantyjską, przekładami łacińskimi i syryjskimi.",
+     "Rzecz ma wagę teologiczną, bo Mateusz mówi o królestwie niebios kilkadziesiąt razy, a o królestwie Boga w czterech miejscach pewnych (12,28; 19,24; 21,31; 21,43) i nigdy w Kazaniu. Za lekcją dłuższą stoi jednak zaimek αὐτοῦ przy sprawiedliwości, który bez wyrazu Bóg traci w zdaniu rzeczownik odniesienia — i ten właśnie brak mógł skłonić skrybów do uzupełnienia. Dwa najstarsze świadectwa τοῦ θεοῦ nie mają, a lekcja Klemensa pokazuje trzecie rozwiązanie tej samej trudności. Nawias wydawców jest uczciwym odzwierciedleniem stanu świadectw."
+    ],
+    [
+     34,
+     "ἑαυτῆς",
+     "wariant formy",
+     "Świadkowie dają pięć rozwiązań: ἑαυτῆς (Sinaiticus, korektor Watykańskiego, W, minuskuł 892 i część większości), αὐτῆς (pierwotny Watykański, L i część koptyjskich), τὰ ἑαυτῆς (K, N, Δ w przybliżeniu, 0233, obie rodziny, minuskuły 33, 579, 1241, 1424, część większości i syryjski harkleński), τὸ ἑαυτῆς (Koridethi, minuskuł 565) oraz ἑαυτῇ lub ἑαυτήν (minuskuł 700 i kilka innych).",
+     "To najbardziej rozchwiane miejsce całej perykopy i samo rozchwianie jest świadectwem trudności: pisarzom przeszkadzało, że dzień ma troskę o siebie, i każdy szukał składni, która tę personifikację złagodzi. Dopełniacz zwrotny bez rodzajnika jest najtrudniejszy i dlatego pierwotny. Treść pozostaje we wszystkich lekcjach ta sama."
+    ]
+   ],
+   "theme_links": [
+    [
+     "skarb na ziemi i skarb w niebie",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "skarb na ziemi i skarb w niebie",
+     [
+      "block",
+      "w. 19–21"
+     ]
+    ],
+    [
+     "skarb na ziemi i skarb w niebie",
+     [
+      "section",
+      "Gdzie trzymano majątek, gdy nie było banku"
+     ]
+    ],
+    [
+     "skarb na ziemi i skarb w niebie",
+     [
+      "section",
+      "Szata jako majątek i mól jako ryzyko"
+     ]
+    ],
+    [
+     "skarb na ziemi i skarb w niebie",
+     [
+      "section",
+      "Skarb w niebie a jałmużna i zasługa"
+     ]
+    ],
+    [
+     "oko proste i oko złe",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "oko proste i oko złe",
+     [
+      "block",
+      "w. 22–23"
+     ]
+    ],
+    [
+     "oko proste i oko złe",
+     [
+      "section",
+      "Złe oko: idiom, nie okulistyka"
+     ]
+    ],
+    [
+     "oko proste i oko złe",
+     [
+      "section",
+      "Oko jako intencja i gatunek moralny czynu"
+     ]
+    ],
+    [
+     "oko proste i oko złe",
+     [
+      "section",
+      "Oko proste i dzieje pojęcia intencji"
+     ]
+    ],
+    [
+     "dwaj panowie i mamona",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "dwaj panowie i mamona",
+     [
+      "block",
+      "w. 24"
+     ]
+    ],
+    [
+     "dwaj panowie i mamona",
+     [
+      "section",
+      "Mamona: co znaczył ten wyraz, zanim znaczył bożka"
+     ]
+    ],
+    [
+     "dwaj panowie i mamona",
+     [
+      "section",
+      "Servus communis: dwaj panowie byli możliwi"
+     ]
+    ],
+    [
+     "dwaj panowie i mamona",
+     [
+      "section",
+      "Dwa panowania i jeden cel ostateczny"
+     ]
+    ],
+    [
+     "dwaj panowie i mamona",
+     [
+      "section",
+      "Mamona: od objaśnienia językowego do imienia własnego"
+     ]
+    ],
+    [
+     "troska jako rozdzielenie",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "troska jako rozdzielenie",
+     [
+      "block",
+      "w. 25–27"
+     ]
+    ],
+    [
+     "troska jako rozdzielenie",
+     [
+      "block",
+      "w. 31–32"
+     ]
+    ],
+    [
+     "troska jako rozdzielenie",
+     [
+      "section",
+      "Troska dozwolona i troska zakazana"
+     ]
+    ],
+    [
+     "troska jako rozdzielenie",
+     [
+      "section",
+      "Gospodarka dnia: zarobek bez zapasu"
+     ]
+    ],
+    [
+     "argument od mniejszego do większego",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "argument od mniejszego do większego",
+     [
+      "section",
+      "Struktura całości"
+     ]
+    ],
+    [
+     "argument od mniejszego do większego",
+     [
+      "unit",
+      "w. 25–27",
+      6
+     ]
+    ],
+    [
+     "argument od mniejszego do większego",
+     [
+      "unit",
+      "w. 28–30",
+      6
+     ]
+    ],
+    [
+     "argument od mniejszego do większego",
+     [
+      "unit",
+      "w. 22–23",
+      5
+     ]
+    ],
+    [
+     "czego dodać nie można i co zostaje dodane",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "czego dodać nie można i co zostaje dodane",
+     [
+      "block",
+      "w. 33–34"
+     ]
+    ],
+    [
+     "czego dodać nie można i co zostaje dodane",
+     [
+      "unit",
+      "w. 25–27",
+      7
+     ]
+    ],
+    [
+     "czego dodać nie można i co zostaje dodane",
+     [
+      "section",
+      "Obietnica dodania i przyczyny wtórne"
+     ]
+    ],
+    [
+     "czego dodać nie można i co zostaje dodane",
+     [
+      "section",
+      "Czego dodać nie można i co zostaje dodane"
+     ]
+    ],
+    [
+     "dzień i jutro: miara czasu u Mateusza",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "dzień i jutro: miara czasu u Mateusza",
+     [
+      "unit",
+      "w. 28–30",
+      4
+     ]
+    ],
+    [
+     "dzień i jutro: miara czasu u Mateusza",
+     [
+      "unit",
+      "w. 33–34",
+      5
+     ]
+    ],
+    [
+     "dzień i jutro: miara czasu u Mateusza",
+     [
+      "unit",
+      "w. 33–34",
+      6
+     ]
+    ],
+    [
+     "dzień i jutro: miara czasu u Mateusza",
+     [
+      "section",
+      "Gospodarka dnia: zarobek bez zapasu"
+     ]
+    ],
+    [
+     "chwała i jej właściciele",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "chwała i jej właściciele",
+     [
+      "unit",
+      "w. 28–30",
+      2
+     ]
+    ],
+    [
+     "chwała i jej właściciele",
+     [
+      "section",
+      "Salomon w chwale i co to znaczyło"
+     ]
+    ],
+    [
+     "chwała i jej właściciele",
+     [
+      "section",
+      "Chwała, która zmienia właściciela"
+     ]
+    ],
+    [
+     "poganie jako druga miara Kazania",
+     [
+      "block",
+      "w. 31–32"
+     ]
+    ],
+    [
+     "królestwo niebios jako omowa",
+     [
+      "unit",
+      "w. 33–34",
+      1
+     ]
+    ],
+    [
+     "sprawiedliwość wedle Mateusza",
+     [
+      "unit",
+      "w. 33–34",
+      2
+     ]
+    ],
+    [
+     "Ojciec wasz w niebiosach",
+     [
+      "unit",
+      "w. 25–27",
+      5
+     ]
+    ],
+    [
+     "Ojciec wasz w niebiosach",
+     [
+      "unit",
+      "w. 31–32",
+      3
+     ]
+    ],
+    [
+     "Ojciec wasz w niebiosach",
+     [
+      "section",
+      "Ojciec, który wie, i Ojciec, który widzi"
+     ]
+    ],
+    [
+     "królestwa świata i władza dana na górze",
+     [
+      "unit",
+      "w. 33–34",
+      3
+     ]
+    ],
+    [
+     "zapłata i jej dwa adresy",
+     [
+      "block",
+      "w. 19–21"
+     ]
+    ],
+    [
+     "sól, światło i miasto: trzy obrazy jawności",
+     [
+      "unit",
+      "w. 22–23",
+      4
+     ]
+    ],
+    [
+     "obłudnik i jego widownia",
+     [
+      "unit",
+      "w. 19–21",
+      2
+     ]
+    ]
+   ],
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     "ST I–II, q. 1, a. 5",
+     [
+      "section",
+      "Dwa panowania i jeden cel ostateczny"
+     ],
+     "Niemożliwe jest, aby jedna wola miała jednocześnie dwa cele ostateczne, bo cel ostateczny domyka pragnienie i nie zostawia miejsca na drugi tak samo domykający. Zdanie Mt 6,24 orzeka to samo w języku własności: δουλεύειν jest oddaniem całości, a całość oddana raz nie jest już dostępna.",
+     "Summa Theologiae"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "ST I–II, q. 2, a. 1",
+     [
+      "section",
+      "Bogactwo w porządku dóbr"
+     ],
+     "Szczęście nie polega na bogactwie: bogactwa naturalne mają miarę w potrzebie, sztuczne — pieniądz — nie mają miary w sobie, bo powstały dla wymiany, a dobro użyteczne nie może być celem. Mt 6,32–33 trzyma tę samą miarę w obie strony: potrzebujecie tych rzeczy, ale nie szukacie ich pierwszych.",
+     "Summa Theologiae"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "ST II–II, q. 118, a. 1",
+     [
+      "section",
+      "Bogactwo w porządku dóbr"
+     ],
+     "Chciwość jest wadą, bo stawia dobro użyteczne w miejscu celu, przez co odwraca porządek miłości. Nazwanie mamony panem w Mt 6,24 opisuje dokładnie to odwrócenie, nie samo posiadanie.",
+     "Summa Theologiae"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "ST II–II, q. 55, a. 6–7",
+     [
+      "section",
+      "Troska dozwolona i troska zakazana"
+     ],
+     "Troska o rzeczy doczesne jest nieuporządkowana na trzy sposoby: gdy stawia je jako cel, gdy odbiera zaufanie Bożej pomocy i gdy wybiega w przyszłość ponad to, co dziś należy zrobić. Trzeci sposób jest komentarzem do Mt 6,34 i Tomasz cytuje ten wiersz w tym właśnie artykule.",
+     "Summa Theologiae"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "ST I–II, q. 18, a. 4",
+     [
+      "section",
+      "Oko jako intencja i gatunek moralny czynu"
+     ],
+     "Czyn ludzki otrzymuje swój gatunek moralny od przedmiotu i od celu, a wola jest tym, przez co cel wchodzi w czyn. Obraz oka, od którego zależy jasność całego ciała, jest w tej nauce punktem odniesienia i tak go czytał Augustyn.",
+     "Summa Theologiae"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "ST I, q. 22, a. 3",
+     [
+      "section",
+      "Obietnica dodania i przyczyny wtórne"
+     ],
+     "Opatrzność wykonuje swoje postanowienia przez przyczyny wtórne i nie znosi ich, lecz ustanawia. Bóg karmi ptaki przez porządek, w którym ptak żeruje, a człowieka przez porządek, w którym człowiek sieje; obietnica dodania wskazuje źródło, nie omija przyczyn.",
+     "Summa Theologiae"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "Super Mt., cap. VI",
+     [
+      "unit",
+      "w. 24",
+      3
+     ],
+     "Dwaj panowie są u Tomasza dwoma celami ostatecznymi, a mamona nazwą bogactwa wziętą z języka obcego; służba należy do tego, kogo się stawia na końcu szeregu pragnień. Rozstrzygnięcie idzie więc za Augustynem, a nie za lekturą alegoryczną.",
+     "Super Evangelium S. Matthaei lectura"
+    ],
+    [
+     "św. Augustyn",
+     "De op. monach. 23–26",
+     [
+      "section",
+      "Ptaki niebieskie i spór o pracę rąk"
+     ],
+     "Mnisi kartagińscy odmawiali pracy zarobkowej, powołując się na ptaki, które nie sieją. Odpowiedź idzie dwiema drogami: przykładem Pawła pracującego własnymi rękami i wskazaniem, że porównanie dotyczy źródła pokarmu, nie sposobu jego uzyskania.",
+     "De opere monachorum"
+    ],
+    [
+     "św. Epifaniusz z Salaminy",
+     "Panarion 80",
+     [
+      "section",
+      "Ptaki niebieskie i spór o pracę rąk"
+     ],
+     "Opis messalian, którzy modlitwę przeciwstawiali pracy i utrzymywali się z jałmużny. Spór o Mt 6,26 miał zatem w czwartym wieku dwa ogniska, wschodnie i zachodnie, a oba rozstrzygnięto po tej samej stronie.",
+     "Panarion"
+    ],
+    [
+     "Jan XXII",
+     "Cum inter nonnullos",
+     [
+      "section",
+      "Ptaki niebieskie i spór o pracę rąk"
+     ],
+     "Konstytucja z roku 1323 uznała za błędne twierdzenie, że Chrystus i apostołowie nie mieli niczego ani prawa do niczego. Rozstrzygnięcie dotyczyło ubóstwa franciszkańskiego, a w tle stały wiersze o ptakach i o skarbie.",
+     "Cum inter nonnullos"
+    ],
+    [
+     "św. Cyprian z Kartaginy",
+     "De op. et eleem. 7–9",
+     [
+      "section",
+      "Skarb w niebie a jałmużna i zasługa"
+     ],
+     "Jałmużna jest u Cypriana sposobem przeniesienia skarbu z ziemi do nieba i całe jego dzieło jest rozwinięciem Mt 6,19–21 w tym kierunku. Z tej linii wyrosło późniejsze kaznodziejstwo łacińskie o dziełach miłosierdzia.",
+     "De opere et eleemosynis"
+    ],
+    [
+     "Sobór Trydencki",
+     "sesja VI, rozdz. 16 i kan. 32",
+     [
+      "section",
+      "Skarb w niebie a jałmużna i zasługa"
+     ],
+     "Dekret o usprawiedliwieniu utrzymuje możliwość zasługi, zastrzegając, że wszystko w niej pochodzi z łaski Chrystusa jako głowy. Obietnica skarbu zostaje przez to przeniesiona z porządku wymiany do porządku obietnicy.",
+     "Decretum de iustificatione (sesja VI)"
+    ],
+    [
+     "Kościół katolicki",
+     "KKK 2113 i 2424",
+     [
+      "section",
+      "Mamona: od objaśnienia językowego do imienia własnego"
+     ],
+     "Bałwochwalstwo polega na ubóstwieniu tego, co nie jest Bogiem, a mamona wyliczona jest wśród jego postaci; pragnienie pieniądza nazwane jest wprost niemożliwym do pogodzenia ze służbą Bogu. Numery wymagają sprawdzenia w wydaniu polskim.",
+     "Catechismus Catholicae Ecclesiae"
+    ],
+    [
+     "M. Luter",
+     "Duży katechizm, pierwsze przykazanie",
+     [
+      "section",
+      "Mamona: od objaśnienia językowego do imienia własnego"
+     ],
+     "Mamona nazwana jest najpowszechniejszym bożkiem na ziemi, a wiersz z Kazania odczytany jako wykład pierwszego przykazania. Lektura ta przeniosła ciężar z moralnej oceny bogactwa na pytanie o przedmiot zaufania.",
+     "Der Große Katechismus"
+    ],
+    [
+     "J. Milton",
+     "Paradise Lost I,678–690",
+     [
+      "section",
+      "Mamona: od objaśnienia językowego do imienia własnego"
+     ],
+     "Mammon występuje jako jeden z upadłych aniołów, ten, który i w niebie wypatrywał złota pod posadzką. Postać literacka domknęła proces, w którym rzeczownik pospolity stał się imieniem własnym.",
+     "Paradise Lost"
+    ],
+    [
+     "T. C. Skeat",
+     "ZNW 37 (1938), s. 211–214",
+     [
+      "unit",
+      "w. 28–30",
+      1
+     ],
+     "Argument za pierwotnością lekcji pierwotnego Sinaiticusa w Mt 6,28, z czasownikiem o gręplowaniu wełny, i za wyprowadzeniem tekstu drukowanego z pomyłki kopisty. Rok i strony wymagają sprawdzenia.",
+     "The Lilies of the Field"
+    ],
+    [
+     "U. Luz",
+     "Das Evangelium nach Matthäus I/1, ad Mt 6,19–34",
+     [
+      "section",
+      "Autor ludzki: kim jest i co chce przekazać"
+     ],
+     "Spójnik διὰ τοῦτο z Mt 6,25 wskazuje wstecz na zdanie o dwóch panach i przez to zrównuje troskę ubogiego z gromadzeniem bogatego. Zebranie czterech rozproszonych u Łukasza powiedzeń w jeden wywód jest u Mateusza zabiegiem redakcyjnym o skutku teologicznym.",
+     "Das Evangelium nach Matthäus"
+    ],
+    [
+     "R. T. France",
+     "NICNT, ad Mt 6,19–34",
+     [
+      "section",
+      "Autor ludzki: kim jest i co chce przekazać"
+     ],
+     "Dodatek καὶ τὴν δικαιοσύνην αὐτοῦ w Mt 6,33, nieobecny u Łukasza, wciąga obietnicę w sieć Mateuszowej sprawiedliwości i domyka szereg otwarty w 5,20. Wiersz 6,34, również bez paraleli, sprowadza tę obietnicę do jednej doby.",
+     "The Gospel of Matthew (NICNT)"
+    ]
+   ],
+   "revision_note": "2026-11-27: perykopa dwunasta bazy Mateusza (Mt 6,19–34), czwarta część Kazania na górze. Sekcja I w siedmiu blokach i czterdziestu dwóch jednostkach analizy; oś na czasowniku προστίθημι, który pada u Mateusza dwa razy i oba razy w tej perykopie — raz o tym, czego człowiek nie może dodać do własnego wzrostu (w. 27), raz o tym, co zostaje mu dodane (w. 33) — oraz na celowniku ὑμῖν, wiążącym θησαυρίζετε ὑμῖν z w. 19 z προστεθήσεται ὑμῖν z w. 33. Szew z perykopą jedenastą: czasownik ἀφανίζω (6,16.19.20). Dodano 51 leksemów, 7 terminów semickich, 8 motywów, 5 dzieł, 4 księgi, 53 odniesienia biblijne, 18 cytatów, 14 not tekstualnych i 4 głosy kateny (Hilary, Augustyn, Chryzostom, Hieronim). Loci patrystyczne i sigla liturgiczne wymagają sprawdzenia przy źródłach — patrz Nota warsztatowa."
+  }
+ ]
+}

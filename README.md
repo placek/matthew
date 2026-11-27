@@ -4,7 +4,7 @@ Baza `egzegeza_mateusza.sqlite` przechowuje pełną egzegezę perykopa po
 perykopie. Zakres docelowy: **cała Ewangelia, Mt 1,1–28,20**, w sześćdziesięciu
 trzech perykopach. Stan dziś: maszyneria stoi, delimitacja jest zatwierdzona,
 **Wprowadzenie napisane** (7 sekcji, 21 podsekcji), opracowanych jest
-**siedem pierwszych perykop** (Mt 1,1–4,16, wszystkie w statusie `w_opracowaniu`).
+**dwanaście pierwszych perykop** (Mt 1,1–6,34, wszystkie w statusie `w_opracowaniu`).
 Źródło samego tekstu (`db.sqlite`) jest kompletne.
 
 Repozytorium powstało na wzór `../john` wedle procedury z `NOWA_KSIEGA.md`.

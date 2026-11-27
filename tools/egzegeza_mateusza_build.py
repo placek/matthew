@@ -33,7 +33,8 @@ PHASES = ["rodowod.json", "narodzenie.json", "magowie.json",
           "egipt.json", "chrzciciel.json",
           "chrzest.json", "kuszenie.json",
           "poczatek.json", "blogoslawienstwa.json",
-          "prawo.json", "sprawiedliwosc.json"]   # kolejne perykopy dopisuj na końcu — patrz README.md
+          "prawo.json", "sprawiedliwosc.json",
+          "skarb.json"]   # kolejne perykopy dopisuj na końcu — patrz README.md
 
 # Tytuł sekcji I jest strukturalnym szkieletem każdej perykopy (nie treścią).
 SECTION_I_TITLE = ("Tekst grecki (Nestle-Aland, wyd. 28) z przekładem "

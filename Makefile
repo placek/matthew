@@ -29,7 +29,7 @@ SOURCES = tools/egzegeza_mateusza_build.py data/schema.sql \
           data/magowie.json data/egipt.json data/chrzciciel.json \
           data/chrzest.json data/kuszenie.json data/poczatek.json \
           data/blogoslawienstwa.json data/prawo.json \
-          data/sprawiedliwosc.json
+          data/sprawiedliwosc.json data/skarb.json
 BUILD   = tools/egzegeza_mateusza_build.py
 APP     = browser/app.py
 EXPORT  = tools/export_pericope.py
