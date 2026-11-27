@@ -1,0 +1,1510 @@
+{
+ "meta": [
+  [
+   "projekt",
+   "Egzegeza Ewangelii według św. Mateusza"
+  ],
+  [
+   "edycja_tekstu_greckiego",
+   "Nestle-Aland"
+  ],
+  [
+   "przeklad",
+   "roboczy, własny, celowo dosłowny"
+  ],
+  [
+   "zrodlo_tekstu",
+   "db.sqlite — interlinia, Wulgata klementyńska i aparat NA"
+  ]
+ ],
+ "books": [
+  [
+   "Mt",
+   "Ewangelia według św. Mateusza",
+   "NT",
+   47
+  ],
+  [
+   "Rdz",
+   "Księga Rodzaju",
+   "ST",
+   1
+  ],
+  [
+   "Pwt",
+   "Księga Powtórzonego Prawa",
+   "ST",
+   5
+  ],
+  [
+   "Joz",
+   "Księga Jozuego",
+   "ST",
+   6
+  ],
+  [
+   "Rt",
+   "Księga Rut",
+   "ST",
+   8
+  ],
+  [
+   "2 Sm",
+   "Druga Księga Samuela",
+   "ST",
+   10
+  ],
+  [
+   "2 Krl",
+   "Druga Księga Królewska",
+   "ST",
+   12
+  ],
+  [
+   "1 Krn",
+   "Pierwsza Księga Kronik",
+   "ST",
+   13
+  ],
+  [
+   "Ezd",
+   "Księga Ezdrasza",
+   "ST",
+   15
+  ],
+  [
+   "Ne",
+   "Księga Nehemiasza",
+   "ST",
+   16
+  ],
+  [
+   "Iz",
+   "Księga Izajasza",
+   "ST",
+   24
+  ],
+  [
+   "Jr",
+   "Księga Jeremiasza",
+   "ST",
+   25
+  ],
+  [
+   "Dn",
+   "Księga Daniela",
+   "ST",
+   32
+  ],
+  [
+   "Ag",
+   "Księga Aggeusza",
+   "ST",
+   43
+  ],
+  [
+   "Mk",
+   "Ewangelia według św. Marka",
+   "NT",
+   48
+  ],
+  [
+   "Łk",
+   "Ewangelia według św. Łukasza",
+   "NT",
+   49
+  ],
+  [
+   "Rz",
+   "List do Rzymian",
+   "NT",
+   52
+  ],
+  [
+   "Ga",
+   "List do Galatów",
+   "NT",
+   55
+  ],
+  [
+   "Hbr",
+   "List do Hebrajczyków",
+   "NT",
+   65
+  ]
+ ],
+ "verses": {
+  "chapter": 1,
+  "items": [
+   [
+    1,
+    "Βίβλος γενέσεως Ἰησοῦ Χριστοῦ υἱοῦ Δαυὶδ υἱοῦ Ἀβραάμ.",
+    "Księga narodzenia Jezusa Chrystusa, syna Dawida, syna Abrahama."
+   ],
+   [
+    2,
+    "Ἀβραὰμ ἐγέννησεν τὸν Ἰσαάκ, Ἰσαὰκ δὲ ἐγέννησεν τὸν Ἰακώβ, Ἰακὼβ δὲ ἐγέννησεν τὸν Ἰούδαν καὶ τοὺς ἀδελφοὺς αὐτοῦ,",
+    "Abraham zrodził Izaaka, Izaak zaś zrodził Jakuba, Jakub zaś zrodził Judę i braci jego,"
+   ],
+   [
+    3,
+    "Ἰούδας δὲ ἐγέννησεν τὸν Φάρες καὶ τὸν Ζάρα ἐκ τῆς Θαμάρ, Φάρες δὲ ἐγέννησεν τὸν Ἑσρώμ, Ἑσρὼμ δὲ ἐγέννησεν τὸν Ἀράμ,",
+    "Juda zaś zrodził Faresa i Zarę z Tamar, Fares zaś zrodził Esroma, Esrom zaś zrodził Arama,"
+   ],
+   [
+    4,
+    "Ἀρὰμ δὲ ἐγέννησεν τὸν Ἀμιναδάβ, Ἀμιναδὰβ δὲ ἐγέννησεν τὸν Ναασσών, Ναασσὼν δὲ ἐγέννησεν τὸν Σαλμών,",
+    "Aram zaś zrodził Aminadaba, Aminadab zaś zrodził Naassona, Naasson zaś zrodził Salmona,"
+   ],
+   [
+    5,
+    "Σαλμὼν δὲ ἐγέννησεν τὸν Βόες ἐκ τῆς Ῥαχάβ, Βόες δὲ ἐγέννησεν τὸν Ἰωβὴδ ἐκ τῆς Ῥούθ, Ἰωβὴδ δὲ ἐγέννησεν τὸν Ἰεσσαί,",
+    "Salmon zaś zrodził Boesa z Rachab, Boes zaś zrodził Jobeda z Rut, Jobed zaś zrodził Jessego,"
+   ],
+   [
+    6,
+    "Ἰεσσαὶ δὲ ἐγέννησεν τὸν Δαυὶδ τὸν βασιλέα. Δαυὶδ δὲ ἐγέννησεν τὸν Σολομῶνα ἐκ τῆς τοῦ Οὐρίου,",
+    "Jesse zaś zrodził Dawida, króla. Dawid zaś zrodził Salomona z tej, która była żoną Uriasza,"
+   ],
+   [
+    7,
+    "Σολομὼν δὲ ἐγέννησεν τὸν Ῥοβοάμ, Ῥοβοὰμ δὲ ἐγέννησεν τὸν Ἀβιά, Ἀβιὰ δὲ ἐγέννησεν τὸν Ἀσάφ,",
+    "Salomon zaś zrodził Roboama, Roboam zaś zrodził Abiasza, Abiasz zaś zrodził Asafa,"
+   ],
+   [
+    8,
+    "Ἀσὰφ δὲ ἐγέννησεν τὸν Ἰωσαφάτ, Ἰωσαφὰτ δὲ ἐγέννησεν τὸν Ἰωράμ, Ἰωρὰμ δὲ ἐγέννησεν τὸν Ὀζίαν,",
+    "Asaf zaś zrodził Jozafata, Jozafat zaś zrodził Jorama, Joram zaś zrodził Ozjasza,"
+   ],
+   [
+    9,
+    "Ὀζίας δὲ ἐγέννησεν τὸν Ἰωαθάμ, Ἰωαθὰμ δὲ ἐγέννησεν τὸν Ἀχάζ, Ἀχὰζ δὲ ἐγέννησεν τὸν Ἑζεκίαν,",
+    "Ozjasz zaś zrodził Joatama, Joatam zaś zrodził Achaza, Achaz zaś zrodził Ezechiasza,"
+   ],
+   [
+    10,
+    "Ἑζεκίας δὲ ἐγέννησεν τὸν Μανασσῆ, Μανασσῆς δὲ ἐγέννησεν τὸν Ἀμώς, Ἀμὼς δὲ ἐγέννησεν τὸν Ἰωσίαν,",
+    "Ezechiasz zaś zrodził Manassesa, Manasses zaś zrodził Amosa, Amos zaś zrodził Jozjasza,"
+   ],
+   [
+    11,
+    "Ἰωσίας δὲ ἐγέννησεν τὸν Ἰεχονίαν καὶ τοὺς ἀδελφοὺς αὐτοῦ ἐπὶ τῆς μετοικεσίας Βαβυλῶνος.",
+    "Jozjasz zaś zrodził Jechoniasza i braci jego, za przesiedlenia babilońskiego."
+   ],
+   [
+    12,
+    "Μετὰ δὲ τὴν μετοικεσίαν Βαβυλῶνος Ἰεχονίας ἐγέννησεν τὸν Σαλαθιήλ, Σαλαθιὴλ δὲ ἐγέννησεν τὸν Ζοροβαβέλ,",
+    "Po przesiedleniu zaś babilońskim Jechoniasz zrodził Salatiela, Salatiel zaś zrodził Zorobabela,"
+   ],
+   [
+    13,
+    "Ζοροβαβὲλ δὲ ἐγέννησεν τὸν Ἀβιούδ, Ἀβιοὺδ δὲ ἐγέννησεν τὸν Ἐλιακίμ, Ἐλιακὶμ δὲ ἐγέννησεν τὸν Ἀζώρ,",
+    "Zorobabel zaś zrodził Abiuda, Abiud zaś zrodził Eliakima, Eliakim zaś zrodził Azora,"
+   ],
+   [
+    14,
+    "Ἀζὼρ δὲ ἐγέννησεν τὸν Σαδώκ, Σαδὼκ δὲ ἐγέννησεν τὸν Ἀχίμ, Ἀχὶμ δὲ ἐγέννησεν τὸν Ἐλιούδ,",
+    "Azor zaś zrodził Sadoka, Sadok zaś zrodził Achima, Achim zaś zrodził Eliuda,"
+   ],
+   [
+    15,
+    "Ἐλιοὺδ δὲ ἐγέννησεν τὸν Ἐλεάζαρ, Ἐλεάζαρ δὲ ἐγέννησεν τὸν Ματθάν, Ματθὰν δὲ ἐγέννησεν τὸν Ἰακώβ,",
+    "Eliud zaś zrodził Eleazara, Eleazar zaś zrodził Mattana, Mattan zaś zrodził Jakuba,"
+   ],
+   [
+    16,
+    "Ἰακὼβ δὲ ἐγέννησεν τὸν Ἰωσὴφ τὸν ἄνδρα Μαρίας, ἐξ ἧς ἐγεννήθη Ἰησοῦς ὁ λεγόμενος χριστός.",
+    "Jakub zaś zrodził Józefa, męża Marii, z której został zrodzony Jezus, zwany Chrystusem."
+   ],
+   [
+    17,
+    "Πᾶσαι οὖν αἱ γενεαὶ ἀπὸ Ἀβραὰμ ἕως Δαυὶδ γενεαὶ δεκατέσσαρες, καὶ ἀπὸ Δαυὶδ ἕως τῆς μετοικεσίας Βαβυλῶνος γενεαὶ δεκατέσσαρες, καὶ ἀπὸ τῆς μετοικεσίας Βαβυλῶνος ἕως τοῦ Χριστοῦ γενεαὶ δεκατέσσαρες.",
+    "Wszystkich więc pokoleń od Abrahama do Dawida — pokoleń czternaście, i od Dawida do przesiedlenia babilońskiego — pokoleń czternaście, i od przesiedlenia babilońskiego do Chrystusa — pokoleń czternaście."
+   ]
+  ]
+ },
+ "lexemes": [
+  [
+   "βίβλος",
+   "biblos",
+   "rzeczownik",
+   "zwój, księga — w 1,1 nagłówek archiwalny, nie tytuł literacki"
+  ],
+  [
+   "γένεσις",
+   "genesis",
+   "rzeczownik",
+   "powstanie, pochodzenie, narodzenie — w LXX słowo nagłówków rodowodowych (Rdz 2,4; 5,1) i tytuł pierwszej księgi Pisma"
+  ],
+  [
+   "γεννάω",
+   "gennao",
+   "czasownik",
+   "rodzić, zrodzić — w Mt 1,1–17 czterdzieści form: trzydzieści dziewięć aorystów czynnych i jeden bierny (1,16)"
+  ],
+  [
+   "γενεά",
+   "genea",
+   "rzeczownik",
+   "pokolenie, generacja — u Mateusza także ocena moralna współczesnych (11,16; 12,39.41–45; 23,36; 24,34)"
+  ],
+  [
+   "δεκατέσσαρες",
+   "dekatessares",
+   "liczebnik",
+   "czternaście — liczba porządkująca rodowód (1,17); w Nowym Testamencie jeszcze 2 Kor 12,2 i Ga 2,1"
+  ],
+  [
+   "Χριστός",
+   "christos",
+   "rzeczownik",
+   "Pomazaniec, Mesjasz — grecki odpowiednik hebrajskiego maszijach; u Mateusza zwykle z rodzajnikiem, jako tytuł"
+  ],
+  [
+   "υἱός",
+   "hyios",
+   "rzeczownik",
+   "syn — w 1,1 dwa razy jako tytuł: Syn Dawida i Syn Abrahama"
+  ],
+  [
+   "βασιλεύς",
+   "basileus",
+   "rzeczownik",
+   "król — jedyny tytuł wewnątrz listy rodowodu, przy Dawidzie (1,6)"
+  ],
+  [
+   "μετοικεσία",
+   "metoikesia",
+   "rzeczownik",
+   "przesiedlenie, deportacja — w Nowym Testamencie tylko w tej perykopie (1,11.12.17)"
+  ],
+  [
+   "ἀνήρ",
+   "aner",
+   "rzeczownik",
+   "mąż, mężczyzna — w 1,16 Józef nazwany mężem Marii, nie ojcem Jezusa"
+  ]
+ ],
+ "semitic": [
+  [
+   "יֵשׁוּעַ",
+   "Jeszua",
+   "hbr",
+   "Jezus — skrócona postać יְהוֹשׁוּעַ (Jehoszua), „JHWH zbawia\"; imię wyłożone etymologicznie w Mt 1,21"
+  ],
+  [
+   "מָשִׁיחַ",
+   "maszijach",
+   "hbr",
+   "pomazaniec — namaszczony olejem król albo kapłan; hebrajski odpowiednik Χριστός"
+  ],
+  [
+   "סֵפֶר תּוֹלְדֹת",
+   "sefer toledot",
+   "hbr",
+   "księga rodowodów — formuła nagłówkowa Księgi Rodzaju (Rdz 5,1), którą LXX oddaje przez βίβλος γενέσεως"
+  ],
+  [
+   "דָּוִד",
+   "Dawid",
+   "hbr",
+   "Dawid — suma liczbowa liter (dalet 4, waw 6, dalet 4) wynosi czternaście; stąd gematryczna propozycja odczytania trzech grup po czternaście"
+  ],
+  [
+   "מַמְזֵר",
+   "mamzer",
+   "hbr",
+   "potomek ze związku zakazanego — kategoria halachiczna ograniczająca prawa w zgromadzeniu (Pwt 23,3; Miszna Kidduszin 4,1)"
+  ]
+ ],
+ "lexeme_semitic": [
+  [
+   "Χριστός",
+   "maszijach",
+   "Χριστός (Pomazaniec) jest kalką maszijach: grecki przymiotnik odsłowny od χρίω (namaszczać) zajmuje miejsce hebrajskiego terminu królewsko-kapłańskiego."
+  ],
+  [
+   "γένεσις",
+   "sefer toledot",
+   "βίβλος γενέσεως (księga narodzenia) odpowiada w LXX hebrajskiemu sefer toledot z Rdz 5,1; Mateusz bierze gotową formułę nagłówkową, nie tworzy jej."
+  ]
+ ],
+ "occurrences": [
+  [
+   "βίβλος",
+   1,
+   "Βίβλος"
+  ],
+  [
+   "γένεσις",
+   1,
+   "γενέσεως"
+  ],
+  [
+   "Χριστός",
+   1,
+   "Χριστοῦ"
+  ],
+  [
+   "υἱός",
+   1,
+   "υἱοῦ (bis)"
+  ],
+  [
+   "γεννάω",
+   2,
+   "ἐγέννησεν"
+  ],
+  [
+   "βασιλεύς",
+   6,
+   "βασιλέα"
+  ],
+  [
+   "μετοικεσία",
+   11,
+   "μετοικεσίας"
+  ],
+  [
+   "μετοικεσία",
+   12,
+   "μετοικεσίαν"
+  ],
+  [
+   "ἀνήρ",
+   16,
+   "ἄνδρα"
+  ],
+  [
+   "γεννάω",
+   16,
+   "ἐγεννήθη"
+  ],
+  [
+   "Χριστός",
+   16,
+   "χριστός"
+  ],
+  [
+   "γενεά",
+   17,
+   "γενεαί / γενεαὶ"
+  ],
+  [
+   "δεκατέσσαρες",
+   17,
+   "δεκατέσσαρες (ter)"
+  ],
+  [
+   "μετοικεσία",
+   17,
+   "μετοικεσίας (bis)"
+  ],
+  [
+   "Χριστός",
+   17,
+   "Χριστοῦ"
+  ]
+ ],
+ "works": [
+  [
+   "św. Jan Chryzostom",
+   "Homiliae in Matthaeum",
+   "Homilie na Ewangelię Mateusza",
+   "IV",
+   "patrystyka"
+  ],
+  [
+   "św. Hieronim",
+   "Commentariorum in Matthaeum libri IV",
+   "Komentarz do Ewangelii Mateusza",
+   "IV/V",
+   "patrystyka"
+  ],
+  [
+   "św. Hilary z Poitiers",
+   "Commentarius in Matthaeum",
+   "Komentarz do Ewangelii Mateusza",
+   "IV",
+   "patrystyka"
+  ],
+  [
+   "św. Augustyn",
+   "De consensu euangelistarum",
+   "O zgodności ewangelistów",
+   "IV/V",
+   "patrystyka"
+  ],
+  [
+   "Orygenes",
+   "Commentarium in Matthaeum",
+   "Komentarz do Ewangelii Mateusza",
+   "III",
+   "patrystyka"
+  ],
+  [
+   "św. Ignacy Antiocheński",
+   null,
+   null,
+   "I/II",
+   "patrystyka"
+  ],
+  [
+   "Euzebiusz z Cezarei",
+   "Historia ecclesiastica",
+   "Historia kościelna",
+   "IV",
+   "patrystyka"
+  ],
+  [
+   "św. Tomasz z Akwinu",
+   "Super Evangelium S. Matthaei lectura",
+   "Wykład Ewangelii św. Mateusza",
+   "XIII",
+   "scholastyka"
+  ],
+  [
+   "św. Tomasz z Akwinu",
+   "Summa Theologiae",
+   "Suma teologii",
+   "XIII",
+   "scholastyka"
+  ],
+  [
+   "św. Tomasz z Akwinu",
+   "Catena aurea",
+   "Złoty łańcuch",
+   "XIII",
+   "scholastyka"
+  ],
+  [
+   "Józef Flawiusz",
+   "Vita",
+   "Autobiografia",
+   "I",
+   "judaizm"
+  ],
+  [
+   "U. Luz",
+   "Das Evangelium nach Matthäus",
+   null,
+   "XX",
+   "wspolczesna"
+  ],
+  [
+   "W. D. Davies, D. C. Allison",
+   "The Gospel According to Saint Matthew (ICC)",
+   null,
+   "XX",
+   "wspolczesna"
+  ],
+  [
+   "R. T. France",
+   "The Gospel of Matthew (NICNT)",
+   null,
+   "XXI",
+   "wspolczesna"
+  ],
+  [
+   "A. Paciorek",
+   "Ewangelia według świętego Mateusza (Nowy Komentarz Biblijny)",
+   null,
+   "XXI",
+   "wspolczesna"
+  ]
+ ],
+ "themes": [
+  [
+   "Syn Dawida i chrystologia królewska",
+   "Tytuł ὁ υἱὸς Δαυίδ (Syn Dawida) od pierwszego wersetu (1,1) przez wołania chorych (9,27; 15,22; 20,30–31) i okrzyk tłumu (21,9.15) po spór o to, czyim synem jest Mesjasz (22,42–45). Imię Dawida pada u Mateusza siedemnaście razy, pięć z nich w rozdziale pierwszym."
+  ],
+  [
+   "rodowód, liczba i rachunek epok",
+   "Trzy grupy po czternaście pokoleń (1,17) jako arytmetyka historii zbawienia: liczenie czasu w epokach, gematria imienia Dawida i czterdzieści dwa ogniwa listy. Motyw wraca wszędzie, gdzie Mateusz liczy — od trzech dni po siedemdziesiąt siedem razy (18,22)."
+  ],
+  [
+   "cztery kobiety rodowodu",
+   "Tamar, Rachab, Rut i żona Uriasza — cztery nieregularne albo obce macierzyństwa w linii Mesjasza, wprowadzone wbrew konwencji rodowodu i przygotowujące piąte (1,18–25)."
+  ],
+  [
+   "obietnica Abrahamowa i narody",
+   "Od υἱοῦ Ἀβραάμ (syna Abrahama, 1,1) do πάντα τὰ ἔθνη (wszystkie narody, 28,19): łuk błogosławieństwa narodów z Rdz 12,3 i 22,18, przebiegający przez Magów (2,1–12), setnika (8,5–13) i Kananejkę (15,21–28)."
+  ],
+  [
+   "imię Jezus i imię Emmanuel",
+   "Dwa imiona rozdziału pierwszego: Ἰησοῦς wyłożone w 1,21 jako „on zbawi lud swój\" i Ἐμμανουήλ przetłumaczone w 1,23 jako μεθʼ ἡμῶν ὁ θεός (z nami Bóg), domknięte ostatnim zdaniem księgi (28,20)."
+  ],
+  [
+   "formuły wypełnienia",
+   "Dziesięć razy Mateusz przerywa narrację formułą ἵνα πληρωθῇ τὸ ῥηθέν (aby wypełniło się powiedziane) i jej wariantami. Rodowód jest przypadkiem granicznym: nie cytuje proroctwa, lecz buduje warunek, bez którego formuły wypełnienia nie miałyby podmiotu."
+  ]
+ ],
+ "pericopes": [
+  {
+   "pericope": {
+    "cs": 1,
+    "vs": 1,
+    "ce": 1,
+    "ve": 17,
+    "title": "Rodowód Jezusa Chrystusa",
+    "motto": "De qua natus est Jesus, qui vocatur Christus (z której narodził się Jezus, zwany Chrystusem)",
+    "status": "w_opracowaniu",
+    "position": 1
+   },
+   "intro": "Nowy Testament zaczyna się od dokumentu. Mateusz nie wprowadza scenerii jak Marek, nie składa dedykacji jak Łukasz i nie cofa się przed stworzenie jak Jan — podaje wyciąg z rejestru. W siedemnastu wersetach czasownik γεννάω (rodzić) pada czterdzieści razy: trzydzieści dziewięć razy jako aoryst czynny ἐγέννησεν (zrodził) i raz, w ostatnim ogniwie, jako bierny ἐγεννήθη (został zrodzony). Na tej jednej zmianie formy wisi cała perykopa. Łańcuch męskich zrodzeń, prowadzony bez wyłomu od Abrahama, w ostatnim ogniwie przestaje być łańcuchem: przy Józefie stoi nie syn, lecz żona, a Jezus pojawia się przez stronę bierną i przez kobietę. Rodowód dowodzi więc dwóch rzeczy naraz — że Jezus ma prawo do tronu Dawida i do obietnicy Abrahama, i że jego początek nie pochodzi z tej linii.",
+   "blocks": [
+    {
+     "cs": 1,
+     "vs": 1,
+     "ce": 1,
+     "ve": 1,
+     "label": "w. 1",
+     "greek": "Βίβλος γενέσεως Ἰησοῦ Χριστοῦ υἱοῦ Δαυὶδ υἱοῦ Ἀβραάμ.",
+     "transl": "Księga narodzenia Jezusa Chrystusa, syna Dawida, syna Abrahama.",
+     "units": [
+      [
+       "Βίβλος γενέσεως",
+       "księga narodzenia",
+       "Zdanie bez orzeczenia, złożone z dwóch rzeczowników — nagłówek, nie teza. Formuła jest cytatem z LXX: αὕτη ἡ βίβλος γενέσεως οὐρανοῦ καὶ γῆς (to księga narodzenia nieba i ziemi, Rdz 2,4) oraz αὕτη ἡ βίβλος γενέσεως ἀνθρώπων (to księga narodzenia ludzi, Rdz 5,1), gdzie oddaje hebrajskie sefer toledot (księga rodowodów). Mateusz bierze gotowy szyld Księgi Rodzaju i stawia go nad swoją księgą. Zasięg nagłówka jest sporny: może obejmować sam rodowód (w. 17 domyka go sumowaniem Πᾶσαι οὖν αἱ γενεαί — wszystkich więc pokoleń), może rozdziały 1–2, może całość. Argument za szerokim odczytaniem bywa osłabiany przez samą tradycję rękopiśmienną: w 1,18 Mateusz powtarza γένεσις, lecz aparat notuje tam wariant γέννησις (narodzenie) w L f¹³ 33 i tekście większościowym, u Ireneusza i Orygenesa. Kopiści czytali więc 1,18 jako początek opowiadania o narodzeniu, nie jako ciąg nagłówka — i przesunęli słowo z rejestru pochodzenia w stronę aktu urodzenia. Wulgata ma *liber generationis* (księga rodu), co zachowuje niejednoznaczność grecką."
+      ],
+      [
+       "Ἰησοῦ Χριστοῦ",
+       "Jezusa Chrystusa",
+       "Oba słowa bez rodzajnika, zestawione jak imię własne dwuczłonowe. Jest to u Mateusza zabieg rzadki: Χριστός stoi u niego zwykle z rodzajnikiem i pracuje jako tytuł — ὁ χριστός (Mesjasz) w 2,4; 16,16; 22,42; 26,63. Para Ἰησοῦς Χριστός wraca tylko raz, w 1,18, i potem znika z księgi; dalej jest albo samo imię, albo sam tytuł. Nagłówek używa więc formuły, którą posługiwał się już Kościół w swoim wyznaniu, i dopiero rozdział 1 rozbiera ją na części: imię Ἰησοῦς — grecką postać hebrajskiego Jeszua, skróconego Jehoszua („JHWH zbawia\") — wykłada 1,21 przez obietnicę αὐτὸς γὰρ σώσει τὸν λαὸν αὐτοῦ (on bowiem zbawi lud swój); tytuł Χριστός, odpowiednik maszijach (pomazaniec), dostaje treść w rodowodzie, bo pomazaniec musi być z rodu Dawida. Nagłówek stawia wyznanie, lista dostarcza do niego podstawy."
+      ],
+      [
+       "υἱοῦ Δαυὶδ υἱοῦ Ἀβραάμ",
+       "syna Dawida, syna Abrahama",
+       "Dwa dopełniacze bez spójnika, w kolejności odwrotnej do chronologii. Porządek nie jest potknięciem: Dawid stoi pierwszy, bo tytuł ὁ υἱὸς Δαυίδ (Syn Dawida) jest tezą całej księgi. Imię Dawida pada u Mateusza siedemnaście razy, z czego pięć w tym rozdziale (1,1.6 bis.17 bis.20), a dalej wołają nim niewidomi (9,27; 20,30–31), Kananejka (15,22) i tłum przy wjeździe (21,9.15), aż spór w 22,42–45 odwraca pytanie: jeśli Mesjasz jest synem Dawida, dlaczego Dawid nazywa go Panem. W pobożności żydowskiej okresu tytuł ma barwę polityczną — Psalmy Salomona 17 proszą Boga o króla, syna Dawida, który złamie panowanie obcych — i Mateusz tę barwę przyjmuje, żeby ją przez całą księgę przebudować. Abraham zamyka wiersz i otwiera drugą perspektywę: obietnicę błogosławieństwa dla wszystkich narodów (Rdz 12,3; 22,18). Rodowód biegnie więc od Abrahama do Dawida i dalej, a księga kończy się rozesłaniem do πάντα τὰ ἔθνη (wszystkich narodów, 28,19). Pierwszy wiersz ustawia oba łuki, zanim opowie cokolwiek."
+      ]
+     ]
+    },
+    {
+     "cs": 1,
+     "vs": 2,
+     "ce": 1,
+     "ve": 6,
+     "label": "w. 2–6",
+     "greek": "Ἀβραὰμ ἐγέννησεν τὸν Ἰσαάκ, Ἰσαὰκ δὲ ἐγέννησεν τὸν Ἰακώβ, Ἰακὼβ δὲ ἐγέννησεν τὸν Ἰούδαν καὶ τοὺς ἀδελφοὺς αὐτοῦ, Ἰούδας δὲ ἐγέννησεν τὸν Φάρες καὶ τὸν Ζάρα ἐκ τῆς Θαμάρ, Φάρες δὲ ἐγέννησεν τὸν Ἑσρώμ, Ἑσρὼμ δὲ ἐγέννησεν τὸν Ἀράμ, Ἀρὰμ δὲ ἐγέννησεν τὸν Ἀμιναδάβ, Ἀμιναδὰβ δὲ ἐγέννησεν τὸν Ναασσών, Ναασσὼν δὲ ἐγέννησεν τὸν Σαλμών, Σαλμὼν δὲ ἐγέννησεν τὸν Βόες ἐκ τῆς Ῥαχάβ, Βόες δὲ ἐγέννησεν τὸν Ἰωβὴδ ἐκ τῆς Ῥούθ, Ἰωβὴδ δὲ ἐγέννησεν τὸν Ἰεσσαί, Ἰεσσαὶ δὲ ἐγέννησεν τὸν Δαυὶδ τὸν βασιλέα. Δαυὶδ δὲ ἐγέννησεν τὸν Σολομῶνα ἐκ τῆς τοῦ Οὐρίου,",
+     "transl": "Abraham zrodził Izaaka, Izaak zaś zrodził Jakuba, Jakub zaś zrodził Judę i braci jego, Juda zaś zrodził Faresa i Zarę z Tamar, Fares zaś zrodził Esroma, Esrom zaś zrodził Arama, Aram zaś zrodził Aminadaba, Aminadab zaś zrodził Naassona, Naasson zaś zrodził Salmona, Salmon zaś zrodził Boesa z Rachab, Boes zaś zrodził Jobeda z Rut, Jobed zaś zrodził Jessego, Jesse zaś zrodził Dawida, króla. Dawid zaś zrodził Salomona z tej, która była żoną Uriasza,",
+     "units": [
+      [
+       "ἐγέννησεν",
+       "zrodził",
+       "Aoryst indicativi activi, trzecia osoba liczby pojedynczej, powtórzony trzydzieści dziewięć razy. Aoryst jest tu czasem rejestru: podaje fakt bez trwania i bez skutku, zamknięty punkt na osi. Strona czynna niesie prawo — w rodowodzie semickim zrodzenie ustanawia dziedziczenie, dlatego podmiotem jest zawsze ojciec, a syn stoi w bierniku z rodzajnikiem (τὸν Ἰσαάκ). Składnia nie zna wariacji: imię w mianowniku, δέ, orzeczenie, imię w bierniku; monotonia jest zamierzona i w lekturze głośnej działa jak uderzenia metronomu. Czasownik ten w Nowym Testamencie bywa też metaforą zrodzenia duchowego (J 1,13; 1 J 3,9), lecz u Mateusza pozostaje przy ciele i przy prawie — tym ostrzej odcina się od niego jedyna forma bierna w w. 16."
+      ],
+      [
+       "τὸν Ἰούδαν καὶ τοὺς ἀδελφοὺς αὐτοῦ",
+       "Judę i braci jego",
+       "Rodowód wybiera jedną linię i powinien odrzucać boczne. Dwa razy tego nie robi: tutaj i przy Jechoniaszu (w. 11), a obie wzmianki stoją na progach niewoli — egipskiej i babilońskiej. Wymienienie braci Judy wprowadza w listę dwanaście pokoleń: linia królewska nie jest rywalką Izraela, lecz jego skrótem. Przy Judzie zostaje też milcząco przywołane błogosławieństwo z Rdz 49,10, które Qumran czytał mesjańsko (4Q252 wiąże berło Judy z „Mesjaszem sprawiedliwości\"). Zarazem Mateusz usuwa z listy Lewiego, mimo że tradycja o podwójnym, kapłańsko-królewskim Mesjaszu krążyła w judaizmie tego okresu: pomazaniec tej Ewangelii jest królem, a jego kapłaństwo wyłoży dopiero List do Hebrajczyków."
+      ],
+      [
+       "ἐκ τῆς Θαμάρ",
+       "z Tamar",
+       "Pierwsza z czterech kobiet i pierwsze złamanie konwencji. Rodowód wymienia matkę rzadko i tylko wtedy, gdy coś przez to rozstrzyga; Mateusz robi to cztery razy, zawsze przez przyimek ἐκ z dopełniaczem — „z\", jak o źródle. Tamar jest synową Judy i Kananejką, a jej macierzyństwo bierze się z podstępu: przebrana za nierządnicę wymusiła na teściu prawo lewiratu, którego odmówił (Rdz 38). Werdykt samego Judy — „ona jest sprawiedliwsza ode mnie\" (Rdz 38,26) — jest pierwszym w Piśmie orzeczeniem o δικαιοσύνη (sprawiedliwości), które przewraca oczekiwania co do osób, i Mateusz, dla którego sprawiedliwość będzie słowem kluczowym, stawia ten przypadek w pierwszym akapicie księgi. Dodatkowo wymienia obu bliźniaków, Faresa i Zarę, choć linia idzie tylko przez pierwszego: zapisuje nie to, co potrzebne, lecz to, co się stało."
+      ],
+      [
+       "ἐκ τῆς Ῥαχάβ ... ἐκ τῆς Ῥούθ",
+       "z Rachab ... z Rut",
+       "Dwie następne kobiety są obce z urodzenia. Rachab to nierządnica z Jerycha, która ukryła zwiadowców i ocalała z miastem (Joz 2; 6,22–25); Rut jest Moabitką, czyli należy do narodu, który Pwt 23,4 wyklucza ze zgromadzenia Pana „aż do dziesiątego pokolenia\". Księga Rut odpowiada na ten zakaz własnym rodowodem (Rt 4,18–22), prowadzącym od Faresa do Dawida — i właśnie ten odcinek Mateusz przepisuje, razem z greckimi postaciami imion z LXX (Φάρες, Ἑσρώμ, Ἀμιναδάβ, Ναασσών, Σαλμών, Ἰωβήδ). Przy Rachab napotyka jednak problem, którego Pismo nie rozwiązuje: Stary Testament nigdzie nie czyni jej żoną Salmona ani matką Booza, a odstęp czasowy między Jerychem a Dawidem jest na cztery pokolenia za krótki. Źródło tego skojarzenia jest nieznane; sam zapis Ῥαχάβ różni się od LXX-owego Ῥαάβ (Joz 2,1; Hbr 11,31; Jk 2,25), co mogłoby wskazywać na inną tradycję, lecz to tylko przypuszczenie. Mateusz pisze więc rodowód, w którym dwa z czterech macierzyństw są pozabiblijne albo niepewne — i nie zaciera tego."
+      ],
+      [
+       "τὸν Δαυὶδ τὸν βασιλέα",
+       "Dawida, króla",
+       "Jedyny tytuł wewnątrz listy. Czterdzieści jedno imię rodowe stoi w liście bez określenia; jedno dostaje godność, i to w pozycji szwu — Dawid kończy pierwszą czternastkę i otwiera drugą, jest więc jedynym człowiekiem liczonym po obu stronach granicy. Powtórzony rodzajnik (τὸν Δαυὶδ τὸν βασιλέα) wyodrębnia godność jako osobne orzeczenie o osobie, nie jako przydawkę. Aparat pokazuje, że asymetria drażniła kopistów: w drugiej połowie wiersza C L W 33 i tekst większościowy wraz z przekładami łacińskimi dopisują ὁ βασιλεύς także przy Dawidzie-ojcu Salomona, wyrównując rytm, czego najstarsi świadkowie (𝔓¹ ℵ B) nie mają. Mateuszowi tytuł był potrzebny raz: od tego miejsca lista przestaje być genealogią rodu i staje się sukcesją tronu, a kiedy tron upadnie, upadek zostanie zapisany w tej samej linijce co imiona."
+      ],
+      [
+       "ἐκ τῆς τοῦ Οὐρίου",
+       "z tej, która była żoną Uriasza",
+       "Czwarta kobieta nie dostaje imienia. Składnia jest skrajnie oszczędna: rodzajnik żeński w dopełniaczu i drugi dopełniacz męski — „z tej, co Uriasza\", bez rzeczownika, który trzeba domyślić. Batszeba zostaje więc wskazana przez męża, od którego ją zabrano, a nie przez męża, z którym urodziła Salomona. Jedno słowo wnosi do rodowodu Mesjasza całe 2 Sm 11–12: cudzołóstwo, zabójstwo zaaranżowane rozkazem i wyrok Natana. Mateusz nie łagodzi ani nie komentuje — stawia Uriasza Chetytę w genealogii króla, który go zamordował. Przy tym konsekwentnie nie nazywa Batszeby, podobnie jak nie nazwie dalej żadnej matki aż do Marii: imię kobiety pada w tej liście tylko wtedy, gdy pochodzi skądinąd niż z Izraela, albo gdy chodzi o ostatnie ogniwo."
+      ]
+     ]
+    },
+    {
+     "cs": 1,
+     "vs": 7,
+     "ce": 1,
+     "ve": 11,
+     "label": "w. 7–11",
+     "greek": "Σολομὼν δὲ ἐγέννησεν τὸν Ῥοβοάμ, Ῥοβοὰμ δὲ ἐγέννησεν τὸν Ἀβιά, Ἀβιὰ δὲ ἐγέννησεν τὸν Ἀσάφ, Ἀσὰφ δὲ ἐγέννησεν τὸν Ἰωσαφάτ, Ἰωσαφὰτ δὲ ἐγέννησεν τὸν Ἰωράμ, Ἰωρὰμ δὲ ἐγέννησεν τὸν Ὀζίαν, Ὀζίας δὲ ἐγέννησεν τὸν Ἰωαθάμ, Ἰωαθὰμ δὲ ἐγέννησεν τὸν Ἀχάζ, Ἀχὰζ δὲ ἐγέννησεν τὸν Ἑζεκίαν, Ἑζεκίας δὲ ἐγέννησεν τὸν Μανασσῆ, Μανασσῆς δὲ ἐγέννησεν τὸν Ἀμώς, Ἀμὼς δὲ ἐγέννησεν τὸν Ἰωσίαν, Ἰωσίας δὲ ἐγέννησεν τὸν Ἰεχονίαν καὶ τοὺς ἀδελφοὺς αὐτοῦ ἐπὶ τῆς μετοικεσίας Βαβυλῶνος.",
+     "transl": "Salomon zaś zrodził Roboama, Roboam zaś zrodził Abiasza, Abiasz zaś zrodził Asafa, Asaf zaś zrodził Jozafata, Jozafat zaś zrodził Jorama, Joram zaś zrodził Ozjasza, Ozjasz zaś zrodził Joatama, Joatam zaś zrodził Achaza, Achaz zaś zrodził Ezechiasza, Ezechiasz zaś zrodził Manassesa, Manasses zaś zrodził Amosa, Amos zaś zrodził Jozjasza, Jozjasz zaś zrodził Jechoniasza i braci jego, za przesiedlenia babilońskiego.",
+     "units": [
+      [
+       "τὸν Ἀσάφ ... τὸν Ἀμώς",
+       "Asafa ... Amosa",
+       "W dwóch miejscach drugiej czternastki tekst krytyczny stawia imiona, których nie nosił żaden król Judy. Po Abiaszu idzie Ἀσάφ — imię lewity, układacza psalmów (Ps 50; 73–83) — na miejscu króla Asy (hbr. Asa, 1 Krl 15,8–24). Po Manassesie idzie Ἀμώς, imię proroka z Tekoa, na miejscu króla Amona (2 Krl 21,18–26). Aparat pokazuje, że obie lekcje są trudniejsze i lepiej poświadczone: Ἀσάφ czytają 𝔓¹ ℵ B C f¹·¹³ i część przekładów, a poprawkę na Ἀσά wprowadzają L W 33, tekst większościowy, Wulgata i syryjskie; podobnie Ἀμώς mają ℵ B C Γ Δ Θ f¹ 33 wobec Ἀμών w L W f¹³ i tekście większościowym. Kierunek poprawiania jest oczywisty — ku Księgom Królewskim — więc lekcja trudniejsza stoi w tekście. Czy pomyłka jest Mateusza, czy jego źródła, rozstrzygnąć się nie da; spotyka się też propozycję, że to świadomy zabieg wciągający w sukcesję królewską psalmistę i proroka, lecz Mateusz nie daje żadnego sygnału, że chce być tak czytany, a w liście pełnej imion LXX zbieżność brzmień wystarcza za wyjaśnienie."
+      ],
+      [
+       "Ἰωρὰμ δὲ ἐγέννησεν τὸν Ὀζίαν",
+       "Joram zaś zrodził Ozjasza",
+       "Między Joramem a Ozjaszem Księgi Królewskie stawiają trzech władców: Ochozjasza, Joasza i Amazjasza (2 Krl 8,25 – 14,22). Mateusz ich opuszcza, i to opuszczenie jest ceną czternastki — bez niego druga grupa liczyłaby siedemnaście pokoleń. Rodowody semickie skracanie linii dopuszczają: ἐγέννησεν (zrodził) znaczy w nich „jest przodkiem\", nie „jest ojcem\", a Rdz 46 i 1 Krn operują takimi skrótami bez zastrzeżeń. Nie jest to więc fałszowanie listy, lecz gatunek. Aparat pokazuje przy tym, że starożytność miejsce zauważyła: przy znaku stojącym po Ἰωρὰμ δὲ ἐγέννησεν część tradycji łacińsko-syryjskiej (D w lekcji Łukaszowej, syryjski curetoniański) wstawia pominiętych królów z powrotem. Zwraca uwagę, kogo akurat usunięto — trzech władców, których Kroniki wiążą z domem Achaba i z odstępstwem; wnioskowanie z tego o zamiarze teologicznym jest jednak ryzykowne, bo w liście zostali Manasses i Amon, czyli najgorsi."
+      ],
+      [
+       "τὸν Ἰεχονίαν καὶ τοὺς ἀδελφοὺς αὐτοῦ",
+       "Jechoniasza i braci jego",
+       "Drugie i ostatnie wymienienie braci domyka klamrę otwartą w w. 2. Juda i bracia stali u wejścia do Egiptu, Jechoniasz i bracia stoją u wejścia do Babilonu: historia Izraela zaczyna się i kończy niewolą, a lista zapisuje to samym rozmieszczeniem wtrąceń. Przy Jechoniaszu rodowód podejmuje ponadto ryzyko, którego mógł uniknąć. Jeremiasz wypowiedział nad nim wyrok: „żaden z jego potomstwa nie zasiądzie na tronie Dawida\" (Jr 22,30), a wcześniej nazwał go pieczęcią zdjętą z ręki Pana (Jr 22,24). Prowadząc linię mesjańską przez Jechoniasza, Mateusz stawia nad swoją genealogią przekleństwo — i rozwiązuje je dopiero w w. 16: dziedzictwo prawne przechodzi przez Józefa, pochodzenie nie przechodzi przez nikogo z tej linii. Kto by uznał wyrok Jeremiasza za nieodwołalny, w rodowodzie Mateusza znajdzie odpowiedź, że tron został objęty bez naruszenia wyroku."
+      ],
+      [
+       "ἐπὶ τῆς μετοικεσίας Βαβυλῶνος",
+       "za przesiedlenia babilońskiego",
+       "Rzeczownik μετοικεσία (przesiedlenie, przeprowadzka) należy do słownika LXX i w całym Nowym Testamencie stoi tylko tutaj — cztery razy w tej perykopie (w. 11.12.17 bis). Nie znaczy „niewola\" ani „jeniectwo\": opisuje administracyjne przeniesienie ludności, deportację widzianą od strony urzędu. Dobór słowa jest trzeźwy i tym mocniejszy — katastrofa zapisana językiem rejestru. Przyimek ἐπί z dopełniaczem ma tu sens czasowy („w czasie\", „za\"), więc Jechoniasz zostaje umieszczony na samej granicy epoki. Rzecz jest bez precedensu w gatunku: w trzech czternastkach Mateusza jedynym punktem podziału, który nie jest osobą, jest wydarzenie. Dawid otwiera drugą grupę, przesiedlenie otwiera trzecią — królestwo i jego upadek mają w tej arytmetyce tę samą rangę. Trzecia grupa rozpocznie się więc bez tronu, a kiedy po czternastu pokoleniach dobiegnie końca, tronu nadal nie będzie; będzie tylko cieśla z Nazaretu i jego żona."
+      ]
+     ]
+    },
+    {
+     "cs": 1,
+     "vs": 12,
+     "ce": 1,
+     "ve": 15,
+     "label": "w. 12–15",
+     "greek": "Μετὰ δὲ τὴν μετοικεσίαν Βαβυλῶνος Ἰεχονίας ἐγέννησεν τὸν Σαλαθιήλ, Σαλαθιὴλ δὲ ἐγέννησεν τὸν Ζοροβαβέλ, Ζοροβαβὲλ δὲ ἐγέννησεν τὸν Ἀβιούδ, Ἀβιοὺδ δὲ ἐγέννησεν τὸν Ἐλιακίμ, Ἐλιακὶμ δὲ ἐγέννησεν τὸν Ἀζώρ, Ἀζὼρ δὲ ἐγέννησεν τὸν Σαδώκ, Σαδὼκ δὲ ἐγέννησεν τὸν Ἀχίμ, Ἀχὶμ δὲ ἐγέννησεν τὸν Ἐλιούδ, Ἐλιοὺδ δὲ ἐγέννησεν τὸν Ἐλεάζαρ, Ἐλεάζαρ δὲ ἐγέννησεν τὸν Ματθάν, Ματθὰν δὲ ἐγέννησεν τὸν Ἰακώβ,",
+     "transl": "Po przesiedleniu zaś babilońskim Jechoniasz zrodził Salatiela, Salatiel zaś zrodził Zorobabela, Zorobabel zaś zrodził Abiuda, Abiud zaś zrodził Eliakima, Eliakim zaś zrodził Azora, Azor zaś zrodził Sadoka, Sadok zaś zrodził Achima, Achim zaś zrodził Eliuda, Eliud zaś zrodził Eleazara, Eleazar zaś zrodził Mattana, Mattan zaś zrodził Jakuba,",
+     "units": [
+      [
+       "Μετὰ δὲ τὴν μετοικεσίαν Βαβυλῶνος",
+       "po przesiedleniu zaś babilońskim",
+       "Formuła wraca, tym razem z przyimkiem μετά i biernikiem — z „za przesiedlenia\" robi się „po przesiedleniu\". Zmiana przyimka wyznacza nowy czas: pierwsze dwie grupy biegły od osoby do osoby, trzecia startuje od daty. Zdanie jest zresztą jedynym w liście, które zaczyna się od czegoś innego niż imię, co w monotonnym rejestrze działa jak akapit. Od tego miejsca Mateusz prowadzi pokolenia, dla których nie ma już ani tronu, ani proroctw, ani — po dwóch pierwszych nazwiskach — żadnego świadectwa Pisma. Trzecia czternastka jest odcinkiem milczenia Bożego, a jej jedyną treścią jest to, że trwała."
+      ],
+      [
+       "τὸν Σαλαθιήλ ... τὸν Ζοροβαβέλ",
+       "Salatiela ... Zorobabela",
+       "Dwa ostatnie imiona znane ze Starego Testamentu. Zorobabel jest przywódcą powrotu i odbudowy Świątyni, a prorocy wiążą z nim nadzieję odrodzenia dynastii: Aggeusz nazywa go wybranym i pieczęcią Pana (Ag 2,23) — dokładnie tym, co Jeremiasz odebrał Jechoniaszowi. Mateusz idzie przy tym za Ezd 3,2 i Ag 1,1, gdzie Zorobabel jest synem Salatiela, podczas gdy 1 Krn 3,17–19 czyni go synem Pedajasza, a Salatiela jego stryjem. Rozbieżność jest w samym Starym Testamencie i Mateusz jej nie rozstrzyga — wybiera wersję prorocką, nie kronikarską. Po Zorobabelu lista wchodzi w pustkę: Kroniki prowadzą jego potomstwo inaczej (1 Krn 3,19–24) i żadne z dziewięciu kolejnych imion Mateusza nie pojawia się tam ani nigdzie indziej w Piśmie."
+      ],
+      [
+       "Ἀβιούδ ... Ματθάν",
+       "Abiud ... Mattan",
+       "Dziewięć imion bez poświadczenia biblijnego. Skąd je Mateusz ma, nie wiadomo: w grę wchodzi pamięć rodzinna, archiwum świątynne albo lista, która do nas nie dotarła. Euzebiusz przekazuje, że potomkowie rodziny Jezusa (οἱ δεσπόσυνοι — należący do Pana) mieli własne zapisy pochodzenia, a także że Herod kazał zniszczyć rejestry genealogiczne (*Hist. eccl.* I,7); oba przekazy są późne i trzeba je traktować jako relację, nie jako dowód. Na tym odcinku rozchodzi się także rodowód Łukaszowy (Łk 3,23–31), który po Zorobabelu prowadzi linię przez Natana, a nie przez Salomona, i podaje Hellego jako ojca Józefa. Rozwiązania proponowano od starożytności: Juliusz Afrykański w liście do Arystydesa, zachowanym u Euzebiusza (*Hist. eccl.* I,7), tłumaczy różnicę prawem lewiratu, przy którym jeden człowiek ma ojca naturalnego i ojca prawnego; nowożytna propozycja, że Łukasz podaje linię Marii, nie ma oparcia w tekście, bo i u Łukasza rodowód biegnie przez Józefa. Trzeźwy wniosek jest taki: dwie niezależne tradycje zgadzają się co do pochodzenia Dawidowego i co do prawnego ojcostwa Józefa, a różnią się co do drogi; to, w czym się zgadzają, waży historycznie więcej niż to, czym się różnią."
+      ]
+     ]
+    },
+    {
+     "cs": 1,
+     "vs": 16,
+     "ce": 1,
+     "ve": 16,
+     "label": "w. 16",
+     "greek": "Ἰακὼβ δὲ ἐγέννησεν τὸν Ἰωσὴφ τὸν ἄνδρα Μαρίας, ἐξ ἧς ἐγεννήθη Ἰησοῦς ὁ λεγόμενος χριστός.",
+     "transl": "Jakub zaś zrodził Józefa, męża Marii, z której został zrodzony Jezus, zwany Chrystusem.",
+     "units": [
+      [
+       "τὸν ἄνδρα Μαρίας",
+       "męża Marii",
+       "Przy Józefie lista dodaje do imienia określenie po raz drugi — pierwszy raz zrobiła to przy Dawidzie (τὸν βασιλέα — króla). Tutaj jest to określenie małżeńskie, nie rodzicielskie: ἀνήρ (mąż) wiąże go z Marią, a nie z Jezusem. Mateusz mógł napisać „ojca Jezusa\" i nie napisał tego ani tutaj, ani nigdzie dalej — w 13,55 ludzie z Nazaretu mówią o „synu cieśli\", czyli atrybucja jest w ustach tłumu, nie narratora. Zarazem rodowód bez Józefa nie ma sensu, bo to on jest potomkiem Dawida; dziedziczenie przechodzi więc przez więź prawną, a nie przez zrodzenie. Prawo żydowskie takie przejście zna: ojcem jest ten, kto dziecko uznaje i nadaje mu imię, i właśnie to Józef uczyni w 1,25 (ἐκάλεσεν τὸ ὄνομα αὐτοῦ Ἰησοῦν — nadał mu imię Jezus), wykonując polecenie anioła z 1,21. Cała waga rozdziału pierwszego leży na tym, że ojcostwo Józefa jest prawdziwe, choć nie jest cielesne."
+      ],
+      [
+       "ἐξ ἧς ἐγεννήθη",
+       "z której został zrodzony",
+       "Punkt, w którym pęka łańcuch. Po trzydziestu dziewięciu aorystach czynnych pada aoryst bierny ἐγεννήθη (został zrodzony), a zaimek ἧς jest rodzaju żeńskiego i odnosi się do Marii, nie do małżeństwa. Gramatyka mówi więc dwie rzeczy, nie mówiąc żadnej wprost: Jezus pochodzi z Marii i nie pochodzi z Józefa. Strona bierna należy u Mateusza do sposobów omawiania działania Boga bez wymawiania Jego imienia — jak μακάριοι οἱ πενθοῦντες, ὅτι αὐτοὶ παρακληθήσονται (szczęśliwi płaczący, bo oni zostaną pocieszeni, 5,4) — i tutaj pełni tę samą funkcję: sprawcę poda dopiero 1,18 i 1,20 (ἐκ πνεύματος ἁγίου — z Ducha Świętego). Wyłom jest przygotowany już w czterech wcześniejszych ἐκ (z Tamar, z Rachab, z Rut, z żony Uriasza): cztery razy linia przechodziła przez kobietę wprowadzoną w nią nieregularnie, piąty raz przechodzi przez kobietę wprowadzoną w nią inaczej niż wszyscy. Rodowód dowiódł prawa do tronu i zarazem wykazał, że posiadacz tego prawa nie jest produktem listy."
+      ],
+      [
+       "ὁ λεγόμενος χριστός",
+       "zwany Chrystusem",
+       "Imiesłów praesentis passivi od λέγω: „nazywany\", „o którym się mówi\". W ustach Mateusza nie jest to zastrzeżenie — tak wprowadza się w grece przydomek i tytuł (por. Σίμων ὁ λεγόμενος Πέτρος — Szymon zwany Piotrem, 10,2) — ale wyrażenie nie jest też neutralne, bo w całej Ewangelii wraca dokładnie dwa razy: Ἰησοῦν τὸν λεγόμενον χριστόν (Jezusa zwanego Chrystusem) mówi Piłat, najpierw stawiając wybór między Jezusem i Barabaszem (27,17), potem pytając, co z Nim zrobić (27,22). Klamra jest zamierzona i okrutna: formuła, którą rodowód zamyka dowód tożsamości, wraca w ustach urzędnika, dla którego tytuł jest tylko pogłoską. Trzecia czternastka kończy się więc nie orzeczeniem „jest Mesjaszem\", lecz zapisem, że tak Go nazywają — a księga dopiero wykaże, kto miał rację."
+      ]
+     ]
+    },
+    {
+     "cs": 1,
+     "vs": 17,
+     "ce": 1,
+     "ve": 17,
+     "label": "w. 17",
+     "greek": "Πᾶσαι οὖν αἱ γενεαὶ ἀπὸ Ἀβραὰμ ἕως Δαυὶδ γενεαὶ δεκατέσσαρες, καὶ ἀπὸ Δαυὶδ ἕως τῆς μετοικεσίας Βαβυλῶνος γενεαὶ δεκατέσσαρες, καὶ ἀπὸ τῆς μετοικεσίας Βαβυλῶνος ἕως τοῦ Χριστοῦ γενεαὶ δεκατέσσαρες.",
+     "transl": "Wszystkich więc pokoleń od Abrahama do Dawida — pokoleń czternaście, i od Dawida do przesiedlenia babilońskiego — pokoleń czternaście, i od przesiedlenia babilońskiego do Chrystusa — pokoleń czternaście.",
+     "units": [
+      [
+       "Πᾶσαι οὖν αἱ γενεαί",
+       "wszystkich więc pokoleń",
+       "Jedyne zdanie perykopy, w którym słychać autora. Spójnik οὖν (więc, zatem) ciągnie wniosek z listy, a trzy zdania nominalne bez orzeczenia podają rachunek. Ewangelista liczy na głos — i tym samym zdradza, że lista jest zbudowana, nie przepisana: kto podaje sumę, ten wcześniej dobierał składniki. Mateusz nie ukrywa więc skrótów z w. 8 ani sposobu liczenia Dawida po obu stronach pierwszej granicy; przyznaje, że rodowód jest konstrukcją, a konstrukcja ma znaczyć. Rzeczownik γενεά (pokolenie) wróci w tej Ewangelii jako ocena moralna współczesnych — γενεὰ πονηρὰ καὶ μοιχαλίς (pokolenie złe i wiarołomne, 12,39; por. 11,16; 23,36; 24,34) — więc słowo, które tu porządkuje historię zbawienia, będzie dalej nazywać to, co tej historii się opiera."
+      ],
+      [
+       "γενεαὶ δεκατέσσαρες",
+       "pokoleń czternaście",
+       "Rachunek nie zgadza się i zgadzać się nie może. Pierwsza grupa daje czternaście imion od Abrahama do Dawida, druga czternaście od Salomona do Jechoniasza, trzecia — od Salatiela do Jezusa — trzynaście. Rozwiązania są trzy i każde ma koszt: policzyć Jechoniasza dwukrotnie, jak dwukrotnie policzony jest Dawid; uznać, że Mateusz liczy odstępy, nie osoby; albo przyjąć, że czternastka trzecia domyka się dopiero w zmartwychwstaniu, czego sam tekst nie zawiera. Samo liczenie w czternastkach ma dwa możliwe źródła. Pierwsze jest gematryczne: hebrajskie litery imienia Dawida — dalet (4), waw (6), dalet (4) — dają w sumie czternaście, a trzykrotne powtórzenie tej liczby wypisywałoby imię króla trzy razy nad całą historią. Propozycja jest stara i efektowna, ale wymaga od greckiego czytelnika rachunku na literach hebrajskich, więc zostaje propozycją, nie daną tekstu. Drugie źródło jest apokaliptyczne: czternaście to dwa tygodnie, trzy czternastki to sześć tygodni pokoleń, a czterdzieści dwa ogniwa listy znaczyłyby, że z Jezusem zaczyna się siódmy tydzień — szabat dziejów. Tak liczy czas Księga Daniela w siedemdziesięciu tygodniach (Dn 9,24–27) i tak liczyły go apokalipsy okresu. Mateusz żadnego z tych kluczy nie podaje; podaje tylko wynik i zostawia go policzony."
+      ],
+      [
+       "ἕως τοῦ Χριστοῦ",
+       "do Chrystusa",
+       "Ostatnie słowo rodowodu ma rodzajnik. W w. 1 Χριστός stało bez niego, zrośnięte z imieniem; tutaj ὁ Χριστός jest znowu tytułem, i to tytuł, nie osoba, zamyka rachunek. Lista nie biegnie więc „do Jezusa\", lecz „do Mesjasza\" — do urzędu, który przez czterdzieści dwa pokolenia pozostawał nieobsadzony. Trzy odcinki czasu dostają przez to jedną miarę: nie dynastia jest ich sensem, nie Świątynia i nie powrót z wygnania, lecz to, że prowadziły do kogoś. Zdanie domyka także klamrę samej perykopy — od βίβλος γενέσεως (księgi narodzenia) do τοῦ Χριστοῦ — a przez to oddaje księgę dalej: skoro rachunek się zamknął, może zacząć się opowiadanie, i 1,18 zaczyna je od tego jedynego ogniwa, którego lista nie wyjaśniła."
+      ]
+     ]
+    }
+   ],
+   "struktura": "Perykopa ma trzy warstwy budowy, nałożone na siebie.\n\nPierwsza jest arytmetyczna i podana wprost w w. 17: trzy grupy po czternaście pokoleń, rozdzielone Dawidem i przesiedleniem babilońskim. Pierwszą grupę (w. 2–6a) wyznaczają patriarchowie i wejście do ziemi, drugą (w. 6b–11) królowie Judy od Salomona do Jechoniasza, trzecią (w. 12–16) pokolenia bez tronu. Granice nie są symetryczne: Dawid jest osobą liczoną po obu stronach pierwszego szwu, a drugim szwem jest wydarzenie, nie człowiek — upadek królestwa ma w tej rachubie tę samą rangę co jego założyciel.\n\nDruga warstwa jest składniowa. Od w. 2 do w. 16 idzie trzydzieści dziewięć razy ta sama formuła: imię w mianowniku, δέ, ἐγέννησεν (zrodził), imię w bierniku. Wyjątków jest pięć i wszystkie coś znaczą: dwa razy wtrącenie o braciach (w. 2 Juda, w. 11 Jechoniasz), cztery razy przyimek ἐκ z imieniem kobiety (Tamar, Rachab, Rut, żona Uriasza), raz tytuł (τὸν Δαυὶδ τὸν βασιλέα — Dawida, króla, w. 6), raz formuła datująca (w. 12). Wyjątek ostatni, w w. 16, nie jest wtrąceniem, lecz zmianą strony czasownika: ἐγεννήθη (został zrodzony) w miejsce ἐγέννησεν (zrodził). Monotonia trzydziestu dziewięciu ogniw jest przygotowaniem akustycznym tego jednego pęknięcia.\n\nTrzecia warstwa to klamry. Nagłówek w. 1 podaje dwa tytuły — syn Dawida, syn Abrahama — i oba wracają w w. 17 jako punkty rachunku; formuła ὁ λεγόμενος χριστός (zwany Chrystusem) z w. 16 wraca tylko raz jeszcze w całej Ewangelii, w ustach Piłata (27,17.22); wzmianka o braciach otwiera i zamyka dwie niewole. Perykopa jest przez to zamknięta i zarazem niedokończona: wszystko w niej zostało udowodnione poza tym, co się stało w ostatnim ogniwie, i właśnie od tego zaczyna się 1,18.",
+   "sections": [
+    {
+     "type": "kontekst",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
+     "body": "Rodowód nie jest w judaizmie Drugiej Świątyni gatunkiem ozdobnym. Jest dokumentem, od którego zależą prawa: do kapłaństwa, do ziemi, do małżeństwa i do zgromadzenia. Mateusz otwiera księgę tym gatunkiem, bo odpowiada na pytanie prawne — na jakiej podstawie ten człowiek może być Mesjaszem.",
+     "children": [
+      [
+       "Rodowód jako dokument prawny",
+       "Ezdrasz i Nehemiasz zapisują przypadek kapłanów, którzy po powrocie z wygnania nie znaleźli swoich zapisów rodowodowych i zostali wykluczeni z kapłaństwa (Ezd 2,61–63; Ne 7,63–65): brak dokumentu znaczył utratę urzędu. Józef Flawiusz otwiera własną autobiografię powołaniem się na publiczne rejestry, z których wywodzi swoje kapłańskie pochodzenie (*Vita* 1), i w *Przeciw Apionowi* opisuje archiwa, w których kapłańskie małżeństwa były sprawdzane. Miszna porządkuje tę materię w dziesięć klas pochodzenia, które wróciły z Babilonu, od kapłanów do podrzutków (Kidduszin 4,1), i zna kategorię mamzer — potomka ze związku zakazanego, ograniczonego w prawach (por. Pwt 23,3). Traktat Jewamot przechowuje wspomnienie o znalezionym w Jerozolimie „zwoju rodowodów\", z którego odczytywano pochodzenie rodzin. Genealogia była więc w tej kulturze dokumentem o skutkach prawnych, a nie pamiątką — i dlatego pierwsze zdanie Ewangelii brzmi jak wypis z akt. Sigla rabiniczne wymagają sprawdzenia przy źródłach."
+      ],
+      [
+       "Syn Dawida w nadziei mesjańskiej okresu",
+       "Obietnica z 2 Sm 7,12–16 — tron utwierdzony na wieki dla potomka Dawida — była w judaizmie Drugiej Świątyni przedmiotem żywego oczekiwania, nie archiwalnym wspomnieniem. Psalmy Salomona 17, powstałe prawdopodobnie po zajęciu Jerozolimy przez Pompejusza, proszą Boga wprost o króla, syna Dawida, który oczyści miasto od obcych. Qumran czyta 2 Sm 7 mesjańsko w *4QFlorilegium* (4Q174), zapowiadając „odrośl Dawida\" obok Nauczyciela Prawa, a *4Q252* wiąże berło Judy z Rdz 49,10 i z „Mesjaszem sprawiedliwości\". Część tradycji qumrańskiej oczekiwała przy tym dwóch pomazańców, kapłańskiego i królewskiego. Mateusz wchodzi w to oczekiwanie dokumentem rodowym, lecz prowadzi je w stronę, której żaden z tych tekstów nie zakładał: jego Syn Dawida nie oczyszcza Jerozolimy z obcych, lecz zostaje przez jej władze wydany obcemu urzędnikowi."
+      ],
+      [
+       "Cztery kobiety i prawo o obcych",
+       "Konwencja rodowodu nie wymaga matek, a Mateusz wymienia cztery — i żadnej z matriarchiń. Nie ma Sary, Rebeki ani Lei; są Tamar (Kananejka, Rdz 38), Rachab (nierządnica z Jerycha, Joz 2; 6,22–25), Rut (Moabitka, Rt 1–4) i bezimienna żona Uriasza Chetyty (2 Sm 11). Wszystkie cztery są obce albo wchodzą w linię przez związek nieregularny, a przy dwóch z nich ciąży wprost zakaz: Pwt 23,4 wyklucza Moabitów ze zgromadzenia Pana „aż do dziesiątego pokolenia\", a Księga Rut odpowiada na to własnym rodowodem prowadzącym Moabitkę do Dawida (Rt 4,18–22). Najstarsze wyjaśnienie chrześcijańskie, u Hieronima, widzi w nich grzesznice, przez które przyszedł Zbawiciel grzeszników; wyjaśnienie to nie obejmuje Rut, o której Pismo nie mówi nic złego. Egzegeza nowsza wskazuje raczej na dwie inne cechy wspólne: obcość pochodzenia, która otwiera rodowód na narody, i macierzyństwo wymykające się regule, w którym kobieta działa z własnej inicjatywy. Oba tropy zbiegają się na Marii — piątej kobiecie listy, wprowadzonej w nią tak samo przez przyimek ἐκ (z) i tak samo nieregularnie, choć z zupełnie innego powodu."
+      ],
+      [
+       "Postać imion i język listy",
+       "Imiona idą za grecką Biblią, nie za hebrajską. Φάρες, Ἑσρώμ, Ἀμιναδάβ, Ναασσών, Σαλμών, Ἰωβήδ to formy LXX z rodowodu Rt 4,18–22 i 1 Krn 2, a nie transkrypcje z hebrajskiego; Mateusz przepisuje gotowy odcinek greckiego tekstu. Dwie formy odbiegają nawet od LXX: Βόες zamiast Βοος oraz Ῥαχάβ zamiast LXX-owego Ῥαάβ, które zachowują Hbr 11,31 i Jk 2,25. Zbieżność Ἀσάφ z imieniem psalmisty i Ἀμώς z imieniem proroka należy prawdopodobnie do tego samego rzędu zjawisk. Wniosek jest istotny dla pytania o język pierwotnego Mateusza, które Papiasz postawił, mówiąc o układzie słów Pańskich „po hebrajsku\": tam, gdzie można to sprawdzić, grecki Mateusz pracuje na greckim Piśmie. Jego semityzmy są semityzmami stylu i myślenia, nie śladami przekładu."
+      ]
+     ]
+    },
+    {
+     "type": "teologia",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "body": "Rodowód jest tekstem o przyczynach: trzydzieści dziewięć razy pokazuje przyczynę sprawczą działającą w porządku natury, a raz pokazuje jej brak. Dlatego dobrze znosi lekturę metafizyczną — i dlatego Tomasz komentuje go nie jako wstęp, lecz jako materiał dowodowy (*Super Mt.*, cap. I).",
+     "children": [
+      [
+       "Zrodzenie jako akt żyjącego",
+       "Zrodzenie jest dla Tomasza aktem właściwym żyjącemu: pochodzeniem żywego od żywego w podobieństwie natury. Trzydzieści dziewięć ogniw rodowodu to więc trzydzieści dziewięć przypadków przyczynowania jednoznacznego — każdy ojciec przekazuje tę samą naturę ludzką, i właśnie dlatego lista ma moc dowodową: dowodzi jedności natury, nie tylko ciągłości rodu. Wyłom w w. 16 nie jest zawieszeniem natury, lecz pominięciem jednej przyczyny drugorzędnej. Natura ludzka przechodzi w pełni, przez Marię; nie przechodzi tylko przyczynowanie męskie. Tomasz dowodzi w tym duchu, że Chrystus musi być prawdziwie z nasienia Dawida wedle ciała, bo inaczej obietnice prorockie zostałyby bez spełnienia, a Jego ciało byłoby ciałem pozornym (*Summa Theologiae* III, q. 31). Rodowód i dziewicze poczęcie są więc jednym twierdzeniem, nie dwoma: Bóg działa bez przyczyny drugorzędnej tam, gdzie żadna nie wystarczy, a wszędzie indziej pozostawia ją w pełni czynną."
+      ],
+      [
+       "Ojcostwo prawne i prawdziwość relacji",
+       "Józef jest ojcem Jezusa w porządku prawa, nie w porządku zrodzenia — i pytanie, czy jest nim prawdziwie, jest pytaniem metafizycznym, nie prawniczym. Odpowiedź tomistyczna wychodzi od tego, że relacja ma w rzeczach podstawę (*fundamentum relationis* — podstawa odniesienia), i że podstawą ojcostwa bywa nie tylko akt rodzenia, lecz także węzeł małżeński wraz z przyjęciem dziecka. Augustyn argumentował podobnie: Józef jest ojcem prawdziwie, bo prawdziwe jest jego małżeństwo, a małżeństwo obejmuje potomstwo żony (*De consensu euangelistarum* II,1). „Ojciec\" orzeka się więc o Józefie nie jednoznacznie i nie wieloznacznie, lecz przez analogię — ta sama relacja realizuje się w innym porządku przyczyn. Stąd też porządek rozdziału pierwszego: najpierw rodowód, który ustanawia prawo, potem polecenie nadania imienia (1,21.25), które to prawo wykonuje. Nazwanie jest u Mateusza aktem konstytuującym ojcostwo, a nie jego ogłoszeniem."
+      ],
+      [
+       "Opatrzność a przypadłość",
+       "Lista składa się ze zdarzeń przypadkowych w sensie ścisłym: podstęp synowej, wybór moabickiej wdowy, cudzołóstwo króla, decyzja perskiego urzędnika o powrocie wygnańców. Żadne z nich nie wynika z poprzedniego z konieczności, a przecież wszystkie razem prowadzą do jednego punktu. Tomasz rozstrzyga ten pozorny paradoks przez rozróżnienie porządków: Opatrzność sięga rzeczy jednostkowych i rządzi także tym, co przypadkowe, nie odbierając mu przypadkowości, bo Bóg jest przyczyną nie tylko skutków, lecz i sposobu, w jaki skutki wynikają (*Summa Theologiae* I, q. 22, a. 2 i 4). Rodowód jest tekstem dowodowym dla tej tezy: historia zbawienia została napisana cudzym charakterem pisma — ręką ludzi wolnych i zwykle grzeszących — i nie przestała być przez to zapisem jednego zamysłu. Teologicznie znaczy to, że nie ma w dziejach zbawienia materii zbyt nieczystej, by Bóg nie pisał na niej dalej; filozoficznie — że przypadłość nie jest luką w przyczynowości Bożej, lecz jednym z jej trybów."
+      ],
+      [
+       "Liczba jako znak i sensy Pisma",
+       "Trzy czternastki stawiają pytanie o metodę: czy liczba w Piśmie coś znaczy, czy znaczenie się jej dopisuje. Tomasz odpowiada rozróżnieniem sensów (*Summa Theologiae* I, q. 1, a. 10): sens duchowy opiera się na dosłownym i jest możliwy dlatego, że autorem Pisma jest Bóg, który może sprawiać, by same rzeczy — a więc i ich liczba — oznaczały. Decydujące jest jednak to, że sens duchowy nie dowodzi niczego sam; dowodzić wolno tylko z sensu dosłownego. Zastosowanie do w. 17 jest proste i porządkujące: skoro Mateusz liczy sam i podaje wynik, rachunek należy do sensu dosłownego i można się nim argumentować. Natomiast gematria imienia Dawida i rachuba sześciu tygodni pokoleń, choć obie są w duchu epoki, pozostają odczytaniami duchowymi — wolno je proponować, nie wolno na nich budować. Rodowód jest przez to dobrym wprowadzeniem w sposób, w jaki ta Ewangelia będzie odwoływać się do Pisma: Mateusz nie ukrywa swojej konstrukcji, więc konstrukcja jest częścią tekstu, a nie jego interpretacją."
+      ]
+     ]
+    },
+    {
+     "type": "autor_ludzki",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
+     "body": "Czterech ewangelistów zaczyna od czterech różnych rzeczy. Marek od cytatu z proroka i od wołania na pustyni, Łukasz od dedykacji dla Teofila i od zapewnienia o rzetelności, Jan od wieczności Słowa. Mateusz zaczyna od wyciągu z rejestru — i to rozstrzyga o nim więcej niż cokolwiek, co o nim przekazano.\n\nWybór gatunku jest wyborem adresata. Rodowód przemawia do kogoś, kto wie, że pochodzenie zobowiązuje, i kto umie czytać listę imion jak dokument; odbiorcą jest wspólnota judeochrześcijańska, dla której pytanie „z jakiego rodu?\" nie jest ciekawostką. Zarazem gatunek pozwala Mateuszowi zrobić rzecz, której nie dałoby się zrobić w opowiadaniu: postawić tezę, nie wygłaszając jej. Nagłówek nazywa Jezusa synem Dawida i synem Abrahama, a potem czterdzieści ogniw tę nazwę poświadcza — argument idzie przez formę, nie przez zdania.\n\nRedakcyjnie perykopa jest u Mateusza materiałem własnym. Marek rodowodu nie ma wcale, a Łukasz ma swój, zbudowany inaczej, w innym miejscu księgi (po chrzcie, nie przed narodzeniem) i w porządku wstępującym, aż do Adama i do Boga (Łk 3,23–38). Kierunki są przeciwne i obydwa celowe: Łukasz prowadzi wzrok od Jezusa do początku ludzkości, Mateusz od Abrahama do Jezusa, zamykając ruch w jednym punkcie. Tam, gdzie Łukasz otwiera na powszechność przez Adama, Mateusz otwiera na nią przez Abrahama i obietnicę narodów — i dopiero ostatnie zdanie księgi (28,19) pokazuje, że to była ta sama powszechność.\n\nKompozycyjnie rodowód jest pierwszym ogniwem klamry obejmującej całą Ewangelię. Βίβλος γενέσεως przywołuje nagłówek Księgi Rodzaju, a tradycja czytała to jako zapowiedź nowego początku; ostrożność nakazuje jednak pamiętać, że Mateusz nie powtarza tej formuły w żadnym innym miejscu i że hipoteza „nowego Pięcioksięgu\" obejmuje mowy, lecz nie obejmuje ani rodowodu, ani Męki. Mocniejsze są klamry wewnętrzne: tytuł Syna Dawida, który będzie wracał aż do sporu w 22,42–45, formuła ὁ λεγόμενος χριστός (zwany Chrystusem) odnajdywana potem tylko w ustach Piłata (27,17.22), i imię Abrahama, które po otwarciu listy wróci w 3,9 jako ostrzeżenie Chrzciciela, że pochodzenie od Abrahama nikogo nie zbawia.\n\nTo ostrzeżenie pokazuje, w jakim sporze Mateusz pisze. Po roku 70, gdy formujący się faryzeizm i młody Kościół spierają się o to, kto jest prawowitym Izraelem, pytanie o rodowód jest pytaniem o legitymację. Mateusz odpowiada dwukrotnie i w dwie strony: przedkłada dokument — bo jego Mesjasz ma pochodzenie w porządku — i zaraz podważa wystarczalność dokumentu, wpisując w linię królewską cztery kobiety spoza Izraela i prowadząc ją przez Jechoniasza, nad którym ciąży wyrok Jeremiasza. Rodowód jest przez to jednocześnie dowodem prawnym i jego krytyką; takiego połączenia nie dałoby się osiągnąć ani samą polemiką, ani samą listą.",
+     "children": []
+    },
+    {
+     "type": "autor_bozy",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
+     "body": "Pierwsza karta Nowego Testamentu nie mówi o Bogu ani jednego zdania. Imię Boże nie pada w niej wcale; pada czterdzieści razy czasownik γεννάω (rodzić) i czterdzieści jedno imię ludzkie. Objawienie zaczyna się więc od listy ludzi — i to jest pierwsza rzecz, którą Duch Święty przez tę perykopę mówi: Bóg wiąże się z historią, której nie wyprostował.",
+     "children": [
+      [
+       "Wybranie przechodzące przez winę",
+       "Lista nie została oczyszczona. Zostali w niej Juda, który posłał synową na nierząd, Dawid, który wziął żonę Uriasza i kazał go zabić, Manasses i Amon, których Księgi Królewskie oceniają najsurowiej, oraz Jechoniasz, nad którym wisi wyrok proroka. Z czterech matek żadna nie jest matriarchinią, a dwie są z narodów wyklętych. Nic z tego nie jest w tekście usprawiedliwione ani skomentowane; wszystko jest zapisane. Wynika z tego nie pochwała grzechu, lecz twierdzenie o sposobie, w jaki Bóg prowadzi obietnicę: nie obok ludzkiej winy i nie dzięki niej, lecz przez ludzi, którzy zawinili. Odwrotność tego twierdzenia byłaby ewangelią dla rodów czystych, czyli dla nikogo."
+      ],
+      [
+       "Cierpliwość jako kształt Opatrzności",
+       "Czterdzieści dwa pokolenia to około dwóch tysięcy lat w rachubie samego tekstu. Obietnica dana Abrahamowi nie zostaje spełniona ani w jego życiu, ani w życiu Dawida, ani po powrocie z wygnania; trzecia czternastka upływa bez tronu, bez proroka i bez jednego poświadczonego imienia. W tej rachubie milczenie Boga nie jest przerwą w historii zbawienia, lecz jej odcinkiem — policzonym tak samo jak odcinek patriarchów. Rodowód jest przez to jedynym miejscem Ewangelii, w którym cierpliwość Boża daje się zmierzyć; mierzy się w pokoleniach."
+      ],
+      [
+       "Nowy początek jako dar, nie osiągnięcie",
+       "Cała konstrukcja zmierza do punktu, w którym konstrukcja nie wystarcza. Wszystkie ogniwa łańcucha dowodzą prawa do tronu; ostatnie prawa nie przekazuje, bo stoi w stronie biernej. Tam, gdzie historia ludzka doszła do swojego kresu — rejestr domknięty, czternastki policzone, tron pusty od sześciuset lat — wejście Boga nie jest następnym krokiem w ciągu, lecz czymś, czego ciąg nie mógł wytworzyć. Duch Święty ustawia więc na wstępie księgi proporcję obowiązującą w niej do końca: ludzka historia przygotowuje warunki, nie wytwarza zbawienia. Ta sama proporcja wróci w Kazaniu na Górze, gdzie sprawiedliwość większa od faryzejskiej zostaje zadana, nie wymierzona, i w 19,26, gdzie zbawienie człowieka okaże się możliwe tylko u Boga."
+      ],
+      [
+       "Lista, do której można zostać dopisanym",
+       "Rodowód zamyka się na imieniu, a księga zamknie się na poleceniu chrzczenia wszystkich narodów (28,19). Między tymi dwoma zdaniami przebiega całe przesunięcie: wejście do ludu Bożego przestaje zależeć od wpisu w rejestrze, a zaczyna od obmycia w imię Ojca i Syna, i Ducha Świętego. Chrzciciel powie to wprost już w 3,9 — z kamieni Bóg może wzbudzić dzieci Abrahama — a Paweł wyłoży jako zasadę (Rz 4,11–17; Ga 3,29). Pierwsza strona Ewangelii jest więc dokumentem, który sam siebie unieważnia jako warunek: podaje rodowód po to, by wykazać, że Mesjasz przyszedł, a nie po to, by wykazać, kto ma do Niego prawo."
+      ]
+     ]
+    },
+    {
+     "type": "odniesienia",
+     "title": "Sieć odniesień biblijnych",
+     "body": "Rodowód nie cytuje Pisma ani razu — a jest w całości z Pisma zrobiony. Każde imię jest odsyłaczem, a cztery wtrącenia o kobietach i jedno o przesiedleniu są skrótami całych opowiadań. Poniżej te odniesienia, które rozstrzygają o sensie, nie te, które jedynie dają się wskazać.",
+     "children": [
+      [
+       "Rdz 2,4; 5,1 → w. 1",
+       "Formuła βίβλος γενέσεως (księga narodzenia) pochodzi z nagłówków Księgi Rodzaju, gdzie LXX oddaje nią hebrajskie sefer toledot: raz nad powstaniem nieba i ziemi (Rdz 2,4), raz nad rodowodem ludzkości od Adama (Rdz 5,1). Mateusz nie parafrazuje, lecz przejmuje szyld — i tym samym ustawia swoją księgę w relacji do pierwszej księgi Pisma. Jak daleko ta relacja sięga, tekst nie mówi: zasięg nagłówka jest sporny, a formuła nie wraca w Ewangelii poza 1,18. Pewne jest tylko to, że czytelnik znający LXX słyszał w pierwszych dwóch słowach Nowego Testamentu początek Starego."
+      ],
+      [
+       "Rdz 12,3; 22,18 → w. 1–2",
+       "„Będą w tobie błogosławione wszystkie plemiona ziemi\" i „w potomstwie twoim będą błogosławione wszystkie narody ziemi\" — obietnica Abrahamowa jest drugim z dwóch tytułów nagłówka i jedyną racją, dla której lista nie zaczyna się od Dawida. Łuk zamyka się w ostatnim zdaniu księgi: μαθητεύσατε πάντα τὰ ἔθνη (czyńcie uczniami wszystkie narody, 28,19). Paweł odczyta to σπέρμα (potomstwo) jako liczbę pojedynczą odnoszącą się do Chrystusa (Ga 3,16) i wyprowadzi z tego prawo narodów do Abrahamowego dziedzictwa (Ga 3,29; Rz 4,11–17); Mateusz nie argumentuje, lecz ustawia obietnicę i jej spełnienie na dwóch końcach jednej księgi."
+      ],
+      [
+       "2 Sm 7,12–16 → w. 1.6.17",
+       "Proroctwo Natana — potomek Dawida, któremu Bóg utwierdzi tron na wieki i będzie mu ojcem — jest przesłanką, bez której rodowód nie ma po co istnieć. Wokół tego tekstu narosła cała chrystologia królewska okresu, od Psalmów Salomona 17 po *4QFlorilegium*. Mateusz powołuje się na nie nie cytatem, lecz dokumentem: podaje linię, a jedyny tytuł, jaki wstawia w listę, to βασιλεύς (król) przy Dawidzie (w. 6). Napięcie jest przy tym jawne — tron, który miał trwać na wieki, w w. 11 upada, i trzecia czternastka przebiega już bez niego."
+      ],
+      [
+       "Rdz 38,6–30; Joz 2,1–21; Rt 4,13–22; 2 Sm 11,2–27 → w. 3.5.6",
+       "Cztery wtrącenia o kobietach to cztery skróty opowiadań, których Mateusz nie streszcza, bo zakłada ich znajomość. Tamar wymusza prawo lewiratu podstępem i zostaje przez Judę uznana za sprawiedliwszą od niego (Rdz 38,26). Rachab ratuje zwiadowców i ocala wraz z rodziną z Jerycha (Joz 2; 6,22–25), choć jej związek z linią Dawida nie jest nigdzie w Starym Testamencie poświadczony. Rut, Moabitka, zostaje wykupiona przez Booza, a Księga Rut kończy się rodowodem prowadzącym do Dawida (Rt 4,18–22) — i to właśnie z tego rodowodu Mateusz bierze odcinek od Faresa do Jessego. Żona Uriasza nie dostaje imienia, lecz wskazanie na męża, co wprowadza w genealogię całą historię z 2 Sm 11–12. Pwt 23,4, wykluczające Moabitów ze zgromadzenia, stoi wobec tej listy jako jawny kontrast — i Księga Rut odpowiedziała na nie pierwsza."
+      ],
+      [
+       "1 Krn 3,10–19; Ezd 3,2; Ag 1,1; 2,23 → w. 7–13",
+       "Druga czternastka idzie za listą królów Judy, którą Kroniki podają w 1 Krn 3,10–16, z opuszczeniem Ochozjasza, Joasza i Amazjasza (2 Krl 8,25 – 14,22) i z trzema imionami w postaci odbiegającej od Królewskich. Przy progu trzeciej grupy Mateusz wybiera wersję prorocką zamiast kronikarskiej: Zorobabel jest u niego synem Salatiela, jak w Ezd 3,2 i Ag 1,1, a nie synem Pedajasza, jak w 1 Krn 3,19. Wybór ma wagę, bo Aggeusz nazywa Zorobabela wybranym i czyni go pieczęcią Pana (Ag 2,23) — odwracając obraz, którym Jeremiasz ogłosił koniec dynastii."
+      ],
+      [
+       "2 Krl 24,10–16; Jr 22,24–30 → w. 11–12",
+       "Deportacja jest jedynym wydarzeniem w liście imion i dzieli ją tak samo mocno jak Dawid. Druga Księga Królewska opisuje uprowadzenie Jechoniasza wraz z dworem i rzemieślnikami (2 Krl 24,10–16), a Jeremiasz ogłasza nad nim wyrok: pieczęć zostaje zdjęta z ręki Pana, a z potomstwa Jechoniasza nikt nie zasiądzie na tronie Dawida (Jr 22,24.30). Prowadząc linię mesjańską przez tego właśnie króla, Mateusz bierze wyrok na siebie — i rozwiązuje go nie przez pominięcie, lecz przez wyłom w w. 16: tron przechodzi przez prawo Józefa, pochodzenie nie przechodzi przez nasienie Jechoniasza. Odniesienie jest więc kontrastem, który tekst rozbraja własną konstrukcją."
+      ],
+      [
+       "Iz 11,1–10; Dn 9,24–27 → w. 6.17",
+       "Dwa teksty tłumaczące obrazowo to, co rodowód robi arytmetycznie. Izajasz zapowiada odrośl z pnia Jessego i Ducha Pańskiego na niej spoczywającego — stąd późniejsza ikonografia drzewa Jessego, wyrosła właśnie ze zderzenia Iz 11,1 z listą Mateusza. Daniel liczy czas zbawienia w siedemdziesięciu tygodniach lat (Dn 9,24–27), dając wzór rachuby epok, w którym mieści się Mateuszowe dzielenie dziejów na trzy równe odcinki. Żaden z tych tekstów nie jest u Mateusza cytowany; oba są obecne jako sposób myślenia."
+      ],
+      [
+       "Łk 3,23–38 → całość",
+       "Drugi rodowód Nowego Testamentu różni się od tego w czterech rzeczach: idzie wstępująco, nie zstępująco; stoi po chrzcie, nie przed narodzeniem; sięga Adama i Boga, nie Abrahama; a po Dawidzie prowadzi linię przez Natana, nie przez Salomona, podając Hellego jako ojca Józefa. Starożytność szukała harmonizacji — Juliusz Afrykański, zachowany u Euzebiusza (*Hist. eccl.* I,7), tłumaczył rozbieżność prawem lewiratu — a jeden ze świadków tekstu poszedł dalej i wstawił do Mt 1,11 imiona z Łk 3 (D w lekcji Łukaszowej). Nowożytna propozycja, że Łukasz podaje linię Marii, nie ma podstawy w tekście. Zgodność obu tradycji dotyczy dwóch punktów i są to punkty istotne: pochodzenie Dawidowe i prawne ojcostwo Józefa."
+      ],
+      [
+       "Mt 1,18–25; 27,17.22; 28,16–20 → w. 16–17",
+       "Trzy dopełnienia wewnątrz samej Ewangelii. Perykopa następna (1,18–25) wyjaśnia to jedyne ogniwo, którego rodowód nie wyjaśnił, i podaje sprawcę ukrytego w stronie biernej: ἐκ πνεύματος ἁγίου (z Ducha Świętego). Proces przed Piłatem (27,17.22) powtarza formułę ὁ λεγόμενος χριστός (zwany Chrystusem) — jedyne dwa inne miejsca w księdze — i oddaje ją człowiekowi, dla którego tytuł jest pogłoską, a wybór stawiany jest między dwoma ludźmi noszącymi imię Jezus. Rozesłanie (28,16–20) domyka obietnicę Abrahamową i zastępuje rejestr rodowy chrztem. Rodowód jest przez to tekstem, który czyta się dopiero z końca księgi."
+      ]
+     ]
+    },
+    {
+     "type": "recepcja",
+     "title": "Znaczenie w historii i liturgii Kościoła",
+     "body": null,
+     "children": [
+      [
+       "Historia dogmatu: rodowód przeciw doketyzmowi",
+       "Lista imion była w pierwszych wiekach argumentem, nie ozdobą. Ignacy Antiocheński, pisząc do Kościołów w drodze na śmierć, powtarza, że Jezus jest „prawdziwie z rodu Dawida wedle ciała\" i prawdziwie zrodzony z Dziewicy — formuła wymierzona w tych, którzy ciało Chrystusa uważali za pozorne. Marcjon, odrzucając Stary Testament, usunął ze swojej Ewangelii rodowód wraz z opowiadaniem o narodzeniu; Ireneusz odpowiadał na to wykazywaniem, że Zbawiciel i Stwórca są tym samym Bogiem, a ciągłość rodu jest dowodem jednej ekonomii. Rodowód wszedł też w regułę wiary przez Rz 1,3 — „z nasienia Dawida wedle ciała\" — i to sformułowanie, połączone z dziewiczym poczęciem z Mt 1,18–25, przeszło do wyznań wiary. W drugą stronę działał przykład ebionitów, odrzucających dziewicze poczęcie: tam, gdzie rodowód czytano bez wyłomu z w. 16, Jezus zostawał synem Józefa i prorokiem. Rozdział pierwszy Mateusza broni więc jednocześnie dwóch twierdzeń, których późniejsza dogmatyka nie pozwoli rozdzielić: prawdziwego człowieczeństwa z rodu Dawida i poczęcia z Ducha Świętego. W średniowieczu doszło do tego pytanie techniczne o rozbieżność z Łukaszem, rozstrzygane za Juliuszem Afrykańskim przez prawo lewiratu; Augustyn, który najpierw liczył u Mateusza czterdzieści pokoleń, sam wrócił do tego rachunku w *Retractationes*."
+      ],
+      [
+       "Liturgia",
+       "W rycie rzymskim rodowód ma swoje miejsce u progu Bożego Narodzenia. Mt 1,1–17 jest Ewangelią dnia 17 grudnia, czyli pierwszego z dni poprzedzających uroczystość, oznaczonych wielkimi antyfonami; w Mszy Wigilii Narodzenia Pańskiego (wieczór 24 grudnia) czyta się Mt 1,1–25 w formie dłuższej albo 1,18–25 w krótszej; w święto Narodzenia Najświętszej Maryi Panny 8 września Ewangelią jest Mt 1,1–16.18–23, również z formą krótszą. Przed reformą ksiąg liturgicznych rodowód Mateuszowy był śpiewany uroczyście, na ton Ewangelii, w Jutrzni Bożego Narodzenia, a rodowód Łukaszowy w Jutrzni Objawienia Pańskiego — zwyczaj wymieniany w dawnych ceremoniałach i miejscami dziś odtwarzany.\n\nWschód ustawia tę perykopę inaczej i mocniej. Niedziela przed Narodzeniem Pańskim jest w rycie bizantyjskim Niedzielą Świętych Ojców (Κυριακὴ τῶν ἁγίων Πατέρων), a jej Ewangelią jest Mt 1,1–25: całość rodowodu wraz z opowiadaniem o narodzeniu, czytana jako wspomnienie wszystkich przodków Chrystusa według ciała. Tydzień wcześniej, w Niedzielę Praojców, wspomina się patriarchów. Zachód nie ma odpowiednika takiego wspomnienia przodków, i to jest realna różnica obu tradycji: na Wschodzie rodowód jest tekstem wspomnienia przodków, na Zachodzie — tekstem przygotowania do święta. Sigla lekcjonarza rzymskiego i rubryki typikonu wymagają sprawdzenia w księgach przed publikacją."
+      ],
+      [
+       "Drzewo Jessego, kazanie i duchowość",
+       "Z połączenia Iz 11,1 z listą Mateusza wyrosła jedna z najtrwalszych formuł ikonograficznych Zachodu: drzewo Jessego — leżący patriarcha, z którego piersi wyrasta pień z królami na gałęziach, zwieńczony Marią i Chrystusem. Najstarsze zachowane przykłady pochodzą z XI–XII wieku, a klasyczne rozwiązania dały witraże Saint-Denis i Chartres z połowy XII wieku; motyw wszedł potem do *Biblia pauperum*, do rzeźby portalowej i do malarstwa ściennego, a na Wschodzie do cyklów „korzenia Jessego\" w przedsionkach cerkwi i katolikonów. Kaznodziejstwo poszło inną drogą: od Hieronima po średniowieczne homilie adwentowe rodowód czytano jako katalog Bożej cierpliwości i jako pocieszenie dla rodów nieświętych. Duchowość nowsza podjęła z tego jedno zdanie, którego sam Mateusz nie napisał, a które wynika z jego listy — że świętość nie wymaga czystego pochodzenia. Dane ikonograficzne i daty witraży wymagają weryfikacji przy źródłach."
+      ]
+     ]
+    },
+    {
+     "type": "patrystyka",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
+     "body": "Pięć głosów do pierwszej karty Ewangelii. Chryzostom pyta, dlaczego Bóg pozwolił się wpisać do rejestru i dlaczego Dawid stoi przed Abrahamem; Hieronim bierze cztery kobiety; Hilary czyta trzy czternastki jako trzy stany ludu; Augustyn rozstrzyga o ojcostwie Józefa i o kierunku obu rodowodów; Chryzostom wraca przy w. 17 do samego rachunku. Trzech z czterech Ojców, którzy przeszli tę Ewangelię komentarzem ciągłym, wypowiada się tu zachowanym tekstem. Orygenesa brak: jego *Commentarium in Matthaeum* zachowało się dopiero od księgi X (od Mt 13,36), a uwagi do rozdziału pierwszego znane są wyłącznie z fragmentów katenowych i z łacińskiej *Series veteris interpretationis*, więc przypisanie mu zdania o rodowodzie wymagałoby zgadywania.",
+     "children": []
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "body": "Czterdzieści jedno imię, czterdzieści form czasownika γεννάω (rodzić), cztery kobiety, jeden tytuł królewski i jedna deportacja — tyle Mateusz podaje, zanim powie o Jezusie pierwsze zdanie w czasie przeszłym. Rodowód ma dowieść prawa: pomazaniec musi być z rodu Dawida i z nasienia Abrahama, więc dokument zostaje przedłożony, a rachunek podliczony na głos. Dowód jest jednak ułożony tak, że sam pokazuje swoją granicę. Przez linię królewską przechodzą cztery kobiety, których w rodowodzie być nie musiało i których dwie są z narodów obcych; linia biegnie przez króla, nad którym prorok ogłosił koniec dynastii; trzecia czternastka upływa bez tronu i bez jednego poświadczonego imienia. A w ostatnim ogniwie czasownik zmienia stronę: ἐγεννήθη (został zrodzony) zamiast ἐγέννησεν (zrodził), i to, co czterdzieści razy robili ludzie, raz zostaje zrobione komuś.\n\nZ tego pęknięcia żyje cała księga. Jezus jest dziedzicem tronu przez prawo Józefa i nie jest produktem rodu przez nikogo — dlatego wyrok Jeremiasza zostaje ominięty, a nie złamany, i dlatego lista kończy się tytułem, nie imieniem: ἕως τοῦ Χριστοῦ (do Chrystusa), do urzędu, który przez czterdzieści dwa pokolenia stał nieobsadzony. Ostatnie słowo o Nim w tej perykopie jest zresztą jeszcze ostrożniejsze — ὁ λεγόμενος χριστός (zwany Chrystusem) — i wróci raz jeszcze, w ustach Piłata. Rodowód stawia więc pytanie, na które odpowiedzą dopiero Piotr w Cezarei Filipowej (16,16) i setnik pod krzyżem (27,54).\n\nZostaje jedna rzecz, którą ta karta mówi sama, bez pomocy dalszej narracji. Bóg wszedł w historię, której nie wyprostował, i kazał ją zapisać z nazwiskami: z podstępem Tamar, z cudzołóstwem Dawida, z Moabitką, z deportacją i z dziewięcioma pokoleniami, o których nie wiadomo nic poza tym, że były. Nowy Testament zaczyna się od rejestru ludzi, nie od imienia Boga — i dopiero w 1,23 to imię zostanie wypowiedziane jako μεθʼ ἡμῶν ὁ θεός (z nami Bóg).",
+     "children": []
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "body": "*Tekst grecki wedle wydania krytycznego Nestle-Aland, pobrany z `db.sqlite` (księga 470) wraz z Wulgatą klementyńską i aparatem; znaki aparatu usunięte z zapisu perykopy. Przekład polski jest roboczy, własny i celowo dosłowny — nie pochodzi z żadnego wydania objętego prawem autorskim; przekład międzywierszowy z `db.sqlite` posłużył wyłącznie jako materiał kontrolny. Transkrypcje hebrajskie uproszczone. Noty tekstualne opierają się na siedmiu wpisach aparatu dla Mt 1,1–17 w tabeli `commentaries`; świadków podano wedle tych wpisów.*\n\n*Loci patrystyczne — numery homilii Chryzostoma, rozdziały Hieronima i Hilarego, księgi Augustyna, miejsca u Euzebiusza — podano wedle standardowej numeracji i przed publikacją wymagają sprawdzenia przy źródłach (Źródła Myśli Teologicznej, PSP, Migne). To samo dotyczy sigliów Mszału i Lekcjonarza rzymskiego, rubryk typikonu bizantyjskiego, dat witraży oraz lokalizacji tekstów rabinicznych (Kidduszin 4,1, Jewamot). Przy pracy publikacyjnej warto zestawić analizę z komentarzami: U. Luz, W. D. Davies – D. C. Allison (ICC), R. T. France (NICNT), a po polsku A. Paciorek (NKB NT I).*",
+     "children": []
+    }
+   ],
+   "refs": [
+    [
+     [
+      "unit",
+      "w. 1",
+      0
+     ],
+     "Rdz",
+     5,
+     1,
+     5,
+     1,
+     "Rdz 5,1",
+     "cytat",
+     "βίβλος γενέσεως w LXX nad rodowodem ludzkości — formuła nagłówkowa przejęta dosłownie; hbr. sefer toledot"
+    ],
+    [
+     [
+      "unit",
+      "w. 1",
+      0
+     ],
+     "Rdz",
+     2,
+     4,
+     2,
+     4,
+     "Rdz 2,4",
+     "aluzja",
+     "ta sama formuła nad powstaniem nieba i ziemi; drugie z dwóch miejsc LXX, z których Mateusz bierze szyld"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Rdz",
+     12,
+     1,
+     12,
+     3,
+     "Rdz 12,1–3",
+     "tlo",
+     "błogosławieństwo wszystkich plemion ziemi w Abrahamie — racja tytułu „syn Abrahama\""
+    ],
+    [
+     [
+      "unit",
+      "w. 1",
+      2
+     ],
+     "Rdz",
+     22,
+     18,
+     22,
+     18,
+     "Rdz 22,18",
+     "tlo",
+     "obietnica potomstwa, w którym będą błogosławione narody — przesłanka łuku do 28,19"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "2 Sm",
+     7,
+     12,
+     7,
+     16,
+     "2 Sm 7,12–16",
+     "tlo",
+     "proroctwo Natana o tronie utwierdzonym na wieki — przesłanka całego rodowodu"
+    ],
+    [
+     [
+      "unit",
+      "w. 2–6",
+      1
+     ],
+     "Rdz",
+     49,
+     10,
+     49,
+     10,
+     "Rdz 49,10",
+     "tlo",
+     "berło nie oddali się od Judy — podstawa mesjańskiego odczytania linii Judy, poświadczonego w Qumran (4Q252)"
+    ],
+    [
+     [
+      "unit",
+      "w. 2–6",
+      2
+     ],
+     "Rdz",
+     38,
+     6,
+     38,
+     30,
+     "Rdz 38,6–30",
+     "tlo",
+     "Tamar wymusza lewirat podstępem; Juda orzeka, że jest sprawiedliwsza od niego (38,26)"
+    ],
+    [
+     [
+      "unit",
+      "w. 2–6",
+      3
+     ],
+     "Joz",
+     2,
+     1,
+     2,
+     21,
+     "Joz 2,1–21",
+     "tlo",
+     "Rachab ukrywa zwiadowców w Jerychu; Stary Testament nie wiąże jej z linią Dawida"
+    ],
+    [
+     [
+      "unit",
+      "w. 2–6",
+      3
+     ],
+     "Rt",
+     4,
+     13,
+     4,
+     22,
+     "Rt 4,13–22",
+     "tlo",
+     "wykupienie Rut i rodowód od Faresa do Dawida — odcinek, który Mateusz przepisuje w postaci LXX"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Pwt",
+     23,
+     4,
+     23,
+     4,
+     "Pwt 23,4",
+     "kontrast",
+     "Moabita nie wejdzie do zgromadzenia Pana aż do dziesiątego pokolenia — zakaz, wobec którego stoi Rut w rodowodzie Mesjasza"
+    ],
+    [
+     [
+      "unit",
+      "w. 2–6",
+      5
+     ],
+     "2 Sm",
+     11,
+     2,
+     11,
+     27,
+     "2 Sm 11,2–27",
+     "tlo",
+     "Batszeba i zabójstwo Uriasza Chetyty — treść wtrącenia „z tej, która była żoną Uriasza\""
+    ],
+    [
+     [
+      "unit",
+      "w. 7–11",
+      1
+     ],
+     "2 Krl",
+     8,
+     25,
+     14,
+     22,
+     "2 Krl 8,25 – 14,22",
+     "paralela",
+     "Ochozjasz, Joasz i Amazjasz — trzech królów opuszczonych między Joramem a Ozjaszem"
+    ],
+    [
+     [
+      "unit",
+      "w. 7–11",
+      3
+     ],
+     "2 Krl",
+     24,
+     10,
+     24,
+     16,
+     "2 Krl 24,10–16",
+     "tlo",
+     "uprowadzenie Jechoniasza i dworu do Babilonu — wydarzenie, które dzieli rodowód"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Jr",
+     22,
+     24,
+     22,
+     30,
+     "Jr 22,24–30",
+     "kontrast",
+     "pieczęć zdjęta z ręki Pana i wyrok, że nikt z potomstwa Jechoniasza nie zasiądzie na tronie — napięcie rozwiązane dopiero wyłomem w w. 16"
+    ],
+    [
+     [
+      "unit",
+      "w. 12–15",
+      1
+     ],
+     "Ag",
+     1,
+     1,
+     1,
+     1,
+     "Ag 1,1",
+     "paralela",
+     "Zorobabel jako syn Salatiela — wersja, za którą idzie Mateusz"
+    ],
+    [
+     [
+      "unit",
+      "w. 12–15",
+      1
+     ],
+     "Ag",
+     2,
+     23,
+     2,
+     23,
+     "Ag 2,23",
+     "kontrast",
+     "Zorobabel uczyniony pieczęcią Pana — odwrócenie obrazu z Jr 22,24"
+    ],
+    [
+     [
+      "unit",
+      "w. 12–15",
+      1
+     ],
+     "1 Krn",
+     3,
+     10,
+     3,
+     19,
+     "1 Krn 3,10–19",
+     "paralela",
+     "lista królów Judy i potomstwa Jechoniasza; Zorobabel jest tu synem Pedajasza, nie Salatiela"
+    ],
+    [
+     [
+      "unit",
+      "w. 12–15",
+      1
+     ],
+     "Ezd",
+     3,
+     2,
+     3,
+     2,
+     "Ezd 3,2",
+     "paralela",
+     "Zorobabel, syn Salatiela, odbudowuje ołtarz — drugie poświadczenie wersji Mateuszowej"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Łk",
+     3,
+     23,
+     3,
+     38,
+     "Łk 3,23–38",
+     "paralela",
+     "drugi rodowód: wstępujący, po chrzcie, przez Natana do Adama i Boga — rozchodzi się z Mateuszem po Zorobabelu"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mt",
+     1,
+     18,
+     1,
+     25,
+     "Mt 1,18–25",
+     "rozwiniecie",
+     "ἐκ πνεύματος ἁγίου (z Ducha Świętego) — sprawca ukryty w stronie biernej ἐγεννήθη"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mt",
+     27,
+     17,
+     27,
+     22,
+     "Mt 27,17.22",
+     "rozwiniecie",
+     "ὁ λεγόμενος χριστός w ustach Piłata — jedyne inne wystąpienia formuły w całej Ewangelii"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Dn",
+     9,
+     24,
+     9,
+     27,
+     "Dn 9,24–27",
+     "tlo",
+     "siedemdziesiąt tygodni lat — wzór liczenia czasu zbawienia w epokach, tło trzech czternastek"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Iz",
+     11,
+     1,
+     11,
+     10,
+     "Iz 11,1–10",
+     "typologia",
+     "odrośl z pnia Jessego: figura — pień wycięty, wypełnienie — potomek z linii, która utraciła tron; źródło ikonografii drzewa Jessego"
+    ],
+    [
+     [
+      "section",
+      "Znaczenie w historii i liturgii Kościoła"
+     ],
+     "Rz",
+     1,
+     3,
+     1,
+     4,
+     "Rz 1,3–4",
+     "paralela",
+     "„z nasienia Dawida wedle ciała\" — formuła reguły wiary, do której rodowód dostarcza dokumentacji"
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Ga",
+     3,
+     16,
+     3,
+     16,
+     "Ga 3,16",
+     "rozwiniecie",
+     "σπέρμα (potomstwo) odczytane w liczbie pojedynczej jako Chrystus"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mt",
+     28,
+     16,
+     28,
+     20,
+     "Mt 28,16–20",
+     "rozwiniecie",
+     "rozesłanie do wszystkich narodów domyka obietnicę Abrahamową z w. 1 i zastępuje rejestr rodowy chrztem"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ga",
+     3,
+     26,
+     3,
+     29,
+     "Ga 3,26–29",
+     "rozwiniecie",
+     "dziedzictwo Abrahamowe przez wiarę, nie przez rodowód — konsekwencja wyciągnięta przez Pawła"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Hbr",
+     7,
+     1,
+     7,
+     17,
+     "Hbr 7,1–17",
+     "kontrast",
+     "kapłaństwo bez rodowodu, na wzór Melchizedeka — dopełnienie tego, czego rodowód Mateusza nie podaje: Mesjasz tej listy jest królem, nie kapłanem"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mk",
+     1,
+     1,
+     1,
+     3,
+     "Mk 1,1–3",
+     "kontrast",
+     "Marek otwiera cytatem z proroka i nie ma rodowodu — miara Mateuszowego wyboru gatunku"
+    ]
+   ],
+   "patristic": [
+    [
+     "w. 1",
+     "św. Jan Chryzostom",
+     "Homiliae in Matthaeum",
+     "Hom. in Mt. 2",
+     "Chryzostom zatrzymuje się nad samym faktem rejestru. Bóg, powiada, dał się zapisać w księdze rodu jak każdy człowiek; nie wstydzi się przodków, których my wstydzilibyśmy się w swoim drzewie, i przez to już w pierwszym wierszu okazuje swoje zniżenie (συγκατάβασις), zanim jeszcze zacznie nauczać. Kolejność tytułów nie jest dla niego niedbalstwem: Dawid stoi przed Abrahamem, bo o Dawidzie żyła wśród ludu obietnica najbliższa i najgłośniejsza, więc od niej Mateusz zaczyna, żeby słuchacz od razu wiedział, o kim mowa. Kaznodzieja dodaje uwagę pastoralną, która wraca potem u niego wielokrotnie: skoro rodowód Pana obejmuje nierządnice i zabójców, nikt nie ma prawa tłumaczyć własnej nikczemności pochodzeniem."
+    ],
+    [
+     "w. 2–6",
+     "św. Hieronim",
+     "Commentariorum in Matthaeum libri IV",
+     "In Mt. I (ad 1,3)",
+     "Hieronim stawia pytanie, które od niego przejmie całe średniowiecze: dlaczego w rodowodzie nie ma żadnej ze świętych kobiet Starego Testamentu, ani Sary, ani Rebeki, ani Racheli, a są Tamar, Rachab, Rut i żona Uriasza. Odpowiada zwięźle i mocno: ten, który przyszedł dla grzeszników, rodząc się z grzeszników, zgładził grzechy wszystkich. Przy Rut zaznacza, że jest Moabitką, czyli obcą, i że to obcość, nie wina, czyni z niej znak dla narodów. Komentarz jest typowy dla jego sposobu pracy — pyta o dane, odpowiada jednym zdaniem i przechodzi dalej — a jego rozwiązanie pozostaje do dziś najstarszym znanym wyjaśnieniem obecności czterech kobiet, choć nie obejmuje ich wszystkich w równym stopniu."
+    ],
+    [
+     "w. 7–11",
+     "św. Hilary z Poitiers",
+     "Commentarius in Matthaeum",
+     "In Mt. 1",
+     "Hilary czyta rodowód typologicznie i bierze w nim przede wszystkim podział na trzy. Trzy czternastki są dla niego trzema stanami ludu: czas patriarchów, czas królów i czas po utracie królestwa — a każdy z nich kończy się niepowodzeniem, więc żaden z ustrojów danych Izraelowi nie okazał się zdolny go zbawić. Dlatego lista nie zamyka się na czwartym stanie, lecz na osobie: to, czego nie dokonali patriarchowie, królowie ani odbudowujący Świątynię, dokonuje się w Tym, do którego wszystkie trzy odcinki prowadziły. Upadek dynastii nie jest w tej lekturze przerwą w obietnicy, lecz jej warunkiem — Bóg pozwala wyczerpać się wszystkim ludzkim porządkom, zanim wejdzie sam."
+    ],
+    [
+     "w. 16",
+     "św. Augustyn",
+     "De consensu euangelistarum",
+     "De cons. euang. II,1–4",
+     "Augustyn rozstrzyga dwie rzeczy. Pierwsza to ojcostwo Józefa: jest ono prawdziwe, bo prawdziwe jest jego małżeństwo, a małżeństwo obejmuje potomstwo żony — Józef jest więc ojcem nie przez nasienie, lecz przez więź, i Pismo słusznie prowadzi rodowód przez niego. Druga to kierunek obu list. Mateusz zstępuje od Abrahama do Chrystusa, bo pokazuje Pana przychodzącego do nas i przyjmującego nasze grzechy; Łukasz wstępuje od Chrystusa do Boga, bo pokazuje drogę powrotną, oczyszczenie i wstąpienie. Dlatego, zauważa biskup Hippony, Mateusz stawia rodowód na początku, przy narodzeniu, a Łukasz po chrzcie, przy odpuszczeniu grzechów. Augustyn liczył przy tym u Mateusza czterdzieści pokoleń, widząc w tej liczbie czas trudu doczesnego, i do samego rachunku wracał później z zastrzeżeniami."
+    ],
+    [
+     "w. 17",
+     "św. Jan Chryzostom",
+     "Homiliae in Matthaeum",
+     "Hom. in Mt. 4",
+     "Chryzostom bierze się za arytmetykę i nie udaje, że się zgadza. Pyta, dlaczego Mateusz podzielił pokolenia na trzy grupy po czternaście, i odpowiada, że podział odpowiada trzem ustrojom, pod którymi żył Izrael: wodzów, królów i kapłanów — a za każdego z nich lud grzeszył tak samo, więc żaden nie przyniósł mu ratunku. O brakującym ogniwie trzeciej czternastki mówi wprost, że rachunek nie wychodzi bez policzenia granicznej osoby dwukrotnie, i nie szuka wyjścia w domysłach. Pominięcia imion także go nie gorszą: ewangelista nie pisze kroniki, lecz dowodzi pochodzenia, a do dowodu wystarczy linia, nie pełna lista. Uwaga ta jest zresztą najtrzeźwiejszym zdaniem starożytności o tym tekście — rodowód jest argumentem, nie archiwum."
+    ]
+   ],
+   "textual": [
+    [
+     3,
+     "Ζάρα",
+     "ortografia imienia",
+     "Tekst krytyczny czyta Ζάρα. Postać Ζαρε mają 𝔓¹, Kodeks Watykański (B) i przekład środkowoegipski (mae).",
+     "Wariant bez znaczenia dla sensu, ale wart odnotowania ze względu na świadków: 𝔓¹ (P.Oxy. 2) zawiera właśnie początek rodowodu i jest najstarszym świadkiem tego tekstu, a zgadza się tu z B — czyli para, na której opiera się tekst krytyczny w całej perykopie, w tym jednym miejscu od niego odstaje. Rozbieżność dotyczy transkrypcji imienia z LXX, w której wahania są regułą."
+    ],
+    [
+     5,
+     "Βόες",
+     "ortografia imienia",
+     "Tekst krytyczny czyta Βόες (bis). Βοοζ mają L, W, rodziny f¹ i f¹³, tekst większościowy, przekłady łacińskie i syryjski peszitta; Βοος mają C, D w lekcji Łukaszowej, 33 i nieliczne rękopisy; za Βόες stoją 𝔓¹, ℵ, B, lekcjonarze 844 i 2211, kodeks k oraz przekłady koptyjskie.",
+     "Mateuszowe Βόες nie jest formą LXX: Księga Rut ma w grece Βοος, a Βοοζ zbliża się do postaci hebrajskiej i do Wulgaty (*Booz*). Oba warianty poprawiają więc tekst w kierunku tekstów lepiej znanych, co jest klasycznym kierunkiem konformacji i przesądza o pierwszeństwie lekcji trudniejszej. Miejsce pokazuje przy tym, że Mateusz, choć przepisuje odcinek rodowodu z greckiego Pisma, nie przepisuje go z jedynej znanej nam jego postaci."
+    ],
+    [
+     6,
+     "Δαυὶδ δὲ ἐγέννησεν",
+     "dodatek",
+     "Po Δαυὶδ δέ w drugiej połowie wiersza C, L, W, 33, tekst większościowy, przekłady łacińskie i syryjski harkleński dodają ὁ βασιλεύς (król). Krótszy tekst mają 𝔓¹, ℵ, B, Γ, f¹ i f¹³, 579, 700 oraz przekłady koptyjskie i starosyryjskie.",
+     "Dodatek wyrównuje asymetrię: Mateusz nadaje tytuł królewski raz, przy Dawidzie kończącym pierwszą czternastkę (τὸν Δαυὶδ τὸν βασιλέα), i nie powtarza go przy Dawidzie otwierającym drugą. Kopiści powtórzyli — i tym samym zatarli to, że tytuł stoi dokładnie w szwie. Lekcja krótsza jest pierwotna i niesie więcej treści niż dłuższa."
+    ],
+    [
+     7,
+     "Ἀσάφ",
+     "wariant lekcji",
+     "Tekst krytyczny czyta Ἀβιά oraz Ἀσάφ (dwukrotnie, w w. 7 i 8). Ἀσά mają L, W, 33, tekst większościowy, część kodeksów starołacińskich (a, f, ff¹), Wulgata i przekłady syryjskie; za Ἀσάφ stoją 𝔓¹ (prawdopodobnie), ℵ, B, C, D w lekcji Łukaszowej, f¹ i f¹³, 700, lekcjonarze 844 i 2211, przekłady łacińskie i koptyjskie. Przy Ἀβιά część tradycji (D w lekcji Łukaszowej, f¹³, kodeksy starołacińskie, margines harkleński) czyta Ἀβιούδ.",
+     "Ἀσάφ to imię lewity i układacza psalmów, nie króla Judy, który w Księgach Królewskich nazywa się Asa. Lekcja trudniejsza jest lepiej poświadczona, a kierunek poprawiania — ku tekstowi Królewskich — oczywisty, więc tekst krytyczny słusznie ją zachowuje. Czy pomyłka powstała u Mateusza, czy w jego źródle, rozstrzygnąć się nie da; propozycja, że ewangelista wciąga psalmistę w sukcesję świadomie, nie ma w tekście żadnego potwierdzenia."
+    ],
+    [
+     8,
+     "Ἰωρὰμ δὲ ἐγέννησεν τὸν Ὀζίαν",
+     "harmonizacja",
+     "Po Ἰωρὰμ δὲ ἐγέννησεν część tradycji (D w lekcji Łukaszowej, syryjski curetoniański) wstawia pominiętych królów: τὸν Ὀχοζίαν, Ὀχοζίας δὲ ἐγέννησεν τὸν Ἰωάς, Ἰωὰς δὲ ἐγέννησεν τὸν Ἀμασίαν, Ἀμασίας δὲ ἐγέννησεν (Ochozjasza, Ochozjasz zaś zrodził Joasza, Joasz zaś zrodził Amazjasza, Amazjasz zaś zrodził).",
+     "Uzupełnienie wzięte z 2 Krl 8–14. Świadczy o tym, że skrót Mateusza zauważono wcześnie i odczuwano jako brak — a zarazem o tym, że poprawka rozsadza czternastkę, bo po jej wprowadzeniu druga grupa liczy siedemnaście pokoleń. Kopista naprawił historię i zepsuł kompozycję, co jest dobrym świadectwem, że liczba u Mateusza jest zamierzona."
+    ],
+    [
+     11,
+     "ἐγέννησεν τὸν Ἰεχονίαν",
+     "harmonizacja",
+     "Przed τὸν Ἰεχονίαν rękopisy M, Θ, f¹, 33 i część pozostałych, syryjski harkleński oraz łaciński Ireneusz dodają τὸν Ἰωακίμ, Ἰωακὶμ δὲ ἐγέννησεν (Joakima, Joakim zaś zrodził). D w lekcji Łukaszowej ma w tym miejscu odwróconą kolejność z dopisanymi imionami Jechoniasza, Joakima i Eliakima, wziętymi z Łk 3,23–31.",
+     "Najbardziej wymowna poprawka w całej perykopie. Jozjasz był w rzeczywistości ojcem Joakima, a dziadkiem Jechoniasza (2 Krl 23,34; 24,6), więc dopisek przywraca brakujące ogniwo — i przy okazji domyka rachunek, bo trzecia czternastka Mateusza liczy trzynaście imion. Kopiści rozwiązali więc problem, nad którym do dziś pracuje egzegeza, i zrobili to dwoma sposobami naraz: uzupełnieniem z Królewskich i zapożyczeniem z Łukasza. Rozwiązanie jest wtórne, lecz dowodzi, że trudność jest stara."
+    ],
+    [
+     16,
+     "τὸν ἄνδρα Μαρίας, ἐξ ἧς ἐγεννήθη Ἰησοῦς",
+     "wariant lekcji",
+     "Tekst krytyczny — τὸν ἄνδρα Μαρίας, ἐξ ἧς ἐγεννήθη Ἰησοῦς ὁ λεγόμενος χριστός — mają 𝔓¹, ℵ, B, C, L, W, f¹, 33, tekst większościowy, Wulgata wraz z kodeksami aur, f, ff¹, peszitta, harkleński i przekłady koptyjskie. Θ, f¹³ i kodeksy starołacińskie czytają: ᾧ μνηστευθεῖσα παρθένος Μαριὰμ ἐγέννησεν Ἰησοῦν τὸν λεγόμενον χριστόν (któremu poślubiona dziewica Maria zrodziła Jezusa, zwanego Chrystusem). Syryjski synajski ma: Ἰωσήφ, ᾧ μνηστευθεῖσα ἦν Μαρία παρθένος, ἐγέννησεν Ἰησοῦν τὸν λεγόμενον χριστόν (Józef, któremu poślubiona była Maria dziewica, zrodził Jezusa, zwanego Chrystusem); syryjski curetoniański: ᾧ μνηστευθεῖσα ἦν Μαρία παρθένος, ἣ ἔτεκεν Ἰησοῦν χριστόν (któremu poślubiona była Maria dziewica, która urodziła Jezusa Chrystusa).",
+     "Najsłynniejsze miejsce aparatu w rozdziale i zarazem najczęściej nadużywane. Lekcja syryjska synajska brzmi, jakby to Józef zrodził Jezusa, i bywa przywoływana jako ślad tradycji bez dziewiczego poczęcia. Argument nie wytrzymuje dwóch rzeczy. Po pierwsze, ten sam rękopis przekazuje dalej 1,18–25 wraz z poczęciem z Ducha Świętego, więc jego własny tekst takiej tradycji nie zna. Po drugie, wszystkie trzy warianty — grecko-łaciński i oba syryjskie — rozwiązują ten sam problem stylistyczny: zdanie Mateusza urywa łańcuch bez wyjaśnienia i wszystkie trzy wstawiają w to miejsce słowo παρθένος (dziewica) albo czasownik rodzenia o jasnym podmiocie. Są to więc próby wygładzenia wyłomu, a nie jego alternatywa; sam wyłom — strona bierna i rodzaj żeński zaimka — jest tekstem pierwotnym."
+    ]
+   ],
+   "theme_links": [
+    [
+     "Syn Dawida i chrystologia królewska",
+     [
+      "block",
+      "w. 1"
+     ]
+    ],
+    [
+     "Syn Dawida i chrystologia królewska",
+     [
+      "block",
+      "w. 2–6"
+     ]
+    ],
+    [
+     "obietnica Abrahamowa i narody",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "cztery kobiety rodowodu",
+     [
+      "block",
+      "w. 2–6"
+     ]
+    ],
+    [
+     "rodowód, liczba i rachunek epok",
+     [
+      "block",
+      "w. 17"
+     ]
+    ],
+    [
+     "rodowód, liczba i rachunek epok",
+     [
+      "block",
+      "w. 7–11"
+     ]
+    ],
+    [
+     "imię Jezus i imię Emmanuel",
+     [
+      "block",
+      "w. 16"
+     ]
+    ],
+    [
+     "formuły wypełnienia",
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ]
+    ]
+   ],
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     "Super Mt., cap. I",
+     [
+      "section",
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Wykład rodowodu: dlaczego Mateusz zstępuje, dlaczego tytuł Dawidowy stoi przed Abrahamowym i jak ojcostwo Józefa zachowuje prawdziwość przy dziewiczym poczęciu.",
+     "Super Evangelium S. Matthaei lectura"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "ST III, q. 31; I, q. 22, a. 2 i 4",
+     [
+      "section",
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Konieczność prawdziwego pochodzenia Chrystusa z rodu Dawida wedle ciała oraz Opatrzność sięgająca rzeczy jednostkowych bez odbierania im przypadkowości.",
+     "Summa Theologiae"
+    ],
+    [
+     "Euzebiusz z Cezarei",
+     "Hist. eccl. I,7",
+     [
+      "section",
+      "Znaczenie w historii i liturgii Kościoła"
+     ],
+     "List Juliusza Afrykańskiego do Arystydesa: rozwiązanie rozbieżności obu rodowodów prawem lewiratu; przekaz o rejestrach rodzinnych i o zniszczeniu archiwów przez Heroda.",
+     "Historia ecclesiastica"
+    ],
+    [
+     "Józef Flawiusz",
+     "Vita 1",
+     [
+      "section",
+      "Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Powołanie się na publiczne rejestry jako podstawę własnego kapłańskiego pochodzenia — świadectwo prawnej wagi rodowodu w I wieku.",
+     "Vita"
+    ],
+    [
+     "A. Paciorek",
+     "Ewangelia według świętego Mateusza I, ad loc.",
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Polskie omówienie trzech czternastek, czterech kobiet i rozbieżności z rodowodem Łukaszowym.",
+     "Ewangelia według świętego Mateusza (Nowy Komentarz Biblijny)"
+    ],
+    [
+     "U. Luz",
+     "Das Evangelium nach Matthäus I, ad loc.",
+     [
+      "section",
+      "Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Analiza gatunku rodowodu, jego funkcji w polemice po roku 70 i historii odczytań gematrycznych.",
+     "Das Evangelium nach Matthäus"
+    ]
+   ],
+   "revision_note": "2026-11-27: pierwsza perykopa bazy Mateusza (Mt 1,1–17). Sekcja I w sześciu blokach i dwudziestu dwóch jednostkach analizy, oś na przejściu od ἐγέννησεν do ἐγεννήθη w w. 16; sekcje II–VII z podsekcjami, katena pięciu głosów (Chryzostom dwukrotnie, Hieronim, Hilary, Augustyn), siedem not tekstualnych opartych na wpisach aparatu z db.sqlite, dwadzieścia dziewięć odniesień biblijnych, dziesięć leksemów, pięć terminów semickich i sześć motywów przekrojowych. Status w_opracowaniu — loci patrystyczne i dane liturgiczne czekają na weryfikację przy źródłach."
+  }
+ ]
+}

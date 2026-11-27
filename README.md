@@ -3,7 +3,8 @@
 Baza `egzegeza_mateusza.sqlite` przechowuje pełną egzegezę perykopa po
 perykopie. Zakres docelowy: **cała Ewangelia, Mt 1,1–28,20**, w sześćdziesięciu
 trzech perykopach. Stan dziś: maszyneria stoi, delimitacja jest zatwierdzona,
-**Wprowadzenie napisane** (7 sekcji, 21 podsekcji), perykop jeszcze nie ma.
+**Wprowadzenie napisane** (7 sekcji, 21 podsekcji), opracowana jest **perykopa 1**
+(Mt 1,1–17, `rodowod.json`, status `w_opracowaniu`).
 Źródło samego tekstu (`db.sqlite`) jest kompletne.
 
 Repozytorium powstało na wzór `../john` wedle procedury z `NOWA_KSIEGA.md`.
@@ -241,7 +242,7 @@ Kolumna „Status" wypełnia się dopiero wraz z plikiem danych.
 
 | # | Siglum | Tytuł | Plik danych | Status |
 |---|---|---|---|---|
-| 1 | Mt 1,1–17 | Rodowód Jezusa Chrystusa | `rodowod.json` | — |
+| 1 | Mt 1,1–17 | Rodowód Jezusa Chrystusa | `rodowod.json` | w_opracowaniu |
 | 2 | Mt 1,18–25 | Narodzenie Jezusa i imię Emmanuel | `narodzenie.json` | — |
 | 3 | Mt 2,1–12 | Magowie ze Wschodu | `magowie.json` | — |
 | 4 | Mt 2,13–23 | Ucieczka do Egiptu, rzeź niewiniątek i Nazaret | `egipt.json` | — |
