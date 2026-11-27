@@ -65,17 +65,21 @@ repozytorium. Przeczytaj ją **zanim** zaczniesz pisać jakiekolwiek dane.
 
 ## Stan prac
 
-Maszyneria stoi, treści nie ma. `data/` zawiera `schema.sql` i szkielet
-`wprowadzenie.json` (tytuł, motto, pusta lista sekcji); `PHASES`
-w `tools/egzegeza_mateusza_build.py` jest pustą listą, `make build` przechodzi
-i daje bazę z zerami. Źródło tekstu `db.sqlite` jest kompletne: 18 346 słów
-interlinii, 1068 wersetów greckich w 28 rozdziałach, 1071 wersetów Wulgaty,
-1425 not aparatu.
+Źródło tekstu `db.sqlite` jest kompletne: 18 346 słów interlinii, 1068 wersetów
+greckich w 28 rozdziałach, 1071 wersetów Wulgaty, 1425 not aparatu.
+Delimitacja 63 perykop została **zatwierdzona 27 XI 2026** i stoi w `README.md`;
+granicę wolno przesunąć tylko po uzgodnieniu. **Wprowadzenie jest napisane** —
+`data/wprowadzenie.json`, 7 sekcji i 21 podsekcji, 28 wierszy `intro_section`.
 
-Kolejność robót wedle `NOWA_KSIEGA.md`: delimitacja → Wprowadzenie →
-pierwsza perykopa jako wzorzec → reszta → przekroje → recenzja przy źródłach.
-Delimitacja (63 perykopy) jest **propozycją w `README.md`** i czeka na
-zatwierdzenie; Wprowadzenia i żadnej perykopy jeszcze nie ma.
+`PHASES` w `tools/egzegeza_mateusza_build.py` jest jeszcze pustą listą: żadnej
+perykopy nie ma. Kolejność robót wedle `NOWA_KSIEGA.md`: delimitacja ✓ →
+Wprowadzenie ✓ → **pierwsza perykopa jako wzorzec** → reszta po jednej →
+przekroje (motywy, leksykon) na końcu → recenzja przy źródłach.
+
+Następny krok to perykopa 1 (`rodowod.json`, Mt 1,1–17). Ona ustala miarę
+gęstości dla sześćdziesięciu dwóch następnych, więc nie zaczynaj masowej
+produkcji przed jej domknięciem. Pierwszy plik danych musi wnieść także
+`meta` z kluczem `projekt` i `books` z wierszem Mateusza — patrz `SKILL.md`.
 
 `status`: `szkic` → `w_opracowaniu` → `ukonczona` → `do_rewizji`.
 Perykopy pisane przez Claude'a dostają **`w_opracowaniu`** — nigdy

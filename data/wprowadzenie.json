@@ -1,8 +1,135 @@
 {
  "intro": {
-  "title": "Wprowadzenie do Ewangelii według św. Mateusza",
-  "motto": "Βίβλος γενέσεως Ἰησοῦ Χριστοῦ (Księga narodzenia Jezusa Chrystusa)",
-  "lead": "",
-  "sections": []
+  "title": "Wprowadzenie do Ewangelii według świętego Mateusza",
+  "motto": "Liber generationis Jesu Christi (Księga narodzenia Jezusa Chrystusa)",
+  "lead": "Mateusz jest Ewangelią Kościoła. Nie dlatego, że powstał najpóźniej albo\nnajwcześniej, lecz dlatego, że został napisany jako księga do użytku wspólnoty:\nz katechezą ułożoną w pięć wielkich mów, z regułą postępowania wobec brata,\nktóry zawinił, z formułą chrzcielną na końcu i z jedynym w Ewangeliach słowem\nἐκκλησία (zgromadzenie, Kościół). Starożytność czytała go najczęściej,\nśredniowiecze komentowało najgęściej, a dzisiejsza liturgia rzymska poświęca\nmu cały rok A.\n\nAutor pisze po grecku, lecz myśli kategoriami Pisma. Dzieje Jezusa prowadzi\ntak, by na każdym kroku widać było, że to, co się stało, **dopełniło** się:\ndziesięć razy przerywa narrację formułą o wypełnieniu proroctwa, a czasownik\nπληρόω (wypełniać, dopełniać) stawia szesnaście razy. Rodowód otwierający\nksięgę nie jest ozdobą, lecz tezą: Jezus jest synem Dawida i synem Abrahama,\nwięc historia Izraela ma w nim swój kres i swoje sedno.\n\nCałość spina jedna klamra. W 1,23 prorockie imię Ἐμμανουήλ zostaje\nprzetłumaczone — μεθʼ ἡμῶν ὁ θεός (z nami Bóg); w 28,20, ostatnim zdaniem\nksięgi, mówi to sam Zmartwychwstały: μεθʼ ὑμῶν εἰμι (z wami jestem). Między\ntymi dwoma zdaniami rozciąga się wszystko inne.",
+  "sections": [
+   {
+    "title": "Autor: celnik, apostoł i tradycja o Mateuszu",
+    "body": "Ewangelia jest anonimowa. Nagłówek ΚΑΤΑ ΜΑΘΘΑΙΟΝ (według Mateusza) nie\nnależy do tekstu — pojawia się w rękopisach jako tytuł nadany z zewnątrz,\ngdy czwórka Ewangelii krążyła już razem i trzeba je było od siebie odróżnić.\nTradycja wiąże księgę z celnikiem wezwanym w 9,9, którego Marek i Łukasz\nnazywają Lewim (Mk 2,14; Łk 5,27).",
+    "children": [
+     [
+      "Świadectwo Papiasza i jego zagadka",
+      "Najstarsze świadectwo przekazuje Euzebiusz, cytując Papiasza z Hierapolis\n(*Hist. eccl.* III,39,16): Ματθαῖος μὲν οὖν Ἑβραΐδι διαλέκτῳ τὰ λόγια\nσυνετάξατο (Mateusz więc ułożył wypowiedzi w mowie hebrajskiej), a każdy\ntłumaczył je, jak potrafił. Zdanie jest krótkie i na wszystkich trzech\nczłonach sporne.\n\nτὰ λόγια znaczy „wypowiedzi\" albo „wyroki\" — niekoniecznie całą Ewangelię;\nmogło chodzić o zbiór mów albo o zbiór świadectw ze Pisma. Ἑβραΐδι διαλέκτῳ\nczyta się zwykle jako „w języku hebrajskim\" (czyli w praktyce aramejskim),\nale proponowano też lekturę „w semickim sposobie wykładu\", gdzie διάλεκτος\noznaczałaby styl i układ, nie język. Ostatni człon — że każdy tłumaczył, jak\npotrafił — zakłada, że greckiej wersji autorytatywnej jeszcze nie było.\n\nIreneusz powtarza to twierdzenie i wiąże je z misją (*Adv. haer.* III,1,1):\nMateusz wydał Ewangelię wśród Hebrajczyków w ich własnym języku, gdy Piotr\ni Paweł głosili w Rzymie. Loci podane są tu wedle standardowej numeracji\ni przed publikacją wymagają sprawdzenia przy źródłach."
+     ],
+     [
+      "Dlaczego grecki Mateusz nie jest przekładem",
+      "Grecki Mateusz nie jest przekładem z semickiego oryginału i to jest dziś\nnajmocniejszy argument w całej sprawie. Powód jest filologiczny: Mateusz\nzależy od **greckiego** Marka. Zgodność nie dotyczy samej treści, lecz\nbrzmienia — tych samych słów, tych samych konstrukcji, nieraz tej samej\nosobliwej składni w tej samej kolejności. Dwóch niezależnych tłumaczy\nsemickiego pierwowzoru nie wyprodukowałoby zbieżności tego rodzaju.\n\nDrugi argument jest biblijny: część cytatów ze Starego Testamentu idzie za\nSeptuagintą, i to w miejscach, gdzie LXX rozchodzi się z tekstem hebrajskim.\nNajgłośniejszy przypadek to 1,23, gdzie Iz 7,14 czytane jest przez παρθένος\n(dziewica), choć hebrajskie עַלְמָה (alma) znaczy „młoda kobieta\".\n\nZ tego wynika obraz autora: judeochrześcijanin piszący po grecku, dla\nwspólnoty dwujęzycznej, ugruntowany w Piśmie i w technice szkolnej, lecz\nanonimowy. Notatka Papiasza może odnosić się do zaginionego zbioru albo do\nMateusza jako autorytetu stojącego za tradycją, nie do tej księgi w tej\npostaci. Komentarze współczesne — U. Luz, W. D. Davies i D. C. Allison,\nR. T. France, J. Nolland, a po polsku A. Paciorek — przyjmują anonimowość\njako punkt wyjścia i różnią się dopiero tym, ile miejsca zostawiają dla\nstarej tradycji."
+     ],
+     [
+      "Rys autora: uczony w Piśmie uczyniony uczniem",
+      "Autoportret autora stoi prawdopodobnie w 13,52: πᾶς γραμματεὺς μαθητευθεὶς\nτῇ βασιλείᾳ τῶν οὐρανῶν (każdy uczony w Piśmie uczyniony uczniem Królestwa\nniebios) jest jak gospodarz, który wydobywa ze swego skarbca καινὰ καὶ\nπαλαιά (nowe i stare). Zdanie nie ma odpowiednika u Marka ani u Łukasza\ni opisuje dokładnie to, co ta księga robi: zestawia stare z nowym i pokazuje,\nże jedno jest wypełnieniem drugiego.\n\nRysy tej samej ręki widać wszędzie. Prawo nie zostaje odrzucone, lecz\ndoprowadzone do swojej miary (5,17). Materiał jest układany w trójki, pary\ni serie liczbowe. Spory z przeciwnikami prowadzone są techniką szkolną —\npytaniem, kontrpytaniem i cytatem. A troska o wspólnotę jest konkretna,\nproceduralna: tylko tu Jezus mówi o ἐκκλησία (16,18; 18,17) i tylko tu\npojawia się reguła upomnienia brata."
+     ]
+    ]
+   },
+   {
+    "title": "Tło historyczne: po roku 70, między synagogą a Kościołem",
+    "body": "Ewangelia powstała po katastrofie. Dla judaizmu zburzenie Jerozolimy w 70 r.\noznaczało koniec świątyni, kapłaństwa i Sanhedrynu; dla wspólnoty\njudeochrześcijańskiej — konieczność odpowiedzi na pytanie, kto jest\nprawdziwym Izraelem. Mateusz pisze w tym właśnie sporze i trzeba go w nim\nczytać, bo inaczej jego ostrość brzmi jak coś, czym nie jest.",
+    "children": [
+     [
+      "Judaizm Drugiej Świątyni i katastrofa roku 70",
+      "Judaizm Drugiej Świątyni nie był monolitem: faryzeusze, saduceusze, esseńczycy\ni wspólnota z Qumran, ruchy prorocko-zelockie i szeroka warstwa ludu bez\nprzynależności. Rok 70 usunął z tej mapy saduceuszów wraz ze świątynią,\na przywództwo przeszło do uczonych kontynuujących tradycję faryzejską, którzy\nzebrali się w Jawne (Jamnia). To tam zaczął się proces, który dał judaizm\nrabiniczny: przeniesienie ciężaru z kultu na Torę, z kapłana na nauczyciela,\nze świątyni na dom nauki.\n\nW tekście Mateusza słychać świadomość tego przełomu. W 22,7 król z przypowieści\nposyła wojsko, niszczy zabójców καὶ τὴν πόλιν αὐτῶν ἐνέπρησεν (i miasto ich\nspalił) — zdanie bez odpowiednika w paraleli Łukaszowej, czytane powszechnie\njako aluzja do losu Jerozolimy. Podobnie mowa o zburzeniu świątyni (24,1–2)\nma u Mateusza ton dokonanego faktu, nie zapowiedzi."
+     ],
+     [
+      "Spór z faryzeizmem formatywnym",
+      "Polemika z „uczonymi w Piśmie i faryzeuszami\" jest u Mateusza najostrzejsza\nw całym Nowym Testamencie i obejmuje cały rozdział 23. Trzeba o niej\npowiedzieć dwie rzeczy naraz.\n\nPierwsza: jest to spór **wewnątrzżydowski**. Mateusz nie atakuje judaizmu\nz zewnątrz, lecz walczy o jego dziedzictwo — i dlatego sięga po język, jakim\nprorocy mówili do własnego narodu. Charakterystyczny jest zwrot „ich\nsynagogi\" (4,23; 9,35; 10,17; 12,9; 13,54): wspólnota jest już osobna, ale\nrozstanie jest świeże i bolesne, a nie dawne i obojętne. Rzeczownik Ἰουδαῖοι\n(Judejczycy, Żydzi) pada u Mateusza rzadko i nie pełni roli zbiorowego\nprzeciwnika, inaczej niż u Jana.\n\nDruga: historyczne tło tego rozstania bywało opisywane zbyt pewnie.\nWiązanie wykluczeń ze synagogi z *birkat ha-minim* i z „soborem w Jawne\"\njako wydarzeniem o ustalonej dacie jest dziś ostrożniejsze, niż było\nw połowie XX wieku; krytyka tej konstrukcji (m.in. R. Kimelman) osłabiła\nzarówno datowanie, jak i przypisywany jej skutek. W egzegezie poszczególnych\nperykop lepiej mówić o procesie niż o akcie."
+     ],
+     [
+      "Miejsce i data powstania",
+      "Miejsce powstania wskazuje się najczęściej na Antiochię syryjską i powody są\nzbieżne, choć żaden nie jest rozstrzygający: dwujęzyczne, greckojęzyczne\nśrodowisko judeochrześcijańskie, spór o Prawo znany z Listu do Galatów,\na przede wszystkim to, że Ignacy Antiocheński zna już Mateusza i cytuje go\n(*Smyrn.* 1,1 sięga po 3,15 — πληρῶσαι πᾶσαν δικαιοσύνην, „wypełnić wszelką\nsprawiedliwość\"). Proponowano też Galileę, Cezareę Nadmorską i Fenicję.\n\nDatowanie mieści się zwykle w latach 80–90: po roku 70, bo zburzenie miasta\njest już za autorem, i przed końcem wieku, bo Ignacy pisze na początku\nnastępnego. Wszystko to są hipotezy o różnej mocy i w komentarzu należy je\npodawać jako hipotezy — ani miejsce, ani rok nie są w tej księdze danymi,\nlecz wnioskami."
+     ]
+    ]
+   },
+   {
+    "title": "Kwestia synoptyczna: Marek, źródło mów i materiał własny",
+    "body": "Mateusz nie pisał w próżni. Niemal cały Marek mieści się w jego księdze,\na z Łukaszem dzieli obszerny materiał mów, którego Marek nie zna. Przyjęta tu\nhipoteza robocza jest standardowa — pierwszeństwo Marka i wspólne źródło mów —\ni trzeba ją traktować jako narzędzie, nie jako dogmat.",
+    "children": [
+     [
+      "Pierwszeństwo Marka",
+      "Za pierwszeństwem Marka stoją trzy obserwacje. Mateusz ma prawie całą treść\nMarka, zwykle w jego kolejności, z wyraźną przebudową w rozdziałach 8–9, gdzie\ncuda zostały zebrane w blok. Greka Mateusza jest gładsza: poprawia składnię,\nusuwa aramejskie wtrącenia, skraca opisy. I wreszcie łagodzi to, co u Marka\ntwarde — ostre zdania o niezrozumieniu uczniów tracą ostrze, a sceny ujmujące\nJezusowi mocy zostają przeredagowane.\n\nKierunek odwrotny trudno uzasadnić: trzeba by przyjąć, że Marek skrócił\nMateusza, wyrzucając Kazanie na Górze i rodowód, a jednocześnie rozbudował\ndrobiazgi narracyjne i wprowadził szorstkości. Nie jest to niemożliwe i ma\nswoich obrońców, ale wymaga więcej założeń.\n\nDla egzegezy znaczy to jedno: tam, gdzie Mateusz zmienia Marka, zmiana jest\ninterpretacją i warto ją odczytać. Nie w każdej perykopie i nigdy jako popis\nźródłoznawstwa."
+     ],
+     [
+      "Źródło mów i materiał własny",
+      "Materiał wspólny z Łukaszem, a nieobecny u Marka, obejmuje przede wszystkim\nmowy — od kazania o błogosławieństwach po mowę misyjną i polemiki. Zwyczajowo\nnazywa się go Q (od niem. *Quelle*, źródło). Ostrożność jest tu konieczna:\nQ jest **postulatem**, nie rękopisem; nikt go nie widział, a jego zakres,\njęzyk i kształt rekonstruuje się z samych zbieżności. Część badaczy widzi\nw nim dokument, część warstwę tradycji ustnej.\n\nObok tego stoi materiał własny Mateusza, oznaczany M: opowieść o dzieciństwie\nz magami i ucieczką do Egiptu, większość rozdziału 23, przypowieści o dziesięciu\npannach i o sądzie nad narodami (25,31–46), scena z Piłatem obmywającym ręce,\nstraż u grobu. To w nim najwyraźniej widać, co dla tego autora było ważne.\n\nW bazie nie przypisujemy perykop do źródeł. Siglum „Q\" albo „M\" postawione\nprzy perykopie niczego nie wyjaśnia; wyjaśnia dopiero wskazanie, co konkretnie\nMateusz z danym materiałem zrobił."
+     ],
+     [
+      "Nawyki redakcyjne Mateusza",
+      "Redakcja Mateusza ma kilka rozpoznawalnych nawyków i warto je znać, zanim się\nje opisze w pojedynczej perykopie.\n\n**Zbieranie.** Rozproszone u Marka mowy zostają skupione w pięć bloków,\na cuda w serię (8–9). Katecheza wygrywa z chronologią.\n\n**Skracanie narracji, rozbudowa słowa.** Opisy tracą szczegóły, które nie niosą\nnauki; wypowiedzi Jezusa zyskują. Z 18 346 słów tej księgi 10 426 to słowa\nJezusa — ponad połowa tekstu.\n\n**Podwajanie.** Jeden opętany u Marka, dwóch u Mateusza (8,28); jeden niewidomy,\ndwóch (20,30). Zwykle tłumaczy się to wymogiem dwóch świadków (Pwt 19,15),\ndo którego Mateusz wprost się odwołuje w 18,16.\n\n**Zastosowanie wspólnotowe.** Rozdział 18 przekłada materiał o dziecku i o\nzgubionej owcy na regułę życia wspólnoty, z procedurą upomnienia i z władzą\nwiązania i rozwiązywania."
+     ]
+    ]
+   },
+   {
+    "title": "Świadkowie tekstu: papirusy, kodeksy i miejsca sporne",
+    "body": "Mateusz jest poświadczony dobrze i wcześnie. Dla egzegezy ważniejsze od listy\nświadków jest to, że aparat krytyczny leży w tym repozytorium w `db.sqlite`\nrazem z tekstem, więc każde sporne miejsce można obejrzeć na miejscu, zamiast\nopisywać je z pamięci.",
+    "children": [
+     [
+      "Najwcześniejsze papirusy",
+      "Najstarsze fragmenty sięgają przełomu II i III wieku.\n\n𝔓104 (P.Oxy. 4404) niesie kilka wersetów z Mt 21,34–37 i bywa datowany na\ndrugą połowę II wieku, co czyni go jednym z najwcześniejszych świadków tej\nEwangelii. 𝔓64 z Magdalen College wraz z 𝔓67 z Barcelony (Mt 26 oraz Mt 3\ni 5) datuje się na około 200 r.; rozgłos zyskały przez próbę przesunięcia ich\nw I wiek, odrzuconą przez paleografów. 𝔓1 (P.Oxy. 2) zawiera początek\nrodowodu i pochodzi z III wieku. 𝔓45, część kodeksu Chester Beatty I,\nto III-wieczny świadek czterech Ewangelii i Dziejów. Do tego dochodzi 𝔓77\nz fragmentem rozdziału 23.\n\nDatowania papirusów opierają się na porównaniu pisma i mają szerokie\nprzedziały; krytyka metody paleograficznej z ostatnich dekad każe podawać je\nz zapasem, a nie jako punkty na osi czasu."
+     ],
+     [
+      "Kodeksy, rodziny i przekłady",
+      "Pełny tekst przynoszą wielkie kodeksy IV wieku: Sinaiticus (ℵ) i Vaticanus (B),\noba aleksandryjskie. Obok nich stoją Codex Bezae (D) z V wieku, z własnym,\nmocno odrębnym tekstem Ewangelii, Codex Washingtonianus (W) i Codex\nKoridethi (Θ). Grupy rękopisów f1 i f13 niosą tekst tzw. cezarejski,\nspokrewniony wewnętrznie na tyle, że w aparacie traktuje się je zbiorczo.\nMasę średniowieczną reprezentuje tekst bizantyjski, oznaczany 𝔐.\n\nPrzekłady starożytne mają tu wagę świadka: Wulgata i starołacińskie,\nsyryjska synajska i kuretoniańska oraz Peszitta, a także wersje koptyjskie\n(saidzka i bohairska). W kilku miejscach Mateusza to właśnie syryjska\nsynajska zachowuje lekcję, której nie ma żaden grecki rękopis."
+     ],
+     [
+      "Miejsca, w których aparat decyduje o sensie",
+      "Lista miejsc, w których aparat Mateusza decyduje o sensie, jest krótka i warto\nją mieć pod ręką. Każde z nich należy czytać w `commentaries`, nie z pamięci.\n\nW 1,16 syryjska synajska ma lekcję inaczej rozkładającą zrodzenie. W 5,22\nεἰκῆ (bez powodu) łagodzi zakaz gniewu i jest wtórne. W 6,13 doksologia\n„bo Twoje jest królestwo\" nie stoi w ℵ B D, a *Didache* 8,2 zna jej krótszą\npostać — co pozwala zobaczyć, jak formuła liturgiczna wchodzi do tekstu.\nWersety 17,21, 18,11 i 23,14 w tekście krytycznym nie występują wcale\n(w bazie mają za to wiersz łaciński Wulgaty, bez greki). W 16,2b-3 brak\nzdania o znakach czasu w części świadków. W 21,44 werset o kamieniu bywa\npominięty.\n\nDwa miejsca Męki są osobne. W 27,16–17 część świadków czyta Ἰησοῦν Βαραββᾶν\n(Jezusa Barabasza) — lekcję znaną już Orygenesowi, który nad nią się\nzastanawiał. W 27,49 ℵ B C dodają zdanie o przebiciu boku, przeniesione\nz J 19,34, i stawiają je **przed** śmiercią Jezusa; to klasyczny przykład\nharmonizacji psującej sens."
+     ]
+    ]
+   },
+   {
+    "title": "Kompozycja: pięć mów i trzy części",
+    "body": "Kompozycja Mateusza jest jawna i sam autor ją oznakował. Dwie formuły — jedna\ndomykająca mowy, druga otwierająca nowy etap — dzielą księgę na części\ni obie są policzalne w tekście.",
+    "children": [
+     [
+      "Pięć wielkich mów i formuła domykająca",
+      "Pięć wielkich mów to szkielet księgi: Kazanie na Górze (5–7), mowa misyjna\n(10), mowa w przypowieściach (13), mowa o życiu wspólnoty (18) i mowa\neschatologiczna (24–25). Każdą domyka ta sama klamra —\nκαὶ ἐγένετο ὅτε ἐτέλεσεν ὁ Ἰησοῦς (i stało się, gdy skończył Jezus) — która\nw tej księdze pada dokładnie **pięć razy**: 7,28; 11,1; 13,53; 19,1; 26,1.\nFormuła nie jest ozdobą, lecz znakiem redakcyjnym: po niej wraca narracja.\n\nUkład pięciu mów przeplatanych narracją nasunął B. W. Baconowi tezę, że\nMateusz buduje „nowy Pięcioksiąg\", a Jezus jest w nim nowym Mojżeszem. Teza\nma mocne oparcie — góra jako miejsce nauczania, ucieczka do Egiptu, rzeź\nniewiniątek, formuła „nie przyszedłem znieść Prawa\" — i ma słabość: nie\nobejmuje rodowodu ani Męki, które do pięcioksięgowego schematu nie wchodzą.\nLepiej traktować ją jako czytelny wzór kompozycyjny niż jako klucz do całości."
+     ],
+     [
+      "Trzy części i formuła ἀπὸ τότε",
+      "Druga formuła dzieli księgę inaczej i to ona wyznacza podział przyjęty w tej\nbazie. ἀπὸ τότε ἤρξατο ὁ Ἰησοῦς (od tego czasu zaczął Jezus) pada **dwa razy**:\nw 4,17, gdy Jezus zaczyna głosić, i w 16,21, gdy zaczyna zapowiadać mękę.\nOba miejsca są progami i oba zmieniają temat księgi.\n\nStąd trójdzielny układ, za którym idzie delimitacja perykop:\n\n- **Mt 1,1–4,16 — Osoba Mesjasza.** Kto to jest: rodowód, narodzenie, magowie,\n  Chrzciciel, chrzest, kuszenie.\n- **Mt 4,17–16,20 — Głoszenie Królestwa.** Co czyni i czego naucza, aż do\n  wyznania Piotra w Cezarei Filipowej.\n- **Mt 16,21–28,20 — Męka i zmartwychwstanie.** Droga do Jerozolimy, Męka,\n  pusty grób, rozesłanie.\n\nPodział ten spopularyzował J. D. Kingsbury. Jego zaletą wobec schematu\npięciu mów jest to, że obejmuje całą księgę, od pierwszego do ostatniego\nwersetu, i opiera się na zwrocie, który sam autor powtórzył."
+     ],
+     [
+      "Klamry: Emmanuel, góra, Syn Dawida",
+      "Ponad tymi podziałami biegną klamry.\n\n**Emmanuel.** W 1,23 imię z Iz 7,14 zostaje przetłumaczone: μεθʼ ἡμῶν ὁ θεός\n(z nami Bóg). W 28,20, w ostatnim zdaniu księgi, Zmartwychwstały mówi\nμεθʼ ὑμῶν εἰμι (z wami jestem). Pierwsze zdanie jest proroctwem o nim,\nostatnie — jego własnym słowem; między nimi stoi cała Ewangelia.\n\n**Góra.** Na górze Jezus naucza (5,1), uzdrawia tłumy (15,29), zostaje\nprzemieniony (17,1) i rozsyła uczniów (28,16). Góra jest u Mateusza miejscem\nobjawienia, jak Sinaj.\n\n**Syn Dawida.** Imię Dawida pada siedemnaście razy, od pierwszego wersetu\n(1,1) przez wołania chorych (9,27; 15,22; 20,30–31) po spór o to, czyim synem\njest Mesjasz (22,42–45). Rodowód liczy pokolenia w trzech grupach po\nczternaście (1,17); proponowano, że czternaście to suma liczbowa imienia דוד\n(Dawid), i jest to propozycja, nie dana tekstu."
+     ]
+    ]
+   },
+   {
+    "title": "Język, styl i formuły wypełnienia",
+    "body": "Greka Mateusza jest poprawna i oszczędna, bez Markowych szorstkości i bez\nŁukaszowych ambicji literackich. Osobliwością tej księgi nie jest styl, lecz\nsposób, w jaki wiąże się z Pismem.",
+    "children": [
+     [
+      "Dziesięć cytatów o wypełnieniu",
+      "Formuły wypełnienia to znak firmowy Mateusza. Dziesięć razy narracja zostaje\nprzerwana zdaniem w rodzaju ἵνα πληρωθῇ τὸ ῥηθὲν (aby wypełniło się\npowiedziane) i cytatem: 1,22–23; 2,15; 2,17–18; 2,23; 4,14–16; 8,17; 12,17–21;\n13,35; 21,4–5; 27,9–10. Czasownik πληρόω (wypełniać) pada w całej księdze\nszesnaście razy, także poza formułami — w programowym 5,17 i w Męce (26,54.56).\n\nPrzy każdym z tych cytatów trzeba osobno ustalić, za jakim tekstem idzie,\nbo odpowiedź jest za każdym razem inna i za każdym razem coś znaczy:\n\n- **1,23** idzie za Septuagintą: παρθένος (dziewica) wobec hebrajskiego\n  עַלְמָה (alma — młoda kobieta).\n- **2,15** idzie za tekstem hebrajskim Oz 11,1 („z Egiptu wezwałem syna\n  mego\"), bo LXX ma tam liczbę mnogą — gdyby Mateusz szedł za LXX, cytat\n  przestałby pasować.\n- **2,23** o Ναζωραῖος nie ma żadnego źródła, które dałoby się wskazać;\n  propozycje wiążą je z נֵצֶר (necer — pęd) z Iz 11,1 albo z nazirejstwem.\n- **27,9–10** przypisane jest Jeremiaszowi, a brzmi jak Za 11,12–13.\n\nŻadnego z tych miejsc nie wolno opisać ogólnikiem „Mateusz cytuje Pismo\"."
+     ],
+     [
+      "Słowa-klucze i ich liczby",
+      "Słowa-klucze tej księgi dają się policzyć i policzone są wymowne.\n\n**βασιλεία τῶν οὐρανῶν** (królestwo niebios) występuje **32 razy** i jest\nformą właściwą Mateuszowi — pozostali ewangeliści jej nie mają. Jest to\nomowa unikająca imienia Boga, zgodna ze zwyczajem żydowskim; „niebiosa\"\nzastępują Boga, a nie oznaczają miejsca. Co ważne, Mateusz nie trzyma się\njej wyłącznie: **βασιλεία τοῦ θεοῦ** (królestwo Boga) pada **pięć razy**\n(6,33; 12,28; 19,24; 21,31; 21,43), więc omowa jest nawykiem, nie zakazem,\ni w tych pięciu miejscach warto zapytać, czemu ustąpiła.\n\n**δικαιοσύνη** (sprawiedliwość) pada **siedem razy** (3,15; 5,6; 5,10; 5,20;\n6,1; 6,33; 21,32) i znaczy co innego niż u Pawła: nie usprawiedliwienie\ndarmo dane, lecz postępowanie zgodne z wolą Boga — to, co trzeba „wypełnić\"\n(3,15) i co ma „obfitować\" bardziej niż u uczonych w Piśmie (5,20).\n\n**ἐκκλησία** (zgromadzenie, Kościół) pojawia się w Ewangeliach **wyłącznie\nu Mateusza**: raz w 16,18 i dwa razy w 18,17."
+     ],
+     [
+      "Semickie podglebie i technika pisarska",
+      "Pod greką Mateusza leży semickie podglebie i miejscami wychodzi na\npowierzchnię. Zostawione bez przekładu albo z przekładem dopisanym są:\nῥακά (raka — pusta głowo, 5,22), μαμωνᾶς (mamona, 6,24), βεελζεβούλ\n(Beelzebul, 10,25; 12,24.27), ὡσαννά (hosanna, 21,9.15), ῥαββί (rabbi,\n23,7–8; 26,25.49), κορβανᾶς (korban — skarbiec świątynny, 27,6), Γολγοθά\n(Golgota, 27,33) oraz wołanie z krzyża ηλι ηλι λεμα σαβαχθανι (27,46),\nktóre sam tekst natychmiast tłumaczy.\n\nTechnika pisarska jest również semicka. Materiał układa się w trójki (trzy\ngrupy po czternaście pokoleń, trzy uczynki pobożne w 6,1–18, trzy pokusy),\nw pary (dwóch opętanych, dwóch niewidomych) i w paralelizmy członów, gdzie\ndrugie zdanie powtarza pierwsze innymi słowami. Słowo ἀμήν (amen — zaprawdę) pada\ntrzydzieści jeden razy, prawie zawsze w formule ἀμὴν λέγω ὑμῖν (amen, mówię\nwam) i zawsze pojedynczo: podwojone ἀμὴν ἀμήν jest cechą Jana, nie Mateusza."
+     ]
+    ]
+   },
+   {
+    "title": "Recepcja: Ojcowie, katena i liturgia",
+    "body": "Mateusz był w starożytności Ewangelią czytaną najczęściej i komentowaną\nnajgęściej. Zestaw Ojców, po których sięga katena tej bazy, jest więc inny\nniż u Jana, gdzie całą księgę przeszli Chryzostom i Augustyn.",
+    "children": [
+     [
+      "Komentarze ciągłe do Mateusza",
+      "Komentarze ciągłe do całego Mateusza zostawili czterej autorzy i oni są\npierwszym wyborem przy niemal każdej perykopie.\n\n**św. Jan Chryzostom**, *Homiliae in Matthaeum* — dziewięćdziesiąt homilii\nprzez całą księgę, wygłoszonych w Antiochii. Najobszerniejszy komentarz\npatrystyczny do tej Ewangelii i zwykle najkonkretniejszy: Chryzostom pyta\no motywy osób, o realia i o zastosowanie moralne.\n\n**św. Hieronim**, *Commentariorum in Matthaeum libri IV* (398 r.) — komentarz\nzwięzły, miejscami pośpieszny, nieoceniony dla kwestii filologicznych\ni hebrajskich.\n\n**św. Hilary z Poitiers**, *Commentarius in Matthaeum* — najstarszy łaciński\nkomentarz do całej księgi, pisany jeszcze przed wygnaniem autora, mocno\ntypologiczny.\n\n**Orygenes**, *Commentarium in Matthaeum* — po grecku zachowała się część\n(księgi X–XVII), resztę zna się z łacińskiej *Series veteris interpretationis*.\n\nObok nich stoi **św. Chromacjusz z Akwilei** (*Tractatus in Matthaeum*),\na dla rozdziałów 5–7 nie można pominąć **św. Augustyna**: nie napisał\nkomentarza ciągłego, ale *De sermone Domini in monte* jest podstawowym\ntekstem do Kazania na Górze, a *De consensu euangelistarum* — do miejsc\nsynoptycznie spornych.\n\nSygnatury i numery homilii podane są wedle standardowej numeracji i przed\npublikacją wymagają sprawdzenia przy źródłach."
+     ],
+     [
+      "Dwie pułapki atrybucji",
+      "Przy Mateuszu czyhają dwie pułapki atrybucji i obie trzeba znać z góry, bo\noba dzieła są w obiegu pod cudzym nazwiskiem.\n\n*Opus imperfectum in Matthaeum* (PG 56) chodzi pod imieniem Chryzostoma,\na jest dziełem anonimowym, łacińskim i o ariańskim zabarwieniu. Wolno\nz niego korzystać, ale trzeba je nazwać po imieniu, a nie przypisywać\nChryzostomowi.\n\n*In Matthaei euangelium expositio* (PL 92) pod imieniem **św. Bedy** nie jest\njego dziełem — to ta sama lekcja, którą recenzje bazy Janowej wyciągnęły przy\nkomentarzu do Jana z tego samego tomu. Autentyczny materiał Bedy do Mateusza\njest w *Homiliae euangelii*.\n\nZe scholastyki podstawowy jest **św. Tomasz z Akwinu**: *Super Evangelium\nS. Matthaei lectura* oraz *Catena aurea*, która sama jest zbiorem kateny\ni pozwala sprawdzić, kogo tradycja przy danym wersecie przywoływała.\nZe średniowiecza łacińskiego dochodzą **Rabanus Maurus** (*Commentarius in\nMatthaeum*) i **Paschazjusz Radbertus** (*Expositio in Matthaeum*)."
+     ],
+     [
+      "Liturgia i dzieje lektury",
+      "Recepcja Mateusza jest w znacznej mierze recepcją samego chrześcijaństwa.\n*Didache* cytuje go jako tekst znany i obowiązujący, z modlitwą Pańską\nw postaci bliskiej 6,9–13. Formuła chrzcielna z 28,19 weszła do liturgii\ni do wyznań wiary. Kazanie na Górze stało się osobnym gatunkiem lektury —\nod Augustyna przez średniowieczne summy aż po XX-wieczne spory o etykę\ni nieprzemoc.\n\nW liturgii rzymskiej Mateusz czytany jest w **roku A** cyklu niedzielnego,\na jego teksty wracają w miejscach węzłowych: 25,31–46 w uroczystość Chrystusa\nKróla roku A, 28,16–20 we Wniebowstąpienie roku A, modlitwa Pańska z 6,9–13\nw każdej Mszy. Ewangelia św. Mateusza (9,9–13) jest też czytaniem jego\nwłasnego wspomnienia 21 września.\n\nDane liturgiczne podane są tu skrótowo i wymagają sprawdzenia w Lekcjonarzu\nprzed publikacją — przy tradycji bizantyjskiej trzeba je ustalać osobno,\nwedle typikonu. Szczegółowa recepcja liturgiczna każdej perykopy należy do\npodsekcji „Liturgia\" sekcji VII i tam jest jej miejsce, nie tutaj."
+     ]
+    ]
+   }
+  ]
  }
 }

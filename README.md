@@ -2,9 +2,9 @@
 
 Baza `egzegeza_mateusza.sqlite` przechowuje pełną egzegezę perykopa po
 perykopie. Zakres docelowy: **cała Ewangelia, Mt 1,1–28,20**, w sześćdziesięciu
-trzech perykopach. Stan dziś: **maszyneria stoi, treści nie ma** — `data/`
-zawiera schemat i szkielet Wprowadzenia, `make build` przechodzi i daje bazę
-z zerami. Źródło samego tekstu (`db.sqlite`) jest kompletne.
+trzech perykopach. Stan dziś: maszyneria stoi, delimitacja jest zatwierdzona,
+**Wprowadzenie napisane** (7 sekcji, 21 podsekcji), perykop jeszcze nie ma.
+Źródło samego tekstu (`db.sqlite`) jest kompletne.
 
 Repozytorium powstało na wzór `../john` wedle procedury z `NOWA_KSIEGA.md`.
 Kształt pracy nad perykopą opisuje `SKILL.md` i jest on dla obu ksiąg ten sam.
@@ -221,10 +221,11 @@ WHERE fts_tresc MATCH 'sprawiedliwość' AND entity = 'patristic_comment';
 
 Podział całej Ewangelii na perykopy jest decyzją kompozycyjną, nie techniczną,
 i wedle `NOWA_KSIEGA.md` zapada **przed** pisaniem treści — zmiana w połowie
-pracy oznacza przepisywanie odniesień i klamer. Poniższy podział jest
-**propozycją do zatwierdzenia**: zakresy są ciągłe i rozłączne, pokrywają
-Mt 1,1–28,20 i wszystkie 1068 wersetów, mediana długości perykopy to
-16 wersetów (u Jana 45 perykop na 878 wersetów).
+pracy oznacza przepisywanie odniesień i klamer. Poniższy podział został
+**zatwierdzony 27 XI 2026** i jest od tej chwili wiążący: zakresy są ciągłe
+i rozłączne, pokrywają Mt 1,1–28,20 i wszystkie 1068 wersetów, mediana
+długości perykopy to 16 wersetów (u Jana 45 perykop na 878 wersetów).
+Granicę perykopy wolno przesunąć tylko po uzgodnieniu z człowiekiem.
 
 Trzy części idą za formułą **ἀπὸ τότε ἤρξατο ὁ Ἰησοῦς** (od tego czasu zaczął
 Jezus) w Mt 4,17 i 16,21 — szwem, który zaznacza sam ewangelista. Granice padają
