@@ -1,0 +1,2221 @@
+{
+ "books": [
+  [
+   "Kpł",
+   "Księga Kapłańska",
+   "ST",
+   3
+  ],
+  [
+   "Ez",
+   "Księga Ezechiela",
+   "ST",
+   31
+  ],
+  [
+   "Jl",
+   "Księga Joela",
+   "ST",
+   36
+  ],
+  [
+   "So",
+   "Księga Sofoniasza",
+   "ST",
+   42
+  ],
+  [
+   "Za",
+   "Księga Zachariasza",
+   "ST",
+   44
+  ],
+  [
+   "Ml",
+   "Księga Malachiasza",
+   "ST",
+   45
+  ]
+ ],
+ "verses": {
+  "chapter": 3,
+  "items": [
+   [
+    1,
+    "Ἐν δὲ ταῖς ἡμέραις ἐκείναις παραγίνεται Ἰωάννης ὁ βαπτιστὴς κηρύσσων ἐν τῇ ἐρήμῳ τῆς Ἰουδαίας",
+    "W owych zaś dniach pojawia się Jan Chrzciciel, głosząc na pustyni Judejskiej"
+   ],
+   [
+    2,
+    "[καὶ] λέγων· μετανοεῖτε· ἤγγικεν γὰρ ἡ βασιλεία τῶν οὐρανῶν.",
+    "[i] mówiąc: Odmieniajcie myślenie, przybliżyło się bowiem królestwo niebios."
+   ],
+   [
+    3,
+    "οὗτος γάρ ἐστιν ὁ ῥηθεὶς διὰ Ἠσαΐου τοῦ προφήτου λέγοντος· φωνὴ βοῶντος ἐν τῇ ἐρήμῳ· ἑτοιμάσατε τὴν ὁδὸν κυρίου, εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ.",
+    "Ten bowiem jest tym, o którym powiedziano przez Izajasza proroka, mówiącego: Głos wołającego na pustyni: przygotujcie drogę Pana, prostymi czyńcie ścieżki jego."
+   ],
+   [
+    4,
+    "αὐτὸς δὲ ὁ Ἰωάννης εἶχεν τὸ ἔνδυμα αὐτοῦ ἀπὸ τριχῶν καμήλου καὶ ζώνην δερματίνην περὶ τὴν ὀσφὺν αὐτοῦ, ἡ δὲ τροφὴ ἦν αὐτοῦ ἀκρίδες καὶ μέλι ἄγριον.",
+    "Sam zaś Jan miał odzienie swoje z sierści wielbłądziej i pas skórzany wokół biodra swego, pokarmem zaś jego były szarańcze i miód dziki."
+   ],
+   [
+    5,
+    "Τότε ἐξεπορεύετο πρὸς αὐτὸν Ἱεροσόλυμα καὶ πᾶσα ἡ Ἰουδαία καὶ πᾶσα ἡ περίχωρος τοῦ Ἰορδάνου,",
+    "Wtedy wychodziła do niego Jerozolima i cała Judea, i cała okolica Jordanu,"
+   ],
+   [
+    6,
+    "καὶ ἐβαπτίζοντο ἐν τῷ Ἰορδάνῃ ποταμῷ ὑπʼ αὐτοῦ ἐξομολογούμενοι τὰς ἁμαρτίας αὐτῶν.",
+    "i byli przez niego zanurzani w rzece Jordan, wyznając swoje grzechy."
+   ],
+   [
+    7,
+    "Ἰδὼν δὲ πολλοὺς τῶν Φαρισαίων καὶ Σαδδουκαίων ἐρχομένους ἐπὶ τὸ βάπτισμα αὐτοῦ εἶπεν αὐτοῖς· γεννήματα ἐχιδνῶν, τίς ὑπέδειξεν ὑμῖν φυγεῖν ἀπὸ τῆς μελλούσης ὀργῆς;",
+    "Ujrzawszy zaś wielu z faryzeuszów i saduceuszów, przychodzących do jego chrztu, powiedział im: Potomstwo żmij, kto wam pokazał, jak uciec przed gniewem, który ma przyjść?"
+   ],
+   [
+    8,
+    "ποιήσατε οὖν καρπὸν ἄξιον τῆς μετανοίας",
+    "Uczyńcie więc owoc godny odmiany myślenia"
+   ],
+   [
+    9,
+    "καὶ μὴ δόξητε λέγειν ἐν ἑαυτοῖς· πατέρα ἔχομεν τὸν Ἀβραάμ. λέγω γὰρ ὑμῖν ὅτι δύναται ὁ θεὸς ἐκ τῶν λίθων τούτων ἐγεῖραι τέκνα τῷ Ἀβραάμ.",
+    "i nie mniemajcie, że możecie mówić w sobie samych: Ojca mamy Abrahama. Mówię bowiem wam, że może Bóg z tych kamieni wzbudzić dzieci Abrahamowi."
+   ],
+   [
+    10,
+    "ἤδη δὲ ἡ ἀξίνη πρὸς τὴν ῥίζαν τῶν δένδρων κεῖται· πᾶν οὖν δένδρον μὴ ποιοῦν καρπὸν καλὸν ἐκκόπτεται καὶ εἰς πῦρ βάλλεται.",
+    "Już zaś siekiera przy korzeniu drzew jest położona; każde więc drzewo nieczyniące owocu dobrego zostaje wycięte i w ogień wrzucone."
+   ],
+   [
+    11,
+    "Ἐγὼ μὲν ὑμᾶς βαπτίζω ἐν ὕδατι εἰς μετάνοιαν, ὁ δὲ ὀπίσω μου ἐρχόμενος ἰσχυρότερός μού ἐστιν, οὗ οὐκ εἰμὶ ἱκανὸς τὰ ὑποδήματα βαστάσαι· αὐτὸς ὑμᾶς βαπτίσει ἐν πνεύματι ἁγίῳ καὶ πυρί·",
+    "Ja wprawdzie zanurzam was w wodzie ku odmianie myślenia; ten zaś, który idzie za mną, mocniejszy jest ode mnie — jego sandałów nie jestem godzien nieść. On was zanurzy w Duchu Świętym i ogniu."
+   ],
+   [
+    12,
+    "οὗ τὸ πτύον ἐν τῇ χειρὶ αὐτοῦ καὶ διακαθαριεῖ τὴν ἅλωνα αὐτοῦ καὶ συνάξει τὸν σῖτον αὐτοῦ εἰς τὴν ἀποθήκην, τὸ δὲ ἄχυρον κατακαύσει πυρὶ ἀσβέστῳ.",
+    "Jego wiejadło w ręce jego, i przeczyści klepisko swoje, i zbierze zboże swoje do spichlerza, plewę zaś spali ogniem nieugaszonym."
+   ]
+  ]
+ },
+ "lexemes": [
+  [
+   "παραγίνομαι",
+   "paraginomai",
+   "czasownik",
+   "przybywać, stawać się obecnym — u Mateusza trzy razy i zawsze o wejściu na scenę kogoś oczekiwanego: magowie (2,1), Jan (3,1), Jezus (3,13)"
+  ],
+  [
+   "βαπτιστής",
+   "baptistes",
+   "rzeczownik",
+   "zanurzający, chrzciciel — przezwisko zrośnięte z imieniem, siedem razy u Mateusza (3,1; 11,11.12; 14,2.8; 16,14; 17,13); poświadcza je także Flawiusz"
+  ],
+  [
+   "κηρύσσω",
+   "kerysso",
+   "czasownik",
+   "obwoływać jako herold — nie przekonywać, lecz ogłaszać cudzą decyzję; dziewięć razy u Mateusza i zawsze o królestwie albo o ewangelii (3,1; 4,17.23; 9,35; 10,7.27; 11,1; 24,14; 26,13)"
+  ],
+  [
+   "ἔρημος",
+   "eremos",
+   "przymiotnik",
+   "pusty, bezludny; z rodzajnikiem żeńskim rzeczownikowo: pustynia — osiem razy u Mateusza (3,1.3; 4,1; 11,7; 14,13.15; 23,38; 24,26), a w 23,38 o opuszczonym domu Izraela"
+  ],
+  [
+   "μετανοέω",
+   "metanoeo",
+   "czasownik",
+   "zmieniać myślenie, przemyśleć na nowo — pięć razy u Mateusza (3,2; 4,17; 11,20.21; 12,41); Septuaginta oddaje nim zwykle hebrajskie nacham (żałować), nie szuw (zawrócić)"
+  ],
+  [
+   "μετάνοια",
+   "metanoia",
+   "rzeczownik",
+   "odmiana myślenia — u Mateusza tylko dwa razy i oba w ustach Chrzciciela (3,8.11); Wulgata ma tu paenitentia (pokuta), co przesuwa sens ku uczynkowi zadośćczynnemu"
+  ],
+  [
+   "ἐγγίζω",
+   "eggizo",
+   "czasownik",
+   "zbliżać się — siedem razy u Mateusza; w perfectum ἤγγικεν o królestwie (3,2; 4,17; 10,7), w aoryście o dojściu do miejsca (21,1.34) i o godzinie wydania (26,45.46)"
+  ],
+  [
+   "βασιλεία",
+   "basileia",
+   "rzeczownik",
+   "królowanie, panowanie bardziej niż terytorium — pięćdziesiąt pięć razy u Mateusza, z czego trzydzieści dwa w zestawieniu τῶν οὐρανῶν i pięć w zestawieniu τοῦ θεοῦ"
+  ],
+  [
+   "οὐρανός",
+   "ouranos",
+   "rzeczownik",
+   "niebo; u Mateusza osiemdziesiąt dwa razy, najczęściej w liczbie mnogiej za hebrajskim szamajim, i w liczbie mnogiej zawsze w omowie królestwa"
+  ],
+  [
+   "φωνή",
+   "phone",
+   "rzeczownik",
+   "głos, dźwięk — u Mateusza siedem razy, a w rozdziałach 2–3 trzy razy i za każdym razem inny: płacz Racheli (2,18), wołanie na pustyni (3,3), głos z nieba (3,17)"
+  ],
+  [
+   "βοάω",
+   "boao",
+   "czasownik",
+   "wołać głośno, krzyczeć — u Mateusza raz jeden, w cytacie z Izajasza; czasownik obwieszczenia na otwartej przestrzeni, nie mowy do zgromadzonych"
+  ],
+  [
+   "ἑτοιμάζω",
+   "hetoimazo",
+   "czasownik",
+   "przygotować, mieć w gotowości — siedem razy u Mateusza; poza cytatem z Iz 40,3 o miejscu przygotowanym przez Ojca (20,23; 25,34), o uczcie (22,4) i o Passze (26,17.19)"
+  ],
+  [
+   "ὁδός",
+   "hodos",
+   "rzeczownik",
+   "droga — w cytacie z Iz 40,3 droga procesyjna budowana dla wracającego Boga; ten sam werset był w Qumran uzasadnieniem wyjścia na pustynię"
+  ],
+  [
+   "τρίβος",
+   "tribos",
+   "rzeczownik",
+   "ścieżka wytarta stopami — u Mateusza raz jeden; w Septuagincie bywa obrazem postępowania moralnego, nie tylko szlaku"
+  ],
+  [
+   "ἔνδυμα",
+   "endyma",
+   "rzeczownik",
+   "odzienie — siedem razy u Mateusza i niemal zawsze jako świadectwo o noszącym: sierść Jana (3,4), owcze skóry fałszywych proroków (7,15), szata weselna (22,11–12), biel zwiastuna (28,3)"
+  ],
+  [
+   "ζώνη",
+   "zone",
+   "rzeczownik",
+   "pas, przepaska; także sakiewka noszona za pasem — u Mateusza dwa razy: skórzany pas Jana (3,4) i pasy, których uczniowie nie mają zabierać (10,9)"
+  ],
+  [
+   "ἀκρίς",
+   "akris",
+   "rzeczownik",
+   "szarańcza — u Mateusza raz jeden; Kpł 11,20–23 dopuszcza cztery gatunki skrzydlatych owadów do jedzenia, więc pokarm Jana jest czysty wedle Prawa"
+  ],
+  [
+   "Ἰορδάνης",
+   "Iordanes",
+   "rzeczownik",
+   "Jordan — sześć razy u Mateusza (3,5.6.13; 4,15.25; 19,1); rzeka granicy i przejścia, w której Izrael wszedł do ziemi obiecanej"
+  ],
+  [
+   "βαπτίζω",
+   "baptizo",
+   "czasownik",
+   "zanurzać, zatapiać — siedem razy u Mateusza (3,6.11 dwa razy.13.14.16; 28,19); w grece świeckiej bez znaczenia obrzędowego, które nadaje mu dopiero praktyka żydowska i chrześcijańska"
+  ],
+  [
+   "ἐξομολογέομαι",
+   "exomologeomai",
+   "czasownik",
+   "wyznawać na głos, uznawać publicznie — u Mateusza dwa razy: o wyznaniu grzechów (3,6) i o wyznaniu chwały Ojca przez Jezusa (11,25); ten sam czasownik dla obu"
+  ],
+  [
+   "Φαρισαῖος",
+   "Pharisaios",
+   "rzeczownik",
+   "faryzeusz, od aramejskiego perisza (odłączony) — dwadzieścia dziewięć razy u Mateusza; stronnictwo tradycji ustnej i wiary w zmartwychwstanie, po roku 70 jedyny ocalały rozmówca"
+  ],
+  [
+   "Σαδδουκαῖος",
+   "Saddoukaios",
+   "rzeczownik",
+   "saduceusz, zapewne od imienia Sadoka — siedem razy u Mateusza (3,7; 16,1.6.11.12; 22,23.34); arystokracja kapłańska odrzucająca zmartwychwstanie, znikająca wraz ze Świątynią"
+  ],
+  [
+   "ἔχιδνα",
+   "echidna",
+   "rzeczownik",
+   "żmija — trzy razy u Mateusza, raz w ustach Jana (3,7) i dwa razy w ustach Jezusa (12,34; 23,33), zawsze w wołaczu i zawsze o przywódcach"
+  ],
+  [
+   "ὀργή",
+   "orge",
+   "rzeczownik",
+   "gniew — w całej Ewangelii Mateusza jeden raz, tutaj; księga, która mówi o sądzie i o Gehennie częściej od pozostałych, tego rzeczownika więcej nie używa"
+  ],
+  [
+   "καρπός",
+   "karpos",
+   "rzeczownik",
+   "owoc — dziewiętnaście razy u Mateusza i za każdym razem jako dowód, nigdy jako nagroda (3,8.10; 7,16–20; 12,33; 13,8.26; 21,19.34.41.43)"
+  ],
+  [
+   "λίθος",
+   "lithos",
+   "rzeczownik",
+   "kamień — jedenaście razy u Mateusza i zwykle tam, gdzie Bóg robi z kamieniem coś nieoczekiwanego: dzieci Abrahamowi (3,9), chleb odrzucony (4,3), kamień węgielny (21,42), kamień na kamieniu (24,2)"
+  ],
+  [
+   "ἀξίνη",
+   "axine",
+   "rzeczownik",
+   "siekiera — u Mateusza raz jeden; narzędzie wycinania, nie przycinania, i dlatego obraz nie zapowiada poprawy, lecz usunięcie"
+  ],
+  [
+   "δένδρον",
+   "dendron",
+   "rzeczownik",
+   "drzewo — dwanaście razy u Mateusza, dziesięć z nich w dwóch miejscach o poznaniu po owocach (3,10; 7,17–19; 12,33)"
+  ],
+  [
+   "πῦρ",
+   "pyr",
+   "rzeczownik",
+   "ogień — dwanaście razy u Mateusza; w tej perykopie trzy razy i w trzech różnych rolach: ogień pod wyciętym drzewem (3,10), ogień chrztu (3,11), ogień nieugaszony nad plewą (3,12)"
+  ],
+  [
+   "ἰσχυρός",
+   "ischyros",
+   "przymiotnik",
+   "mocny siłą, nie władzą — cztery razy u Mateusza; w 12,29 „mocny\" to przeciwnik, którego trzeba związać, więc stopień wyższy w 3,11 jest miarą, a nie tytułem"
+  ],
+  [
+   "ὑπόδημα",
+   "hypodema",
+   "rzeczownik",
+   "sandał, obuwie podwiązywane pod stopę — u Mateusza dwa razy: sandały Nadchodzącego (3,11) i sandały, których uczniowie nie mają brać w drogę (10,10)"
+  ],
+  [
+   "πτύον",
+   "ptyon",
+   "rzeczownik",
+   "wiejadło, widły albo łopata do przewiewania zboża — u Mateusza raz jeden; narzędzie rozdzielania, nie uderzania"
+  ],
+  [
+   "ἅλων",
+   "halon",
+   "rzeczownik",
+   "klepisko — równa, wystawiona na wiatr powierzchnia, na której młóci się i przewiewa; u Mateusza raz jeden, a przedmiotem oczyszczenia jest w w. 12 ono, nie ziarno"
+  ],
+  [
+   "σῖτος",
+   "sitos",
+   "rzeczownik",
+   "zboże, pszenica — cztery razy u Mateusza: tu i trzy razy w przypowieści o chwastach (13,25.29.30), gdzie ten sam spichlerz wraca"
+  ],
+  [
+   "ἀποθήκη",
+   "apotheke",
+   "rzeczownik",
+   "spichlerz, skład — trzy razy u Mateusza: u Chrzciciela (3,12), przy ptakach, które nie zbierają do składów (6,26), i na końcu przypowieści o chwastach (13,30)"
+  ],
+  [
+   "ἄχυρον",
+   "achyron",
+   "rzeczownik",
+   "plewa wraz z pociętą słomą — u Mateusza raz jeden; odpad młocki, palony jako opał albo dodawany do gliny na cegłę"
+  ],
+  [
+   "ἄσβεστος",
+   "asbestos",
+   "przymiotnik",
+   "nieugaszony, niedający się zgasić — u Mateusza raz jeden; zwykła plewa dopala się w chwilę, więc eschatologiczny jest tu przymiotnik, nie ogień"
+  ]
+ ],
+ "semitic": [
+  [
+   "שׁוּב",
+   "szuw",
+   "hbr",
+   "zawrócić, odwrócić się — czasownik nawrócenia u proroków; Septuaginta tłumaczy go zwykle przez ἐπιστρέφω (odwrócić się), a nie przez μετανοέω, więc greckie słowo Chrzciciela niesie ciężar hebrajskiego tylko częściowo"
+  ],
+  [
+   "מַלְכוּת שָׁמַיִם",
+   "malkut szamajim",
+   "hbr",
+   "królowanie niebios — omowa unikająca imienia Boga; literatura tannaicka zna zwrot o przyjęciu na siebie jarzma królowania niebios przy wyznaniu jedyności Boga (Berakhot 2,2). Locus wymaga sprawdzenia"
+  ],
+  [
+   "קוֹל קוֹרֵא",
+   "qol qore",
+   "hbr",
+   "głos wołający — zdanie bezorzeczeniowe otwierające Iz 40,3; po hebrajsku równoległość wersów wiąże „na pustyni\" z przygotowaniem drogi, Septuaginta wiąże je z wołaniem, a Mateusz idzie za greką"
+  ],
+  [
+   "אַבְנַיָּא",
+   "abnajja",
+   "aram",
+   "kamienie — forma określona liczby mnogiej; z nią gra następne słowo powiedzenia o dzieciach Abrahama"
+  ],
+  [
+   "בְּנַיָּא",
+   "benajja",
+   "aram",
+   "synowie — różni się od abnajja (kamienie) jedną literą, co daje w aramejskim zbitkę słowną niemożliwą do przełożenia na grecki i jest głównym świadectwem, że powiedzenie z w. 9 jest przedgreckie"
+  ],
+  [
+   "רוּחַ",
+   "ruach",
+   "hbr",
+   "tchnienie, wiatr, duch — ta sama trójznaczność, co w greckim πνεῦμα; w Iz 4,4 stoi w wyrażeniu o duchu sądu i duchu wypalania, które łączy ducha z ogniem przed Chrzcicielem"
+  ],
+  [
+   "מִקְוֶה",
+   "mikwe",
+   "hbr",
+   "zbiornik wody do obmycia obrzędowego; halacha żąda miary czterdziestu sea i wody nieczerpanej ręką, stąd pierwszeństwo wody żywej — majim chajjim"
+  ],
+  [
+   "בַּעַל שֵׂעָר",
+   "baal se'ar",
+   "hbr",
+   "dosłownie „pan włosa\", człowiek odziany w sierść — tak 2 Krl 1,8 opisuje Eliasza, a Za 13,4 pokazuje, że płaszcz z sierści był strojem zawodowym proroka"
+  ],
+  [
+   "יוֹם יְהוָה",
+   "jom JHWH",
+   "hbr",
+   "dzień JHWH — prorocki termin na rozstrzygnięcie sądu (So 1,14–18; Ml 3,19); „gniew, który ma przyjść\" z w. 7 jest jego greckim odpowiednikiem bez nazwy"
+  ]
+ ],
+ "lexeme_semitic": [
+  [
+   "μετανοέω",
+   "szuw",
+   "μετανοέω pokrywa dwa różne hebrajskie pojęcia i w Septuagincie oddaje raczej נָחַם (nacham, żałować) niż שׁוּב (szuw, zawrócić), który idzie na ἐπιστρέφω. Wezwanie Chrzciciela brzmi po grecku jak żądanie zmiany zdania, a po hebrajsku brzmiałoby jak żądanie zmiany kierunku — i dopiero żądanie owocu z w. 8 przywraca drugie znaczenie."
+  ],
+  [
+   "βασιλεία",
+   "malkut szamajim",
+   "βασιλεία τῶν οὐρανῶν odpowiada rabinicznemu מַלְכוּת שָׁמַיִם (malkut szamajim, królowanie niebios): liczba mnoga „niebios\" jest kalką hebrajskiego szamajim, a całe wyrażenie omową zastępującą imię Boga. Mateusz używa jej trzydzieści dwa razy, βασιλεία τοῦ θεοῦ pięć, i w żadnym z tych pięciu miejsc zamiana nie byłaby bez kosztu."
+  ],
+  [
+   "φωνή",
+   "qol qore",
+   "Greckie φωνὴ βοῶντος idzie za Septuagintą, która קוֹל קוֹרֵא (qol qore, głos wołający) z Iz 40,3 rozdziela inaczej niż hebrajska równoległość wersów: po hebrajsku „na pustyni\" należy do przygotowania drogi, po grecku do wołania. Identyfikacja Jana z w. 3 opiera się na greckim podziale zdania."
+  ],
+  [
+   "λίθος",
+   "abnajja",
+   "Powiedzenie o kamieniach i dzieciach Abrahama gra w aramejskim na bliskości אַבְנַיָּא (abnajja, kamienie) i בְּנַיָּא (benajja, synowie). Greka tej gry nie ma i nie próbuje jej zastąpić, więc zbitka jest śladem starszej postaci zdania, a nie zabiegiem ewangelisty."
+  ],
+  [
+   "βαπτίζω",
+   "mikwe",
+   "Praktyka, do której odsyła βαπτίζω, to zanurzenie w מִקְוֶה (mikwe): samodzielne, powtarzalne, przywracające czystość obrzędową. Obrzęd Jana łamie trzy z tych cech — jest jednorazowy, udzielany przez kogoś innego i wiązany z wyznaniem grzechów — a zachowuje wymóg wody żywej, który Mateusz podkreśla, dodając „rzece\"."
+  ],
+  [
+   "πνεῦμα",
+   "ruach",
+   "πνεῦμα dziedziczy po רוּחַ (ruach) całą trójznaczność tchnienia, wiatru i ducha, i dlatego zestawienie „w Duchu Świętym i ogniu\" nie jest u proroków nowością: Iz 4,4 mówi o רוּחַ מִשְׁפָּט וְרוּחַ בָּעֵר (duchu sądu i duchu wypalania), a wiatr jest w w. 12 narzędziem przewiewania klepiska."
+  ],
+  [
+   "ἔνδυμα",
+   "baal se'ar",
+   "Opis odzienia Jana zestawia dwa elementy opisu Eliasza z 2 Krl 1,8: sierść i skórzany pas. Hebrajskie בַּעַל שֵׂעָר (baal se'ar, pan włosa) Septuaginta oddaje przez ἀνὴρ δασύς (człowiek kosmaty), a drugi człon — ζώνην δερματίνην (pas skórzany) — stoi u Mateusza w tej samej postaci co w greckim Starym Testamencie."
+  ],
+  [
+   "ὀργή",
+   "jom JHWH",
+   "ἡ μέλλουσα ὀργή (gniew, który ma przyjść) jest greckim skrótem prorockiego יוֹם יְהוָה (jom JHWH, dzień JHWH): nie stanem uczuciowym Boga, lecz nazwą rozstrzygnięcia sądu (So 1,14–18; Ml 3,19). Imiesłów μέλλουσα zachowuje przy tym tę samą dwoistość, co perfectum ἤγγικεν w w. 2 — rzecz jest przyszła i zarazem już w drodze."
+  ]
+ ],
+ "occurrences": [
+  [
+   "παραγίνομαι",
+   1,
+   "παραγίνεται"
+  ],
+  [
+   "βαπτιστής",
+   1,
+   "βαπτιστὴς"
+  ],
+  [
+   "κηρύσσω",
+   1,
+   "κηρύσσων"
+  ],
+  [
+   "ἔρημος",
+   1,
+   "ἐρήμῳ"
+  ],
+  [
+   "μετανοέω",
+   2,
+   "μετανοεῖτε"
+  ],
+  [
+   "ἐγγίζω",
+   2,
+   "ἤγγικεν"
+  ],
+  [
+   "βασιλεία",
+   2,
+   "βασιλεία"
+  ],
+  [
+   "οὐρανός",
+   2,
+   "οὐρανῶν"
+  ],
+  [
+   "φωνή",
+   3,
+   "φωνὴ"
+  ],
+  [
+   "βοάω",
+   3,
+   "βοῶντος"
+  ],
+  [
+   "ἔρημος",
+   3,
+   "ἐρήμῳ"
+  ],
+  [
+   "ἑτοιμάζω",
+   3,
+   "ἑτοιμάσατε"
+  ],
+  [
+   "ὁδός",
+   3,
+   "ὁδὸν"
+  ],
+  [
+   "τρίβος",
+   3,
+   "τρίβους"
+  ],
+  [
+   "ἔνδυμα",
+   4,
+   "ἔνδυμα"
+  ],
+  [
+   "ζώνη",
+   4,
+   "ζώνην"
+  ],
+  [
+   "ἀκρίς",
+   4,
+   "ἀκρίδες"
+  ],
+  [
+   "Ἰορδάνης",
+   5,
+   "Ἰορδάνου"
+  ],
+  [
+   "βαπτίζω",
+   6,
+   "ἐβαπτίζοντο"
+  ],
+  [
+   "Ἰορδάνης",
+   6,
+   "Ἰορδάνῃ"
+  ],
+  [
+   "ἐξομολογέομαι",
+   6,
+   "ἐξομολογούμενοι"
+  ],
+  [
+   "ἁμαρτία",
+   6,
+   "ἁμαρτίας"
+  ],
+  [
+   "Φαρισαῖος",
+   7,
+   "Φαρισαίων"
+  ],
+  [
+   "Σαδδουκαῖος",
+   7,
+   "Σαδδουκαίων"
+  ],
+  [
+   "ἔχιδνα",
+   7,
+   "ἐχιδνῶν"
+  ],
+  [
+   "φεύγω",
+   7,
+   "φυγεῖν"
+  ],
+  [
+   "ὀργή",
+   7,
+   "ὀργῆς"
+  ],
+  [
+   "καρπός",
+   8,
+   "καρπὸν"
+  ],
+  [
+   "μετάνοια",
+   8,
+   "μετανοίας"
+  ],
+  [
+   "λίθος",
+   9,
+   "λίθων"
+  ],
+  [
+   "ἐγείρω",
+   9,
+   "ἐγεῖραι"
+  ],
+  [
+   "ἀξίνη",
+   10,
+   "ἀξίνη"
+  ],
+  [
+   "δένδρον",
+   10,
+   "δένδρων"
+  ],
+  [
+   "καρπός",
+   10,
+   "καρπὸν"
+  ],
+  [
+   "πῦρ",
+   10,
+   "πῦρ"
+  ],
+  [
+   "βαπτίζω",
+   11,
+   "βαπτίζω"
+  ],
+  [
+   "μετάνοια",
+   11,
+   "μετάνοιαν"
+  ],
+  [
+   "ἰσχυρός",
+   11,
+   "ἰσχυρότερός"
+  ],
+  [
+   "ὑπόδημα",
+   11,
+   "ὑποδήματα"
+  ],
+  [
+   "πνεῦμα",
+   11,
+   "πνεύματι"
+  ],
+  [
+   "πῦρ",
+   11,
+   "πυρί"
+  ],
+  [
+   "πτύον",
+   12,
+   "πτύον"
+  ],
+  [
+   "ἅλων",
+   12,
+   "ἅλωνα"
+  ],
+  [
+   "σῖτος",
+   12,
+   "σῖτον"
+  ],
+  [
+   "ἀποθήκη",
+   12,
+   "ἀποθήκην"
+  ],
+  [
+   "ἄχυρον",
+   12,
+   "ἄχυρον"
+  ],
+  [
+   "πῦρ",
+   12,
+   "πυρὶ"
+  ],
+  [
+   "ἄσβεστος",
+   12,
+   "ἀσβέστῳ"
+  ]
+ ],
+ "works": [
+  [
+   "Qumran",
+   "Serek ha-jachad (1QS)",
+   "Reguła Zrzeszenia",
+   "II–I w. przed Chr.",
+   "judaizm"
+  ],
+  [
+   "Didache",
+   "Didache",
+   "Nauka dwunastu Apostołów",
+   "I/II",
+   "patrystyka"
+  ],
+  [
+   "Tertulian",
+   "De baptismo",
+   "O chrzcie",
+   "II/III",
+   "patrystyka"
+  ],
+  [
+   "Orygenes",
+   "Commentarii in Ioannem",
+   "Komentarz do Ewangelii Jana",
+   "III",
+   "patrystyka"
+  ],
+  [
+   "Sobór Trydencki",
+   "Canones de baptismo (sesja VII)",
+   "Kanony o chrzcie",
+   "XVI",
+   "magisterium"
+  ]
+ ],
+ "themes": [
+  [
+   "królestwo niebios jako omowa",
+   "βασιλεία τῶν οὐρανῶν (królestwo niebios) stoi u Mateusza trzydzieści dwa razy i jest jego własną postacią formuły, której Marek i Łukasz nie znają. Liczba mnoga „niebios\" idzie za hebrajskim szamajim, a całe wyrażenie za rabiniczną omową מַלְכוּת שָׁמַיִם (malkut szamajim, królowanie niebios), unikającą wymawiania imienia Boga. Mimo tej konsekwencji Mateusz pięć razy pisze βασιλεία τοῦ θεοῦ (królestwo Boga): w 6,33, gdzie wydanie krytyczne stawia τοῦ θεοῦ w nawiasie, bo Sinaiticus go nie ma; w 12,28, gdzie zdanie o wyrzucaniu demonów „Duchem Boga\" wymaga tego samego dopełniacza w drugiej połowie; w 19,24 przy wielbłądzie i uchu igielnym; oraz w 21,31 i 21,43 w sporze z arcykapłanami. Rzeczownik βασιλεία znaczy przy tym raczej królowanie niż królestwo — nie obszar ani ustrój, lecz sprawowanie władzy — i dlatego może się „przybliżyć\" (ἤγγικεν, 3,2; 4,17; 10,7) albo „dojść\" do kogoś (ἔφθασεν, 12,28), choć nie może przyjść skądkolwiek. Pierwsze wystąpienie formuły w całej księdze pada w ustach Chrzciciela, a nie Jezusa."
+  ],
+  [
+   "pustynia jako miejsce początku",
+   "ἔρημος (pustynia) stoi u Mateusza osiem razy i trzy pierwsze wystąpienia tworzą jedną sekwencję: Jan głosi na pustyni Judejskiej (3,1), cytat z Izajasza nazywa go głosem wołającego na pustyni (3,3), a Duch wyprowadza Jezusa na pustynię na czterdzieści dni (4,1). Tło jest podwójne. Z jednej strony pustynia jest u proroków miejscem, w którym Izrael był wierny i do którego Bóg go z powrotem wyprowadzi, by mówić mu do serca (Oz 2,16); z drugiej jest miejscem czterdziestu lat próby i buntu. Qumran czytał Iz 40,3 jako nakaz wyjścia na tę samą pustynię i oparł na nim swoją regułę (1QS VIII,12–16), więc w jednym pokoleniu i na jednym terenie dwa ruchy wzięły z jednego wersetu dwie różne instrukcje: wspólnota — odłączenie i studium Prawa, Jan — stanie przy rzece i przyjmowanie wszystkich, którzy przyjdą. U Mateusza pustynia zachowuje to drugie znaczenie: jest miejscem, do którego się wychodzi (11,7), nie miejscem, w którym się zostaje. Ostatnie wystąpienie słowa odwraca obraz — opuszczony zostaje dom Izraela (23,38)."
+  ],
+  [
+   "owoc i drzewo: sprawdzalność nawrócenia",
+   "καρπός (owoc) jest u Mateusza słowem dowodowym: dziewiętnaście wystąpień i w żadnym owoc nie jest nagrodą, zawsze świadectwem. Łańcuch zaczyna się tutaj, od nakazu Chrzciciela ποιήσατε καρπὸν ἄξιον τῆς μετανοίας (uczyńcie owoc godny odmiany myślenia, 3,8) i od zdania o drzewie nieczyniącym owocu dobrego (3,10). W Kazaniu na Górze Jezus powtarza to zdanie słowo w słowo (7,19) i rozwija je w kryterium rozpoznawania fałszywych proroków (7,16–20), potem w regułę o drzewie i jego owocu wobec mowy (12,33), a w przypowieściach o winnicy czyni z owocu rzecz należną właścicielowi (21,34.41.43). Reguła jest za każdym razem ta sama i za każdym razem nieprzyjemna: wnętrza nie da się sprawdzić, skutku tak. Mateusz nie dołącza przy tym listy czynów, które miałyby być owocem — tę listę ma Łukasz (Łk 3,10–14) — i przez to utrzymuje kryterium bez instrukcji, co w jego Ewangelii jest konsekwentne: miarą jest czyn (7,21; 25,31–46), a nie przepis na czyn."
+  ],
+  [
+   "chrzest wodą, Duchem i ogniem",
+   "Zdanie z 3,11 stawia obok siebie dwa obrzędy i dwóch sprawców: ja zanurzam w wodzie, on zanurzy w Duchu Świętym i ogniu. Gramatyka rozdziela je, zanim rozdzieli je treść — pierwsza połowa jest w pierwszej osobie i czasie teraźniejszym, druga w trzeciej i w przyszłym — a przyimek εἰς przy μετάνοιαν (ku odmianie myślenia) wskazuje kierunek, nie skutek, bo woda Jana prowadzi do czegoś, czego sama nie sprawia. „W Duchu Świętym i ogniu\" stoi pod jednym przyimkiem, więc nazywa jedno działanie dwoma słowami; Marek ma tylko Ducha (Mk 1,8), ogień dokładają Mateusz i Łukasz. Trzy odczytania ognia mają podstawę: oczyszczające działanie samego Ducha (Iz 4,4; Ml 3,2–3; Dz 2,3), sąd zapowiedziany w 3,10 i 3,12, albo osobny los niepokutujących. Obraz z w. 12 wspiera drugie: klepisko przewiewa się raz, jednym narzędziem, a ziarno i plewa rozchodzą się dlatego, że są różne. Formuła wróci całą swoją treścią w 28,19, gdzie chrzest zostaje nakazany uczniom w imię Ojca i Syna, i Ducha Świętego."
+  ],
+  [
+   "Jan Chrzciciel jako Eliasz",
+   "Mateusz identyfikuje Jana z Eliaszem trzema sposobami i w trzech miejscach, za każdym razem inaczej. Tutaj robi to wyłącznie przez ubiór: sierść i skórzany pas z 3,4 są drugą połową opisu Eliasza z 2 Krl 1,8, przy czym wyrażenie ζώνην δερματίνην (pas skórzany) stoi w tej samej postaci co w Septuagincie, a Za 13,4 potwierdza, że płaszcz z sierści był strojem zawodowym proroka. Słowami Mateusz tego nie mówi — cytat z Ml 3,1 o zwiastunie przygotowującym drogę, który Marek wplata w nagłówek (Mk 1,2), jest u Mateusza odłożony do 11,10 i wypowiada go sam Jezus, a utożsamienie zapada w 11,14 („on jest Eliaszem, który ma przyjść\") i w 17,10–13, po przemienieniu, gdzie uczniowie je pojmują. Czwarta Ewangelia prowadzi sprawę przeciwnie: tam Jan pytany, czy jest Eliaszem, odpowiada „nie jestem\" (J 1,21). Rozbieżność nie dotyczy faktu, lecz tego, kto ma prawo nadać tytuł — u Mateusza nadaje go Jezus, a Jan sam o sobie mówi tylko tyle, że nie wystarcza do noszenia sandałów."
+  ],
+  [
+   "słowo Chrzciciela i słowo Jezusa",
+   "Mateusz oddaje Janowi niemal cały słownik Jezusa, i robi to dokładnie. Wezwanie μετανοεῖτε· ἤγγικεν γὰρ ἡ βασιλεία τῶν οὐρανῶν (odmieniajcie myślenie, przybliżyło się bowiem królestwo niebios) stoi w 3,2 i w 4,17 bez zmiany jednej litery, a 4,17 jest zdaniem, którym Jezus rozpoczyna własne nauczanie. Zdanie πᾶν δένδρον μὴ ποιοῦν καρπὸν καλὸν ἐκκόπτεται καὶ εἰς πῦρ βάλλεται (każde drzewo nieczyniące owocu dobrego zostaje wycięte i w ogień wrzucone) wraca w 7,19 z pominięciem jednego οὖν. Obelga γεννήματα ἐχιδνῶν (potomstwo żmij) wraca w 12,34 i 23,33, drugi raz wraz z tym samym czasownikiem uciekania przed sądem. Spichlerz i spalenie odpadu wracają w 13,30. Czterech zdań Chrzciciela Jezus powtarza, a jednego powtórzyć nie może: tego z 3,11, którego treścią jest, że mówiący nie potrafi zrobić tego, co zrobi Nadchodzący. U Mateusza poprzednik różni się więc od Mesjasza nie nauką, lecz skutkiem obrzędu — i to jest jedyna różnica, jaką ta Ewangelia między nimi stawia."
+  ]
+ ],
+ "pericopes": [
+  {
+   "pericope": {
+    "cs": 3,
+    "vs": 1,
+    "ce": 3,
+    "ve": 12,
+    "title": "Jan Chrzciciel na pustyni",
+    "motto": "Vox clamantis in deserto: Parate viam Domini (głos wołającego na pustyni: przygotujcie drogę Pana)",
+    "status": "w_opracowaniu",
+    "position": 5
+   },
+   "intro": "Trzydzieści lat Mateusz przeskakuje jednym wyrażeniem — ἐν δὲ ταῖς ἡμέραις ἐκείναις (w owych zaś dniach) — i nie podaje ani daty, ani wieku, ani miejsca, z którego Jezus wyszedł. Na scenę wchodzi za to ktoś inny, i wchodzi czasownikiem, którym w tej Ewangelii pojawiają się tylko trzy podmioty: magowie (2,1), Jan (3,1) i Jezus (3,13). Dwanaście wierszy daje Chrzcicielowi dwa wystąpienia — dwa słowa kerygmy w w. 2 i jedną mowę w w. 7–12 — a rzecz, którą trzeba w nich zauważyć najpierw, daje się sprawdzić literą. μετανοεῖτε· ἤγγικεν γὰρ ἡ βασιλεία τῶν οὐρανῶν (odmieniajcie myślenie, przybliżyło się bowiem królestwo niebios) to dokładnie zdanie, którym w 4,17 Jezus rozpocznie własne nauczanie. Dalej idzie tak samo: γεννήματα ἐχιδνῶν (potomstwo żmij) wróci w ustach Jezusa w 12,34 i 23,33, zdanie o drzewie nieczyniącym owocu wróci w 7,19 słowo w słowo, zboże zebrane do spichlerza i spalony odpad wrócą w 13,30. Mateusz oddał poprzednikowi niemal cały słownik Tego, kogo ten poprzedza. Został Janowi jeden wiersz własny — ten, w którym mówi o chrzcie, jakiego sam udzielić nie może.",
+   "blocks": [
+    {
+     "cs": 3,
+     "vs": 1,
+     "ce": 3,
+     "ve": 2,
+     "label": "w. 1–2",
+     "greek": "Ἐν δὲ ταῖς ἡμέραις ἐκείναις παραγίνεται Ἰωάννης ὁ βαπτιστὴς κηρύσσων ἐν τῇ ἐρήμῳ τῆς Ἰουδαίας [καὶ] λέγων· μετανοεῖτε· ἤγγικεν γὰρ ἡ βασιλεία τῶν οὐρανῶν.",
+     "transl": "W owych zaś dniach pojawia się Jan Chrzciciel, głosząc na pustyni Judejskiej [i] mówiąc: Odmieniajcie myślenie, przybliżyło się bowiem królestwo niebios.",
+     "units": [
+      [
+       "Ἐν δὲ ταῖς ἡμέραις ἐκείναις",
+       "w owych zaś dniach",
+       "Najmniej dokładna formuła czasowa, jaką grecki Nowy Testament zna, i u Mateusza jedyna wiadomość o trzydziestu latach. Jest to septuagintyzm — kalka hebrajskiego bajjamim hahem — i w Starym Testamencie służy do wiązania opowiadań, nie do datowania. Porównanie z Łukaszem pokazuje, co Mateusz odrzucił: tam piętnasty rok panowania Tyberiusza, pięciu urzędników z imienia i dwóch arcykapłanów (Łk 3,1–2). Mateusz nie datuje nigdy poza jedną wzmianką o Herodzie (2,1) i jedną o Archelaosie (2,22), a tu nie podaje nawet wieku Jezusa. Spójnik δέ, którego część tradycji nie ma (zob. noty tekstualne), czyni z tego wyrażenia szew: rozdział trzeci jest dalszym ciągiem drugiego, nie nowym początkiem. Te same słowa w innym szyku wrócą w mowie o końcu (24,19.22) — formuła, która u Mateusza otwiera wystąpienie Chrzciciela, jest tą samą, którą opisze ucisk ostatnich dni."
+      ],
+      [
+       "παραγίνεται",
+       "pojawia się",
+       "Praesens historicum w opowiadaniu o przeszłości: czas teraźniejszy stawia zdarzenie przed oczami, jakby się działo. Czasownik jest w medium deponens i znaczy „stawać się obok, być na miejscu\" — po grecku bardziej o przybyciu na wezwanie niż o wędrówce. U Mateusza pada trzy razy, i te trzy razy są wyborem, nie przypadkiem: παρεγένοντο o magach (2,1), παραγίνεται o Janie (3,1) i παραγίνεται o Jezusie (3,13). Nikt więcej w tej Ewangelii się nie „pojawia\"; jednym słowem Mateusz zrównuje trzy wejścia na scenę i wiąże ostatnie z poprzednimi. Wulgata ma tu venit (przyszedł), co zaciera i czas, i aspekt."
+      ],
+      [
+       "Ἰωάννης ὁ βαπτιστής",
+       "Jan Chrzciciel",
+       "Rzeczowniki na -τής nazywają w grece wykonawcę czynności, a nie osobę — βαπτιστής jest więc nazwą funkcji, która zrosła się z imieniem, zanim Mateusz zaczął pisać. Dowód na to zrośnięcie jest zewnętrzny i pozachrześcijański: Flawiusz, wspominając o Janie bez żadnego zainteresowania jego orędziem, nazywa go Ἰωάννου τοῦ ἐπικαλουμένου βαπτιστοῦ (Jana zwanego Chrzcicielem, Ant. XVIII,116) — przezwisko było więc w obiegu także poza wspólnotą, która w Jana wierzyła. Mateusz używa tytułu siedem razy (3,1; 11,11.12; 14,2.8; 16,14; 17,13), zawsze z rodzajnikiem i zawsze jako przydomka. Samo imię Ἰωάννης oddaje hebrajskie Jochanan („JHWH okazał łaskę\"), lecz Mateusz — inaczej niż przy imieniu Jezus (1,21) i przy Emmanuelu (1,23) — nie tłumaczy go i nie wyciąga z niego niczego. Przy Chrzcicielu znaczy nie imię, lecz czynność. Locus Flawiusza wymaga sprawdzenia."
+      ],
+      [
+       "κηρύσσων ἐν τῇ ἐρήμῳ",
+       "głosząc na pustyni",
+       "κηρύσσω znaczy „być heroldem\": ogłaszać cudzą decyzję, bez prawa do jej zmiany i bez zadania przekonywania. Mateusz używa tego czasownika nie dla nauczania, lecz wyłącznie dla obwieszczania królestwa i ewangelii (3,1; 4,17.23; 9,35; 10,7.27; 11,1; 24,14; 26,13); na nauczanie ma διδάσκω, i oba czasowniki stoją obok siebie w 4,23 i 9,35, nie zastępując się. ἔρημος jest przymiotnikiem („pusty\"), który z rodzajnikiem żeńskim został urzeczownikowiony przez domyślne χώρα (okolica) — po grecku mówi się więc „na pustej\", a nie „na pustyni\". Herold obwieszcza tam, gdzie nikogo nie ma, i to napięcie jest w tekście zamierzone: wiersz 5 powie, że wyszła do niego cała Judea. Miejsce wystąpienia jest zarazem pierwszym argumentem, który Mateusz przedstawi w w. 3."
+      ],
+      [
+       "τῆς Ἰουδαίας",
+       "Judejskiej",
+       "Marek pisze po prostu „na pustyni\" (Mk 1,4), Mateusz dopisuje nazwę krainy. Pustynia Judejska to pas cienia opadowego na wschód od grzbietu wodnego, między wzgórzami Judei a rowem Jordanu — nie piasek, lecz wyschnięty less i wapień, poprzecinany wadi. Dopisek robi dwie rzeczy. Umiejscawia Jana w Judei, czyli na terenie, który w tej Ewangelii należy do Jerozolimy i Świątyni, podczas gdy Jezus będzie pracował w Galilei (4,12–16), a do Judei przyjdzie dopiero umrzeć (19,1; 20,17–18). I dostarcza tej geografii, od której Mateusz budował cały rozdział drugi: Betlejem, Egipt, Nazaret, a teraz pustynia — miejsce w tej Ewangelii nigdy nie jest tłem."
+      ],
+      [
+       "μετανοεῖτε",
+       "odmieniajcie myślenie",
+       "Imperativus praesentis activi, druga osoba liczby mnogiej: nie jednorazowy akt, lecz czynność, którą trzeba zacząć i prowadzić. Czasownik jest złożeniem μετά z νοέω (myśleć) i w grece świeckiej znaczy „zmienić zdanie, żałować decyzji\" — bez odcienia religijnego i bez cienia obrzędu. Septuaginta zwykle nim oddaje hebrajskie נָחַם (nacham, żałować), a prorockie שׁוּב (szuw, zawrócić) tłumaczy przez ἐπιστρέφω (odwrócić się); greckie słowo Chrzciciela jest więc słabsze od hebrajskiego pojęcia, które ma unieść, i ciężar wyrównuje dopiero żądanie owocu z w. 8. W drugą stronę przesuwa je Wulgata: paenitentiam agite (czyńcie pokutę) wskazuje na uczynek zadośćczyniący, czego grecki nie mówi, a ten jeden przekład ukształtował zachodnią teologię pokuty i wywołał sprzeciw, który Erazm zapisał propozycją resipiscite (opamiętajcie się). Czasownik pada u Mateusza pięć razy (3,2; 4,17; 11,20.21; 12,41), rzeczownik dwa, i oba w tej perykopie."
+      ],
+      [
+       "ἤγγικεν ἡ βασιλεία τῶν οὐρανῶν",
+       "przybliżyło się królestwo niebios",
+       "Perfectum ἤγγικεν mówi o czynności dokonanej, której stan trwa: odległość została zniesiona i pozostaje zniesiona. Nie mówi, że królestwo przyszło — na to Mateusz ma inny czasownik i użyje go raz, w 12,28, gdzie ἔφθασεν ἐφʼ ὑμᾶς ἡ βασιλεία τοῦ θεοῦ (dosięgło was królestwo Boga) wiąże obecność królestwa z wyrzucaniem demonów. Trzy miejsca z ἤγγικεν (3,2; 4,17; 10,7) są zapowiedzią, jedno z ἔφθασεν stwierdzeniem, i ta różnica czasowników jest u Mateusza konsekwentna. βασιλεία znaczy raczej królowanie niż królestwo: sprawowanie władzy, nie obszar — dlatego może się przybliżyć, nie przychodząc skądkolwiek. Liczba mnoga οὐρανῶν idzie za hebrajskim szamajim, a całe wyrażenie za rabiniczną omową מַלְכוּת שָׁמַיִם (malkut szamajim, królowanie niebios), która zastępuje imię Boga; literatura tannaicka zna zwrot o przyjęciu na siebie jarzma tego królowania przy wyznaniu jedyności Boga. Mateusz pisze tę omowę trzydzieści dwa razy, a βασιλεία τοῦ θεοῦ (królestwo Boga) pięć — i w żadnym z tych pięciu miejsc zamiana nie byłaby bez kosztu. Pierwsze wystąpienie głównej formuły tej Ewangelii pada w ustach Chrzciciela. Locus misznaicki wymaga sprawdzenia."
+      ]
+     ]
+    },
+    {
+     "cs": 3,
+     "vs": 3,
+     "ce": 3,
+     "ve": 3,
+     "label": "w. 3",
+     "greek": "οὗτος γάρ ἐστιν ὁ ῥηθεὶς διὰ Ἠσαΐου τοῦ προφήτου λέγοντος· φωνὴ βοῶντος ἐν τῇ ἐρήμῳ· ἑτοιμάσατε τὴν ὁδὸν κυρίου, εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ.",
+     "transl": "Ten bowiem jest tym, o którym powiedziano przez Izajasza proroka, mówiącego: Głos wołającego na pustyni: przygotujcie drogę Pana, prostymi czyńcie ścieżki jego.",
+     "units": [
+      [
+       "οὗτος γάρ ἐστιν ὁ ῥηθείς",
+       "ten bowiem jest tym, o którym powiedziano",
+       "Mateuszowa formuła wypełnienia w postaci, która w tej księdze nie wraca. Dziewięć razy pisze ewangelista ἵνα πληρωθῇ albo ὅπως πληρωθῇ (aby wypełniło się), dwa razy τότε ἐπληρώθη (wtedy wypełniło się) — i w każdym z tych jedenastu miejsc podmiotem wypełnienia jest zdarzenie. Tutaj podmiotem jest człowiek, a zdanie jest orzecznikowe: „ten jest tym, o którym powiedziano\". Pismo spełnia się więc nie przez to, co się stało, lecz przez to, kto stoi. Imiesłów ῥηθείς — aoryst strony biernej od λέγω — jest tym samym słowem, które nosi standardowa formuła τὸ ῥηθὲν ὑπὸ κυρίου διὰ τοῦ προφήτου (powiedziane przez Pana przez proroka, 1,22; 2,15), ale Mateusz opuszcza tu ὑπὸ κυρίου: strona bierna zostaje bez sprawcy, a wskazany jest tylko pośrednik. Redakcyjnie to zdanie jest najbardziej wymowne w całej perykopie. Marek stawia cytat przed wystąpieniem Jana, jako motto księgi, i zszywa w nim Ml 3,1 z Wj 23,20 oraz Iz 40,3, przypisując całość Izajaszowi (Mk 1,2–3). Mateusz usuwa zszycie, zostawia samego Izajasza, przesuwa cytat za opis Jana i czyni z niego własny komentarz. Fragment Malachiasza nie przepada — czeka do 11,10, gdzie przytoczy go sam Jezus i odniesie do Jana. Mateusz porządkuje więc atrybucję i zarazem zachowuje utożsamienie z Eliaszem dla ust Pana."
+      ],
+      [
+       "φωνὴ βοῶντος",
+       "głos wołającego",
+       "Pierwsza połowa cytatu idzie za Septuagintą bez zmiany. Hebrajskie קוֹל קוֹרֵא (qol qore) jest zdaniem bez orzeczenia — „głos wołający\" — a rozstrzygnięcie dotyczy tego, do czego należy „na pustyni\". Równoległość wersów hebrajskich (na pustyni przygotujcie drogę JHWH // na stepie wyrównajcie gościniec) wiąże okolicznik z przygotowaniem; grecki przekład wiąże go z wołaniem. Mateusz idzie za greką, i na tym podziale zdania opiera się cała identyfikacja: Jan stoi na pustyni, więc Jan jest tym głosem. Przy podziale hebrajskim argument nie miałby przesłanki. φωνή pada u Mateusza siedem razy, a w rozdziałach drugim i trzecim trzy razy, i te trzy są różne: płacz Racheli słyszany w Rama (2,18), wołanie na pustyni (3,3) i głos z otwartego nieba (3,17). Pierwszy opłakuje dzieci, drugi zapowiada, trzeci odpowiada obu."
+      ],
+      [
+       "ἑτοιμάσατε τὴν ὁδὸν κυρίου",
+       "przygotujcie drogę Pana",
+       "Imperativus aoristi: jeden rozkaz do wykonania, nie zadanie na stałe. U Izajasza droga jest realna i królewska — szlak przez pustynię dla wracającego Boga i dla wracających z wygnania, a obraz ma za sobą drogi procesyjne, po których w kultach Mezopotamii obnoszono posąg bóstwa. κύριος w greckim wersie stoi za tetragramem, i Mateusz tego nie objaśnia ani nie osłabia; kontekst perykopy sprawia, że Panem, któremu buduje się drogę, okazuje się Ten, kto przychodzi za Janem (w. 11). Cała operacja chrystologiczna cytatu dzieje się bez jednego słowa komentarza. Ten sam werset był w tym samym pokoleniu i na tej samej pustyni programem Qumran: Reguła Zrzeszenia każe odłączyć się i wyjść na pustynię, by tam przygotować drogę Jego (1QS VIII,12–16) — a przygotowanie polega na studium Prawa w odosobnieniu. Jan stoi przy rzece i przyjmuje każdego, kto przyjdzie. Dwa ruchy, jedna egzegeza, dwie przeciwne instrukcje."
+      ],
+      [
+       "εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ",
+       "prostymi czyńcie ścieżki jego",
+       "Tutaj cytat odchodzi od Septuaginty, i to jest najważniejsza drobna zmiana w perykopie. Grecki Izajasz ma εὐθείας ποιεῖτε τὰς τρίβους τοῦ θεοῦ ἡμῶν (prostymi czyńcie ścieżki Boga naszego); Mateusz, Marek i Łukasz mają τὰς τρίβους αὐτοῦ (ścieżki jego). Zaimek odsyła do κυρίου z wersu poprzedniego i nie rozstrzyga, kim ten Pan jest — „ścieżki Boga naszego\" nie dałyby się odnieść do Jezusa bez bluźnierstwa, „ścieżki jego\" dają się odnieść bez twierdzenia. Czy zmiana jest zabiegiem ewangelistów, czy pochodzi z nieznanej nam postaci greckiego tekstu Izajasza, rozstrzygnąć się nie da; pewne jest, że wszystkie trzy Ewangelie mają ją wspólnie, co wskazuje na wcześniejsze niż one źródło. εὐθύς znaczy w Septuagincie zarówno „prosty\" o drodze, jak „prawy\" o postępowaniu, a τρίβος jest ścieżką wytartą stopami — u Mateusza raz jeden. Przygotowanie, którego żąda cytat, jest więc robotą ziemną i moralną w jednym słowie."
+      ],
+      [
+       "διὰ Ἠσαΐου τοῦ προφήτου",
+       "przez Izajasza proroka",
+       "Izajasz jest u Mateusza jedynym prorokiem wymienianym z imienia więcej niż raz: sześć razy (3,3; 4,14; 8,17; 12,17; 13,14; 15,7), z czego cztery w formułach wypełnienia. Przyimek διά znaczy tu „za pośrednictwem\" i w formułach Mateuszowych stoi konsekwentnie obok ὑπό, które wskazuje sprawcę: ὑπὸ κυρίου διὰ τοῦ προφήτου (przez Pana przez proroka, 1,22; 2,15). Ta składnia jest nauką o natchnieniu wyłożoną gramatyką, zanim istniało na nią słowo — prorok jest kanałem, nie źródłem. W tym jednym miejscu Mateusz pierwszego członu nie pisze i zostawia samo διά z imieniem. Różnica może być przypadkowa, ale nie jest bez skutku: zdanie o Janie przypisuje słowo prorokowi, a nie Bogu, i dopiero głos z nieba dziewięć wierszy dalej (3,17) wypowie się bez pośrednika."
+      ]
+     ]
+    },
+    {
+     "cs": 3,
+     "vs": 4,
+     "ce": 3,
+     "ve": 6,
+     "label": "w. 4–6",
+     "greek": "αὐτὸς δὲ ὁ Ἰωάννης εἶχεν τὸ ἔνδυμα αὐτοῦ ἀπὸ τριχῶν καμήλου καὶ ζώνην δερματίνην περὶ τὴν ὀσφὺν αὐτοῦ, ἡ δὲ τροφὴ ἦν αὐτοῦ ἀκρίδες καὶ μέλι ἄγριον. Τότε ἐξεπορεύετο πρὸς αὐτὸν Ἱεροσόλυμα καὶ πᾶσα ἡ Ἰουδαία καὶ πᾶσα ἡ περίχωρος τοῦ Ἰορδάνου, καὶ ἐβαπτίζοντο ἐν τῷ Ἰορδάνῃ ποταμῷ ὑπʼ αὐτοῦ ἐξομολογούμενοι τὰς ἁμαρτίας αὐτῶν.",
+     "transl": "Sam zaś Jan miał odzienie swoje z sierści wielbłądziej i pas skórzany wokół biodra swego, pokarmem zaś jego były szarańcze i miód dziki. Wtedy wychodziła do niego Jerozolima i cała Judea, i cała okolica Jordanu, i byli przez niego zanurzani w rzece Jordan, wyznając swoje grzechy.",
+     "units": [
+      [
+       "αὐτὸς δὲ ὁ Ἰωάννης",
+       "sam zaś Jan",
+       "Zaimek αὐτός w pozycji przydawkowej wzmacnia podmiot: „on sam\", w odróżnieniu od tego, co dotąd o nim powiedziano. Kolejność informacji jest tu konsekwentna i rzadka w opowiadaniach starożytnych: czytelnik dowiaduje się najpierw, co Jan robi i kim jest wedle Pisma, a dopiero potem, jak wygląda. Opis zewnętrzny nie wprowadza postaci, lecz poświadcza orzeczenie już wydane — i dlatego dwa następne zdania nie są barwnym szczegółem, ale dowodem."
+      ],
+      [
+       "τὸ ἔνδυμα ... ἀπὸ τριχῶν καμήλου καὶ ζώνην δερματίνην",
+       "odzienie z sierści wielbłądziej i pas skórzany",
+       "Septuaginta opisuje Eliasza w 2 Krl 1,8 jako ἀνὴρ δασὺς καὶ ζώνην δερματίνην περιεζωσμένος (człowiek kosmaty i opasany pasem skórzanym); drugi człon stoi u Mateusza w tej samej postaci, słowo w słowo. Odzienie Jana jest więc cytatem, nie opisem stroju. Za 13,4 potwierdza, że אַדֶּרֶת שֵׂעָר (adderet se'ar, płaszcz z sierści) był strojem zawodowym proroka — i pokazuje zarazem, że w czasach tamtego proroka stał się czymś, czego prorocy fałszywi się wstydzili. Sierść wielbłądzia daje tkaninę najgrubszą i najtańszą, a pas skórzany jest tym, co nosi pasterz i żołnierz, nie tym, co tkana przepaska urzędnika. Przeciwstawienie wypowie sam Jezus: ἐν μαλακοῖς ἠμφιεσμένον (ubranego w miękkie rzeczy) — takich szuka się w domach królewskich (11,8). Mateusz dokonuje więc utożsamienia Jana z Eliaszem samym ubiorem i nie mówi o tym ani słowa; słowami powie to dopiero w 11,14 i 17,10–13, i oba razy ustami Jezusa."
+      ],
+      [
+       "ἀκρίδες καὶ μέλι ἄγριον",
+       "szarańcze i miód dziki",
+       "Pokarm jest czysty wedle Prawa, a nie ascetyczny wbrew niemu: Kpł 11,20–23 wyklucza skrzydlate owady poza czterema gatunkami szarańczy, które wylicza po imieniu. Dokument Damasceński z Qumran reguluje nawet sposób przygotowania — owady należy wrzucać do ognia albo do wody żywe (CD XII,14–15) — co pokazuje, że jedzenie szarańczy było przedmiotem halachy, nie dziwactwem. Suszona szarańcza była zwyczajnym pokarmem ubogich i pozostała nim w tym regionie. μέλι ἄγριον to albo miód pszczół gnieżdżących się w rozpadlinach skał (por. Pwt 32,13; Sdz 14,8–9), albo słodki wyciek z tamaryszku; Mateusz nie rozstrzyga. Cechą wspólną obu pokarmów jest to, że żadnego się nie sieje, nie żnie i nie kupuje: herold królestwa żyje z tego, co pustynia daje sama. Odczytanie ascetyczne jest starożytne i nie jest fałszywe, lecz wniosek samego tekstu jest prawny i gospodarczy. Loci qumrańskie wymagają sprawdzenia."
+      ],
+      [
+       "ἐξεπορεύετο πρὸς αὐτὸν Ἱεροσόλυμα",
+       "wychodziła do niego Jerozolima",
+       "Orzeczenie w liczbie pojedynczej przy podmiocie w liczbie mnogiej nijakiej (Ἱεροσόλυμα jest u Mateusza formą zgrecyzowaną, rodzaju nijakiego, w liczbie mnogiej) — zgoda klasyczna, w której mnogość nijaka traktowana jest jako całość. Miasto występuje więc jako osoba, tak jak w 2,3, gdzie ἐταράχθη ... πᾶσα Ἱεροσόλυμα (zatrwożyła się cała Jerozolima) na wieść o narodzonym królu. To samo miasto, które się zatrwożyło, teraz wychodzi do Jordanu, a w 21,10 zapyta, kto do niego wjeżdża. Mateusz pisze Ἱεροσόλυμα jedenaście razy i tylko raz formę semicką Ἰερουσαλήμ — w lamentacji z 23,37, gdzie imię jest wołane dwukrotnie. Czasownik ἐκπορεύομαι znaczy „wychodzić z\" i kierunek jest tu istotny: wychodzi się z miasta, czyli od Świątyni, do rzeki. Jezus wróci do tego ruchu pytaniem τί ἐξήλθατε εἰς τὴν ἔρημον θεάσασθαι (po co wyszliście na pustynię patrzeć, 11,7), a arcykapłani zostaną zapytani, skąd był chrzest Jana (21,25) — pytanie o kompetencję obrzędu sprawowanego poza miastem. Trójczłonowe πᾶσα ... πᾶσα jest przy tym formułą całości, a nie spisem ludności."
+      ],
+      [
+       "ἐβαπτίζοντο ἐν τῷ Ἰορδάνῃ ποταμῷ",
+       "byli zanurzani w rzece Jordan",
+       "Imperfectum passivi w liczbie mnogiej, iteratywne: działo się to raz po raz, bez określenia końca. βαπτίζω znaczy „zanurzać, zatapiać\" i w grece świeckiej nie ma odcienia obrzędowego — nadaje mu go dopiero praktyka żydowska i chrześcijańska. To pierwsze wystąpienie czasownika w tej Ewangelii, a w całej księdze stanie on siedem razy (3,6.11 dwa razy.13.14.16; 28,19), więc słowo, od którego Jan ma przezwisko, poza tym rozdziałem niemal u Mateusza nie występuje. Dopisek ποταμῷ (rzece) jest Mateuszowy — żadna paralela synoptyczna go nie ma, a część tradycji usunęła go jako zbędny (zob. noty tekstualne). Zbędny nie jest: rzeka to woda płynąca, a halacha o zanurzeniu wymagała wody nieczerpanej i dawała pierwszeństwo wodzie żywej (מַיִם חַיִּים, majim chajjim) — stąd jeszcze Didache każe chrzcić w wodzie żywej, a inne rozwiązania dopuszcza tylko z konieczności (Did. 7,1–2). Strona bierna waży nie mniej: w praktyce żydowskiej zanurza się człowiek sam, a mikwe nie ma szafarza. Tutaj zanurza kogoś ktoś inny, raz, i zanurzani są przedmiotem cudzej czynności. To właśnie, a nie samo obmycie, jest formalną nowością obrzędu Jana — i dlatego nazwano go zanurzającym, a nie zanurzonym."
+      ],
+      [
+       "ἐξομολογούμενοι τὰς ἁμαρτίας αὐτῶν",
+       "wyznając swoje grzechy",
+       "Imiesłów czasu teraźniejszego w medium, równoczesny z orzeczeniem: wyznanie towarzyszy zanurzeniu, nie poprzedza go jako warunek. Złożenie ἐξ- w ἐξομολογέομαι wskazuje na mówienie na zewnątrz, publiczne uznanie czegoś, co dotąd było wewnątrz — i dlatego ten sam czasownik obsłuży u Mateusza dwie przeciwne treści: wyznanie własnych grzechów tutaj i wyznanie chwały Ojca przez Jezusa w 11,25. Wyznawanie na głos jest jedną czynnością niezależnie od tego, co się wyznaje. Czego Mateusz nie napisał, jest tu ważniejsze od tego, co napisał: Marek streszcza wystąpienie Jana jako βάπτισμα μετανοίας εἰς ἄφεσιν ἁμαρτιῶν (chrzest odmiany myślenia na odpuszczenie grzechów, Mk 1,4). Mateusz odpuszczenie usuwa i w jego miejsce stawia w w. 11 wyrażenie εἰς μετάνοιαν (ku odmianie myślenia), a zwrot „na odpuszczenie grzechów\" zachowuje na jedno jedyne miejsce w całej księdze — nad kielichem w 26,28. Woda Jana dostaje więc wyznanie, a nie odpuszczenie, i ta oszczędność jest zarazem redakcją i nauką."
+      ]
+     ]
+    },
+    {
+     "cs": 3,
+     "vs": 7,
+     "ce": 3,
+     "ve": 8,
+     "label": "w. 7–8",
+     "greek": "Ἰδὼν δὲ πολλοὺς τῶν Φαρισαίων καὶ Σαδδουκαίων ἐρχομένους ἐπὶ τὸ βάπτισμα αὐτοῦ εἶπεν αὐτοῖς· γεννήματα ἐχιδνῶν, τίς ὑπέδειξεν ὑμῖν φυγεῖν ἀπὸ τῆς μελλούσης ὀργῆς; ποιήσατε οὖν καρπὸν ἄξιον τῆς μετανοίας",
+     "transl": "Ujrzawszy zaś wielu z faryzeuszów i saduceuszów, przychodzących do jego chrztu, powiedział im: Potomstwo żmij, kto wam pokazał, jak uciec przed gniewem, który ma przyjść? Uczyńcie więc owoc godny odmiany myślenia",
+     "units": [
+      [
+       "πολλοὺς τῶν Φαρισαίων καὶ Σαδδουκαίων",
+       "wielu z faryzeuszów i saduceuszów",
+       "Jeden rodzajnik obejmuje oba rzeczowniki (τῶν Φαρισαίων καὶ Σαδδουκαίων), co po grecku znaczy, że są jedną grupą. Historycznie nie byli: Flawiusz opisuje je jako odrębne stronnictwa różniące się o zmartwychwstanie, o przeznaczenie i o tradycję ustną (Ant. XVIII,11–17; Bell. II,119–166), a faryzeusze byli popularni, saduceusze zaś kapłańscy, zamożni i związani ze Świątynią, z którą w roku 70 przestali istnieć. Mateusz zestawia ich jeszcze cztery razy (16,1.6.11.12; 22,34) i jest w tym jedyny. Dobór adresatów jest tu Mateuszowy także wobec paraleli: Łukasz tę samą mowę kieruje do tłumów (Łk 3,7), Marek nie ma jej wcale. Skutek jest podwójny. Pierwsza mowa w tej Ewangelii zostaje skierowana do przeciwników, z którymi księga będzie się spierać do końca, i zarzut pada wcześniej, niż ktokolwiek z nich cokolwiek zrobił. Ewangelista nie opisuje przy tym Jordanu lat dwudziestych; nazywa opozycję swojej wspólnoty i cofa ją do pierwszego głosu, jaki w jego księdze się odezwał. πολλούς — wielu, nie wszyscy."
+      ],
+      [
+       "ἐπὶ τὸ βάπτισμα αὐτοῦ",
+       "do jego chrztu",
+       "βάπτισμα, w odróżnieniu od czasownika, nazywa obrzęd jako instytucję — i stoi u Mateusza dwa razy, tutaj i w 21,25, gdzie Jezus pyta arcykapłanów τὸ βάπτισμα τὸ Ἰωάννου πόθεν ἦν (chrzest Jana skąd był). Oba wystąpienia tworzą klamrę wokół pytania o uprawnienie: tutaj przywódcy przychodzą do obrzędu, tam odmawiają powiedzenia, skąd pochodził. ἐπί z biernikiem wskazuje cel ruchu. Zaimek αὐτοῦ, którego najstarsi świadkowie majuskułowi nie mają (zob. noty tekstualne), przywiązuje obrzęd do człowieka: nie „do chrztu\", lecz „do jego chrztu\" — i właśnie ta forma przygotowuje pytanie z rozdziału dwudziestego pierwszego."
+      ],
+      [
+       "γεννήματα ἐχιδνῶν",
+       "potomstwo żmij",
+       "Wołacz liczby mnogiej rodzaju nijakiego. γέννημα znaczy „to, co zrodzone albo wydane\" i pochodzi od γεννάω — czasownika, który czterdzieści razy przebiegł rodowód z rozdziału pierwszego. Obelga jest więc odpowiedzią na gatunek, którym ta Ewangelia się otwiera: tam pytano, czyim kto jest synem, tutaj pada odpowiedź „żmij\". Obraz jest zbiorowy i dziedziczny, czyli stawia zarzut dokładnie na tym gruncie, na którym adresaci zaraz staną, mówiąc „ojca mamy Abrahama\". Tło biblijne jest wyraźne: Iz 59,5 mówi o bezbożnych wysiadujących jaja żmii, a Ps 58,5 przypisuje im jad węża. Wyrażenie wraca w tej księdze dwa razy i oba razy mówi je Jezus — w 12,34 do faryzeuszów oskarżających go o zmowę z Belzebubem, a w 23,33 w ostatnim z siedmiu „biada\", gdzie dołączony jest ten sam czasownik uciekania: πῶς φύγητε ἀπὸ τῆς κρίσεως τῆς γεέννης (jak ucieczecie przed sądem Gehenny). Chrzciciel i Jezus obrażają u Mateusza tych samych ludzi tymi samymi słowami."
+      ],
+      [
+       "τίς ὑπέδειξεν ὑμῖν φυγεῖν",
+       "kto wam pokazał, jak uciec",
+       "ὑποδείκνυμι znaczy „pokazać ukradkiem, dać do zrozumienia\" — ktoś ich ostrzegł, podpowiedział, wskazał wyjście. Pytanie jest retoryczne i drwiące: domyślna odpowiedź brzmi, że nikt uprawniony. Aoryst φυγεῖν należy do słownika uciekania przed pożarem albo powodzią, a w tej Ewangelii ten sam czasownik wypowiedział zwiastun do Józefa — φεῦγε εἰς Αἴγυπτον (uciekaj do Egiptu, 2,13), gdzie ucieczka była posłuszeństwem. Tutaj jest wymknięciem się: przyjęcie obrzędu po to, by ominąć wyrok, jest użyciem znaku zamiast zmiany, i to jest całą treścią zarzutu. W tle może stać obraz zwierząt uciekających z pola, które się wypala albo kosi — przy takim odczytaniu pytanie z w. 7 i klepisko z w. 12 należą do jednego pola obrazowego."
+      ],
+      [
+       "τῆς μελλούσης ὀργῆς",
+       "gniewem, który ma przyjść",
+       "ὀργή (gniew) stoi w całej Ewangelii Mateusza jeden raz — tutaj. Księga, która mówi o sądzie, o Gehennie i o płaczu i zgrzytaniu zębów częściej niż którakolwiek inna, tego rzeczownika więcej nie używa ani razu, a jedyne jego wystąpienie oddaje ustom Chrzciciela. Imiesłów μέλλουσα od μέλλω znaczy „mający nastąpić\": rzecz jest przyszła i zarazem już w drodze, czyli ma dokładnie tę samą logikę czasu, co perfectum ἤγγικεν z w. 2 — przybliżyło się królestwo, nadciąga gniew, i jedno jest drugiej strony tego samego przyjścia. Tłem jest prorocki יוֹם יְהוָה (jom JHWH, dzień JHWH): So 1,14–18 i Ml 3,19 nazywają tak nie stan uczuciowy Boga, lecz rozstrzygnięcie sądu. Wulgata ma ventura ira (gniew, który przyjdzie), co przyszłość zachowuje, a ruch gubi."
+      ],
+      [
+       "ποιήσατε οὖν καρπὸν ἄξιον τῆς μετανοίας",
+       "uczyńcie więc owoc godny odmiany myślenia",
+       "Imperativus aoristi: jedno rozstrzygające działanie, nie proces — inaczej niż μετανοεῖτε z w. 2, które stało w czasie teraźniejszym. καρπόν jest w liczbie pojedynczej, gdy Łukasz ma mnogą (καρπούς, Łk 3,8): nie zbiór uczynków, lecz jeden owoc, czyli całe odmienione życie. ἄξιος pochodzi od ważenia i znaczy „tej samej wagi\": owoc musi zważyć tyle, ile roszczenie. Dopełniacz τῆς μετανοίας jest wyjaśniający — owoc, którym jest to, że odmiana myślenia zaszła. καρπός jest u Mateusza słowem dowodowym: dziewiętnaście wystąpień, i w żadnym owoc nie jest nagrodą, zawsze świadectwem (3,8.10; 7,16–20; 12,33; 13,8.26; 21,19.34.41.43). Zdanie nikomu przy tym nie mówi, co ma robić. Łukasz dopisuje instrukcję — dla tłumów, dla poborców, dla żołnierzy (Łk 3,10–14) — Mateusz jej nie dopisuje i zostawia kryterium bez przepisu, co w jego Ewangelii jest regułą: sprawdza się czyn (7,21; 25,31–46), nie recepta na czyn."
+      ]
+     ]
+    },
+    {
+     "cs": 3,
+     "vs": 9,
+     "ce": 3,
+     "ve": 10,
+     "label": "w. 9–10",
+     "greek": "καὶ μὴ δόξητε λέγειν ἐν ἑαυτοῖς· πατέρα ἔχομεν τὸν Ἀβραάμ. λέγω γὰρ ὑμῖν ὅτι δύναται ὁ θεὸς ἐκ τῶν λίθων τούτων ἐγεῖραι τέκνα τῷ Ἀβραάμ. ἤδη δὲ ἡ ἀξίνη πρὸς τὴν ῥίζαν τῶν δένδρων κεῖται· πᾶν οὖν δένδρον μὴ ποιοῦν καρπὸν καλὸν ἐκκόπτεται καὶ εἰς πῦρ βάλλεται.",
+     "transl": "i nie mniemajcie, że możecie mówić w sobie samych: Ojca mamy Abrahama. Mówię bowiem wam, że może Bóg z tych kamieni wzbudzić dzieci Abrahamowi. Już zaś siekiera przy korzeniu drzew jest położona; każde więc drzewo nieczyniące owocu dobrego zostaje wycięte i w ogień wrzucone.",
+     "units": [
+      [
+       "μὴ δόξητε λέγειν ἐν ἑαυτοῖς",
+       "nie mniemajcie, że możecie mówić w sobie samych",
+       "μή z aorystem coniunctivi to zakaz uprzedzający: nie zaczynajcie, zanim zaczniecie. δοκέω nie znaczy tu „myśleć\", lecz „uważać za rzecz oczywistą, przyjmować za rozstrzygnięte\", a połączenie δόξητε z bezokolicznikiem λέγειν jest po grecku niezgrabne i wygląda na odwzorowanie semickiego zwrotu typu „nie mówcie sobie\". Zaimek zwrotny umieszcza obronę we wnętrzu: nie jest to hasło wykrzyczane, lecz założenie, na którym się stoi, i właśnie ono zostaje zakazane. Mateusz będzie wracał do tego, co ludzie mówią „w sobie\": uczeni w Piśmie w 9,3, chora kobieta w 9,21, arcykapłani rozważający ἐν ἑαυτοῖς, skąd był chrzest Jana (21,25), zły sługa w 24,48. Część tradycji — wraz z Chryzostomem, który cytował z pamięci — czytała zdanie bez ἐν ἑαυτοῖς (zob. noty tekstualne)."
+      ],
+      [
+       "πατέρα ἔχομεν τὸν Ἀβραάμ",
+       "Ojca mamy Abrahama",
+       "Czas teraźniejszy ἔχομεν orzeka posiadanie, i w tym jest błąd: pochodzenie traktowane jest jako rzecz trzymana w ręku. Zdanie przytacza przekonanie realne i dobrze poświadczone — zasługę ojców (זְכוּת אָבוֹת, zechut awot) rabinicznej teologii, przymierze Abrahamowe jako zabezpieczenie zbiorowe; Tryfon u Justyna argumentuje dokładnie tak (Dial. 140), a odpowiedź Chrzciciela była przeciw temu przywoływana od drugiego wieku. Wewnątrz Ewangelii cios pada na jej własną pierwszą kartę. Księga otwiera się dokumentem pochodzenia od Abrahama (1,1–17), a sześćdziesiąt wierszy później pierwszy występujący w niej kaznodzieja mówi, że dokument nikogo nie zbawia. Mateusz drukuje jedno i drugie i nie uzgadnia ich; rozwiązania trzeba szukać w tym, co rodowód sam o sobie powiedział, gdy w ostatnim ogniwie przeszedł na stronę bierną."
+      ],
+      [
+       "ἐκ τῶν λίθων τούτων ... τέκνα τῷ Ἀβραάμ",
+       "z tych kamieni ... dzieci Abrahamowi",
+       "τούτων — „tych\": zaimek wskazujący z gestem w środku, a kamienie są te, które leżą w łożysku Jordanu. W aramejskim zdanie niesie zbitkę słowną, której greka nie ma: אַבְנַיָּא (abnajja, kamienie) i בְּנַיָּא (benajja, synowie) różnią się jedną literą, i ta gra jest najmocniejszym świadectwem, że powiedzenie jest starsze od greckiego zapisu. Obraz ma też tekst za sobą — Iz 51,1–2 każe patrzeć na skałę, z której was wyciosano, i zaraz potem wymienia Abrahama, waszego ojca. ἐγεῖραι (wzbudzić, podnieść) jest u Mateusza czasownikiem powstania z martwych (16,21; 17,23; 28,6) i zarazem czasownikiem prawa o lewiracie, w którym wzbudza się potomstwo zmarłemu bratu (por. 22,24): kamienie nie zostają przemienione, zostają ożywione. Dopełniacz celowy τῷ Ἀβραάμ jest przy tym dokładny — dzieci Abrahamowi, nie dzieci Abrahama: Bóg dochowuje obietnicy złożonej jemu, pomijając linię, przez którą obietnica biegła. λίθος wróci u Mateusza przy kamieniach, z których szatan każe zrobić chleb (4,3), przy kamieniu odrzuconym przez budujących (21,42) i przy kamieniu, który nie zostanie na kamieniu (24,2) — zawsze tam, gdzie Bóg robi z kamieniem coś, czego się nie przewidywało."
+      ],
+      [
+       "ἤδη ... ἡ ἀξίνη πρὸς τὴν ῥίζαν ... κεῖται",
+       "już ... siekiera przy korzeniu ... jest położona",
+       "ἤδη stoi na początku zdania i to ono niesie napięcie: już, nie dopiero. κεῖται jest czasem teraźniejszym w medium i opisuje stan — siekiera leży przyłożona, nie uderza. Cały obraz jest obrazem chwili przed ciosem, i siła zdania mieści się w tym zawieszeniu. πρὸς τὴν ῥίζαν — przy korzeniu, nie przy gałęzi: o przycinaniu nie ma mowy, mowa o usunięciu pnia. Położenie siekiery jest przy tym dobrane do zdania poprzedniego: obrona brzmiała „ojca mamy Abrahama\", a ostrze leży tam, gdzie tę obronę postawiono. ἀξίνη jest u Mateusza słowem jednorazowym, podobnie jak to użycie ῥίζα, które wróci tylko w przypowieściach i będzie tam znaczyć głębokość, jakiej potrzebuje słowo (13,6.21). Tłem jest zapewne Ml 3,19, gdzie dzień płonący jak piec nie zostawia ani korzenia, ani gałęzi."
+      ],
+      [
+       "πᾶν οὖν δένδρον μὴ ποιοῦν καρπὸν καλόν",
+       "każde więc drzewo nieczyniące owocu dobrego",
+       "καλός, a nie ἀγαθός: owoc ma być udany, zdrowy, taki, że da się go pokazać — Wulgata ma bonum i rozróżnienie zaciera. Imiesłów z przeczeniem μή (nie οὐ) nadaje zdaniu charakter ogólny i warunkowy: każde drzewo, o ile nie rodzi. Rzecz nie w tym, czy owoc jest, lecz jaki, i Mateusz tę samą regułę rozwinie w 7,16–20 jako sposób rozpoznawania fałszywych proroków. Co więcej, całe to zdanie wraca tam dosłownie: πᾶν δένδρον μὴ ποιοῦν καρπὸν καλὸν ἐκκόπτεται καὶ εἰς πῦρ βάλλεται (7,19), z pominięciem jednego οὖν. Kryterium Kazania na Górze jest więc przytoczeniem z Chrzciciela — i to jest najczystszy dowód na to, że Mateusz wkłada słownik swojego Pana w usta poprzednika."
+      ],
+      [
+       "ἐκκόπτεται καὶ εἰς πῦρ βάλλεται",
+       "zostaje wycięte i w ogień wrzucone",
+       "Dwa czasy teraźniejsze strony biernej o wartości gnomicznej: tak się z takimi drzewami postępuje — reguła gospodarska, nie zapowiedź przyszłości. Strona bierna ukrywa sprawcę, jak cała mowa aż do w. 11, gdzie sprawca zostanie wreszcie nazwany. Spalenie wyciętego drzewa jest zwyczajnym końcem bezowocnego drzewa owocowego w kraju bez lasów, więc obraz jest gospodarczy wcześniej, niż jest eschatologiczny; eschatologię dokłada czytelnik, który dwa wiersze wyżej usłyszał o gniewie, który ma przyjść. πῦρ pada tutaj pierwszy raz z trzech w ciągu dwunastu wierszy, i to pierwsze wystąpienie jest jednoznacznie niszczące. Dlatego drugie, w w. 11, jest trudne."
+      ]
+     ]
+    },
+    {
+     "cs": 3,
+     "vs": 11,
+     "ce": 3,
+     "ve": 12,
+     "label": "w. 11–12",
+     "greek": "Ἐγὼ μὲν ὑμᾶς βαπτίζω ἐν ὕδατι εἰς μετάνοιαν, ὁ δὲ ὀπίσω μου ἐρχόμενος ἰσχυρότερός μού ἐστιν, οὗ οὐκ εἰμὶ ἱκανὸς τὰ ὑποδήματα βαστάσαι· αὐτὸς ὑμᾶς βαπτίσει ἐν πνεύματι ἁγίῳ καὶ πυρί· οὗ τὸ πτύον ἐν τῇ χειρὶ αὐτοῦ καὶ διακαθαριεῖ τὴν ἅλωνα αὐτοῦ καὶ συνάξει τὸν σῖτον αὐτοῦ εἰς τὴν ἀποθήκην, τὸ δὲ ἄχυρον κατακαύσει πυρὶ ἀσβέστῳ.",
+     "transl": "Ja wprawdzie zanurzam was w wodzie ku odmianie myślenia; ten zaś, który idzie za mną, mocniejszy jest ode mnie — jego sandałów nie jestem godzien nieść. On was zanurzy w Duchu Świętym i ogniu. Jego wiejadło w ręce jego, i przeczyści klepisko swoje, i zbierze zboże swoje do spichlerza, plewę zaś spali ogniem nieugaszonym.",
+     "units": [
+      [
+       "Ἐγὼ μὲν ... ὁ δέ",
+       "ja wprawdzie ... ten zaś",
+       "Jedyna konstrukcja μέν ... δέ w perykopie, i całe porównanie na niej stoi. Zaimek Ἐγώ jest pierwszym słowem, jakie Jan mówi o sobie, i zostaje natychmiast podporządkowany drugiemu członowi. Podział przebiega przez gramatykę, zanim dotknie treści: pierwszy człon jest w pierwszej osobie i czasie teraźniejszym (βαπτίζω), drugi w trzeciej i w przyszłym (βαπτίσει, διακαθαριεῖ, συνάξει, κατακαύσει). Teraźniejszość przeciw przyszłości, ja przeciw on, jedna czynność przeciw czterem."
+      ],
+      [
+       "ἐν ὕδατι εἰς μετάνοιαν",
+       "w wodzie ku odmianie myślenia",
+       "Dwa przyimki pełnią dwa różne zadania: ἐν wskazuje żywioł, εἰς kierunek. Wyrażenie εἰς μετάνοιαν jest Mateuszowe — ani Marek, ani Łukasz go w tym miejscu nie mają — i jest zarazem najdokładniejszym sformułowaniem granicy tego obrzędu. Woda nie wytwarza odmiany myślenia, lecz do niej prowadzi; przyimek zatrzymuje chrzest Jana przed sprawianiem tego, co ten chrzest oznacza, i właśnie to rozróżnienie teologia łacińska ujmie słowem sacramentale (znak przygotowujący). Drugi człon zdania powtarza ἐν (ἐν πνεύματι ἁγίῳ καὶ πυρί) i nie dokłada żadnego εἰς: chrzest Nadchodzącego nie potrzebuje wskazanego kierunku, bo sam jest tym, do czego prowadziła woda."
+      ],
+      [
+       "ὁ ὀπίσω μου ἐρχόμενος",
+       "ten, który idzie za mną",
+       "ὀπίσω z dopełniaczem jest w tej Ewangelii słownikiem uczniostwa: δεῦτε ὀπίσω μου (chodźcie za mną, 4,19), εἴ τις θέλει ὀπίσω μου ἐλθεῖν (jeśli ktoś chce iść za mną, 16,24) — „za mną\" to miejsce idącego w ślad. Jan używa tego wyrażenia o kimś większym, więc zdanie mówi „przychodzi po mnie w czasie\", a brzmi jak „idzie za mną jako uczeń\", i dwuznaczność zostaje nieusunięta. Część tradycji — z papirusem 101 na czele i z Cyprianem — czytała zdanie bez ὀπίσω μου (zob. noty tekstualne), co tę trudność usuwa i dlatego jest prawdopodobnie wtórne. Sam imiesłów ὁ ἐρχόμενος stanie się u Mateusza tytułem: tak Jan zapyta z więzienia, σὺ εἶ ὁ ἐρχόμενος (ty jesteś Przychodzący, 11,3), i tak zawoła tłum przy wjeździe do Jerozolimy (21,9)."
+      ],
+      [
+       "ἰσχυρότερός μού ἐστιν",
+       "mocniejszy jest ode mnie",
+       "Stopień wyższy od ἰσχυρός, które znaczy moc rozumianą jako siła, nie jako prawo czy godność. U Mateusza przymiotnik wraca w 12,29, gdzie ὁ ἰσχυρός (mocny) to przeciwnik, którego trzeba najpierw związać, żeby obrabować jego dom — w tej Ewangelii „mocny\" jest więc gdzie indziej przeciwnikiem, a stopień wyższy w 3,11 nie jest tytułem, lecz pomiarem. Na czym moc polega, powie dopiero następne zdanie: na zdolności zanurzenia w Duchu. Wulgata ma fortior me (mocniejszy ode mnie) i trafia w sens."
+      ],
+      [
+       "οὗ οὐκ εἰμὶ ἱκανὸς τὰ ὑποδήματα βαστάσαι",
+       "jego sandałów nie jestem godzien nieść",
+       "ἱκανός znaczy „wystarczający, dorosły do czegoś\", a nie „godny\": łacińskie dignus i polskie „godny\" przesuwają sens z kompetencji na zasługę, i polski przekład tej perykopy trudno od tego przesunięcia uwolnić. Mateusz ma przy tym inny czasownik niż pozostali: βαστάσαι (nieść, unieść), gdzie Marek, Łukasz i Jan mają λῦσαι τὸν ἱμάντα (rozwiązać rzemień). Niesienie i rozwiązywanie sandałów to dwie różne posługi, a źródła rabiniczne każą tę różnicę traktować poważnie, bo wyliczając usługi, jakich uczeń swojemu nauczycielowi nie jest winien, wymieniają właśnie obuwie jako pracę niewolnika. Orygenes zauważył rozbieżność między ewangelistami i odmówił jej uzgadniania (Comm. in Io. VI). ὑπόδημα wraca u Mateusza raz, w 10,10, gdzie uczniowie mają nie brać sandałów w drogę — jedyne inne sandały tej Ewangelii należą do posłanych. Loci rabiniczne wymagają sprawdzenia."
+      ],
+      [
+       "ἐν πνεύματι ἁγίῳ καὶ πυρί",
+       "w Duchu Świętym i ogniu",
+       "Jeden przyimek rządzi obydwoma rzeczownikami, więc nie są to dwa chrzty, lecz jeden nazwany dwoma słowami. Marek ma tylko πνεύματι ἁγίῳ (Duchem Świętym, Mk 1,8); „i ogniem\" stoi u Mateusza i Łukasza, i od wyboru, co ten dodatek znaczy, zależy odczytanie całej perykopy. Trzy odczytania mają podstawę. Pierwsze bierze ogień jako obraz oczyszczającego działania samego Ducha i ma za sobą Iz 4,4, gdzie Pan obmywa brud córek Syjonu רוּחַ מִשְׁפָּט וְרוּחַ בָּעֵר (duchem sądu i duchem wypalania), Ml 3,2–3 z ogniem złotnika oraz Dz 2,3, gdzie Duch zstępuje jakby w językach ognia. Drugie bierze ogień jako sąd zapowiedziany w w. 10 i w. 12, czyli jedno działanie o dwóch skutkach. Trzecie rozdziela adresatów: Duch dla pokutujących, ogień dla reszty. Obraz z w. 12 wspiera drugie — klepisko przewiewa się raz, jednym narzędziem. πνεῦμα pojawiło się dotąd u Mateusza dwa razy i oba razy jako sprawca poczęcia (1,18.20), a osiem wierszy dalej Duch zstąpi na Jezusa (3,16): Ten, kto będzie zanurzał w Duchu, zostaje najpierw pokazany jako przyjmujący Go. Pełne wyrażenie wróci w 28,19."
+      ],
+      [
+       "τὸ πτύον ... τὴν ἅλωνα ... τὸν σῖτον ... τὸ ἄχυρον",
+       "wiejadło ... klepisko ... zboże ... plewę",
+       "Cztery słowa z gospodarstwa, trzy z nich u Mateusza jednorazowe. πτύον to widły albo łopata do przewiewania; ἅλων — klepisko, równa i wystawiona na wiatr powierzchnia, na której po młocce podrzuca się wymłócone zboże, a wieczorny wiatr robi resztę; ἄχυρον — plewa wraz z pociętą słomą, palona jako opał albo dodawana do gliny. Czasownik διακαθαριεῖ ma przedrostek wzmacniający: „przeczyści na wylot\", a przedmiotem czyszczenia jest klepisko, nie ziarno — Nadchodzący sprząta plac, a dwa przeznaczenia wynikają ze sprzątania. Zboże jest „jego\" i klepisko jest „jego\", i te zaimki są jedynym w całej mowie wskazaniem, że sędzia rozporządza tym, co sądzi; kopistów ich trzykrotność wyraźnie niepokoiła (zob. noty tekstualne). πυρὶ ἀσβέστῳ — ogniem nieugaszonym: ἄσβεστος jest tu słowem jednorazowym i to przymiotnik, a nie ogień, jest w tym wyrażeniu elementem eschatologicznym, bo zwyczajna plewa dopala się w chwilę. Te same dwa przeznaczenia, z tym samym spichlerzem i tym samym spaleniem, zamkną przypowieść o chwastach (13,30) — Jezus przejmie obraz i dołoży do niego jedną rzecz, której Jan nie powiedział: że rozdzielanie czeka do żniwa."
+      ]
+     ]
+    }
+   ],
+   "struktura": "Perykopa dzieli się po w. 6: najpierw opowiadanie o Janie, potem mowa Jana.\n\nCzęść narracyjna (w. 1–6) jest zbudowana z czterech zdań o czterech różnych gramatykach: praesens historicum przy wejściu na scenę (παραγίνεται, w. 1), zdanie identyfikujące w czasie teraźniejszym (οὗτος γάρ ἐστιν, w. 3), dwa imperfecta opisowe o odzieniu i pokarmie (εἶχεν, ἦν, w. 4) i dwa imperfecta iteratywne o ruchu tłumu (ἐξεπορεύετο, ἐβαπτίζοντο, w. 5–6). Czas opowiadania przechodzi więc od punktu do powtarzalności: Jan przychodzi raz, a potem chrzci bez końca.\n\nMowa (w. 7–12) ma sześć kroków i każdy jest innym aktem mowy: obelga (w. 7a), pytanie z drwiną (w. 7b), nakaz (w. 8), zakaz wraz z odrzuceniem obrony (w. 9), groźba (w. 10), porównanie siebie z Nadchodzącym (w. 11) i wykład obrazu, którym się posłużył (w. 12). Dwa ostatnie wiersze są jedyną częścią mowy, której Mateusz nie powtórzy w ustach Jezusa.\n\nCałość spinają trzy nawroty słów. μετανοέω i μετάνοια stoją trzy razy — w otwarciu kerygmy (w. 2), w nakazie (w. 8) i w określeniu własnego chrztu (w. 11) — a rzeczownika μετάνοια nie ma u Mateusza nigdzie poza tą perykopą. καρπός wraca dwa razy, jako nakaz i jako warunek wyroku (w. 8 i 10). πῦρ trzy razy, i za każdym razem inaczej: ogień, w który wrzuca się wycięte drzewo (w. 10), ogień, którym się chrzci (w. 11), i ogień nieugaszony nad odpadem z młocki (w. 12). Na tej trzykrotności stoi główna trudność perykopy, bo wystąpienia drugiego nie da się bez reszty sprowadzić ani do pierwszego, ani do trzeciego.\n\nKlamrą zewnętrzną jest pustynia: ἐν τῇ ἐρήμῳ τῆς Ἰουδαίας z w. 1 i ἐν τῇ ἐρήμῳ przytoczonego Izajasza z w. 3. Pierwszy raz to nazwa krajobrazu, drugi — słowo proroka; między nimi stoi zdanie, które je zrównuje.",
+   "sections": [
+    {
+     "type": "kontekst",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
+     "body": "Pustynia Judejska jest w tej perykopie miejscem, nie metaforą, i niewiele da się o niej powiedzieć, nie wiedząc, jak tam jest i co się tam wtedy działo. Trzy rzeczy mają tu wagę rozstrzygającą: ukształtowanie terenu wraz z halachą o wodzie, obecność drugiego ruchu, który na tej samej pustyni czytał ten sam werset Izajasza, oraz tożsamość dwóch stronnictw, które Mateusz zestawił jednym rodzajnikiem, choć zestawić się nie dawały.",
+     "children": [
+      [
+       "Pustynia, rzeka i miejsce obrzędu",
+       "Pustynia Judejska jest pasem cienia opadowego na wschód od grzbietu wodnego Judei: od Jerozolimy, leżącej na wysokości ośmiuset metrów, terenu opada o tysiąc dwieście metrów do poziomu Morza Martwego na dwudziestu kilku kilometrach, a opad roczny spada w tej samej odległości z około pięciuset milimetrów do mniej niż stu. Nie jest to piasek, lecz wyschnięty less, wapień i margiel, poprzecinany wadi, nadający się pod wypas owiec w porze deszczowej i pod nic poza nim. Mateusz mówi jednak o dwóch różnych miejscach i nie zaciera różnicy: Jan głosi „na pustyni Judejskiej\" (w. 1), a chrzci „w rzece Jordan\" (w. 6), do której schodzi się „cała okolica Jordanu\" (w. 5). Dolina Jordanu przy Jerychu nie jest pustynią — jest oazą, zaroślami i gęstwiną w zapadlinie poniżej poziomu morza. Odległości są niewielkie: od Jerozolimy do Jerycha dwadzieścia pięć kilometrów starą drogą przez pustynię, od Jerycha do osiedla w Qumran kilkanaście w stronę południową. Miejsca chrztu Mateusz nie podaje; tradycyjne — przy wschodnim brzegu, utożsamiane dziś z al-Maghtas — opiera się na Betanii za Jordanem z J 1,28 i na mozaikowej mapie z Madaby, która znaczy tam Bethabarę. Dane topograficzne i identyfikacja miejsca wymagają sprawdzenia."
+      ],
+      [
+       "Jan u Flawiusza",
+       "Jan Chrzciciel jest jedną z niewielu postaci Ewangelii poświadczonych niezależnie. Flawiusz, pisząc pod koniec pierwszego wieku, opowiada, że Herod Antypas kazał Jana zabić, bo obawiał się ludzi gotowych zrobić wszystko, co im powie, i że klęskę wojsk Antypasa opinia żydowska uznała za karę za tę śmierć (Ant. XVIII,116–119). W opisie samego orędzia Flawiusz jest zwięzły i pouczający: Jan wzywał do cnoty, do sprawiedliwości wobec ludzi i do pobożności wobec Boga, a jego obmycie miało służyć oczyszczeniu ciała tych, których duszę już wcześniej oczyściła sprawiedliwość. Zdanie to stoi niespodziewanie blisko „owocu godnego odmiany myślenia\": także u Flawiusza odmiana postępowania wyprzedza obmycie, a obmycie jej nie sprawia. Tego, co dla Mateusza jest treścią wystąpienia Jana — królestwa, Nadchodzącego, chrztu w Duchu i ogniu — Flawiusz nie wspomina wcale, i ta cisza jest równie informacyjna jak zbieżność: niechrześcijański obserwator widział reformatora moralnego, a nie poprzednika. Loci i brzmienie wymagają sprawdzenia przy źródłach."
+      ],
+      [
+       "Qumran: ta sama pustynia, ten sam werset",
+       "Reguła Zrzeszenia nakazuje odłączyć się od siedziby ludzi nieprawości i wyjść na pustynię, aby tam przygotować drogę Jego — i przytacza w tym miejscu Iz 40,3 (1QS VIII,12–16). Ten sam werset, ta sama pustynia, to samo pokolenie. Wspólnota praktykowała przy tym codzienne obmycia, a jej zabudowania w Qumran mają kilka basenów schodkowych; Reguła wiąże oczyszczenie z duchem prawdy i nie pozwala uznać obmycia samego za skuteczne bez odwrócenia od zła (1QS III,4–9). Stąd stara hipoteza o związkach Jana z tym środowiskiem, i stąd też powody, dla których pozostaje hipotezą. Obrzęd Jana jest jednorazowy, udzielany przez kogoś innego, otwarty dla każdego przychodzącego, bez nowicjatu, bez wspólnoty dóbr i bez sporu o kalendarz; wspólnota przygotowywała drogę przez odłączenie i studium Prawa, Jan przez stanie przy rzece i przyjmowanie tych, którzy sami przyszli. Pewna jest wspólna egzegeza jednego wersetu, nie wspólne życie. Sigla qumrańskie wymagają sprawdzenia."
+      ],
+      [
+       "Zanurzenie w judaizmie Drugiej Świątyni",
+       "Zanurzenie nie było w tym świecie nowością ani rzadkością. Archeologia zna kilkaset basenów schodkowych wyłożonych wodoszczelnym tynkiem — w górnym mieście Jerozolimy, w pałacach Jerycha, w Qumran, na Masadzie, w Seforis — a halacha wymagała od miary czterdziestu sea i wody nieczerpanej ludzką ręką, stąd pierwszeństwo wody źródlanej albo płynącej, מַיִם חַיִּים (majim chajjim, wody żywej). Trzy cechy tej praktyki odróżniają ją od obrzędu Jana. Zanurzenie jest samodzielne: mikwe nie ma szafarza. Jest powtarzalne: przywraca czystość obrzędową, którą traci się ponownie. I dotyczy czystości, nie winy moralnej. Osobną sprawą jest zanurzenie prozelitów (tewilat gerim), poświadczone w sporze szkół zapisanym w Misznie (Pesachim 8,8); czy praktykowano je już w czasach Jana, pozostaje przedmiotem dyskusji, a jeśli tak, zgorszenie jego obrzędu jest ostrzejsze — traktowałby Izraelitów tak, jak traktuje się wchodzącego z zewnątrz. Loci rabiniczne i liczby wymagają sprawdzenia."
+      ],
+      [
+       "Faryzeusze i saduceusze jako jedna grupa",
+       "Flawiusz opisuje trzy stronnictwa — faryzeuszów, saduceuszów i esseńczyków — i różnice między dwoma pierwszymi podaje dokładnie: faryzeusze przyjmują tradycję ojców obok Pisma, wierzą w zmartwychwstanie i w pośrednictwo losu, mają poparcie ludu; saduceusze odrzucają jedno i drugie, trzymają się samego Pisma, należą do zamożnych i do rodzin kapłańskich, a ich istnienie związane jest ze Świątynią (Ant. XVIII,11–17; Bell. II,119–166). W roku 70 jedno z tych stronnictw przestaje istnieć razem z nią. Zestawienie, które Mateusz tworzy jednym rodzajnikiem w w. 7 i powtarza cztery razy (16,1.6.11.12; 22,34), jest więc niemożliwe jako opis sceny przy Jordanie i zrozumiałe jako posunięcie pisarza: kiedy Mateusz pisze, jego rozmówcą jest jedna z tych grup, a druga jest wspomnieniem po Świątyni, i obie razem oznaczają w jego księdze „przywództwo Izraela\". Żaden inny ewangelista tego zestawienia nie robi. Loci Flawiusza wymagają sprawdzenia."
+      ],
+      [
+       "Odzienie, pokarm, klepisko",
+       "Trzy obrazy perykopy mają za sobą realia, które warto znać dokładnie. Sierść wielbłądzia daje tkaninę najgrubszą z dostępnych, noszoną przez beduinów i przez najuboższych; pas skórzany jest przeciwieństwem tkanej przepaski urzędnika, a oba szczegóły razem odtwarzają opis Eliasza z 2 Krl 1,8 i prorocki płaszcz z Za 13,4. Szarańcza jest pokarmem dopuszczonym wprost przez Prawo, które wylicza cztery gatunki skrzydlatych owadów nadających się do jedzenia (Kpł 11,20–23), a Dokument Damasceński reguluje sposób ich przygotowania, nakazując wrzucać je żywe do ognia albo do wody (CD XII,14–15); suszoną szarańczę jadano w tym regionie powszechnie i jada się nadal. Miód dziki to albo zbiór z gniazd pszczelich w rozpadlinach skalnych, albo słodki wyciek z tamaryszku. Klepisko jest równą, często skalną powierzchnią za wioską, wystawioną na popołudniowy wiatr z zachodu; po młocce — wołami albo ciągniętymi saniami — wymłócone ziarno podrzuca się wiejadłem, a wiatr unosi plewę i pociętą słomę, pozostawiając ziarno na miejscu. Plewę się pali albo dodaje do gliny na cegłę. Wszystkie obrazy w w. 10–12 pochodzą z roku gospodarskiego, żaden z literatury apokaliptycznej. Loci qumrańskie wymagają sprawdzenia."
+      ]
+     ]
+    },
+    {
+     "type": "teologia",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "body": "Perykopa stawia scholastyce jedno pytanie przed wszystkimi innymi: czym był obrzęd ustanowiony przez Boga, który nie zbawiał. Tomasz poświęcił mu w Sumie osobną kwestię o sześciu artykułach, De baptismo Ioannis (ST III, q. 38), i jest to najdokładniejszy wykład tego tekstu, jaki scholastyka zostawiła. Trzy dalsze trudności — nakazany owoc, jeden ogień o dwóch skutkach i dzieci wzbudzone z kamieni — mają w tym samym systemie narzędzia rozłożone po różnych traktatach.",
+     "children": [
+      [
+       "Chrzest Jana: znak bez skutku",
+       "Tomasz rozstrzyga kolejno: chrzest Jana pochodził od Boga, nie od ludzi, bo Jan został posłany, i miał rację bytu jako przygotowanie; nie dawał jednak łaski i nie odpuszczał grzechów, lecz jedynie usposabiał do chrztu Chrystusowego; ustał, gdy Chrystus ustanowił swój; a ochrzczonych przez Jana trzeba było ochrzcić na nowo, czego dowodem jest przypadek uczniów efeskich z Dz 19,1–7 (ST III, q. 38, a. 1–6). Wprowadza dla takiego obrzędu nazwę sacramentale (znak przygotowawczy) w odróżnieniu od sakramentu, który jest signum efficax (znakiem sprawczym) — powoduje to, co oznacza. Rozróżnienie nie jest tu narzucone tekstowi; jest Mateuszowym εἰς μετάνοιαν przetłumaczonym na łacinę. Przyimek wskazuje kierunek, nie skutek, i dlatego porządek całej perykopy jest porządkiem przygotowania: woda prowadzi do czegoś, czego sama nie sprawia, a to, co sprawia, jest w zdaniu następnym i w czasie przyszłym. Loci Tomasza wymagają sprawdzenia."
+      ],
+      [
+       "Usposobienie do łaski i owoc, który jest nakazany",
+       "„Uczyńcie owoc godny odmiany myślenia\" jest rozkazem, a rozkaz rodzi pytanie, czy ktokolwiek może go wykonać, zanim łaska go dotknie. Tomasz odpowiada, że człowiek nie przygotowuje się do łaski bez łaski, która go poruszy: samo dispositio (usposobienie) jest skutkiem gratia operans (łaski działającej), a nie warunkiem, który człowiek spełnia własnymi siłami (ST I–II, q. 109, a. 6; q. 112, a. 2–3). Przygotowanie pozostaje przy tym rzeczywiste, wolne i nasze — zostało dane, a nie wykonane za nas. Przy takim ujęciu dwa zdania mowy Chrzciciela, które wyglądają na sprzeczne, przestają nimi być. Owoc jest nakazany ludziom (w. 8), a dzieci Abrahama wzbudza Bóg z kamieni (w. 9); pierwsze zdanie nie czyni z nawrócenia osiągnięcia, a drugie nie czyni z niego cudzej sprawy. Granica między nimi jest dokładnie tam, gdzie Tomasz ją stawia: człowiek czyni owoc, którego moc czynienia nie pochodzi od niego."
+      ],
+      [
+       "Jeden ogień, dwa skutki",
+       "Trudność ἐν πνεύματι ἁγίῳ καὶ πυρί (w Duchu Świętym i ogniu) polega na tym, że pierwszy i trzeci ogień perykopy palą, a drugi chrzci. Scholastyka ma na to narzędzie po stronie przyjmującego, nie działającego. Obowiązuje aksjomat quidquid recipitur, recipitur secundum modum recipientis (cokolwiek zostaje przyjęte, zostaje przyjęte na sposób przyjmującego), a przykładem używanym na to od Ojców jest słońce, które tym samym ciepłem rozpuszcza wosk i utwardza glinę. Jedno działanie, dwa przeciwne skutki, i różnica nie w działającym, lecz w materii. Przy takim odczytaniu Nadchodzący dokonuje jednej czynności, klepisko zostaje przewiane raz, a ziarno i plewa rozchodzą się dlatego, że są różne — co jest dokładnie tym, co obraz z w. 12 pokazuje. Zarazem rozwiązanie to ma granicę, której nie wolno przekraczać: różnica materii nie jest u Mateusza różnicą natur, bo cała mowa zakłada, że plewą albo ziarnem człowiek się staje przez to, co robi z wezwaniem z w. 8. Loci aksjomatu i analogii wymagają sprawdzenia."
+      ],
+      [
+       "Z kamieni: wszechmoc i porządek, który Bóg sobie zadał",
+       "Zdanie o dzieciach wzbudzonych z kamieni scholastyka czytała przez rozróżnienie potentia Dei absoluta (moc Boża bezwzględna) — to, co Bóg może, ograniczone jedynie sprzecznością — od potentia ordinata (moc wedle porządku ustanowionego), czyli tego, co Bóg czyni w ramach ładu, jaki sam zadał: a ten ład biegnie tutaj przez pochodzenie, przymierze i obietnicę. Chrzciciel przywołuje pierwszą, żeby zaprzeczyć, że druga wiąże dawcę. Obietnica złożona Abrahamowi zobowiązuje Boga do jej dochowania, nie do dochowania jej przez tych właśnie synów — i dlatego dopełniacz celowy w zdaniu jest tak dokładny: τέκνα τῷ Ἀβραάμ, dzieci Abrahamowi, nie dzieci Abrahama. Konsekwencja nie jest groźbą zastąpienia jednego ludu drugim, lecz zdaniem o tym, kto jest właścicielem przymierza. Tomasz ujmuje to po swojemu, wywodząc wybranie z woli Bożej, a nie z jakiejkolwiek uprzedniej zasługi po stronie wybranych — do której należałaby także zasługa urodzenia."
+      ]
+     ]
+    },
+    {
+     "type": "autor_ludzki",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
+     "body": "Mateusz miał tu problem kompozycyjny: trzeba było przejść od dziecka wracającego do Nazaretu do mężczyzny nauczającego w Galilei. Rozwiązał go odmową rozwiązania — ἐν δὲ ταῖς ἡμέραις ἐκείναις (w owych zaś dniach), i nic więcej. Łukasz datuje: piętnasty rok panowania Tyberiusza, pięciu urzędników z imienia, dwóch arcykapłanów (Łk 3,1–2). Marek nie ma przed Janem niczego. Wybór Mateusza jest wyborem kogoś, kto uznał, że rozdziały o dzieciństwie odpowiedziały na pytanie o tożsamość, a następne pytanie dotyczy uprawnienia — i że na nie odpowiada się świadkiem, nie datą.\n\nRedakcja wobec Marka jest widoczna w trzech miejscach i w każdym coś znaczy. Pierwsze: Marek otwiera księgę cytatem zszytym z Ml 3,1, Wj 23,20 i Iz 40,3, przypisując całość Izajaszowi (Mk 1,2–3). Mateusz zszycie usuwa, zostawia samego Izajasza, przesuwa cytat za opis Jana i czyni z niego własne zdanie orzecznikowe — οὗτος γάρ ἐστιν (ten bowiem jest). Fragment Malachiasza nie ginie: wraca w 11,10, przytoczony przez Jezusa i odniesiony do Jana. Atrybucja zostaje uporządkowana, a utożsamienie z Eliaszem zachowane dla ust Pana. Drugie: Marek streszcza wystąpienie Jana jako βάπτισμα μετανοίας εἰς ἄφεσιν ἁμαρτιῶν (chrzest odmiany myślenia na odpuszczenie grzechów, Mk 1,4). Mateusz usuwa odpuszczenie i pisze εἰς μετάνοιαν (ku odmianie myślenia), a zwrot „na odpuszczenie grzechów\" zachowuje na jedno miejsce w całej księdze — nad kielichem w 26,28. Trzecie: Marek nie ma mowy Jana poza zapowiedzią Nadchodzącego. Mateusz, jak Łukasz, daje mu całe w. 7–12, lecz sam wybiera słuchaczy.\n\nTen wybór jest najbardziej Mateuszowym posunięciem perykopy. Łukaszowe tłumy (Łk 3,7) ustępują faryzeuszom i saduceuszom, zestawionym jednym rodzajnikiem w grupę, którą historia znała jako dwie rywalizujące i z której jedna nie przetrwała roku 70. Ewangelista nie opisuje Jordanu lat dwudziestych; nazywa opozycję, z jaką spiera się jego wspólnota, i cofa ją do pierwszej mowy, jaka w jego księdze pada. Zarzut zostaje wypowiedziany, zanim ktokolwiek z adresatów cokolwiek zrobił, i przez dwadzieścia rozdziałów będzie się potwierdzał.\n\nDalej idzie słownik, i tu redakcja daje się sprawdzić literą. Wezwanie z 3,2 jest zdaniem z 4,17 bez zmiany jednej litery. Wyrok o drzewie z 3,10 jest zdaniem z 7,19 z pominięciem jednego οὖν. Obelga z 3,7 wraca w 12,34 i w 23,33, drugi raz wraz z tym samym czasownikiem uciekania przed sądem. Spichlerz i spalenie odpadu z 3,12 wracają w 13,30. Cztery zdania Chrzciciela stają się zdaniami Jezusa, a taka konsekwencja nie bywa przypadkiem. Powstaje z tego poprzednik, który nie mówi niczego, czego Pan nie powie — poza jednym wierszem, nieprzenośnym, bo jego treścią jest, że mówiący nie potrafi tego, co zrobi Drugi.\n\nKompozycyjnie perykopa należy do pierwszej z trzech części księgi, tej, którą zamknie formuła ἀπὸ τότε ἤρξατο ὁ Ἰησοῦς κηρύσσειν (od tego czasu zaczął Jezus głosić, 4,17) — a szew zostaje zrobiony przez powtórzenie zdania Chrzciciela. Rekwizyty następnych scen są rozstawione tutaj: pustynia z w. 1 będzie pustynią kuszenia (4,1), Jordan z w. 6 Jordanem chrztu (3,13), Duch z w. 11 Duchem zstępującym w 3,16. Mateusz rozkłada w dwunastu wierszach wszystko, czego za chwilę użyje.",
+     "children": []
+    },
+    {
+     "type": "autor_bozy",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
+     "body": "Bóg nie mówi w tej perykopie ani jednego słowa — pierwszy raz od otwarcia księgi, gdzie przemawiał przez zwiastuna w trzech snach i przez cztery formuły wypełnienia. Mówi tu człowiek, a Bóg jest podmiotem dwóch zdań w trzeciej osobie: może wzbudzić dzieci z kamieni i zsyła gniew, który ma przyjść. Odezwie się dopiero osiem wierszy dalej, nad wodą, i powie wtedy coś, czego Chrzciciel nie zapowiedział.",
+     "children": [
+      [
+       "Zapowiedź przed wyjaśnieniem",
+       "Królestwo zostaje ogłoszone, zanim ktokolwiek dowie się, czym jest. Mateusz poświęci mu dwadzieścia kilka rozdziałów i siedem przypowieści w jednym (13,24–50), a pierwsze o nim zdanie mówi tylko, że się przybliżyło. Perfectum ἤγγικεν odmawia przy tym i pocieszenia, i grozy: oznajmia, że odległość została zniesiona, nie że rzecz nadeszła — na to Mateusz ma inny czasownik i użyje go raz (ἔφθασεν, 12,28). Jedyny praktyczny wniosek, jaki tekst z tego wyciąga, jest rozkazem skierowanym do myślenia. Objawienie nie informuje tutaj, lecz wzywa, i kolejność jest wiążąca dla całej księgi: najpierw wezwanie, potem wykład."
+      ],
+      [
+       "Pochodzenie, które nie wystarcza",
+       "Ewangelia otwierająca się rejestrem pochodzenia pozwala swojemu pierwszemu kaznodziei powiedzieć sześćdziesiąt wierszy później, że pochodzenie nie zabezpiecza nikogo. Oba zdania są Mateuszowe i żadne nie zostaje wycofane. Para ta nie twierdzi, że przymierze było omyłką, lecz że nigdy nie było własnością: obietnicę złożono Abrahamowi i dochowuje jej Ten, kto ją złożył, a dochować jej może z kamieni w łożysku rzeki, jeśli synowie obietnicy nie przyniosą owocu. Paweł będzie ten sam sąd wywodził długo i z Pisma (Rz 4,11–17; Rz 9,6–8). Mateusz stawia go w jednym zdaniu i nie uzasadnia — zostawia uzasadnienie tam, gdzie je już umieścił, w ostatnim ogniwie rodowodu, które przeszło na stronę bierną."
+      ],
+      [
+       "Sąd należy do dobrej nowiny",
+       "Ogłoszenie królestwa i obraz siekiery stoją w jednej mowie, w ustach jednego mówiącego, jako jedna wiadomość. Nie jest to usterka surowego poprzednika, którą Ewangelia potem poprawi: Ewangelia siekierę zachowuje. Jezus powtórzy zdanie o bezowocnym drzewie (7,19), powtórzy obelgę (12,34; 23,33) i zamknie przypowieść o chwastach tym samym spichlerzem i tym samym spaleniem (13,30.40–42). Zmieni się nie treść sądu, lecz jego pora. U Jana siekiera leży już przy korzeniu, u Jezusa rozdzielanie czeka do żniwa, a chwast rośnie do tego czasu obok zboża. To odłożenie jest jedyną poprawką, jaką ta Ewangelia wnosi do nauczania Chrzciciela — i o nie właśnie idzie pytanie, które Jan przyśle później z więzienia (11,2–3)."
+      ],
+      [
+       "Czego Chrzciciel nie zapowiedział",
+       "Mowa z w. 7–12 zapowiada Mocniejszego, chrzest w Duchu i ogniu oraz przewiane klepisko. Nie zapowiada tego, co stanie się za osiem wierszy: że Ten, kto trzyma wiejadło, przyjdzie z Galilei i wejdzie do wody, żeby zostać zanurzonym przez człowieka, który właśnie powiedział, że nie wystarcza do noszenia jego sandałów. Mateusz pisze obie sceny obok siebie i nie dodaje komentarza; dopiero Jan w następnej perykopie będzie się wzbraniał (3,14), i jego wzbranianie jest reakcją na rozbieżność między tym, co zapowiedział, a tym, co widzi. Duch Święty nie koryguje tu zapowiedzi, lecz pokazuje, jak zostanie wypełniona — a sposób wypełnienia jest tym, czego z zapowiedzi nie dało się wyczytać. Tak samo będzie z chrztem w ogniu, gdy Mocniejszy zapyta w 20,22, czy uczniowie są w stanie przyjąć chrzest, który on przyjmuje."
+      ]
+     ]
+    },
+    {
+     "type": "odniesienia",
+     "title": "Sieć odniesień biblijnych",
+     "body": "Perykopa cytuje Pismo raz i jawnie, a poza tym mówi nim bez przerwy: odzienie z w. 4 jest zdaniem z Ksiąg Królewskich, gniew z w. 7 dniem Pana z proroków, kamienie z w. 9 skałą z Izajasza, ogień z w. 11 duchem wypalania z tego samego proroka. Poniżej miejsca, które rozstrzygają o sensie, nie te, które dają się wskazać.",
+     "children": [
+      [
+       "Iz 40,3 → w. 3",
+       "Jedyny jawny cytat perykopy. Pierwsza połowa idzie za Septuagintą bez zmiany, druga odbiega od niej jednym słowem: grecki Izajasz ma τὰς τρίβους τοῦ θεοῦ ἡμῶν (ścieżki Boga naszego), wszystkie trzy Ewangelie synoptyczne mają τὰς τρίβους αὐτοῦ (ścieżki jego). Zmiana jest najmniejszą możliwą i najdalej idącą: zaimek odsyła do κυρίου z wersu poprzedniego, nie rozstrzygając, kim ten Pan jest, a „ścieżki Boga naszego\" nie dałyby się odnieść do Jezusa bez bluźnierstwa. Wspólność tej lekcji u trzech ewangelistów wskazuje, że nie powstała u żadnego z nich osobno. Osobno stoi sprawa podziału zdania: po hebrajsku równoległość wersów wiąże „na pustyni\" z przygotowaniem drogi, po grecku okolicznik należy do wołania — i cała identyfikacja Jana z w. 3 opiera się na podziale greckim."
+      ],
+      [
+       "Iz 40,1–11 → w. 1–3",
+       "Cytat wyjęty jest z otwarcia tej części Izajasza, która mówi do ludu na wygnaniu: pocieszcie, pocieszcie mój lud, kara dopełniona, droga gotowa, a chwała Pana objawi się wszelkiemu ciału. Kontekst jest więc pocieszeniem i powrotem, nie groźbą — i z tym kontrastuje całe wystąpienie Jana, które z Izajasza bierze drogę, a treść ma z proroków sądu. Mateusz tego kontrastu nie zaciera i nie komentuje. Zdanie o chwale objawionej wszelkiemu ciału (Iz 40,5) przytoczy natomiast Łukasz, przedłużając cytat o dwa wersy (Łk 3,6) — i ta różnica długości przytoczenia jest różnicą dwóch teologii misji."
+      ],
+      [
+       "Ml 3,1.23–24 → całość",
+       "Malachiasz zapowiada zwiastuna przygotowującego drogę przed Panem (3,1) i Eliasza posłanego przed dniem Pańskim, by nawrócił serca ojców do synów (3,23–24; w numeracji Septuaginty i Wulgaty 4,5–6). Oba teksty są dla tej perykopy tłem oczywistym, a Mateusz żadnego z nich tu nie cytuje. Marek pierwszy z nich wplata w nagłówek księgi (Mk 1,2); Mateusz go stamtąd usuwa i odkłada do 11,10, gdzie przytoczy go Jezus, mówiąc o Janie. Utożsamienie z Eliaszem Mateusz przeprowadza tutaj wyłącznie ubiorem (w. 4), a wypowie je w 11,14 i 17,10–13 — i oba razy ustami Jezusa. Rozstrzygnięcie o tym, kto jest Eliaszem, nie należy więc u Mateusza do narratora ani do samego Jana."
+      ],
+      [
+       "2 Krl 1,8 i Za 13,4 → w. 4",
+       "Septuaginta opisuje Eliasza jako człowieka kosmatego, opasanego pasem skórzanym — ζώνην δερματίνην περιεζωσμένος — i to wyrażenie stoi u Mateusza słowo w słowo. Typologia jest tu więc cytatem w materii: figurą jest prorok rozpoznawany po płaszczu, wypełnieniem człowiek, którego Pismo rozpoznaje tak samo. Za 13,4 dopełnia obrazu z drugiej strony: zapowiada czas, w którym prorocy będą się wstydzić swoich widzeń i zdejmą płaszcz z sierści, by nie zostać rozpoznanymi. Strój, którego tam się wyrzekają, Jan na siebie wkłada."
+      ],
+      [
+       "Kpł 11,20–23 → w. 4",
+       "Prawo wyklucza skrzydlate owady z pokarmu, a potem wylicza po imieniu cztery gatunki szarańczy, których wykluczenie nie dotyczy. Pokarm Jana jest więc czysty, a nie heroiczny: tekst nie opisuje ascezy łamiącej obyczaj, lecz życie z tego, co pustynia daje w granicach Prawa. Ten sam materiał regulował Dokument Damasceński, nakazując wrzucać owady żywe do ognia albo do wody (CD XII,14–15), co pokazuje, że jedzenie szarańczy było przedmiotem halachy, nie dziwactwem. Odczytanie ascetyczne, od Hieronima po średniowiecze, dołożyło do tego sens, którego litera nie podaje."
+      ],
+      [
+       "Iz 59,5 i Ps 58,4–5 → w. 7",
+       "Obelga Chrzciciela ma w Piśmie przygotowane obrazy. Izajasz mówi o bezbożnych wysiadujących jaja żmii i tkających pajęczynę (59,5), psalm przypisuje bezbożnym jad węża i głuchotę żmii, która nie słucha zaklinacza (58,4–5). W obu miejscach obraz dotyczy nie jednostki, lecz rodzaju, i w obu rzecz idzie o to, co z wnętrza wychodzi. Dlatego wyrażenie pasuje dokładnie do zdania, które za chwilę padnie: zarzut jest dziedziczny, bo dziedziczne jest to, na co adresaci się powołają. Tę samą logikę rozwinie Jezus, powtarzając obelgę w 12,34 i wyprowadzając z niej zasadę, że usta mówią z nadmiaru serca."
+      ],
+      [
+       "Iz 51,1–2 → w. 9",
+       "Prorok każe tym, którzy szukają Pana, patrzeć na skałę, z której zostali wyciosani, i na studnię, z której wykopani — a zaraz potem wyjaśnia, że mowa o Abrahamie, ich ojcu, i o Sarze, która ich urodziła. Kamień i Abraham stoją więc razem w tekście, który Chrzciciel odwraca: tam z jednej skały wyciosano lud, tutaj Bóg może z kamieni wyciosać lud nowy. Zdanie jest przez to nie tylko groźbą, lecz także odwołaniem się do obietnicy — Abraham sam był kamieniem, z którego Bóg wyprowadził coś, czego nie było. W aramejskim dochodzi do tego zbitka słowna między אַבְנַיָּא (abnajja, kamienie) i בְּנַיָּא (benajja, synowie), której greka nie ma i nie próbuje zastąpić."
+      ],
+      [
+       "Jr 7,3–11 → w. 9",
+       "Jeremiasz stoi w bramie Świątyni i zakazuje ufać słowom „świątynia Pańska, świątynia Pańska, świątynia Pańska\", wyliczając zaraz potem kradzież, zabójstwo, cudzołóstwo i krzywoprzysięstwo. Struktura zarzutu jest identyczna z w. 9: zabezpieczenie instytucjonalne przeciwstawione postępowaniu, i unieważnione przez nie. Kontrast z perykopą polega na przedmiocie ufności — tam Świątynia, tutaj pochodzenie — i na losie obu: dom, o którym mówił Jeremiasz, został zburzony, a u Mateusza zostanie zapowiedziane jego powtórne zburzenie (24,2) tym samym słowem, które w w. 9 oznacza kamienie."
+      ],
+      [
+       "Ml 3,2–3.19 i Iz 4,4 → w. 10–12",
+       "Trzy teksty dają ogniowi tej perykopy jego trzy funkcje. Ml 3,2–3 opisuje przychodzącego jako ogień złotnika i ług farbiarza, który oczyszcza synów Lewiego — ogień, który nie niszczy, lecz wytapia. Ml 3,19 opisuje dzień płonący jak piec, po którym nie zostaje ani korzeń, ani gałąź — i to jest tło siekiery przy korzeniu z w. 10. Iz 4,4 mówi, że Pan obmyje brud córki Syjonu רוּחַ מִשְׁפָּט וְרוּחַ בָּעֵר (duchem sądu i duchem wypalania) — i to jedno zdanie łączy ducha z ogniem przed Chrzcicielem, czyniąc wyrażenie z w. 11 nie nowością, lecz przytoczeniem obrazu. Trzy funkcje — wytapianie, spalenie, obmycie przez wypalenie — nie dają się w prorokach do siebie sprowadzić, i u Mateusza także nie."
+      ],
+      [
+       "Ez 36,25–27 i Jl 3,1–2 → w. 11",
+       "Ezechiel zapowiada dwie rzeczy w jednym zdaniu: pokropienie czystą wodą i danie nowego ducha w miejsce serca kamiennego. Figurą jest obmycie, wypełnieniem chrzest, w którym woda i Duch zostają nazwane razem — a Mateusz je rozdziela i przypisuje dwóm różnym szafarzom, zostawiając pierwszą Janowi, drugiego Nadchodzącemu. Joel zapowiada wylanie Ducha na wszelkie ciało, na synów i córki, na sługi i służebnice (3,1–2; w numeracji Septuaginty 2,28–29), i to proroctwo przytoczy Piotr w dniu Pięćdziesiątnicy, kiedy Duch zstąpi w językach jakby z ognia. Zapowiedź z w. 11 i jej wypełnienie z Dz 2 mają więc wspólne tło prorockie, którego Mateusz nie wskazuje."
+      ],
+      [
+       "Mt 1,1–17 → w. 9",
+       "Pierwsza strona tej Ewangelii jest dokumentem pochodzenia od Abrahama, wypisanym imię po imieniu, z rachunkiem podliczonym na głos. W w. 9 pierwszy występujący w tej księdze kaznodzieja mówi, że taki dokument nie zbawia nikogo, i podaje powód: Bóg może sporządzić sobie dzieci Abrahama z kamieni. Kontrast nie jest przeoczeniem redaktora — oba teksty są Mateuszowe — lecz rozstrzygnięciem co do wartości dowodowej rodowodu. Lista dowodzi, że Mesjasz przyszedł zgodnie z obietnicą, a nie że ktokolwiek ma do Niego prawo przez urodzenie; dlatego sam rodowód kończy się stroną bierną i tytułem, nie kolejnym zrodzeniem."
+      ],
+      [
+       "Mt 4,17; 7,19; 12,34; 23,33; 13,30 → w. 2.7.10.12",
+       "Cztery zdania Chrzciciela wracają w ustach Jezusa. Wezwanie μετανοεῖτε· ἤγγικεν γὰρ ἡ βασιλεία τῶν οὐρανῶν stoi w 3,2 i w 4,17 bez zmiany jednej litery, a 4,17 otwiera własne nauczanie Jezusa i jest szwem między pierwszą a drugą częścią księgi. Wyrok o drzewie nieczyniącym owocu z 3,10 wraca w 7,19 z pominięciem jednego οὖν, w środku Kazania na Górze, jako kryterium rozpoznawania fałszywych proroków. Obelga z 3,7 wraca w 12,34 i w 23,33, drugi raz wraz z tym samym czasownikiem uciekania przed wyrokiem. Spichlerz i spalenie odpadu z 3,12 wracają na końcu przypowieści o chwastach (13,30). Przeniesienie jest konsekwentne i obejmuje wszystkie typy wypowiedzi mowy poza jednym — porównaniem dwóch chrztów."
+      ],
+      [
+       "Mt 11,2–15 i Mt 17,10–13 → całość",
+       "Cała ta perykopa jest przesłanką dwóch późniejszych scen. W 11,2–3 Jan przysyła z więzienia pytanie, czy Jezus jest Przychodzącym — tym samym imiesłowem, którym sam Go nazwał w 3,11 — a pytanie ma sens tylko wtedy, gdy się pamięta, co zapowiedział: siekierę, wiejadło i ogień nieugaszony. Odpowiedź Jezusa wylicza uzdrowienia i ewangelię głoszoną ubogim, czyli rzeczy, których w mowie Chrzciciela nie ma. Dalej Jezus wypowiada ocenę Jana (11,7–15), przytacza do niego Ml 3,1 i mówi, że to on jest Eliaszem, który ma przyjść; w 17,10–13, po przemienieniu, uczniowie to pojmują i zostaje dodana rzecz, której Jan o sobie nie wiedział — że z Eliaszem postąpiono, jak chcieli, i tak samo postąpią z Synem Człowieczym."
+      ],
+      [
+       "Mk 1,2–8; Łk 3,1–18; J 1,19–28 → całość",
+       "Cztery wersje jednej sceny i cztery różne rozstrzygnięcia. Marek daje cytat zszyty z trzech miejsc jako motto księgi, nazywa chrzest Jana chrztem na odpuszczenie grzechów i nie ma mowy; zapowiada Ducha bez ognia. Łukasz datuje wystąpienie konsularnie, kieruje mowę do tłumów, dopisuje do nakazu owocu instrukcję dla tłumów, poborców i żołnierzy (3,10–14) i przedłuża cytat z Izajasza o zdanie o chwale objawionej wszelkiemu ciału. Jan nie ma ani cytatu w formie Mateuszowej, ani mowy o gniewie, ma natomiast przesłuchanie, w którym Chrzciciel odmawia tytułów: nie jestem Mesjaszem, nie jestem Eliaszem, nie jestem prorokiem — jestem głosem (J 1,19–23). Rozbieżność z Mateuszem co do Eliasza nie dotyczy faktu, lecz tego, kto ma prawo nadać tytuł."
+      ],
+      [
+       "Dz 1,5; 2,1–4; 19,1–7 → w. 11",
+       "Zapowiedź z w. 11 jest w Dziejach przytaczana jako obietnica, która właśnie się spełnia: Jan chrzcił wodą, wy zostaniecie ochrzczeni Duchem Świętym (1,5), a w dniu Pięćdziesiątnicy zjawiają się języki jakby z ognia i wszyscy zostają napełnieni (2,1–4). Trzeci tekst idzie w przeciwną stronę i rozstrzyga o granicy obrzędu Jana: w Efezie Paweł spotyka uczniów, którzy nie słyszeli o Duchu Świętym, bo zostali ochrzczeni tylko chrztem Jana, i chrzci ich ponownie (19,1–7). To miejsce stanie się głównym dowodem w sporze o skuteczność chrztu Jana i jest dowodem przytaczanym przez Tomasza w kwestii De baptismo Ioannis."
+      ],
+      [
+       "Mt 28,19 i Mt 26,28 → w. 6.11",
+       "Dwa końce łuku, który ta perykopa otwiera. Formuła z w. 11 wraca w pełni w nakazie misyjnym: chrzcijcie ich w imię Ojca i Syna, i Ducha Świętego (28,19) — chrzest zostaje przekazany uczniom, a Duch, którego Jan nie mógł dać, zostaje w formule nazwany. Drugi koniec dotyczy tego, co Mateusz z w. 6 wyciął: „na odpuszczenie grzechów\" nie pada przy chrzcie Jana, bo pada raz, nad kielichem w 26,28, przy krwi wylewanej za wielu. Odpuszczenie zostaje więc u Mateusza przypisane nie wodzie w Jordanie ani nawet nie nakazowi z 28,19, lecz krwi — i to rozłożenie słów po trzech miejscach księgi jest jedną decyzją redakcyjną, nie trzema."
+      ]
+     ]
+    },
+    {
+     "type": "recepcja",
+     "title": "Znaczenie w historii i liturgii Kościoła",
+     "body": null,
+     "children": [
+      [
+       "Czy chrzest Jana zbawiał",
+       "Pytanie postawił Nowy Testament sam: w Efezie Paweł chrzci ponownie ludzi ochrzczonych chrztem Jana i nieznających Ducha Świętego (Dz 19,1–7). Od drugiego wieku to miejsce jest dowodem głównym. Tertulian w De baptismo odmawia obrzędowi Jana dawania Ducha i nazywa go chrztem samej pokuty, wskazując, że sam Jan zapowiedział chrzest różny od swojego; argument rozstrzygano wówczas nie w teorii, lecz w praktyce przyjmowania ludzi do Kościoła. Spór donatystyczny postawił sprawę z drugiej strony: Augustyn musiał odróżnić ważność obrzędu od świętości szafarza, a przypadek Jana dostarczał przykładu odwrotnego do donatystycznego — szafarz święty, obrzęd nieskuteczny — i pokazywał, że skuteczność nie wynika z zasługi udzielającego. Scholastyczne domknięcie jest Tomaszowe (ST III, q. 38): obrzęd od Boga, przygotowujący, nieudzielający łaski, ustępujący chrztowi Chrystusa. Trydent ujął to w kanon, obłożywszy anatemą twierdzenie, że chrzest Jana miał tę samą moc co chrzest Chrystusa (sesja VII, kanony o chrzcie). Osobny ciąg dziejów ma samo wyrażenie „w Duchu Świętym i ogniu\": ruch pentekostalny dwudziestego wieku wziął je jako nazwę doświadczenia odrębnego od chrztu i następującego po nim, i tak zdanie, które Ojcowie czytali jako opis jednego działania, zaczęło w części chrześcijaństwa nazywać dwa. Numeracja kanonu i loci wymagają sprawdzenia przy źródłach."
+      ],
+      [
+       "Liturgia",
+       "W rycie rzymskim Mt 3,1–12 jest Ewangelią drugiej niedzieli Adwentu roku A, z Iz 11,1–10 jako czytaniem pierwszym i z Rz 15,4–9 jako drugim. Zestawienie jest zamierzone i ostre: lekcjonarz stawia siekierę przy korzeniu drzew obok różdżki wyrastającej z korzenia Jessego, czyli obok tego jedynego korzenia, którego siekiera nie dotknie. Dwa pozostałe lata czytają w tę samą niedzielę wersje paralelne — rok B Mk 1,1–8, rok C Łk 3,1–6 — tak że trzy synoptyczne ujęcia jednej sceny rozkładają się na trzyletni cykl. Własne wspomnienia Chrzciciela tej perykopy nie używają: narodzenie świętego Jana Chrzciciela 24 czerwca ma Ewangelię z Łk 1,57–66.80, a wspomnienie jego męczeństwa 29 sierpnia Mk 6,17–29. Związek Mt 3 z Janem jest więc lekcjonarzowy tylko w Adwencie; poza Adwentem jest kaznodziejski, i tej różnicy nie należy przemilczać. Wschód ustawia ten tekst w innym kierunku. Poprzednik ma w cyklu tygodniowym stałe wspomnienie we wtorek, a jego Sobór przypada 7 stycznia, nazajutrz po Teofanii; sama perykopa należy do Godzin Królewskich Teofanii, gdzie tradycja przypisuje Mt 3,1–11 Godzinie Pierwszej, a niedziela przed Teofanią czyta Mk 1,1–8. Zachód czyta więc ten tekst ku narodzeniu Pana, Wschód ku Jego chrztowi — i ta różnica kierunku jest głównym faktem liturgicznym perykopy. Sigla Lekcjonarza rzymskiego oraz rubryki Horologionu i typikonu wymagają sprawdzenia w księgach przed publikacją."
+      ],
+      [
+       "Poprzednik w ikonie, w regule i w kazaniu",
+       "Na Wschodzie Jan nazywa się Πρόδρομος (Prodromos, Poprzednik), nie Chrzciciel, i ta nazwa rozstrzyga o całej ikonografii: od późnego Bizancjum malowany jest ze skrzydłami jako Anioł Pustyni, co bierze się z greckiego ἄγγελος (zwiastun, posłaniec) w Ml 3,1, oraz z włosami i w sierści, trzymający zwój z wezwaniem do nawrócenia. W Deesis stoi po prawicy Chrystusa, naprzeciw Matki Bożej — dwóch orędowników po obu stronach tronu — a na ikonostasie jego miejsce jest stałe. Zachód zrobił z niego człowieka wskazującego palcem: ukrzyżowanie Grünewalda z Isenheim daje mu palec nieproporcjonalnie długi i napis illum oportet crescere, me autem minui (trzeba, żeby On wzrastał, a ja się umniejszał, J 3,30). Tradycja monastyczna wzięła Jana za pierwszego mnicha — pustynia, jedno odzienie, pokarm, którego się nie kupuje — a reguły pustelnicze przywoływały go wprost; tradycja karmelitańska łączy go z Eliaszem, czyli dokładnie tak, jak łączy ich w. 4. Kaznodziejstwo zrobiło z perykopy dwie rzeczy: w Adwencie wezwanie do przygotowania, a u Ojców argument przeciw dumie z pochodzenia. Datowanie typu skrzydlatego i cytaty w regułach wymagają weryfikacji."
+      ]
+     ]
+    },
+    {
+     "type": "patrystyka",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
+     "body": "Rozdział trzeci komentowali wszyscy autorzy łacińskich i greckich komentarzy ciągłych do Mateusza, a katena jest tu i tak trudniejsza, niż wygląda. Orygenesa brakuje tam, gdzie należałoby go szukać: jego grecki Commentarium in Matthaeum zachował się dopiero od księgi dziesiątej, czyli od Mt 13,36, więc jego zdanie o Chrzcicielu trzeba brać z Commentarii in Ioannem, gdzie wyłożył tę scenę przy J 1,19–28. Pięć głosów poniżej mówi o pięciu różnych rzeczach: Chryzostom o tym, po co w ogóle potrzebny był świadek; Hieronim o odzieniu i pokarmie; Chromacjusz o żmijach i o pochodzeniu; Hilary o siekierze przy korzeniu; Orygenes o różnicy między niesieniem sandałów a rozwiązywaniem rzemienia.",
+     "children": []
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "body": "Różnica między poprzednikiem a Mesjaszem nie leży u Mateusza w treści nauczania. Wezwanie z w. 2 wróci w 4,17 bez zmiany jednej litery, wyrok o bezowocnym drzewie w 7,19, obelga z w. 7 w 12,34 i 23,33, spichlerz i spalenie odpadu w 13,30. Z całej mowy nie da się przenieść jednego wiersza — tego, w którym Jan mówi, czego nie potrafi: ja zanurzam w wodzie, on zanurzy w Duchu Świętym i ogniu. Różnica dotyczy więc tego, co obrzęd każdego z nich sprawia. Woda prowadzi ku odmianie myślenia — εἰς μετάνοιαν — i na tym się zatrzymuje; Duch i ogień nie prowadzą do niczego, bo są tym, do czego prowadziła woda.\n\nReszta perykopy jest zbudowana z tej samej proporcji przygotowania i rzeczy przygotowanej, i każdy jej obraz mówi o warunkach to samo: nie ma ich. Pustynia jest miejscem, gdzie nic nie rośnie i nikt nie mieszka, a werset Izajasza każe tam budować drogę. Odzienie i pokarm Jana wzięte są stamtąd, gdzie się nie uprawia. Rejestr pochodzenia, którym ta Ewangelia się otwiera, zostaje w w. 9 uznany za niewystarczający, a kamienie z dna rzeki za wystarczające Bogu. Zostaje jedno żądanie — καρπὸν ἄξιον τῆς μετανοίας (owoc godny odmiany myślenia) — postawione bez listy uczynków, która by je uszczegółowiła. Łukasz taką listę dopisze (Łk 3,10–14); Mateusz zostawia kryterium bez instrukcji, bo w jego księdze sprawdza się czyn, nie recepta na czyn.\n\nOstatni obraz jest rolniczy i trzeba go czytać rolniczo. Klepisko przewiewa się raz, jednym narzędziem, w jednym wieczornym wietrze; ziarno i plewa nie dostają dwóch różnych zabiegów, lecz jeden, i rozchodzą się dlatego, że są różne. Tak samo czyta się ἐν πνεύματι ἁγίῳ καὶ πυρί (w Duchu Świętym i ogniu): jeden przyimek, jedno działanie, dwa skutki wedle tego, co zostaje nim dotknięte. Chrzciciel nie zapowiada dwóch chrztów dla dwóch grup, lecz jeden, po którym będzie widać, kto czym jest. A ponieważ Mateusz przez całą księgę będzie badał drzewa po owocach i ludzi po czynach, kryterium tej Ewangelii wprowadza nie Jezus, lecz człowiek, który o sobie mówi, że nie wystarcza do noszenia sandałów.",
+     "children": []
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "body": "*Tekst grecki wedle wydania krytycznego Nestle-Aland, pobrany z `db.sqlite` (księga 470) wraz z Wulgatą klementyńską i aparatem; znaki aparatu usunięte z zapisu perykopy, nawias wydawniczy przy καί w w. 2 zachowany. Przekład polski jest roboczy, własny i celowo dosłowny — nie pochodzi z żadnego wydania objętego prawem autorskim; przekład międzywierszowy z `db.sqlite` posłużył wyłącznie jako materiał kontrolny. μετανοέω oddano przez „odmieniać myślenie\", a βαπτίζω przez „zanurzać\", żeby zachować słyszalny układ ἐν ὕδατι / ἐν πνεύματι z w. 11; tytuł ὁ βαπτιστής pozostawiono jako Chrzciciel, bo jest przydomkiem. Transkrypcje hebrajskie i aramejskie uproszczone. Dane statystyczne o częstotliwości słów policzono na tekście z `db.sqlite` po numerach Stronga.*\n\n*Noty tekstualne opierają się na dziesięciu wpisach aparatu dla Mt 3,1–12 w tabeli `commentaries`; świadków podano wedle tych wpisów i nie uzupełniano z innych wydań.*\n\n*Loci patrystyczne — numery homilii Chryzostoma, miejsca u Hieronima, Hilarego, Chromacjusza i Orygenesa — podano wedle standardowej numeracji i przed publikacją wymagają sprawdzenia przy źródłach (Źródła Myśli Teologicznej, PSP, Migne). To samo dotyczy loci Tomasza, wskazań Flawiusza (Ant. XVIII,116–119 oraz XVIII,11–17), sigliów qumrańskich (1QS VIII,12–16; III,4–9; CD XII,14–15), lokalizacji tekstów rabinicznych (Berakhot 2,2; Pesachim 8,8), numeracji kanonu trydenckiego o chrzcie, a przede wszystkim sigliów Lekcjonarza rzymskiego i rubryk Godzin Królewskich Teofanii — tam, gdzie związek perykopy ze świętem jest kaznodziejski, a nie lekcjonarzowy, zaznaczono to wprost. Przy pracy publikacyjnej warto zestawić analizę z komentarzami: U. Luz, W. D. Davies – D. C. Allison (ICC), R. T. France (NICNT), a po polsku A. Paciorek (NKB NT I).*",
+     "children": []
+    }
+   ],
+   "refs": [
+    [
+     [
+      "unit",
+      "w. 3",
+      1
+     ],
+     "Iz",
+     40,
+     3,
+     40,
+     3,
+     "Iz 40,3",
+     "cytat",
+     "Jedyny jawny cytat perykopy. Pierwsza połowa idzie za Septuagintą bez zmiany, w drugiej Mateusz, Marek i Łukasz mają zgodnie τὰς τρίβους αὐτοῦ (ścieżki jego) tam, gdzie grecki Izajasz ma τὰς τρίβους τοῦ θεοῦ ἡμῶν (ścieżki Boga naszego). Zaimek pozwala odnieść wezwanie do Nadchodzącego z w. 11, czego dopełniacz Septuaginty nie pozwalałby bez bluźnierstwa."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Iz",
+     40,
+     1,
+     40,
+     11,
+     "Iz 40,1–11",
+     "tlo",
+     "Kontekst cytowanego wersetu: pocieszenie ludu na wygnaniu, kara dopełniona, droga przez pustynię dla wracającego Boga i chwała objawiona wszelkiemu ciału. Mateusz bierze stąd drogę, a treść wystąpienia Jana ma z proroków sądu, i tego kontrastu nie zaciera. Łukasz przedłuża cytat aż do Iz 40,5 (Łk 3,6), Mateusz urywa go wcześniej."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ml",
+     3,
+     1,
+     3,
+     1,
+     "Ml 3,1",
+     "aluzja",
+     "Zwiastun przygotowujący drogę przed Panem. Marek wplata ten tekst w nagłówek księgi i przypisuje go Izajaszowi (Mk 1,2); Mateusz usuwa go stamtąd i odkłada do 11,10, gdzie przytacza go sam Jezus. W tej perykopie tekst jest obecny jako tło, nie jako cytat."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ml",
+     3,
+     23,
+     3,
+     24,
+     "Ml 3,23–24",
+     "typologia",
+     "Eliasz posłany przed dniem Pańskim, by nawrócił serca ojców do synów (w numeracji Septuaginty i Wulgaty 4,5–6). Figurą jest prorok poprzedzający sąd, wypełnieniem Jan — lecz utożsamienie Mateusz przeprowadza tutaj wyłącznie ubiorem z w. 4, a wypowiada je w 11,14 i 17,10–13, i oba razy ustami Jezusa."
+    ],
+    [
+     [
+      "unit",
+      "w. 4–6",
+      1
+     ],
+     "2 Krl",
+     1,
+     8,
+     1,
+     8,
+     "2 Krl 1,8",
+     "typologia",
+     "Opis Eliasza: człowiek kosmaty, opasany pasem skórzanym. Figura i wypełnienie zbiegają się w materii: wyrażenie ζώνην δερματίνην (pas skórzany) stoi u Mateusza w tej samej postaci co w Septuagincie, więc odzienie Jana jest cytatem, nie opisem stroju."
+    ],
+    [
+     [
+      "unit",
+      "w. 4–6",
+      1
+     ],
+     "Za",
+     13,
+     4,
+     13,
+     4,
+     "Za 13,4",
+     "tlo",
+     "Prorocy wstydzący się swoich widzeń zdejmą płaszcz z sierści, by nie zostać rozpoznanymi. Tekst poświadcza, że sierść była strojem zawodowym proroka — i pokazuje strój, którego się wyrzekano, a który Jan na siebie wkłada."
+    ],
+    [
+     [
+      "unit",
+      "w. 4–6",
+      2
+     ],
+     "Kpł",
+     11,
+     20,
+     11,
+     23,
+     "Kpł 11,20–23",
+     "tlo",
+     "Prawo wyklucza skrzydlate owady z pokarmu, wyliczając zaraz potem cztery gatunki szarańczy, których wykluczenie nie dotyczy. Pokarm Jana jest więc czysty wedle Prawa, a nie ascetycznym złamaniem obyczaju."
+    ],
+    [
+     [
+      "unit",
+      "w. 4–6",
+      2
+     ],
+     "Pwt",
+     32,
+     13,
+     32,
+     13,
+     "Pwt 32,13",
+     "por",
+     "Miód wyssany ze skały w pieśni Mojżesza — jedno z dwóch możliwych odniesień dla μέλι ἄγριον (miodu dzikiego); drugim jest słodki wyciek z tamaryszku. Mateusz nie rozstrzyga, a wspólną cechą obu pokarmów Jana jest to, że żadnego się nie sieje ani nie kupuje."
+    ],
+    [
+     [
+      "unit",
+      "w. 7–8",
+      2
+     ],
+     "Iz",
+     59,
+     5,
+     59,
+     5,
+     "Iz 59,5",
+     "aluzja",
+     "Bezbożni wysiadujący jaja żmii. Obraz dotyczy rodzaju, nie jednostki, i tym tłumaczy się dziedziczna postać obelgi: zarzut pada na tym samym gruncie, na którym adresaci zaraz staną, powołując się na Abrahama."
+    ],
+    [
+     [
+      "unit",
+      "w. 7–8",
+      2
+     ],
+     "Ps",
+     58,
+     4,
+     58,
+     5,
+     "Ps 58,4–5",
+     "aluzja",
+     "Bezbożnym przypisany jest jad węża i głuchota żmii, która nie słucha zaklinacza. Psalm dodaje do obrazu to, co Jezus z niego wyprowadzi w 12,34: rzecz idzie o to, co z wnętrza wychodzi."
+    ],
+    [
+     [
+      "unit",
+      "w. 7–8",
+      4
+     ],
+     "So",
+     1,
+     14,
+     1,
+     18,
+     "So 1,14–18",
+     "tlo",
+     "Dzień Pański jako dzień gniewu, ucisku i ognia. „Gniew, który ma przyjść\" z w. 7 jest greckim skrótem tego prorockiego pojęcia: nie stanu uczuciowego Boga, lecz nazwy rozstrzygnięcia sądu. ὀργή stoi w całej Ewangelii Mateusza jeden raz, tutaj."
+    ],
+    [
+     [
+      "unit",
+      "w. 9–10",
+      1
+     ],
+     "Rdz",
+     12,
+     1,
+     12,
+     3,
+     "Rdz 12,1–3",
+     "kontrast",
+     "Obietnica dana Abrahamowi jest racją, dla której powołanie się na niego ma jakikolwiek sens — i zarazem racją, dla której nie zabezpiecza nikogo. Obietnica zobowiązuje Boga do jej dochowania, nie do dochowania jej przez tych właśnie synów, i na tym rozróżnieniu stoi odpowiedź z w. 9."
+    ],
+    [
+     [
+      "unit",
+      "w. 9–10",
+      2
+     ],
+     "Iz",
+     51,
+     1,
+     51,
+     2,
+     "Iz 51,1–2",
+     "tlo",
+     "Prorok każe patrzeć na skałę, z której was wyciosano, i zaraz wymienia Abrahama, waszego ojca. Kamień i Abraham stoją więc razem w Piśmie, a Chrzciciel ten układ odwraca: z jednej skały wyciosano lud, z kamieni Bóg może wyciosać lud nowy."
+    ],
+    [
+     [
+      "unit",
+      "w. 9–10",
+      1
+     ],
+     "Jr",
+     7,
+     3,
+     7,
+     11,
+     "Jr 7,3–11",
+     "paralela",
+     "Jeremiasz w bramie Świątyni zakazuje ufać słowom „świątynia Pańska\", wyliczając zaraz kradzież, zabójstwo i cudzołóstwo. Struktura zarzutu jest identyczna: zabezpieczenie instytucjonalne przeciwstawione postępowaniu i unieważnione przez nie. Tam przedmiotem ufności jest Świątynia, tutaj pochodzenie."
+    ],
+    [
+     [
+      "unit",
+      "w. 9–10",
+      3
+     ],
+     "Ml",
+     3,
+     19,
+     3,
+     19,
+     "Ml 3,19",
+     "tlo",
+     "Dzień płonący jak piec, po którym nie zostaje ani korzeń, ani gałąź (w numeracji Septuaginty i Wulgaty 4,1). Jest to najbliższe tło dla siekiery przyłożonej do korzenia, a nie do gałęzi — zapowiadane jest usunięcie pnia, nie przycięcie."
+    ],
+    [
+     [
+      "unit",
+      "w. 11–12",
+      5
+     ],
+     "Iz",
+     4,
+     4,
+     4,
+     4,
+     "Iz 4,4",
+     "tlo",
+     "Pan obmyje brud córki Syjonu duchem sądu i duchem wypalania. To jedno zdanie łączy ducha z ogniem przed Chrzcicielem i czyni wyrażenie „w Duchu Świętym i ogniu\" przytoczeniem obrazu, nie nowością."
+    ],
+    [
+     [
+      "unit",
+      "w. 11–12",
+      5
+     ],
+     "Ml",
+     3,
+     2,
+     3,
+     3,
+     "Ml 3,2–3",
+     "tlo",
+     "Przychodzący jako ogień złotnika i ług farbiarza, który oczyszcza synów Lewiego. Ogień, który nie niszczy, lecz wytapia — i to jest podstawa dla pierwszego z trzech odczytań ognia z w. 11."
+    ],
+    [
+     [
+      "unit",
+      "w. 11–12",
+      5
+     ],
+     "Ez",
+     36,
+     25,
+     36,
+     27,
+     "Ez 36,25–27",
+     "typologia",
+     "Pokropienie czystą wodą i danie nowego ducha w miejsce serca kamiennego, w jednym zdaniu. Figurą jest obmycie, wypełnieniem chrzest — Mateusz jednak rozdziela wodę i Ducha i przypisuje je dwóm różnym szafarzom."
+    ],
+    [
+     [
+      "unit",
+      "w. 11–12",
+      5
+     ],
+     "Jl",
+     3,
+     1,
+     3,
+     2,
+     "Jl 3,1–2",
+     "tlo",
+     "Wylanie Ducha na wszelkie ciało, na synów i córki, na sługi i służebnice (w numeracji Septuaginty 2,28–29). Proroctwo to przytoczy Piotr w dniu Pięćdziesiątnicy, gdy Duch zstąpi w językach jakby z ognia — zapowiedź z w. 11 i jej wypełnienie mają więc wspólne tło, którego Mateusz nie wskazuje."
+    ],
+    [
+     [
+      "unit",
+      "w. 9–10",
+      1
+     ],
+     "Mt",
+     1,
+     1,
+     1,
+     17,
+     "Mt 1,1–17",
+     "kontrast",
+     "Pierwsza strona tej Ewangelii jest dokumentem pochodzenia od Abrahama; sześćdziesiąt wierszy później pierwszy występujący w niej kaznodzieja mówi, że dokument nie zbawia nikogo. Oba zdania są Mateuszowe i żadne nie zostaje wycofane."
+    ],
+    [
+     [
+      "unit",
+      "w. 1–2",
+      6
+     ],
+     "Mt",
+     4,
+     17,
+     4,
+     17,
+     "Mt 4,17",
+     "paralela",
+     "μετανοεῖτε· ἤγγικεν γὰρ ἡ βασιλεία τῶν οὐρανῶν — zdanie, którym Jezus rozpoczyna własne nauczanie, jest tym samym zdaniem bez zmiany jednej litery. Zarazem 4,17 jest szwem między pierwszą a drugą częścią księgi, a szew zrobiony jest przez powtórzenie słów Chrzciciela."
+    ],
+    [
+     [
+      "unit",
+      "w. 9–10",
+      4
+     ],
+     "Mt",
+     7,
+     19,
+     7,
+     19,
+     "Mt 7,19",
+     "paralela",
+     "πᾶν δένδρον μὴ ποιοῦν καρπὸν καλὸν ἐκκόπτεται καὶ εἰς πῦρ βάλλεται — zdanie z w. 10 wraca w Kazaniu na Górze z pominięciem jednego οὖν, jako kryterium rozpoznawania fałszywych proroków. Kryterium Jezusa jest tu przytoczeniem z Chrzciciela."
+    ],
+    [
+     [
+      "unit",
+      "w. 7–8",
+      2
+     ],
+     "Mt",
+     12,
+     34,
+     12,
+     34,
+     "Mt 12,34",
+     "paralela",
+     "Ta sama obelga w ustach Jezusa, skierowana do faryzeuszów oskarżających go o zmowę z Belzebubem, z wnioskiem, że usta mówią z nadmiaru serca. Chrzciciel i Jezus obrażają u Mateusza tych samych ludzi tymi samymi słowami."
+    ],
+    [
+     [
+      "unit",
+      "w. 7–8",
+      3
+     ],
+     "Mt",
+     23,
+     33,
+     23,
+     33,
+     "Mt 23,33",
+     "paralela",
+     "Drugie powtórzenie obelgi, w ostatnim z siedmiu „biada\", wraz z tym samym czasownikiem uciekania: πῶς φύγητε ἀπὸ τῆς κρίσεως τῆς γεέννης (jak ucieczecie przed sądem Gehenny). Obok γεννήματα ἐχιδνῶν stoi tam jeszcze ὄφεις (węże)."
+    ],
+    [
+     [
+      "unit",
+      "w. 11–12",
+      6
+     ],
+     "Mt",
+     13,
+     24,
+     13,
+     30,
+     "Mt 13,24–30",
+     "rozwiniecie",
+     "Przypowieść o chwastach kończy się tym samym spichlerzem i tym samym spaleniem odpadu, a zboże zbierane εἰς τὴν ἀποθήκην stoi tam w tej samej konstrukcji. Dołożona jest jedna rzecz, której Jan nie powiedział: rozdzielanie czeka do żniwa, a chwast rośnie do tego czasu obok zboża."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mt",
+     11,
+     2,
+     11,
+     15,
+     "Mt 11,2–15",
+     "rozwiniecie",
+     "Jan przysyła z więzienia pytanie, czy Jezus jest ὁ ἐρχόμενος (Przychodzący) — tym samym imiesłowem, którym sam Go nazwał w w. 11 — a pytanie ma sens tylko wobec tego, co zapowiedział: siekiery, wiejadła i ognia nieugaszonego. Odpowiedź wylicza uzdrowienia i ewangelię głoszoną ubogim. Dalej Jezus przytacza do Jana Ml 3,1 i mówi, że to on jest Eliaszem, który ma przyjść."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mt",
+     17,
+     10,
+     17,
+     13,
+     "Mt 17,10–13",
+     "rozwiniecie",
+     "Po przemienieniu uczniowie pytają o Eliasza, a Jezus odpowiada, że Eliasz już przyszedł i postąpiono z nim, jak chcieli — i wtedy pojmują, że mówił o Janie Chrzcicielu. Utożsamienie, które perykopa przeprowadza jedynie ubiorem z w. 4, zostaje tu przyjęte, a do niego dołożone zdanie, którego Jan o sobie nie wiedział: tak samo postąpią z Synem Człowieczym."
+    ],
+    [
+     [
+      "section",
+      "Autor ludzki: kim jest i co chce przekazać"
+     ],
+     "Mk",
+     1,
+     2,
+     1,
+     8,
+     "Mk 1,2–8",
+     "paralela",
+     "Marek daje cytat zszyty z Ml 3,1, Wj 23,20 i Iz 40,3 jako motto księgi i przypisuje całość Izajaszowi; nazywa chrzest Jana chrztem odmiany myślenia na odpuszczenie grzechów; nie ma mowy Jana poza zapowiedzią Nadchodzącego; zapowiada Ducha bez ognia. Każda z tych czterech rzeczy jest u Mateusza zmieniona."
+    ],
+    [
+     [
+      "section",
+      "Autor ludzki: kim jest i co chce przekazać"
+     ],
+     "Łk",
+     3,
+     1,
+     3,
+     18,
+     "Łk 3,1–18",
+     "paralela",
+     "Łukasz datuje wystąpienie konsularnie, kieruje mowę do tłumów, przedłuża cytat z Izajasza o zdanie o chwale objawionej wszelkiemu ciału i dopisuje do nakazu owocu instrukcję dla tłumów, poborców i żołnierzy (3,10–14). Mateusz instrukcji nie dopisuje i zostawia kryterium bez przepisu."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "J",
+     1,
+     19,
+     1,
+     28,
+     "J 1,19–28",
+     "kontrast",
+     "W przesłuchaniu u czwartego ewangelisty Chrzciciel odmawia wszystkich tytułów: nie jest Mesjaszem, nie jest Eliaszem, nie jest prorokiem — jest głosem. Rozbieżność z Mateuszem co do Eliasza nie dotyczy faktu, lecz tego, kto ma prawo nadać tytuł; u Mateusza nadaje go Jezus."
+    ],
+    [
+     [
+      "unit",
+      "w. 11–12",
+      5
+     ],
+     "Dz",
+     1,
+     5,
+     1,
+     5,
+     "Dz 1,5",
+     "rozwiniecie",
+     "„Jan chrzcił wodą, wy zostaniecie ochrzczeni Duchem Świętym\" — zapowiedź z w. 11 przytoczona jako obietnica, która właśnie ma się spełnić, z pominięciem ognia."
+    ],
+    [
+     [
+      "unit",
+      "w. 11–12",
+      5
+     ],
+     "Dz",
+     2,
+     1,
+     2,
+     4,
+     "Dz 2,1–4",
+     "rozwiniecie",
+     "Języki jakby z ognia i napełnienie Duchem w dniu Pięćdziesiątnicy. Jest to jedyne miejsce Nowego Testamentu, w którym Duch i ogień występują razem w opisie zdarzenia, i główna podstawa dla odczytania ognia z w. 11 jako obrazu działania samego Ducha."
+    ],
+    [
+     [
+      "section",
+      "Czy chrzest Jana zbawiał"
+     ],
+     "Dz",
+     19,
+     1,
+     19,
+     7,
+     "Dz 19,1–7",
+     "kontrast",
+     "W Efezie Paweł spotyka uczniów, którzy nie słyszeli o Duchu Świętym, bo zostali ochrzczeni tylko chrztem Jana, i chrzci ich ponownie. Miejsce to jest od drugiego wieku głównym dowodem na to, że obrzęd Jana nie udzielał Ducha, i jest dowodem przytaczanym przez Tomasza w kwestii De baptismo Ioannis."
+    ],
+    [
+     [
+      "unit",
+      "w. 11–12",
+      5
+     ],
+     "Mt",
+     28,
+     19,
+     28,
+     19,
+     "Mt 28,19",
+     "rozwiniecie",
+     "Formuła z w. 11 wraca w pełni w nakazie misyjnym: chrzest zostaje przekazany uczniom, a Duch, którego Jan nie mógł dać, zostaje w formule nazwany obok Ojca i Syna."
+    ],
+    [
+     [
+      "unit",
+      "w. 4–6",
+      5
+     ],
+     "Mt",
+     26,
+     28,
+     26,
+     28,
+     "Mt 26,28",
+     "kontrast",
+     "„Na odpuszczenie grzechów\" — zwrot, który Marek wiąże z chrztem Jana (Mk 1,4), a Mateusz zachowuje na to jedno miejsce w całej księdze: nad kielichem, przy krwi wylewanej za wielu. Woda Jana dostaje u Mateusza wyznanie grzechów, a nie ich odpuszczenie."
+    ],
+    [
+     [
+      "unit",
+      "w. 4–6",
+      3
+     ],
+     "Mt",
+     21,
+     23,
+     21,
+     27,
+     "Mt 21,23–27",
+     "rozwiniecie",
+     "Arcykapłani zapytani, skąd był chrzest Jana, nie odpowiadają i rozważają ἐν ἑαυτοῖς (w sobie) — tym samym zwrotem, który Jan im zakazał w w. 9. Pytanie dotyczy kompetencji obrzędu sprawowanego poza Jerozolimą i jest konsekwencją ruchu z w. 5: wychodzono z miasta do rzeki."
+    ],
+    [
+     [
+      "section",
+      "Autor Boży: co Duch Święty chce przekazać"
+     ],
+     "Rz",
+     4,
+     11,
+     4,
+     17,
+     "Rz 4,11–17",
+     "rozwiniecie",
+     "Paweł wywodzi z Pisma to, co Chrzciciel stwierdza jednym zdaniem: dziedzictwo Abrahamowe idzie przez wiarę, a nie przez pochodzenie, i Abraham jest ojcem wielu narodów. Mateusz nie argumentuje, lecz stawia tezę i zostawia dowód tam, gdzie go już umieścił."
+    ]
+   ],
+   "patristic": [
+    [
+     "w. 1–2",
+     "św. Jan Chryzostom",
+     "Homiliae in Matthaeum",
+     "Hom. in Mt. 10",
+     "Chryzostom pyta, po co w ogóle potrzebny był poprzednik, i odpowiada: żeby Pan nie był sądzony na podstawie własnego świadectwa. Gdzie roszczenie przekracza wiarę słuchacza, potrzebny jest świadek, który sam nie jest przedmiotem świadectwa — a pustynia, odzienie i pokarm należą do tego świadectwa, bo czynią świadka nieprzekupnym: człowieka, który nic nie posiada i je szarańczę, nie można podejrzewać o pochlebstwo. Zauważa też kolejność: Jan wzywa do odmiany myślenia, a dopiero potem ogłasza królestwo, i porządek jest lekarski — najpierw pokazuje się ranę, potem podaje lek. Myśl o tym, że cała funkcja Jana jest służebna, przechodzi przez te homilie jak nitka i wraca przy każdym szczególe."
+    ],
+    [
+     "w. 4–6",
+     "św. Hieronim",
+     "Commentariorum in Matthaeum libri IV",
+     "In Mt. I (ad 3,4)",
+     "Hieronim zajmuje się danymi. Sierść i pas skórzany odsyła wprost do Eliasza z 2 Krl 1,8 i zaznacza, że odzienie jest wypowiedzią o głoszonym orędziu — kto wzywa do pokuty, nosi strój pokutującego. O pokarmie pisze oszczędniej niż późniejsza tradycja: szarańcza i miód dziki są tym, co pustynia wydaje, więc dieta świadczy o miejscu, a nie o programie wyrzeczeń. Sposób pracy jest dla niego charakterystyczny — pytanie o fakt, odpowiedź w jednym zdaniu, przejście do następnego lematu — i właśnie ta część jego komentarza jest najpewniejsza, bo stoi na porównaniu tekstów, nie na alegorii."
+    ],
+    [
+     "w. 7–8",
+     "św. Chromacjusz z Akwilei",
+     "Tractatus in Matthaeum",
+     "Tract. in Mt. (do Mt 3,7–12)",
+     "Chromacjusz bierze obelgę i pyta, dlaczego jest dziedziczna. Odpowiada, że synem żmii jest ten, kto nosi jej jad, a nie ten, kto się z niej urodził: naśladowanie, nie pochodzenie, rozstrzyga o przynależności — i dlatego urodzenie nie przesądza w żadną stronę, ani ojcostwo Abrahama nie zbawia, ani jad przodków nie skazuje. Nakaz z w. 8 odnosi do woli, a w kamieniach widzi narody, twarde i bez życia, z których Bóg uczyni sobie synów. To odczytanie stało się na Zachodzie standardowe i ma zaletę, której sam tekst nie daje: odpowiada na pytanie, kim są kamienie."
+    ],
+    [
+     "w. 9–10",
+     "św. Hilary z Poitiers",
+     "Commentarius in Matthaeum",
+     "In Mt. 2",
+     "Hilary zatrzymuje się nad tym, że siekiera leży przy korzeniu, a nie przy gałęziach, i wyciąga z tego szczegółu wniosek: grozi się nie poprawą postępowania, lecz usunięciem pnia. Drzewem jest dla niego lud jako zasadzenie, a korzeniem roszczenie pochodzenia, które właśnie w wierszu poprzednim zostało odrzucone — ostrze leży więc dokładnie tam, gdzie postawiono obronę. Zauważa również, że zdanie o bezowocnym drzewie sformułowane jest jako reguła w czasie teraźniejszym, nie jako wyrok na przyszłość, i stąd wnosi, że sąd jest stanem, pod którym słuchacze już żyją. Alegoria Hilarego bywa gęsta i naciągana, tutaj trzyma się gramatyki."
+    ],
+    [
+     "w. 11–12",
+     "Orygenes",
+     "Commentarii in Ioannem",
+     "Comm. in Io. VI",
+     "Orygenes zestawia ewangelistów i odmawia ich uzgadniania. U Mateusza Chrzciciel mówi, że nie wystarcza do niesienia sandałów; u Marka, Łukasza i Jana — że nie jest godny rozwiązać rzemienia. Rozbieżność bierze za treść, nie za pomyłkę: dwie posługi są różne, więc cztery relacje zachowują dwa aspekty jednego wyznania, a zadaniem egzegety jest powiedzieć, co wnosi każdy z nich, nie zaś wyprodukować zdanie, którego nie napisał żaden. Przy samych sandałach podaje odczytanie, które utrwaliło się na Wschodzie — dwa przyjścia Słowa albo dwa Testamenty jako dwa sandały Tego, kto idzie — i oznacza je jako własny domysł. Jest przy tym najstarszym świadkiem, jakiego mamy dla tekstu tej perykopy w kilku miejscach, w których aparat go cytuje."
+    ]
+   ],
+   "textual": [
+    [
+     1,
+     "Ἐν δὲ ταῖς ἡμέραις ἐκείναις",
+     "pominięcie spójnika",
+     "Tekst krytyczny ma δέ: ℵ, B, C, W, 0233, f¹ i f¹³, 33, 892, 1241, 1424, tradycja łacińska oraz syryjska peszitta i harkleńska, koptyjskie sa i mae, część bohairska. Spójnika nie mają D, K, L, N, Γ, Δ, 565, 700, lekcjonarze 844 i 2211, tradycja italska, syryjski sinajski i część bohairska.",
+     "Rozkład jest nietypowo równy — aparat obu lekcjom przypisuje pm (permulti, bardzo wielu) — więc rozstrzyga argument wewnętrzny. Bez δέ zdanie otwiera nową jednostkę narracyjną, z δέ wiąże ją z rozdziałem drugim. Mateusz używa tej formuły jako szwu, nie jako nagłówka, i lekcja tekstu krytycznego jest zgodna z jego zwyczajem; kopista, który przechodził do opowiadania o Chrzcicielu jako do nowego początku, spójnik naturalnie usuwał."
+    ],
+    [
+     2,
+     "[καὶ] λέγων",
+     "lekcja niepewna — nawias wydawniczy",
+     "Wydanie krytyczne stawia καί w nawiasie kwadratowym, czyli uznaje jego pierwotność za nierozstrzygniętą. Spójnika nie mają ℵ i B wraz z italskim q i całą tradycją koptyjską; mają go C, D, L, W, 0233, f¹ i f¹³, tekst większościowy, przekłady łacińskie i syryjskie.",
+     "Nawias jest tutaj uczciwszy niż rozstrzygnięcie: za pominięciem stoją dwaj najstarsi świadkowie majuskułowi, za dodaniem przewaga liczebna i obie wczesne wersje. Różnica sensu jest mała, lecz nie żadna. Z καί imiesłowy κηρύσσων i λέγων są dwiema równoważnymi czynnościami — głosi i mówi; bez καί drugi uściśla pierwszy — głosi, mówiąc. Mateuszowe λέγων dołączane bez spójnika do czasownika mówienia jest częste (1,20; 2,13), co raczej wspiera pominięcie."
+    ],
+    [
+     3,
+     "φωνὴ βοῶντος ἐν τῇ ἐρήμῳ",
+     "pominięcia w cytacie",
+     "Syryjski sinajski nie ma pierwszego członu cytatu, φωνὴ βοῶντος ἐν τῇ ἐρήμῳ; drugiego członu, εὐθείας ποιεῖτε τὰς τρίβους αὐτοῦ, nie mają syryjski sinajski i italski k.",
+     "Oba pominięcia są wtórne i oba jednego rodzaju: skracają przytoczenie do jednego zdania. Pierwszego nie da się przy tym utrzymać, bo usuwa dokładnie te słowa, na których stoi identyfikacja Jana — bez „głosu wołającego na pustyni\" zdanie οὗτος γάρ ἐστιν traci odniesienie. Wariant pokazuje jednak, że tłumacz syryjski czytał cytat jako jedno wezwanie, nie jako dwa paralelne wersy."
+    ],
+    [
+     6,
+     "ἐν τῷ Ἰορδάνῃ ποταμῷ",
+     "pominięcie określenia",
+     "Rzeczownika ποταμῷ nie mają C³, D, L, f¹³, tekst większościowy, przekłady łacińskie i mae. Tekst krytyczny go ma: ℵ, B, C*, W, Δ, 0233, f¹, 33, 579, 1424, lekcjonarz 2211, część minuskułów, italski q, tradycja syryjska i koptyjska; cytuje go także Orygenes.",
+     "Pominięcie jest wygładzeniem: „w Jordanie rzece\" brzmi po grecku nadmiarowo, a paralele synoptyczne mają samo „w Jordanie\". Właśnie dlatego lekcja dłuższa jest pierwotna — jest Mateuszowa i jednostkowa, a kopiści zrównywali ją z Markiem. Dla treści nie jest obojętna: ποταμός oznacza wodę płynącą, a halacha o zanurzeniu dawała pierwszeństwo wodzie żywej."
+    ],
+    [
+     7,
+     "ἐπὶ τὸ βάπτισμα αὐτοῦ",
+     "pominięcie zaimka",
+     "Zaimka αὐτοῦ nie mają ℵ w pierwszej ręce, B, koptyjskie sa i mae oraz Orygenes. Mają go ℵ po korekcie, C, D, L, W, 0233, f¹ i f¹³, 33, tekst większościowy, cała tradycja łacińska, syryjska sinajska, kuretońska i harkleńska oraz bohairska.",
+     "Lekcja krótsza ma za sobą kodeks Watykański i pierwszą rękę Sinaiticusa, dłuższa resztę tradycji; sam korektor Sinaiticusa zaimek dopisał, co pokazuje, jak wcześnie uznano go za potrzebny. Bez zaimka βάπτισμα jest obrzędem jako takim, z zaimkiem obrzędem tego człowieka — a to drugie przygotowuje pytanie z 21,25: „chrzest Jana skąd był?\". Rozstrzygnięcia nie ma; ciężar wewnętrzny lekko sprzyja zaimkowi."
+    ],
+    [
+     9,
+     "ἐν ἑαυτοῖς",
+     "pominięcie wyrażenia",
+     "Wyrażenia ἐν ἑαυτοῖς nie mają italskie b, c, f i g¹, syryjski sinajski oraz Chryzostom.",
+     "Pominięcie jest wtórne i zrozumiałe: wyrażenie wygląda na zbędne przy czasowniku δοκέω, który sam odnosi się do wnętrza. Lekcja dłuższa jest jednak Mateuszowa — ten sam zwrot stoi w 21,25 przy arcykapłanach rozważających „w sobie\" — i właśnie jej semicka nadmiarowość świadczy o pierwotności. Świadectwo Chryzostoma jest przy tym pouczające: Ojcowie cytowali z pamięci i ich tekst bywa krótszy od rękopisów, które mieli pod ręką."
+    ],
+    [
+     10,
+     "καρπὸν καλόν",
+     "pominięcie przymiotnika",
+     "Przymiotnika καλόν nie mają minuskuł 1506 i syryjski sinajski.",
+     "Dwóch świadków przeciw całej tradycji — wariant jest dla tekstu bez znaczenia i wart noty tylko dlatego, że pokazuje kierunek uproszczeń. Bez καλόν wyrok dotyczy drzewa bezowocnego; z καλόν także drzewa rodzącego owoc lichy, a to jest różnica, którą Mateusz rozwinie w 7,16–20: rzecz nie w tym, czy owoc jest, lecz jaki."
+    ],
+    [
+     10,
+     "ἤδη δὲ ἡ ἀξίνη",
+     "dodatek harmonizujący",
+     "Po δέ dopisują καί kodeks L, f¹³, 33, tekst większościowy i syryjski harkleński; aparat oznacza ten dodatek jako zgodność z miejscem paralelnym. Tekst krytyczny bez καί mają ℵ, B, C, D w części uzupełnionej, W, Δ, 0233, f¹, 700, nieliczne minuskuły, syryjska peszitta i tradycja koptyjska, a także Orygenes.",
+     "Dodatek jest wyrównaniem do Łk 3,9, gdzie stoi ἤδη δὲ καὶ ἡ ἀξίνη. Kierunek zapożyczenia jest pewny, bo harmonizacje idą w tradycji rękopiśmiennej ku tekstowi lepiej znanemu z liturgii i katechezy, nie przeciw niemu. Wariant jest zarazem dobrym przykładem na to, że zgodność synoptyków bywa produktem kopistów, a nie źródeł — i że notując ją, trzeba za każdym razem sprawdzić, w którą stronę szła."
+    ],
+    [
+     11,
+     "ὀπίσω μου",
+     "pominięcie określenia",
+     "Wyrażenia ὀπίσω μου nie mają papirus 101, italskie a i d, część rękopisów saidzkich oraz Cyprian.",
+     "Papirus 101 jest tu najstarszym świadkiem i jego lekcja zasługuje na uwagę, lecz zbieżność z dwoma rękopisami italskimi i z Cyprianem wskazuje raczej na starą lekcję zachodnią niż na archetyp. Bez ὀπίσω μου zdanie mówi po prostu o Przychodzącym, a ὁ ἐρχόμενος jest u Mateusza tytułem (11,3; 21,9), więc pominięcie mogło być ulepszeniem teologicznym: usuwa myśl, że Mesjasz idzie za Janem. Lekcja dłuższa jest trudniejsza i dlatego pierwotna."
+    ],
+    [
+     12,
+     "αὐτοῦ εἰς τὴν ἀποθήκην",
+     "szyk wyrazów i zaimek",
+     "Tekst krytyczny: τὸν σῖτον αὐτοῦ εἰς τὴν ἀποθήκην (ℵ, C, D w części uzupełnionej, 0233, f¹, 33, tekst większościowy, przekłady łacińskie, sa i bo). Kodeks Watykański i W powtarzają zaimek na końcu: „zboże swoje do spichlerza swojego\". Kodeks L, 892, 1424 oraz lekcjonarze 844 i 2211 przesuwają zaimek za ἀποθήκην: „zboże do spichlerza swojego\". f¹³ i nieliczne minuskuły wraz z italskimi a i q oraz, z zastrzeżeniem, Dydym nie mają zaimka wcale.",
+     "Cztery lekcje w jednym miejscu są śladem niepokoju, nie pomyłki. Przyczyną jest trzykrotne αὐτοῦ w dwóch wierszach — wiejadło jego, klepisko jego, zboże jego — i kopiści albo dokładali czwarty zaimek dla symetrii, albo przesuwali trzeci tam, gdzie wyglądał naturalniej. Lekcja tekstu krytycznego jest najmniej regularna i najlepiej poświadczona. Dla sensu zaimki nie są ozdobą: są jedynym wskazaniem w całej mowie, że sędzia rozporządza tym, co sądzi."
+    ]
+   ],
+   "theme_links": [
+    [
+     "słowo Chrzciciela i słowo Jezusa",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "słowo Chrzciciela i słowo Jezusa",
+     [
+      "block",
+      "w. 1–2"
+     ]
+    ],
+    [
+     "słowo Chrzciciela i słowo Jezusa",
+     [
+      "unit",
+      "w. 1–2",
+      6
+     ]
+    ],
+    [
+     "słowo Chrzciciela i słowo Jezusa",
+     [
+      "unit",
+      "w. 9–10",
+      4
+     ]
+    ],
+    [
+     "słowo Chrzciciela i słowo Jezusa",
+     [
+      "section",
+      "Autor ludzki: kim jest i co chce przekazać"
+     ]
+    ],
+    [
+     "słowo Chrzciciela i słowo Jezusa",
+     [
+      "section",
+      "Zakończenie: intencja całości"
+     ]
+    ],
+    [
+     "królestwo niebios jako omowa",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "królestwo niebios jako omowa",
+     [
+      "unit",
+      "w. 1–2",
+      6
+     ]
+    ],
+    [
+     "królestwo niebios jako omowa",
+     [
+      "section",
+      "Zapowiedź przed wyjaśnieniem"
+     ]
+    ],
+    [
+     "pustynia jako miejsce początku",
+     [
+      "block",
+      "w. 3"
+     ]
+    ],
+    [
+     "pustynia jako miejsce początku",
+     [
+      "unit",
+      "w. 1–2",
+      3
+     ]
+    ],
+    [
+     "pustynia jako miejsce początku",
+     [
+      "unit",
+      "w. 3",
+      2
+     ]
+    ],
+    [
+     "pustynia jako miejsce początku",
+     [
+      "section",
+      "Qumran: ta sama pustynia, ten sam werset"
+     ]
+    ],
+    [
+     "owoc i drzewo: sprawdzalność nawrócenia",
+     [
+      "block",
+      "w. 9–10"
+     ]
+    ],
+    [
+     "owoc i drzewo: sprawdzalność nawrócenia",
+     [
+      "unit",
+      "w. 7–8",
+      5
+     ]
+    ],
+    [
+     "owoc i drzewo: sprawdzalność nawrócenia",
+     [
+      "unit",
+      "w. 9–10",
+      4
+     ]
+    ],
+    [
+     "owoc i drzewo: sprawdzalność nawrócenia",
+     [
+      "section",
+      "Usposobienie do łaski i owoc, który jest nakazany"
+     ]
+    ],
+    [
+     "chrzest wodą, Duchem i ogniem",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "chrzest wodą, Duchem i ogniem",
+     [
+      "block",
+      "w. 11–12"
+     ]
+    ],
+    [
+     "chrzest wodą, Duchem i ogniem",
+     [
+      "unit",
+      "w. 11–12",
+      1
+     ]
+    ],
+    [
+     "chrzest wodą, Duchem i ogniem",
+     [
+      "unit",
+      "w. 11–12",
+      5
+     ]
+    ],
+    [
+     "chrzest wodą, Duchem i ogniem",
+     [
+      "section",
+      "Chrzest Jana: znak bez skutku"
+     ]
+    ],
+    [
+     "chrzest wodą, Duchem i ogniem",
+     [
+      "section",
+      "Jeden ogień, dwa skutki"
+     ]
+    ],
+    [
+     "chrzest wodą, Duchem i ogniem",
+     [
+      "section",
+      "Czy chrzest Jana zbawiał"
+     ]
+    ],
+    [
+     "Jan Chrzciciel jako Eliasz",
+     [
+      "block",
+      "w. 4–6"
+     ]
+    ],
+    [
+     "Jan Chrzciciel jako Eliasz",
+     [
+      "unit",
+      "w. 4–6",
+      1
+     ]
+    ],
+    [
+     "Jan Chrzciciel jako Eliasz",
+     [
+      "section",
+      "Poprzednik w ikonie, w regule i w kazaniu"
+     ]
+    ],
+    [
+     "formuły wypełnienia",
+     [
+      "unit",
+      "w. 3",
+      0
+     ]
+    ],
+    [
+     "formuły wypełnienia",
+     [
+      "unit",
+      "w. 3",
+      4
+     ]
+    ],
+    [
+     "obietnica Abrahamowa i narody",
+     [
+      "unit",
+      "w. 9–10",
+      1
+     ]
+    ],
+    [
+     "obietnica Abrahamowa i narody",
+     [
+      "unit",
+      "w. 9–10",
+      2
+     ]
+    ],
+    [
+     "obietnica Abrahamowa i narody",
+     [
+      "section",
+      "Pochodzenie, które nie wystarcza"
+     ]
+    ],
+    [
+     "rodowód, liczba i rachunek epok",
+     [
+      "unit",
+      "w. 7–8",
+      2
+     ]
+    ],
+    [
+     "sprawiedliwość wedle Mateusza",
+     [
+      "section",
+      "Jan u Flawiusza"
+     ]
+    ],
+    [
+     "dziewicze poczęcie i działanie Ducha",
+     [
+      "unit",
+      "w. 11–12",
+      5
+     ]
+    ]
+   ],
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     "ST III, q. 38, a. 1–6",
+     [
+      "section",
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Kwestia De baptismo Ioannis w całości: chrzest Jana pochodził od Boga, lecz nie dawał łaski ani nie odpuszczał grzechów, był przygotowaniem do chrztu Chrystusa, ustał wraz z jego ustanowieniem, a ochrzczonych przez Jana trzeba było ochrzcić ponownie. Loci wymagają sprawdzenia.",
+     "Summa Theologiae"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "ST I–II, q. 109, a. 6; q. 112, a. 2–3",
+     [
+      "section",
+      "Usposobienie do łaski i owoc, który jest nakazany"
+     ],
+     "Człowiek nie przygotowuje się do łaski bez łaski, która go poruszy: samo usposobienie jest skutkiem łaski działającej. Zastosowanie do nakazu „uczyńcie owoc godny odmiany myślenia\" z w. 8.",
+     "Summa Theologiae"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "Super Mt., cap. III, lect. 1–2",
+     [
+      "section",
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Wykład Mt 3,1–12: po co poprzednik, czym jest chrzest wodą wobec chrztu Duchem, jak rozumieć siekierę przy korzeniu i czym jest ogień z w. 11. Loci wymagają sprawdzenia.",
+     "Super Evangelium S. Matthaei lectura"
+    ],
+    [
+     "Józef Flawiusz",
+     "Ant. XVIII,116–119",
+     [
+      "section",
+      "Jan u Flawiusza"
+     ],
+     "Śmierć Jana z rozkazu Heroda Antypasa, obawa przed wpływem na tłumy, opis orędzia jako wezwania do cnoty, sprawiedliwości i pobożności oraz obmycia ciała dla tych, których dusza została już oczyszczona sprawiedliwością. Brzmienie i locus wymagają sprawdzenia.",
+     "Antiquitates Iudaicae"
+    ],
+    [
+     "Józef Flawiusz",
+     "Ant. XVIII,11–17",
+     [
+      "section",
+      "Faryzeusze i saduceusze jako jedna grupa"
+     ],
+     "Trzy stronnictwa żydowskie i różnice między faryzeuszami a saduceuszami co do tradycji ojców, zmartwychwstania i przeznaczenia. Locus wymaga sprawdzenia.",
+     "Antiquitates Iudaicae"
+    ],
+    [
+     "Józef Flawiusz",
+     "Bell. II,119–166",
+     [
+      "section",
+      "Faryzeusze i saduceusze jako jedna grupa"
+     ],
+     "Obszerniejszy opis stronnictw, z zapleczem społecznym faryzeuszów i kapłańskim pochodzeniem saduceuszów. Locus wymaga sprawdzenia.",
+     "Bellum Iudaicum"
+    ],
+    [
+     "Qumran",
+     "1QS VIII,12–16; III,4–9",
+     [
+      "section",
+      "Qumran: ta sama pustynia, ten sam werset"
+     ],
+     "Nakaz odłączenia się i wyjścia na pustynię z przytoczeniem Iz 40,3 jako uzasadnieniem; powiązanie obmycia z duchem prawdy i zastrzeżenie, że obmycie bez odwrócenia od zła nie oczyszcza. Sigla wymagają sprawdzenia.",
+     "Serek ha-jachad (1QS)"
+    ],
+    [
+     "Didache",
+     "Did. 7,1–3",
+     [
+      "unit",
+      "w. 4–6",
+      4
+     ],
+     "Nakaz chrztu w wodzie żywej z dopuszczeniem innych rozwiązań tylko z konieczności, wraz z formułą trynitarną. Świadectwo na trwałość wymogu wody płynącej, który Mateusz podkreśla, dopisując w w. 6 „rzece\".",
+     "Didache"
+    ],
+    [
+     "Tertulian",
+     "De bapt. 10",
+     [
+      "section",
+      "Czy chrzest Jana zbawiał"
+     ],
+     "Chrzest Jana jako chrzest samej pokuty, nieudzielający Ducha, odróżniony od chrztu Chrystusa na podstawie zapowiedzi z Mt 3,11. Locus wymaga sprawdzenia.",
+     "De baptismo"
+    ],
+    [
+     "Sobór Trydencki",
+     "sesja VII, kanony o chrzcie, kan. 1",
+     [
+      "section",
+      "Czy chrzest Jana zbawiał"
+     ],
+     "Anatema na twierdzenie, że chrzest Jana miał tę samą moc co chrzest Chrystusa. Numeracja sesji i kanonu wymaga sprawdzenia.",
+     "Canones de baptismo (sesja VII)"
+    ],
+    [
+     "św. Justyn Męczennik",
+     "Dial. 140",
+     [
+      "unit",
+      "w. 9–10",
+      1
+     ],
+     "Tryfon powołuje się na pochodzenie od Abrahama jako na zabezpieczenie; odpowiedź Justyna należy do najstarszych świadectw na to, że zdanie z Mt 3,9 było w tym sporze przywoływane. Locus wymaga sprawdzenia.",
+     "Dialogus cum Tryphone"
+    ]
+   ],
+   "revision_note": "2026-11-27: perykopa piąta bazy Mateusza (Mt 3,1–12). Sekcja I w sześciu blokach i trzydziestu siedmiu jednostkach analizy; oś na tym, że Mateusz oddaje Chrzcicielowi słownik Jezusa — 3,2 jest 4,17 bez zmiany litery, 3,10b jest 7,19 z pominięciem οὖν, 3,7 wraca w 12,34 i 23,33, 3,12 w 13,30 — i zostawia mu własnym jedynie w. 11, którego treścią jest, czego mówiący nie potrafi. Osobno wykazane: Mateuszowe odejście od Septuaginty w cytacie z Iz 40,3 (τὰς τρίβους αὐτοῦ zamiast τοῦ θεοῦ ἡμῶν), usunięcie Markowego „na odpuszczenie grzechów\" i przesunięcie tego zwrotu do 26,28, zamiana Łukaszowych tłumów na faryzeuszów i saduceuszów pod jednym rodzajnikiem, odłożenie cytatu z Ml 3,1 do 11,10, Mateuszowy dopisek ποταμῷ w w. 6 oraz fakt, że ὀργή stoi w całej Ewangelii raz. Sekcje II–VII z podsekcjami, katena pięciogłosowa (Chryzostom, Hieronim, Chromacjusz, Hilary, Orygenes) z notą o tym, że komentarz Orygenesa do Mt 3 nie istnieje i jego głos trzeba brać z Commentarii in Ioannem. Dziesięć not tekstualnych wedle dziesięciu wpisów aparatu, w tym nawias wydawniczy przy καί w w. 2, harmonizacja do Łk 3,9 w w. 10 i cztery lekcje szyku w w. 12. Trzydzieści sześć nowych leksemów, dziewięć terminów semickich, sześć nowych motywów, trzydzieści siedem odniesień biblijnych, sześć nowych ksiąg (Kpł, Ez, Jl, So, Za, Ml), pięć nowych dzieł. Status w_opracowaniu; loci patrystyczne, loci Tomasza, dane Flawiusza, sigla qumrańskie i rabiniczne, numeracja kanonu trydenckiego oraz sigla i rubryki liturgiczne obu tradycji wymagają weryfikacji przy źródłach."
+  }
+ ]
+}
