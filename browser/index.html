@@ -861,12 +861,7 @@ function leksykonBloku(d, b) {
     </div>`;
 }
 
-// ---------- morfologia: dwa zapisy kodu, oba po polsku ----------
-// Mateusz ma w db.sqlite kody Robinsona (`V-PAI-3S`) — taki zapis niosą
-// moduły, z których powstaje tekst. Baza Jana ma kody dziesięcioznakowe
-// MorphGNT (`v-3pai-s--`) z innego źródła. Jednego na drugi nie przeliczamy:
-// Robinson nie odróżnia medium od strony biernej w imiesłowach perfecti, więc
-// konwersja dopisywałaby rozróżnienia, których w źródle nie ma. Czytamy oba.
+// ---------- morfologia: kod dziesięcioznakowy (MorphGNT) po polsku ----------
 const MORF = {
   czesc:  {n:'rzeczownik', v:'czasownik', a:'przymiotnik', d:'przysłówek',
            c:'spójnik', p:'przyimek', x:'partykuła', i:'wykrzyknik', m:'liczebnik'},
@@ -884,92 +879,8 @@ const MORF = {
   stopien:{c:'stopień wyższy', s:'stopień najwyższy'},
 };
 
-const ROB = {
-  czesc:  {N:'rzeczownik', V:'czasownik', A:'przymiotnik', T:'rodzajnik',
-           RA:'rodzajnik', P:'zaimek osobowy', R:'zaimek względny',
-           D:'zaimek wskazujący', I:'zaimek pytajny', X:'zaimek nieokreślony',
-           Q:'zaimek pytajno-korelatywny', K:'zaimek korelatywny',
-           S:'zaimek dzierżawczy', F:'zaimek zwrotny', C:'zaimek wzajemny',
-           CONJ:'spójnik', PREP:'przyimek', ADV:'przysłówek', PRT:'partykuła',
-           COND:'partykuła warunkowa', INJ:'wykrzyknik',
-           HEB:'wyraz hebrajski', ARAM:'wyraz aramejski'},
-  czas:   {P:'praesens', I:'imperfectum', F:'futurum', A:'aoryst',
-           R:'perfectum', L:'plusquamperfectum', X:'czas nieokreślony'},
-  strona: {A:'strona czynna', M:'medium', P:'strona bierna',
-           D:'medium deponens', N:'medium lub bierna deponens',
-           O:'bierna deponens', E:'medium lub bierna',
-           X:'strona nieokreślona'},
-  tryb:   {I:'tryb oznajmujący', M:'tryb rozkazujący', S:'coniunctivus',
-           O:'optativus', N:'bezokolicznik', P:'imiesłów'},
-  przyp:  {N:'mianownik', G:'dopełniacz', D:'celownik', A:'biernik', V:'wołacz'},
-  liczba: {S:'liczba pojedyncza', P:'liczba mnoga'},
-  rodzaj: {M:'rodzaj męski', F:'rodzaj żeński', N:'rodzaj nijaki'},
-  osoba:  {1:'1. osoba', 2:'2. osoba', 3:'3. osoba'},
-  dodatek:{C:'stopień wyższy', S:'stopień najwyższy', N:'przeczenie',
-           I:'pytajny', K:'korelatywny', ATT:'forma attycka', ABB:'skrót',
-           PRI:'nazwa własna (nieodmienna)', LI:'litera (nieodmienna)',
-           OI:'wyraz nieodmienny', NUI:'liczebnik (nieodmienny)'},
-};
-
-// przypadek + liczba + rodzaj; rodzaj bywa alternatywą: 'DPM/N'
-const robPrzypLiczbaRodzaj = s => {
-  const m = /^([NGDAV])([SP])((?:[MFN])(?:\/[MFN])*)?$/.exec(s);
-  if (!m) return null;
-  const rodzaje = (m[3] || '').split('/').filter(Boolean).map(z => ROB.rodzaj[z]);
-  return [ROB.przyp[m[1]], ROB.liczba[m[2]],
-          rodzaje.length ? rodzaje.join(' lub ') : null];
-};
-
-const robOsobaLiczba = s => {
-  const m = /^([123])([SP])$/.exec(s);
-  return m ? [ROB.osoba[m[1]], ROB.liczba[m[2]]] : null;
-};
-
-// czas + strona + tryb, z „2" dla form drugich (aoryst II, perfectum II…)
-const robCzasStronaTryb = s => {
-  const m = /^(2)?([PIFARLX])([AMPDNOEX])([IMSONP])$/.exec(s);
-  if (!m) return null;
-  return [ROB.czas[m[2]] + (m[1] ? ' (forma druga)' : ''),
-          ROB.strona[m[3]], ROB.tryb[m[4]]];
-};
-
-// zaimki z osobą: P-1NS, F-3ASM oraz dzierżawcze S-1SASN (osoba + liczba
-// właściciela, potem fleksja samego zaimka)
-const robZaimekOsobowy = (pos, s) => {
-  let m;
-  if (pos === 'S' && (m = /^([123])([SP])([NGDAV])([SP])([MFN])$/.exec(s)))
-    return [ROB.osoba[m[1]], `właściciel: ${ROB.liczba[m[2]]}`,
-            ROB.przyp[m[3]], ROB.liczba[m[4]], ROB.rodzaj[m[5]]];
-  if ((m = /^([123])([NGDAV])([SP])([MFN])?$/.exec(s)))
-    return [ROB.osoba[m[1]], ROB.przyp[m[2]], ROB.liczba[m[3]],
-            m[4] ? ROB.rodzaj[m[4]] : null];
-  return null;
-};
-
-function opiszRobinsonaJeden(kod) {
-  const seg = kod.split('-');
-  const pos = seg.shift();
-  const cz = [ROB.czesc[pos] || pos];
-  for (const s of seg) {
-    if (ROB.dodatek[s]) { cz.push(ROB.dodatek[s]); continue; }
-    const t = pos === 'V' ? robCzasStronaTryb(s) : null;
-    if (t) { cz.push(...t); continue; }
-    const c = robPrzypLiczbaRodzaj(s);
-    if (c) { cz.push(...c); continue; }
-    const ol = robOsobaLiczba(s);
-    if (ol) { cz.push(...ol); continue; }
-    const z = robZaimekOsobowy(pos, s);
-    if (z) { cz.push(...z); continue; }
-    cz.push(s);                      // nieznany segment — pokazujemy surowo
-  }
-  return cz.filter(Boolean).join(' · ');
-}
-
-// '~' oddziela równoprawne rozbiory tej samej formy (A-DSN~A-DSM)
-const opiszRobinsona = kod =>
-  kod.split('~').map(opiszRobinsonaJeden).filter(Boolean).join(' albo ');
-
-function opiszMorfGNT(kod) {
+function opiszMorfologie(kod) {
+  if (!kod) return '';
   const z = i => { const c = kod[i]; return c && c !== '-' ? c : null; };
   const cz = [];
   if (z(0) === 'r') cz.push(MORF.zaimek[z(1)] || 'zaimek');
@@ -977,13 +888,6 @@ function opiszMorfGNT(kod) {
   cz.push(MORF.osoba[z(2)], MORF.czas[z(3)], MORF.strona[z(4)], MORF.tryb[z(5)],
           MORF.przyp[z(6)], MORF.liczba[z(7)], MORF.rodzaj[z(8)], MORF.stopien[z(9)]);
   return cz.filter(Boolean).join(' · ');
-}
-
-// Zapis rozpoznajemy po wielkich literach: Robinson pisze kod wersalikami,
-// MorphGNT małymi literami w stałych dziesięciu pozycjach.
-function opiszMorfologie(kod) {
-  if (!kod) return '';
-  return /[A-ZĄ-Ż]/.test(kod) ? opiszRobinsona(kod) : opiszMorfGNT(kod);
 }
 
 // znaki aparatu NA28 wplecione w tekst grecki (°, ⸀, ⸂, ⸆ …)

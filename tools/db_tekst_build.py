@@ -11,10 +11,12 @@ proweniencję sprawdzono wiersz po wierszu wobec `../john/db.sqlite`.
 
     words         ← ../na/mt.sqlite (Mateusz, księga 470)
                     gotowy produkt pipeline'u z ../na/db/: tekst grecki wraz ze
-                    znakami aparatu z 02.sqlite (NA27ca), numery Stronga i kody
-                    gramatyczne z 01.sqlite (Reader's GNT), polski przekład
-                    międzywierszowy z 03.sqlite (Popowski-Wojciechowski) oraz
-                    `red` — znacznik słów Jezusa (verba Christi)
+                    znakami aparatu z 02.sqlite (NA27ca), numery Stronga
+                    z 01.sqlite (Reader's GNT), polski przekład międzywierszowy
+                    z 03.sqlite (Popowski-Wojciechowski) oraz `red` — znacznik
+                    słów Jezusa (verba Christi)
+    morphology    ← MorphGNT, edycja SBLGNT (tools/morphgnt_import.py);
+                    kody z 01.sqlite są Robinsonowskie i zostają nadpisane
     latin_verses  ← CVUL.SQLite3 (Wulgata klementyńska), księga 470,
                     z normalizacją spacji i przedzieleniem Mt 17 na granice
                     wersetów greckich (patrz PODZIAL_17)
@@ -26,22 +28,26 @@ Wynik:         db.sqlite w korzeniu (budowany od zera)
 
 Ścieżki źródeł nadpisują zmienne środowiskowe NA_DIR i PH4_DIR.
 
-UWAGA o kodach gramatycznych. Mateusz dostaje kody Robinsona (`V-PAI-3S`),
-bo taki zapis niosą moduły w ../na/db/. Jan ma w `db.sqlite` kody
-dziesięcioznakowe MorphGNT (`v-3pai-s--`) z innego źródła. Nie przeliczamy
-jednego na drugi: Robinson nie odróżnia medium od strony biernej w imiesłowach
-perfecti (`V-RPP-NSM` odpowiada w Janie zarówno `v--xppnsm-`, jak i
-`v--xmpnsm-`), więc konwersja dopisywałaby rozróżnienia, których w źródle nie
-ma. Polski opis kodu w `browser/index.html` czyta oba zapisy.
+KODY GRAMATYCZNE. Moduły w ../na/db/ niosą kody Robinsona (`V-PAI-3S`), a oba
+repozytoria egzegezy używają zapisu dziesięcioznakowego MorphGNT
+(`v-3pai-s--`). Robinsona **nie przeliczamy** na MorphGNT — nie odróżnia medium
+od strony biernej w imiesłowach perfecti, więc konwersja dopisywałaby
+rozróżnienia, których w źródle nie ma. Zamiast tego kody bierzemy z samego
+MorphGNT: `tools/morphgnt_import.py` paruje tokeny po znormalizowanej grece
+i nadpisuje kolumnę `morphology`. Robinson zostaje w ../na/mt.sqlite i jest
+o jedno `make tekst` stąd, więc nic nie przepada.
 """
 import os
 import pathlib
 import re
 import sqlite3
+import sys
 import tempfile
 import zipfile
 
-ROOT = pathlib.Path(__file__).resolve().parent.parent
+HERE = pathlib.Path(__file__).resolve().parent
+ROOT = HERE.parent
+sys.path.insert(0, str(HERE))        # morphgnt_import leży obok
 DB = ROOT / "db.sqlite"
 KSIEGA_MATEUSZA = 470
 
@@ -52,6 +58,7 @@ ZRODLO_SLOWA = NA_DIR / "mt.sqlite"
 ZRODLO_WULGATA = "CVUL"                    # CVUL.zip -> CVUL.SQLite3
 ZRODLO_APARAT = "NA27ca"                   # NA27ca.zip -> NA27ca.commentaries.SQLite3
 ZRODLO_EUZEBIUSZ = "NA28"                  # NA28.zip  -> NA28.commentaries.SQLite3
+MORPHGNT_PLIK = "61-Mt-morphgnt.txt"       # Mateusz w repozytorium morphgnt/sblgnt
 
 SCHEMA = """
 CREATE TABLE words(
@@ -184,6 +191,22 @@ def wczytaj_aparat(cur):
     return len(wiersze)
 
 
+def nanies_morphgnt(con, cur):
+    """Nadpisuje `morphology` kodami MorphGNT. Tokeny bez pary zostają bez kodu
+    — to miejsca, w których tekst NA różni się od SBLGNT, więc kod MorphGNT
+    byłby tam wymysłem."""
+    import morphgnt_import as mg
+    tokeny = mg.wczytaj_morphgnt(MORPHGNT_PLIK, os.environ.get("MORPHGNT_DIR"))
+    slowa = mg.wczytaj_slowa(con, KSIEGA_MATEUSZA)
+    kody = mg.dopasuj(slowa, tokeny)
+    cur.executemany(
+        """UPDATE words SET morphology = ?
+            WHERE book = ? AND chapter = ? AND verse = ? AND position = ?""",
+        [(kod or "", KSIEGA_MATEUSZA, w["chapter"], w["verse"], w["position"])
+         for w, kod in zip(slowa, kody)])
+    return sum(1 for k in kody if k)
+
+
 EUZEBIUSZ = re.compile(r"Eusebian section/canon number:.*?<td>(\d+)</td>", re.S)
 
 
@@ -216,6 +239,7 @@ def build():
     cur = con.cursor()
 
     slowa = wczytaj_slowa(cur)
+    morfologia = nanies_morphgnt(con, cur)
     lacina = wczytaj_wulgate(cur)
     aparat = wczytaj_aparat(cur)
     euzebiusz = wczytaj_euzebiusza(cur)
@@ -230,6 +254,7 @@ def build():
 
     print(f"words            {slowa:6d}  ({wersety} wersetów, {rozdzialy} rozdziałów, "
           f"{czerwone} słów Jezusa)")
+    print(f"morphology       {morfologia:6d}  (MorphGNT; bez kodu {slowa - morfologia})")
     print(f"latin_verses     {lacina:6d}  (numeracja Euzebiusza w {euzebiusz})")
     print(f"commentaries     {aparat:6d}")
     print(f"\nOK -> {DB}")

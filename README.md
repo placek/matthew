@@ -62,6 +62,7 @@ z modułów projektu `../na`:
 | `words` | `../na/mt.sqlite` — produkt pipeline'u z `../na/db/`: tekst grecki wraz ze znakami aparatu z `02.sqlite` (Nestle-Aland z aparatem), numery Stronga i kody gramatyczne z `01.sqlite` (*A Reader's Greek New Testament*), przekład międzywierszowy z `03.sqlite` (Popowski-Wojciechowski), `red` naniesiony osobno |
 | `latin_verses` | moduł `CVUL` (Wulgata klementyńska) z normalizacją spacji i przedzieleniem Mt 17 na granice wersetów greckich |
 | `commentaries` | moduł `NA27ca.commentaries` — ten sam aparat, który stoi w bazie Jana (tam 1528 wierszy dla księgi 500) |
+| `morphology` | MorphGNT, edycja SBLGNT — `tools/morphgnt_import.py` nadpisuje kody Robinsona z `01.sqlite` (patrz niżej) |
 | `eusebeios` | nagłówki modułu `NA28.commentaries` |
 
 **Mt 17 wymaga uwagi.** Wulgata klementyńska dzieli ten rozdział inaczej niż
@@ -71,14 +72,40 @@ tekst krytyczny: łaciński w. 14 obejmuje grecki 14 i 15 (grecki 15 otwiera
 przed *dicens:* i przesuwa resztę rozdziału; poza Mt 17 numeracje się
 pokrywają. Po przebudowie każdy werset grecki ma swój wiersz łaciński.
 
-**Kody gramatyczne są Robinsonowskie** (`V-PAI-3S`), bo taki zapis niosą
-moduły źródłowe. Baza Jana ma kody dziesięcioznakowe MorphGNT (`v-3pai-s--`)
-z innego źródła. Jednego na drugie **nie przeliczamy**: Robinson nie odróżnia
-medium od strony biernej w imiesłowach perfecti (`V-RPP-NSM` odpowiada w Janie
-zarówno `v--xppnsm-`, jak i `v--xmpnsm-`), więc konwersja dopisywałaby
-rozróżnienia, których w źródle nie ma. `opiszMorfologie()`
-w `browser/index.html` czyta oba zapisy i rozwija oba po polsku; wszystkie 578
-kodów obecnych w Mateuszu rozkłada bez reszty.
+### Kody gramatyczne: MorphGNT w obu księgach
+
+Morfologia stoi w zapisie **dziesięcioznakowym MorphGNT** — część mowy (2 znaki)
+plus kod fleksyjny (8 znaków), małymi literami: `v-3pai-s--`, `n-----dsf-`,
+`ra----nsm-`. Ten sam zapis ma baza Jana, więc `browser/index.html` i
+`export_typst.py` są w obu repozytoriach identyczne.
+
+Moduły w `../na/db/` niosą kody **Robinsona** (`V-PAI-3S`), więc nie są
+źródłem morfologii: przeliczenie Robinsona na MorphGNT jest niemożliwe bez
+zmyślania, bo Robinson nie odróżnia medium od strony biernej w imiesłowach
+perfecti (`V-RPP-NSM` odpowiada w Janie zarówno `v--xppnsm-`, jak i
+`v--xmpnsm-`). Zamiast przeliczać, kody bierzemy z samego MorphGNT:
+`tools/morphgnt_import.py` paruje tokeny po znormalizowanej grece (bez
+akcentów, znaków aparatu, nawiasów i wielkości liter) w dwóch przebiegach
+`difflib` — najpierw w obrębie rozdziału, potem wersetu.
+
+MorphGNT idzie za tekstem SBLGNT, a `db.sqlite` za tekstem krytycznym NA, więc
+pokrycie nie jest pełne: **18 288 z 18 346 słów (99,68%)** dostaje kod,
+a 58 tokenów zostaje bez niego. To dokładnie te miejsca, gdzie wydania czytają
+inaczej — NA bierze słowo w nawias edytorski, a SBLGNT je pomija (Mt 3,16
+`[αὐτῷ]`, Mt 6,25 `ἢ τί πίητε`), albo różni się lekcja czy kolejność
+(Mt 2,14 `παρέλαβεν`, Mt 5,4-5). Tokenów bez pary **nie zgadujemy**: kod
+MorphGNT byłby tam wymysłem, a `opiszMorfologie()` po prostu nic nie pokaże.
+Robinson zostaje w `../na/mt.sqlite` i jest o jedno `make tekst` stąd, więc nic
+nie przepada.
+
+`make tekst` pobiera plik MorphGNT z GitHuba; `MORPHGNT_DIR` wskazuje lokalną
+kopię, a `MORPHGNT_WERSJA` wybiera wydanie (domyślnie 6.12). Tekst SBLGNT
+**nie wchodzi** do repozytorium — bierzemy wyłącznie kody.
+
+**Atrybucja.** MorphGNT: SBLGNT Edition, red. James K. Tauber, wersja 6.12,
+<https://github.com/morphgnt/sblgnt>, DOI 10.5281/zenodo.376200. Analiza
+morfologiczna i lematyzacja na licencji CC-BY-SA 3.0; sam tekst SBLGNT podlega
+odrębnej licencji SBLGNT i w tej bazie nie występuje.
 
 Baza egzegetyczna (`data/egzegeza_mateusza.sqlite`) pozostaje magazynem
 **komentarza** — analiz, kateny, aparatu autorskiego i odniesień; tekst do
@@ -88,9 +115,9 @@ przeglądarka wykorzystuje warstwy `words` oraz `commentaries`:
 - **interlinia** — greka nad polskim odpowiednikiem, słowa Jezusa czerwienią;
 - **Strong i morfologia** — kliknięcie (lub Enter na zaznaczonym) słowa otwiera
   okienko z formą grecką, znaczeniem, numerem Stronga (odsyłacz do konkordancji)
-  i **rozwiniętym po polsku** kodem morfologicznym: `V-2AAP-NSM` czyta się jako
-  „czasownik · aoryst (forma druga) · strona czynna · imiesłów · mianownik ·
-  liczba pojedyncza · rodzaj męski";
+  i **rozwiniętym po polsku** kodem morfologicznym: `v--papnsm-` czyta się jako
+  „czasownik · praesens · strona czynna · imiesłów · mianownik · liczba
+  pojedyncza · rodzaj męski";
 - **aparat** — wpisy z `commentaries` przypięte do wersetów bloku; znaki
   aparatu (`°`, `⸀`, `⸂`…) są podświetlone również wewnątrz greki interlinii, więc
   widać, do którego słowa odnosi się dana nota.

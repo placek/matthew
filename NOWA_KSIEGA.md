@@ -53,7 +53,20 @@ księgi podstaw jej numer i **zmień nazwę stałej** — inaczej zostanie kłam
 Jeśli nie masz interlinii dla swojej księgi, masz dwa wyjścia: zdobyć ją
 z zewnątrz (morfologia i numery Stronga są publicznie dostępne dla całego
 kanonu) albo zrezygnować z sekcji interlinearnej i oprzeć sekcję I wyłącznie
-na własnym rozbiorze. Drugie wyjście jest uczciwe, ale traci warstwę, która
+na własnym rozbiorze.
+
+Na morfologię jest konkretne źródło i warto po nie sięgnąć, zamiast przeliczać
+cokolwiek: **MorphGNT, edycja SBLGNT** (CC-BY-SA 3.0,
+<https://github.com/morphgnt/sblgnt>) obejmuje cały Nowy Testament w tym samym
+zapisie dziesięcioznakowym, w którym stoją obie istniejące bazy, a
+`tools/morphgnt_import.py` nanosi go na `words.morphology`, parując tokeny po
+znormalizowanej grece. Uwaga: moduły z interlinią (ph4, Reader's GNT,
+Tischendorf) niosą zwykle kody **Robinsona** (`V-PAI-3S`), a te na MorphGNT
+przeliczyć się nie dają — Robinson nie odróżnia medium od strony biernej
+w imiesłowach perfecti, więc konwersja dopisywałaby rozróżnienia, których
+w źródle nie ma. Bierz kody z MorphGNT, a Robinsona zostaw w module.
+Tam, gdzie tekst krytyczny różni się od SBLGNT, token zostaje bez kodu —
+i tak ma zostać. Drugie wyjście jest uczciwe, ale traci warstwę, która
 w przeglądarce jest najmocniejsza. Nie udawaj, że masz dane, których nie masz,
 i nie generuj morfologii „z głowy" — kod `n-----dsf-` zmyślony to błąd
 faktograficzny podany z pozorem precyzji.

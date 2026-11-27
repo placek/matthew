@@ -168,11 +168,14 @@ połknęła `CLAUDE.md` i `SKILL.md`, a `humanizer.md` przetrwał tam tylko
 dlatego, że był śledzony, zanim regułę wprowadzono — tutaj trzeba go było
 dopisać do białej listy wprost.
 
-**Kody gramatyczne są Robinsonowskie.** `db.sqlite` Mateusza niesie
-`V-PAI-3S`, baza Jana — `v-3pai-s--` (MorphGNT). Nie przeliczaj jednego na
-drugi: Robinson nie odróżnia medium od strony biernej w imiesłowach perfecti,
-więc konwersja dopisywałaby rozróżnienia, których w źródle nie ma.
-`opiszMorfologie()` w `browser/index.html` czyta oba zapisy.
+**Morfologia to MorphGNT, w obu księgach ten sam zapis.** `db.sqlite` niesie
+kody dziesięcioznakowe (`v-3pai-s--`), nanoszone przez
+`tools/morphgnt_import.py` z edycji SBLGNT MorphGNT. Moduły w `../na/db/` mają
+kody Robinsona (`V-PAI-3S`) i build je nadpisuje — **nie przeliczaj** jednego
+zapisu na drugi, bo Robinson nie odróżnia medium od strony biernej
+w imiesłowach perfecti i konwersja dopisywałaby rozróżnienia, których w źródle
+nie ma. 58 słów (0,32%) zostaje bez kodu: to miejsca, w których tekst NA różni
+się od SBLGNT, więc kod byłby wymysłem. Nie uzupełniaj ich ręcznie.
 
 **Mt 17 i Wulgata.** Wulgata klementyńska dzieli ten rozdział inaczej niż
 tekst krytyczny; `tools/db_tekst_build.py` przecina łaciński w. 14 przed

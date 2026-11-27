@@ -352,7 +352,8 @@ oraz sigla i liczby. Tekst po redakcji ma być **krótszy**, nie dłuższy.
 - Nie edytuj `data/egzegeza_mateusza.sqlite` ani `db.sqlite` — pierwsza
   powstaje z `data/*.json` przez `make build`, druga z modułów `../na` przez
   `make tekst`.
-- Nie przeliczaj kodów gramatycznych Robinsona na MorphGNT.
+- Nie przeliczaj kodów Robinsona z `../na/db/` na MorphGNT i nie uzupełniaj
+  ręcznie 58 słów, które zostają bez kodu — tam tekst NA różni się od SBLGNT.
 - Nie przywracaj tabeli `liturgical_use` ani klucza `liturgy` w bundle'u.
 - Nie dubluj leksemów ani motywów, które już są w bazie — sprawdź
   `SELECT lemma FROM lexeme` i `SELECT name FROM theme` przed dopisaniem.
