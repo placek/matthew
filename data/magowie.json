@@ -1,0 +1,1557 @@
+{
+ "books": [
+  [
+   "Wj",
+   "Księga Wyjścia",
+   "ST",
+   2
+  ],
+  [
+   "1 Sm",
+   "Pierwsza Księga Samuela",
+   "ST",
+   9
+  ],
+  [
+   "1 Krl",
+   "Pierwsza Księga Królewska",
+   "ST",
+   11
+  ],
+  [
+   "Mi",
+   "Księga Micheasza",
+   "ST",
+   39
+  ],
+  [
+   "Dz",
+   "Dzieje Apostolskie",
+   "NT",
+   51
+  ]
+ ],
+ "verses": {
+  "chapter": 2,
+  "items": [
+   [
+    1,
+    "Τοῦ δὲ Ἰησοῦ γεννηθέντος ἐν Βηθλέεμ τῆς Ἰουδαίας ἐν ἡμέραις Ἡρῴδου τοῦ βασιλέως, ἰδοὺ μάγοι ἀπὸ ἀνατολῶν παρεγένοντο εἰς Ἱεροσόλυμα",
+    "Gdy zaś Jezus został zrodzony w Betlejem Judzkim, w dniach Heroda króla, oto magowie ze wschodu stanęli w Jerozolimie,"
+   ],
+   [
+    2,
+    "λέγοντες· ποῦ ἐστιν ὁ τεχθεὶς βασιλεὺς τῶν Ἰουδαίων; εἴδομεν γὰρ αὐτοῦ τὸν ἀστέρα ἐν τῇ ἀνατολῇ καὶ ἤλθομεν προσκυνῆσαι αὐτῷ.",
+    "mówiąc: Gdzie jest ten, który się narodził, król Judejczyków? Ujrzeliśmy bowiem jego gwiazdę przy jej wschodzie i przyszliśmy pokłonić się mu."
+   ],
+   [
+    3,
+    "ἀκούσας δὲ ὁ βασιλεὺς Ἡρῴδης ἐταράχθη καὶ πᾶσα Ἱεροσόλυμα μετʼ αὐτοῦ,",
+    "Usłyszawszy to zaś, król Herod zatrwożył się, a z nim cała Jerozolima,"
+   ],
+   [
+    4,
+    "καὶ συναγαγὼν πάντας τοὺς ἀρχιερεῖς καὶ γραμματεῖς τοῦ λαοῦ ἐπυνθάνετο παρʼ αὐτῶν ποῦ ὁ χριστὸς γεννᾶται.",
+    "i zebrawszy wszystkich arcykapłanów i uczonych w Piśmie ludu, wypytywał ich, gdzie Mesjasz się rodzi."
+   ],
+   [
+    5,
+    "οἱ δὲ εἶπαν αὐτῷ· ἐν Βηθλέεμ τῆς Ἰουδαίας· οὕτως γὰρ γέγραπται διὰ τοῦ προφήτου·",
+    "Oni zaś powiedzieli mu: W Betlejem Judzkim; tak bowiem napisane jest przez proroka:"
+   ],
+   [
+    6,
+    "καὶ σὺ Βηθλέεμ, γῆ Ἰούδα, οὐδαμῶς ἐλαχίστη εἶ ἐν τοῖς ἡγεμόσιν Ἰούδα· ἐκ σοῦ γὰρ ἐξελεύσεται ἡγούμενος, ὅστις ποιμανεῖ τὸν λαόν μου τὸν Ἰσραήλ.",
+    "A ty, Betlejem, ziemio Judy, w żaden sposób nie jesteś najmniejsze wśród wodzów Judy; z ciebie bowiem wyjdzie przewodzący, który będzie pasł lud mój, Izraela."
+   ],
+   [
+    7,
+    "Τότε Ἡρῴδης λάθρᾳ καλέσας τοὺς μάγους ἠκρίβωσεν παρʼ αὐτῶν τὸν χρόνον τοῦ φαινομένου ἀστέρος,",
+    "Wtedy Herod, potajemnie wezwawszy magów, wybadał u nich dokładnie czas ukazującej się gwiazdy"
+   ],
+   [
+    8,
+    "καὶ πέμψας αὐτοὺς εἰς Βηθλέεμ εἶπεν· πορευθέντες ἐξετάσατε ἀκριβῶς περὶ τοῦ παιδίου· ἐπὰν δὲ εὕρητε, ἀπαγγείλατέ μοι, ὅπως κἀγὼ ἐλθὼν προσκυνήσω αὐτῷ.",
+    "i posławszy ich do Betlejem, powiedział: Wyruszywszy, wywiedzcie się dokładnie o dziecku; a gdy znajdziecie, oznajmijcie mi, żebym i ja, przyszedłszy, pokłonił się mu."
+   ],
+   [
+    9,
+    "οἱ δὲ ἀκούσαντες τοῦ βασιλέως ἐπορεύθησαν καὶ ἰδοὺ ὁ ἀστήρ, ὃν εἶδον ἐν τῇ ἀνατολῇ, προῆγεν αὐτούς, ἕως ἐλθὼν ἐστάθη ἐπάνω οὗ ἦν τὸ παιδίον.",
+    "Oni zaś, wysłuchawszy króla, wyruszyli; i oto gwiazda, którą ujrzeli przy jej wschodzie, szła przed nimi, aż przyszedłszy, stanęła ponad tym, gdzie było dziecko."
+   ],
+   [
+    10,
+    "ἰδόντες δὲ τὸν ἀστέρα ἐχάρησαν χαρὰν μεγάλην σφόδρα.",
+    "Ujrzawszy zaś gwiazdę, uradowali się radością wielką bardzo."
+   ],
+   [
+    11,
+    "καὶ ἐλθόντες εἰς τὴν οἰκίαν εἶδον τὸ παιδίον μετὰ Μαρίας τῆς μητρὸς αὐτοῦ, καὶ πεσόντες προσεκύνησαν αὐτῷ καὶ ἀνοίξαντες τοὺς θησαυροὺς αὐτῶν προσήνεγκαν αὐτῷ δῶρα, χρυσὸν καὶ λίβανον καὶ σμύρναν.",
+    "I przyszedłszy do domu, ujrzeli dziecko z Marią, matką jego, i upadłszy, pokłonili się mu, i otworzywszy skarby swoje, przynieśli mu dary: złoto i kadzidło, i mirrę."
+   ],
+   [
+    12,
+    "καὶ χρηματισθέντες κατʼ ὄναρ μὴ ἀνακάμψαι πρὸς Ἡρῴδην, διʼ ἄλλης ὁδοῦ ἀνεχώρησαν εἰς τὴν χώραν αὐτῶν.",
+    "I otrzymawszy we śnie wyrocznię, by nie zawracali do Heroda, inną drogą oddalili się do swojej krainy."
+   ]
+  ]
+ },
+ "lexemes": [
+  [
+   "μάγος",
+   "magos",
+   "rzeczownik",
+   "mag — u Mateusza cztery razy i tylko w rozdziale drugim (2,1.7.16); termin perski na kapłana medyjskiego, w LXX wśród specjalistów babilońskich (Dn 2,2.10.27), w Dziejach już z odcieniem czarownika (Dz 8,9; 13,6.8)"
+  ],
+  [
+   "ἀστήρ",
+   "aster",
+   "rzeczownik",
+   "gwiazda — pięć razy, cztery w tej perykopie (2,2.7.9.10) i raz w mowie o końcu, gdy gwiazdy spadają z nieba (24,29)"
+  ],
+  [
+   "ἀνατολή",
+   "anatole",
+   "rzeczownik",
+   "wschód, wschodzenie — pięć razy; w liczbie mnogiej strona świata (2,1; 8,11; 24,27), w liczbie pojedynczej wschód gwiazdy jako zjawisko (2,2.9)"
+  ],
+  [
+   "προσκυνέω",
+   "proskyneo",
+   "czasownik",
+   "padać na twarz, oddawać pokłon — trzynaście razy, pierwszy o magach (2,2), raz w kłamstwie Heroda (2,8), raz w żądaniu szatana (4,9) i ostatni na górze galilejskiej (28,17)"
+  ],
+  [
+   "ποιμαίνω",
+   "poimaino",
+   "czasownik",
+   "paść, pasterzować — u Mateusza raz jedyny, w cytacie z 2,6 wziętym z 2 Sm 5,2; cały słownik pasterski przechodzi u niego potem na rzeczownik i przymiotnik"
+  ],
+  [
+   "ἡγέομαι",
+   "hegeomai",
+   "czasownik",
+   "prowadzić, przewodzić — u Mateusza raz, jako imiesłów ἡγούμενος (przewodzący) w cytacie z 2,6; odpowiada hebrajskiemu מוֹשֵׁל (moszel) z Mi 5,1"
+  ],
+  [
+   "ἡγεμών",
+   "hegemon",
+   "rzeczownik",
+   "wódz, zwierzchnik, rzymski zarządca prowincji — dziesięć razy; raz o wodzach Judy w cytacie (2,6), raz w zapowiedzi prześladowań (10,18), osiem razy o Piłacie"
+  ],
+  [
+   "ἀναχωρέω",
+   "anachoreo",
+   "czasownik",
+   "oddalić się, usunąć się — dziesięć razy i zawsze jako ruch odejścia przed zagrożeniem albo rozgłosem; pierwszy w 2,12, cztery razy w rozdziale drugim, potem przy uwięzieniu Chrzciciela (4,12) i w publicznej działalności (12,15; 14,13; 15,21)"
+  ],
+  [
+   "χρηματίζω",
+   "chrematizo",
+   "czasownik",
+   "otrzymać wyrocznię, zostać powiadomionym przez Boga — dwa razy, w 2,12 i 2,22, oba w stronie biernej i oba o śnie bez wymienionego posłańca"
+  ],
+  [
+   "παιδίον",
+   "paidion",
+   "rzeczownik",
+   "dziecko, małe dziecko — osiemnaście razy; dziewięć pierwszych w rozdziale drugim o Jezusie (2,8.9.11.13.14.20.21), potem w mowie o najmniejszych w królestwie (18,2–5) i przy błogosławieniu dzieci (19,13–14)"
+  ],
+  [
+   "θησαυρός",
+   "thesauros",
+   "rzeczownik",
+   "skarb, skarbiec, szkatuła — dziewięć razy; pierwszy raz o szkatułach magów (2,11), potem o skarbie w niebie (6,19–21), o skarbcu serca (12,35) i o skarbie w roli (13,44)"
+  ],
+  [
+   "δῶρον",
+   "doron",
+   "rzeczownik",
+   "dar, ofiara złożona — dziewięć razy; raz o darach magów (2,11), pozostałe osiem o darze przyniesionym na ołtarz (5,23–24; 8,4; 15,5; 23,18–19)"
+  ],
+  [
+   "προσφέρω",
+   "prosphero",
+   "czasownik",
+   "przynosić, przedkładać, składać w ofierze — piętnaście razy; w 2,11 o darach magów, dalej i o składaniu ofiary (5,23–24; 8,4), i o przyprowadzaniu chorych do Jezusa (4,24; 8,16; 9,2)"
+  ],
+  [
+   "ταράσσω",
+   "tarasso",
+   "czasownik",
+   "wzburzyć, zatrwożyć — dwa razy w stronie biernej: o Herodzie i Jerozolimie (2,3) oraz o uczniach widzących Jezusa na wodzie (14,26)"
+  ],
+  [
+   "τίκτω",
+   "tikto",
+   "czasownik",
+   "rodzić, wydawać na świat — cztery razy, trzy o Marii w rozdziale pierwszym (1,21.23.25) i raz w pytaniu magów jako imiesłów ὁ τεχθείς (narodzony, 2,2)"
+  ],
+  [
+   "ἀκριβόω",
+   "akriboo",
+   "czasownik",
+   "wybadać dokładnie, ustalić ściśle — dwa razy i oba o Herodzie dopytującym magów o czas gwiazdy (2,7.16); z tego samego rdzenia przysłówek ἀκριβῶς (dokładnie) w jego polecenia (2,8)"
+  ],
+  [
+   "προάγω",
+   "proago",
+   "czasownik",
+   "iść przed kimś, poprzedzać — sześć razy; o gwiazdzie (2,9), o uczniach wysłanych przodem (14,22), o tłumie przed osiołkiem (21,9) i dwa razy o Jezusie poprzedzającym uczniów do Galilei (26,32; 28,7)"
+  ],
+  [
+   "λαός",
+   "laos",
+   "rzeczownik",
+   "lud — czternaście razy; w 1,21 lud, który Jezus zbawi od grzechów, w 2,6 lud, który będzie pasł, w 2,4 lud, którego uczonymi są pytani przez Heroda, a w 27,25 lud odpowiadający Piłatowi"
+  ]
+ ],
+ "semitic": [
+  [
+   "בֵּית לֶחֶם",
+   "Bet Lechem",
+   "hbr",
+   "dom chleba — hebrajska nazwa Betlejem; w Mi 5,1 z dopełnieniem אֶפְרָתָה (Efrata), odróżniającym je od Betlejem w Zabulonie (Joz 19,15)"
+  ],
+  [
+   "אֶפְרָתָה",
+   "Efrata",
+   "hbr",
+   "Efrata — dawna nazwa okolicy Betlejem i określenie rodu Dawida (1 Sm 17,12); Mateusz zastępuje ją w cytacie przez γῆ Ἰούδα (ziemia Judy)"
+  ],
+  [
+   "אַלְפֵי יְהוּדָה",
+   "alfe Jehuda",
+   "hbr",
+   "tysiące Judy — spisowe jednostki plemienne w Mi 5,1; LXX tłumaczy χιλιάσιν (tysiącom)"
+  ],
+  [
+   "אַלּוּפֵי",
+   "allufe",
+   "hbr",
+   "naczelnicy, wodzowie tysiąca — wokalizacja tych samych spółgłosek co אַלְפֵי (alfe, tysiące); Mateuszowe ἡγεμόσιν (wodzom) idzie za tym odczytaniem"
+  ],
+  [
+   "מוֹשֵׁל",
+   "moszel",
+   "hbr",
+   "ten, który włada — imiesłów z Mi 5,1, oddany przez Mateusza jako ἡγούμενος (przewodzący), a przez LXX jako ἄρχων (władca)"
+  ],
+  [
+   "כּוֹכָב",
+   "kochaw",
+   "hbr",
+   "gwiazda — słowo z wyroczni Balaama o gwieździe wschodzącej z Jakuba (Lb 24,17); w Qumran i u Bar Kochby czytane mesjańsko"
+  ],
+  [
+   "לְבוֹנָה",
+   "lewona",
+   "hbr",
+   "kadzidło, żywica Boswellia — składnik kadzidła świątynnego (Wj 30,34) i dodatek do chlebów pokładnych (Kpł 24,7)"
+  ],
+  [
+   "מֹר",
+   "mor",
+   "hbr",
+   "mirra, żywica Commiphora — składnik świętego oleju namaszczenia (Wj 30,23), wonność weselna i korzenna przyprawa pogrzebowa"
+  ]
+ ],
+ "lexeme_semitic": [
+  [
+   "ἡγέομαι",
+   "moszel",
+   "ἡγούμενος (przewodzący) odpowiada hebrajskiemu מוֹשֵׁל (moszel, ten, który włada) z Mi 5,1; LXX oddała to samo słowo przez ἄρχων (władca), więc Mateuszowy wybór nie idzie ani za hebrajskim dosłownie, ani za greckim przekładem."
+  ],
+  [
+   "ἡγεμών",
+   "allufe",
+   "ἐν τοῖς ἡγεμόσιν (wśród wodzów) zakłada odczytanie spółgłosek אלפי jako אַלּוּפֵי (allufe, naczelnicy), a nie jako אַלְפֵי (alfe, tysiące); LXX wybrała drugą możliwość i ma χιλιάσιν (tysiącom)."
+  ],
+  [
+   "ἀστήρ",
+   "kochaw",
+   "Wyrocznia Balaama mówi o כּוֹכָב (kochaw, gwiazda) wschodzącej z Jakuba; LXX ma tam ἄστρον, nie ἀστήρ, ale czasownik ἀνατελεῖ (wzejdzie) dzieli rdzeń z Mateuszowym ἀνατολή (wschód)."
+  ],
+  [
+   "θησαυρός",
+   "lewona",
+   "W szkatułach magów stoi לְבוֹנָה (lewona, kadzidło) — towar handlowy południowej Arabii i zarazem składnik kadzidła zastrzeżonego dla świątyni (Wj 30,34–38)."
+  ]
+ ],
+ "occurrences": [
+  [
+   "γεννάω",
+   1,
+   "γεννηθέντος"
+  ],
+  [
+   "μάγος",
+   1,
+   "μάγοι"
+  ],
+  [
+   "ἀνατολή",
+   1,
+   "ἀνατολῶν"
+  ],
+  [
+   "βασιλεύς",
+   1,
+   "βασιλέως"
+  ],
+  [
+   "τίκτω",
+   2,
+   "τεχθείς"
+  ],
+  [
+   "ἀστήρ",
+   2,
+   "ἀστέρα"
+  ],
+  [
+   "ἀνατολή",
+   2,
+   "ἀνατολῇ"
+  ],
+  [
+   "προσκυνέω",
+   2,
+   "προσκυνῆσαι"
+  ],
+  [
+   "ταράσσω",
+   3,
+   "ἐταράχθη"
+  ],
+  [
+   "λαός",
+   4,
+   "λαοῦ"
+  ],
+  [
+   "Χριστός",
+   4,
+   "χριστός"
+  ],
+  [
+   "γεννάω",
+   4,
+   "γεννᾶται"
+  ],
+  [
+   "ἡγεμών",
+   6,
+   "ἡγεμόσιν"
+  ],
+  [
+   "ἡγέομαι",
+   6,
+   "ἡγούμενος"
+  ],
+  [
+   "ποιμαίνω",
+   6,
+   "ποιμανεῖ"
+  ],
+  [
+   "λαός",
+   6,
+   "λαόν"
+  ],
+  [
+   "καλέω",
+   7,
+   "καλέσας"
+  ],
+  [
+   "ἀκριβόω",
+   7,
+   "ἠκρίβωσεν"
+  ],
+  [
+   "ἀστήρ",
+   7,
+   "ἀστέρος"
+  ],
+  [
+   "παιδίον",
+   8,
+   "παιδίου"
+  ],
+  [
+   "προσκυνέω",
+   8,
+   "προσκυνήσω"
+  ],
+  [
+   "προάγω",
+   9,
+   "προῆγεν"
+  ],
+  [
+   "παιδίον",
+   9,
+   "παιδίον"
+  ],
+  [
+   "ἀστήρ",
+   9,
+   "ἀστήρ"
+  ],
+  [
+   "ἀστήρ",
+   10,
+   "ἀστέρα"
+  ],
+  [
+   "παιδίον",
+   11,
+   "παιδίον"
+  ],
+  [
+   "προσκυνέω",
+   11,
+   "προσεκύνησαν"
+  ],
+  [
+   "θησαυρός",
+   11,
+   "θησαυρούς"
+  ],
+  [
+   "προσφέρω",
+   11,
+   "προσήνεγκαν"
+  ],
+  [
+   "δῶρον",
+   11,
+   "δῶρα"
+  ],
+  [
+   "χρηματίζω",
+   12,
+   "χρηματισθέντες"
+  ],
+  [
+   "ὄναρ",
+   12,
+   "ὄναρ"
+  ],
+  [
+   "ἀναχωρέω",
+   12,
+   "ἀνεχώρησαν"
+  ]
+ ],
+ "works": [
+  [
+   "Józef Flawiusz",
+   "Antiquitates Iudaicae",
+   "Dawne dzieje Izraela",
+   "I",
+   "inna"
+  ],
+  [
+   "Józef Flawiusz",
+   "Bellum Iudaicum",
+   "Wojna żydowska",
+   "I",
+   "inna"
+  ],
+  [
+   "Herodot",
+   "Historiae",
+   "Dzieje",
+   "V przed Chr.",
+   "filozofia_antyczna"
+  ],
+  [
+   "Makrobiusz",
+   "Saturnalia",
+   "Saturnalia",
+   "V",
+   "inna"
+  ],
+  [
+   "św. Leon Wielki",
+   "Sermones",
+   "Mowy",
+   "V",
+   "patrystyka"
+  ],
+  [
+   "K. Stendahl",
+   "Quis et Unde? An Analysis of Mt 1–2",
+   null,
+   "XX",
+   "wspolczesna"
+  ]
+ ],
+ "themes": [
+  [
+   "pokłon i jego adresat",
+   "Czasownik προσκυνέω (padać na twarz, oddawać pokłon) pada u Mateusza trzynaście razy i rozkłada się na trzy grupy. Pierwsi padają na twarz magowie (2,11) — poganie, przed dzieckiem, bez żadnego znaku bóstwa poza gwiazdą. Fałszywy pokłon obiecuje Herod (2,8) i żąda szatan, podając w zapłacie królestwa świata (4,9); Jezus odrzuca żądanie słowem Prawa, że pokłon należy się samemu Panu (4,10). Trzecia grupa to pokłony oddawane Jezusowi w toku Ewangelii — przez prośbę o uzdrowienie (8,2; 9,18; 15,25), przez uczniów w łodzi po chodzeniu po wodzie (14,33) i na końcu na górze galilejskiej (28,9.17). Perykopa o magach otwiera ten szereg, a 28,17 go zamyka: to, co zrobili obcy przy kołysce, zrobią uczniowie przy nakazie misyjnym."
+  ],
+  [
+   "narody u kolebki i w nakazie misyjnym",
+   "Pierwsi czciciele Jezusa u Mateusza nie są z Izraela, a ostatnie zdanie księgi każe iść do wszystkich narodów (28,19). Między tymi punktami stoi szereg: wyrażenie ἀπὸ ἀνατολῶν (ze wschodu) wraca w zapowiedzi, że wielu przyjdzie ze wschodu i z zachodu zasiąść z Abrahamem (8,11), setnik ma wiarę, jakiej nie znalazł Jezus w Izraelu (8,10), Kananejka wyprasza uzdrowienie (15,21–28), a królowa z południa zostanie świadkiem na sądzie (12,42). Mateusz, najbardziej żydowski z synoptyków, otwiera i zamyka księgę poganami — i to jest jego sposób pokazania, że obietnica Abrahamowa z 1,1 obejmuje narody."
+  ],
+  [
+   "król Judejczyków: magowie i titulus",
+   "Tytuł βασιλεὺς τῶν Ἰουδαίων (król Judejczyków) pada u Mateusza dwa razy i oba razy w ustach pogan: pytają o niego magowie (2,2), a potem Piłat (27,11), żołnierze w drwinie (27,29) i napis nad głową ukrzyżowanego (27,37). Żaden Żyd nie używa tej formy — po stronie Izraela stoi ὁ Χριστός (Mesjasz, 2,4; 26,63) albo βασιλεὺς Ἰσραήλ (król Izraela, 27,42). Mateusz rozdziela więc dwa słowniki i dwie publiczności: tytuł, którym poganie witają narodzonego, jest tym samym tytułem, który poganie przybiją nad konającym."
+  ],
+  [
+   "gwiazda, wiedza naturalna i objawienie",
+   "Magowie przychodzą z wiedzy, którą Prawo zakazywało uprawiać (Pwt 18,10–14; Iz 47,13), i ta wiedza doprowadza ich do niewłaściwego miasta. Do Betlejem kieruje ich nie gwiazda, lecz zdanie Pisma odczytane przez przeciwników dziecka, a do samego domu znów gwiazda. Trzy porządki poznania — znak w naturze, słowo prorockie i bezpośrednia wyrocznia we śnie (2,12) — zachodzą na siebie i żaden nie zostaje odrzucony ani uznany za wystarczający. Motyw wraca u Mateusza wszędzie, gdzie znaku żąda się zamiast go czytać (12,38–39; 16,1–4) i gdzie Jezus odmawia znaku z nieba tym, którzy umieją rozpoznać pogodę po wyglądzie nieba."
+  ],
+  [
+   "pasterz-wódz z Betlejem",
+   "Cytat z 2,6 zrasta dwa teksty: zapowiedź Micheasza o wodzu wychodzącym z Betlejem (Mi 5,1) i słowa starszyzny Izraela do Dawida w Hebronie, że on będzie pasł lud Pana (2 Sm 5,2). Powstaje z tego jedno zdanie o pasterzu, który jest wodzem, i o wodzu, który jest pasterzem. Mateusz rozwija to dalej: tłumy są jak owce bez pasterza (9,36), posłani idą do owiec zgubionych domu Izraela (10,6; 15,24), Syn Człowieczy rozdzieli owce od kozłów (25,31–33), a przy aresztowaniu padnie cytat o uderzonym pasterzu i rozproszonych owcach (26,31). Ἡγούμενος z 2,6 jest przy tym jedynym w Ewangelii słowem, które łączy władzę i pasienie w jednym imiesłowie."
+  ]
+ ],
+ "pericopes": [
+  {
+   "pericope": {
+    "cs": 2,
+    "vs": 1,
+    "ce": 2,
+    "ve": 12,
+    "title": "Magowie ze Wschodu",
+    "motto": "Vidimus stellam eius in oriente (ujrzeliśmy jego gwiazdę przy jej wschodzie)",
+    "status": "w_opracowaniu",
+    "position": 3
+   },
+   "intro": "Rozdział pierwszy odpowiadał na pytanie, z kogo Jezus pochodzi. Rozdział drugi pyta, skąd — i odpowiada czterema nazwami miejsc, z których każda ma własne zdanie Pisma. Pierwsza z nich to Betlejem, i jej zdanie wyróżnia się w całej księdze: ze wszystkich cytatów Starego Testamentu u Mateusza ten jeden nie jest opatrzony formułą wypełnienia i ten jeden zostaje wypowiedziany przez ludzi, którzy za dwadzieścia sześć rozdziałów zbiorą się ponownie, by wydać wyrok na dziecko, o które teraz pytają. Perykopa ma dwa ośrodki i rozgrywa się między nimi. W Jerozolimie zasiada król, którego Mateusz tak nazywa (w. 1.3.9), i tam o narodzonego króla się pyta; w Betlejem jest dziecko, którego nikt tu królem nie nazywa. Dwie drogi wychodzą z pałacu — jedna na południe, do domu, druga, po pokłonie, inna, obok Heroda. Słownictwo trzyma się jednego czasownika, tak jak poprzednia perykopa trzymała się καλέω (nazywać): προσκυνέω (padać na twarz) pada trzy razy, raz w zamiarze magów, raz w kłamstwie Heroda i raz w wykonaniu. Kto w tej Ewangelii pada na twarz pierwszy, nie jest z Izraela i uprawia sztukę, której Prawo zabraniało.",
+   "blocks": [
+    {
+     "cs": 2,
+     "vs": 1,
+     "ce": 2,
+     "ve": 2,
+     "label": "w. 1–2",
+     "greek": "Τοῦ δὲ Ἰησοῦ γεννηθέντος ἐν Βηθλέεμ τῆς Ἰουδαίας ἐν ἡμέραις Ἡρῴδου τοῦ βασιλέως, ἰδοὺ μάγοι ἀπὸ ἀνατολῶν παρεγένοντο εἰς Ἱεροσόλυμα λέγοντες· ποῦ ἐστιν ὁ τεχθεὶς βασιλεὺς τῶν Ἰουδαίων; εἴδομεν γὰρ αὐτοῦ τὸν ἀστέρα ἐν τῇ ἀνατολῇ καὶ ἤλθομεν προσκυνῆσαι αὐτῷ.",
+     "transl": "Gdy zaś Jezus został zrodzony w Betlejem Judzkim, w dniach Heroda króla, oto magowie ze wschodu stanęli w Jerozolimie, mówiąc: Gdzie jest ten, który się narodził, król Judejczyków? Ujrzeliśmy bowiem jego gwiazdę przy jej wschodzie i przyszliśmy pokłonić się mu.",
+     "units": [
+      [
+       "Τοῦ δὲ Ἰησοῦ γεννηθέντος",
+       "gdy zaś Jezus został zrodzony",
+       "Dopełniacz absolutny z imiesłowem aorystu strony biernej, i w tym jednym zwrocie mieści się całe Mateuszowe opowiadanie o Narodzeniu. Fakt, nad którym Łukasz buduje dwa rozdziały ze spisem, gospodą, żłobem, pasterzami i hymnem aniołów, Mateusz oddaje zdaniem podrzędnym czasu, po czym natychmiast przechodzi do przyjezdnych. Scena narodzin w tej Ewangelii nie istnieje; istnieje jej data i skutek prawny. Forma γεννηθέντος domyka przy tym rachunek czasownika γεννάω (rodzić), który w rodowodzie wystąpił trzydzieści dziewięć razy w stronie czynnej, raz w 1,16 w biernej, raz w 1,20 jako γεννηθέν (to, co zostało zrodzone) i tu, ostatni raz w opowiadaniu o dzieciństwie. Z czterdziestu pięciu wystąpień w całej księdze osiemnaście stoi w rozdziale pierwszym; po 2,4 słowo wraca jeszcze tylko dwa razy (19,12; 26,24)."
+      ],
+      [
+       "ἐν Βηθλέεμ τῆς Ἰουδαίας",
+       "w Betlejem Judzkim",
+       "Dopowiedzenie nie jest ozdobą. Betlejem w Judei trzeba było odróżnić od Betlejem w dziale Zabulona (Joz 19,15), leżącego w Galilei i o jakieś sto trzydzieści kilometrów dalej na północ — a Galilea jest w tej Ewangelii miejscem, z którego Jezus wyjdzie i do którego wróci. Hebrajska nazwa בֵּית לֶחֶם (Bet Lechem) znaczy „dom chleba\", a Micheasz dopowiada אֶפְרָתָה (Efrata); Mateusz w cytacie z w. 6 zamieni to na γῆ Ἰούδα (ziemia Judy), więc dopowiedzenie z w. 1 i dopowiedzenie w cytacie nie są tym samym słowem. Nazwa pada w tej perykopie cztery razy i raz jeszcze w następnej (2,16) — pięć razy w całej Ewangelii i ani razu później. Mateusz nie wraca do Betlejem, bo cała jego geografia idzie odwrotnie: od Judei na północ, do Galilei pogan (4,15)."
+      ],
+      [
+       "ἐν ἡμέραις Ἡρῴδου τοῦ βασιλέως",
+       "w dniach Heroda króla",
+       "Jedyna data w całej Ewangelii Mateusza. Nie ma u niego spisu Kwiryniusza, nie ma piętnastego roku Tyberiusza, nie ma imion tetrarchów — jest jedno panowanie i jedno imię. Semityzujący zwrot ἐν ἡμέραις (w dniach) odpowiada hebrajskiemu בִּימֵי (bime) z formuł datujących ksiąg prorockich, więc nawet chronologia mówi tu językiem Pisma. Rzeczownik βασιλεύς (król) z rodzajnikiem przy Herodzie jest przy tym pierwszym z trzech w tej perykopie (w. 1.3.9) i rozstrzyga o jej napięciu: urzędowo królem jest Herod, a magowie pytają o drugiego. Herod Wielki, Idumejczyk z pochodzenia, otrzymał tytuł od senatu rzymskiego w 40 r. przed Chr., opanował Jerozolimę w 37 i zmarł w Jerychu w 4 r. przed Chr.; narodzenie Jezusa musi więc wypaść przed tą datą, co znaczy, że rachuba Dionizego Mniejszego z szóstego wieku myli się o kilka lat w stronę późniejszą."
+      ],
+      [
+       "μάγοι ἀπὸ ἀνατολῶν",
+       "magowie ze wschodu",
+       "Słowo μάγος jest zapożyczeniem z perskiego maguš i u Herodota (I,101) oznacza jedno z plemion medyjskich, które objęło kapłaństwo. W greckiej Biblii stoi wśród nazw babilońskich specjalistów od pism i wróżb, przy których Daniel zostaje postawiony i których przewyższa (Dn 2,2.10.27). W grece hellenistycznej termin obsunął się w stronę czarownika, a Dzieje Apostolskie używają go już wyłącznie tak: Szymon z Samarii „czarował\" (Dz 8,9), a Bar-Jezus na Cyprze jest nazwany μάγος i fałszywym prorokiem (Dz 13,6.8). Mateusz nie wyjaśnia, które znaczenie bierze, i nie mówi o magach niczego, co utrwaliła późniejsza tradycja: nie podaje ich liczby, nie nazywa królami, nie wymienia imion ani kraju. Liczba mnoga ἀνατολῶν (wschodów) jest tu zwykłym określeniem strony świata i wróci w zdaniu o tych, którzy przyjdą ze wschodu i z zachodu, by zasiąść z Abrahamem (8,11). Czasownik παρεγένοντο (przybyli, stanęli) należy do słownika oficjalnego przyjazdu i stawienia się — nie opisuje wędrówki, lecz jej koniec."
+      ],
+      [
+       "ὁ τεχθεὶς βασιλεὺς τῶν Ἰουδαίων",
+       "ten, który się narodził, król Judejczyków",
+       "Imiesłów aorystu strony biernej od τίκτω (rodzić) z rodzajnikiem, użyty rzeczownikowo. Czasownik ten padł w Ewangelii dotąd trzy razy i wszystkie trzy w poprzedniej perykopie, o Marii: τέξεται (urodzi, 1,21), τέξεται w cytacie z Izajasza (1,23) i ἔτεκεν (urodziła, 1,25). Pytanie magów przytacza więc słowo, którym anioł zapowiedział narodzenie, i dodaje do niego tytuł, którego anioł nie dał. Tytuł βασιλεὺς τῶν Ἰουδαίων (król Judejczyków) jest u Mateusza formą pogańską i pada w jego księdze dokładnie dwa razy — tu i w pytaniu Piłata (27,11); w tej samej formie wraca w drwinie żołnierzy (27,29) i na tablicy nad krzyżem (27,37). Po stronie żydowskiej mówi się inaczej: ὁ χριστός (Mesjasz) u arcykapłanów w w. 4 i u arcykapłana w 26,63, βασιλεὺς Ἰσραήλ (król Izraela) w drwinie pod krzyżem (27,42). Rozdział słownictwa jest konsekwentny i Mateusz nigdzie go nie łamie: tytuł, którym poganie witają narodzonego, poganie wypiszą nad konającym."
+      ],
+      [
+       "τὸν ἀστέρα ἐν τῇ ἀνατολῇ",
+       "gwiazdę przy jej wschodzie",
+       "Liczba pojedyncza ἀνατολή po liczbie mnogiej z poprzedniego wiersza nie jest wahaniem stylu. W greckiej terminologii astronomicznej i astrologicznej ἀνατολή w liczbie pojedynczej z rodzajnikiem oznacza wschód gwiazdy jako zjawisko — pierwsze pojawienie się ciała nad horyzontem przed świtem — i tak samo stoi w w. 9. Mateusz rozdziela więc oba znaczenia konsekwentnie: mnoga dla geografii, pojedyncza dla zjawiska. Przekład „na wschodzie\" jest możliwy, ale zaciera tę różnicę i każe magom dwa razy mówić to samo. Zaimek αὐτοῦ (jego) wysunięty przed rzeczownik jest przy tym mocniejszy, niż wygląda: nie jakaś gwiazda, lecz jego własna — język, w którym starożytność mówiła o gwiazdach władców, a który u Mateusza nie zostaje ani potwierdzony, ani wyśmiany, tylko przytoczony jako słowa przybyszów."
+      ],
+      [
+       "ἤλθομεν προσκυνῆσαι αὐτῷ",
+       "przyszliśmy pokłonić się mu",
+       "Bezokolicznik celu po czasowniku ruchu i pierwsze z trzynastu wystąpień προσκυνέω (padać na twarz, oddawać pokłon) u Mateusza. Czasownik rządzi tu celownikiem αὐτῷ, co w grece biblijnej jest konstrukcją mocniejszą od dopełniacza i wiąże się z czcią należną Bogu; sam wyraz jednak znaczy dosłownie ruch ciała — przypadnięcie i pocałowanie ziemi — i w świecie perskim opisywał również hołd składany królowi. Co magowie zamierzali, z samego słowa nie wynika. Rozstrzygają dwa dalsze miejsca: Herod obieca ten sam czyn i skłamie (w. 8), a szatan zażąda go dla siebie, oferując królestwa świata, i usłyszy w odpowiedzi zdanie Prawa, że pokłon należy się samemu Panu (4,9–10). Szereg zamknie się na górze galilejskiej, gdzie pokłon oddadzą uczniowie (28,17). Pierwszymi w tej księdze, którzy padają na twarz przed Jezusem, są obcy — i to jest zdanie, które Mateusz stawia dziesięć wierszy po zakończeniu rodowodu Abrahama i Dawida."
+      ]
+     ]
+    },
+    {
+     "cs": 2,
+     "vs": 3,
+     "ce": 2,
+     "ve": 6,
+     "label": "w. 3–6",
+     "greek": "ἀκούσας δὲ ὁ βασιλεὺς Ἡρῴδης ἐταράχθη καὶ πᾶσα Ἱεροσόλυμα μετʼ αὐτοῦ, καὶ συναγαγὼν πάντας τοὺς ἀρχιερεῖς καὶ γραμματεῖς τοῦ λαοῦ ἐπυνθάνετο παρʼ αὐτῶν ποῦ ὁ χριστὸς γεννᾶται. οἱ δὲ εἶπαν αὐτῷ· ἐν Βηθλέεμ τῆς Ἰουδαίας· οὕτως γὰρ γέγραπται διὰ τοῦ προφήτου· καὶ σὺ Βηθλέεμ, γῆ Ἰούδα, οὐδαμῶς ἐλαχίστη εἶ ἐν τοῖς ἡγεμόσιν Ἰούδα· ἐκ σοῦ γὰρ ἐξελεύσεται ἡγούμενος, ὅστις ποιμανεῖ τὸν λαόν μου τὸν Ἰσραήλ.",
+     "transl": "Usłyszawszy to zaś, król Herod zatrwożył się, a z nim cała Jerozolima, i zebrawszy wszystkich arcykapłanów i uczonych w Piśmie ludu, wypytywał ich, gdzie Mesjasz się rodzi. Oni zaś powiedzieli mu: W Betlejem Judzkim; tak bowiem napisane jest przez proroka: A ty, Betlejem, ziemio Judy, w żaden sposób nie jesteś najmniejsze wśród wodzów Judy; z ciebie bowiem wyjdzie przewodzący, który będzie pasł lud mój, Izraela.",
+     "units": [
+      [
+       "ἐταράχθη καὶ πᾶσα Ἱεροσόλυμα",
+       "zatrwożył się, a z nim cała Jerozolima",
+       "Czasownik ταράσσω (wzburzyć) stoi u Mateusza dwa razy i oba w stronie biernej: tutaj o Herodzie i o mieście, a w 14,26 o uczniach, którzy widzą Jezusa idącego po wodzie i krzyczą ze strachu. Jedno i drugie wzburzenie jest reakcją na obecność, której się nie przewidziało. Ważniejsza jest jednak gramatyka nazwy miasta. Ἱεροσόλυμα występuje u Mateusza jedenaście razy i w dziesięciu miejscach jest rzeczownikiem nijakim w liczbie mnogiej — tak też w w. 1, gdzie magowie przybywają εἰς Ἱεροσόλυμα. Tu, i tylko tu, forma jest rodzaju żeńskiego w liczbie pojedynczej, co widać po przymiotniku πᾶσα (cała). Nazwa przechodzi więc z liczby mnogiej w pojedynczą dokładnie w tym zdaniu, w którym przestaje być miejscem i staje się zbiorowością, która coś odczuwa. Zdanie ma zresztą swój odpowiednik dziewiętnaście rozdziałów dalej: gdy Jezus wjedzie do tego miasta, ἐσείσθη πᾶσα ἡ πόλις (zadrżało całe miasto, 21,10) i zapyta: kto to jest. Za pierwszym razem miasto drży, słyszać pytanie magów, za drugim — widząc odpowiedź."
+      ],
+      [
+       "συναγαγὼν πάντας τοὺς ἀρχιερεῖς καὶ γραμματεῖς τοῦ λαοῦ",
+       "zebrawszy wszystkich arcykapłanów i uczonych w Piśmie ludu",
+       "Herod zwołuje nie Sanhedryn jako instytucję, lecz dwie grupy fachowców, i Mateusz nazywa je dokładnie tymi słowami, którymi będzie nazywał stronę procesu. Para ἀρχιερεῖς καὶ γραμματεῖς (arcykapłani i uczeni w Piśmie) wraca w trzech zapowiedziach męki (16,21; 20,18) i w opowiadaniu o niej (26,57; 27,41); imiesłów συναγαγών (zebrawszy) ma swój odpowiednik w συνήχθησαν (zebrali się) z 26,3 i 26,57, gdzie zbiera ich arcykapłan, i w 27,62, gdzie idą razem do Piłata. Dopełniacz τοῦ λαοῦ (ludu) jest przy tym pierwszym u Mateusza użyciem tego rzeczownika po 1,21 — po zdaniu, że Jezus zbawi lud swój od grzechów. W dwóch wierszach λαός pada więc trzy razy: jako lud, którego uczonych pyta Herod (w. 4), i jako lud, który ma być pasiony (w. 6). Ten sam rzeczownik odpowie Piłatowi w 27,25."
+      ],
+      [
+       "ποῦ ὁ χριστὸς γεννᾶται",
+       "gdzie Mesjasz się rodzi",
+       "Herod nie pyta o dziecko, lecz o tekst. Czasownik stoi w czasie teraźniejszym γεννᾶται (rodzi się), nie w przyszłym ani przeszłym, i jest to teraźniejszy ponadczasowy — forma, którą grecki opisuje stan rzeczy wedle reguły albo wedle zapisu. Pytanie znaczy więc: gdzie wedle Pisma Mesjasz ma się rodzić, i dlatego odpowiedź może być cytatem. Tytuł ὁ χριστός z rodzajnikiem pada u Mateusza szesnaście razy; po trzech wystąpieniach w rozdziale pierwszym to pierwsze, w którym jest terminem rozstrzyganym, nie imieniem — i co ważniejsze, pierwsze w ustach kogoś innego niż narrator. Hebrajskie מָשִׁיחַ (maszijach) i greckie χριστός znaczą „namaszczony\", a namaszczenie dotyczyło króla i arcykapłana; Herod pyta więc arcykapłanów o namaszczonego. Aparat notuje w tym miejscu nie wariant lekcji, lecz wariant interpunkcji: edytorzy ważą, czy zdanie jest pytaniem zależnym, czy przytoczonym wprost — z pytajnikiem po γεννᾶται. Druga możliwość daje scenę ostrzejszą, bo wkłada Herodowi w usta samo pytanie, nie jego streszczenie."
+      ],
+      [
+       "οὕτως γὰρ γέγραπται διὰ τοῦ προφήτου",
+       "tak bowiem napisane jest przez proroka",
+       "Formuła wprowadzająca, która w całej Ewangelii Mateusza nie ma odpowiednika. Dziesięć razy cytuje on Stary Testament zwrotem o wypełnieniu — ἵνα πληρωθῇ τὸ ῥηθέν (aby wypełniło się powiedziane) i jego wariantami — i tylko tutaj zamiast tego stoi perfectum γέγραπται (jest napisane), bezosobowe i prawnicze. Różnica nie jest ozdobna: formuła wypełnienia jest zawsze głosem ewangelisty mówiącego do czytelnika, a ten cytat wypowiadają osoby w opowiadaniu. To jedyny cytat Pisma w rozdziałach pierwszym i drugim, który nie należy do narratora, i jedyny w księdze wypowiadany przez tych, którzy skończą jako strona oskarżająca. Pośrednictwo zostaje przy tym nazwane tak samo jak w formułach: διὰ τοῦ προφήτου (przez proroka), bez imienia. Mateusz imion proroków zwykle nie podaje, bo prorok jest u niego kanałem, nie autorem — ale tutaj nie podają go także arcykapłani, choć znają tekst na pamięć."
+      ],
+      [
+       "οὐδαμῶς ἐλαχίστη εἶ",
+       "w żaden sposób nie jesteś najmniejsze",
+       "Tutaj cytat rozchodzi się ze źródłem, i to w sposób, którego nie da się wytłumaczyć niedokładnością. Micheasz mówi do Betlejem: צָעִיר לִהְיוֹת בְּאַלְפֵי יְהוּדָה (małe jesteś, by być wśród tysięcy Judy), a LXX oddaje to przez ὀλιγοστὸς εἶ (najmniejsze jesteś) — twierdzenie o małości, po którym następuje mimo to obietnica. Mateusz wstawia podwójne zaprzeczenie οὐδαμῶς (w żaden sposób) i zamienia stopień na superlativus ἐλαχίστη, przez co zdanie przechodzi w swoje przeciwieństwo: nie „jesteś najmniejsze, a jednak\", lecz „wcale nie jesteś najmniejsze\". Sens proroctwa zostaje przy tym zachowany, bo oba zdania mówią o wywyższeniu miejsca bez znaczenia; zmienia się moment, w którym to wywyższenie wchodzi. U Micheasza jest obietnicą na przyszłość, u Mateusza stwierdzeniem stanu po narodzeniu. Wokatyw w tym wierszu jest zresztą niepełny: Βηθλέεμ i γῆ stoją w wołaczu, a Ἰούδα pozostaje dopełniaczem, więc składnia zdradza, że mamy przed sobą zdanie zszyte, nie przepisane."
+      ],
+      [
+       "ἐν τοῖς ἡγεμόσιν Ἰούδα",
+       "wśród wodzów Judy",
+       "LXX ma w tym miejscu ἐν χιλιάσιν (wśród tysięcy), bo hebrajskie אַלְפֵי (alfe) znaczy tysiące — spisowe jednostki plemienne. Te same spółgłoski przy innej wokalizacji dają jednak אַלּוּפֵי (allufe), naczelników, wodzów tysiąca, i właśnie za tym odczytaniem idzie Mateusz, pisząc ἡγεμόσιν. Cytat nie idzie więc ani za tekstem hebrajskim wedle masoreckiej wokalizacji, ani za przekładem greckim, lecz za trzecią, dopuszczalną lekturą spółgłosek — co jest wskazówką, że Mateusz albo jego źródło pracowało na tekście hebrajskim, a nie na LXX. Wybór słowa ma przy tym własny ciężar: ἡγεμών w tej Ewangelii pada dziesięć razy, raz tutaj, raz w ostrzeżeniu, że uczniowie staną przed wodzami i królami (10,18), a osiem razy jako urzędowy tytuł Piłata (27,2.11.14.15.21.27; 28,14). Słowo, które w cytacie opisuje przywódców Judy, jest tym samym słowem, którym Mateusz nazywa rzymskiego zarządcę wydającego wyrok."
+      ],
+      [
+       "ὅστις ποιμανεῖ τὸν λαόν μου τὸν Ἰσραήλ",
+       "który będzie pasł lud mój, Izraela",
+       "To zdanie nie pochodzi z Micheasza. Jest wzięte z 2 Sm 5,2, ze słów starszyzny Izraela przychodzącej do Dawida w Hebronie: ty będziesz pasł lud mój, Izraela, i ty będziesz wodzem nad Izraelem. Cytat w w. 6 jest zatem splotem dwóch tekstów — zapowiedzi prorockiej o miejscu i dawnej obietnicy o osobie — a szew jest widoczny w zaimku: μου (mój) nie ma do czego się odnieść, bo w zdaniu nie było mowy o Bogu. Z Micheasza wzięto Betlejem, z Księgi Samuela pasterza; z obu razem wychodzi twierdzenie, że ten, kto przyjdzie z Betlejem, będzie drugim Dawidem w tym samym sensie, w którym pierwszy był pasterzem. Czasownik ποιμαίνω (paść) pada u Mateusza raz jedyny, właśnie tutaj, i nigdy go już nie powtórzy — choć obraz zostanie: tłumy jak owce bez pasterza (9,36), owce zgubione domu Izraela (10,6; 15,24), rozdzielenie owiec od kozłów (25,32) i uderzony pasterz z Zachariasza (26,31). Imiesłów ἡγούμενος (przewodzący), też jedyny u Mateusza, wiąże władzę z pasieniem w jednym słowie; LXX w Mi 5,1 ma w tym miejscu ἄρχοντα (władcę), bez odcienia prowadzenia."
+      ]
+     ]
+    },
+    {
+     "cs": 2,
+     "vs": 7,
+     "ce": 2,
+     "ve": 8,
+     "label": "w. 7–8",
+     "greek": "Τότε Ἡρῴδης λάθρᾳ καλέσας τοὺς μάγους ἠκρίβωσεν παρʼ αὐτῶν τὸν χρόνον τοῦ φαινομένου ἀστέρος, καὶ πέμψας αὐτοὺς εἰς Βηθλέεμ εἶπεν· πορευθέντες ἐξετάσατε ἀκριβῶς περὶ τοῦ παιδίου· ἐπὰν δὲ εὕρητε, ἀπαγγείλατέ μοι, ὅπως κἀγὼ ἐλθὼν προσκυνήσω αὐτῷ.",
+     "transl": "Wtedy Herod, potajemnie wezwawszy magów, wybadał u nich dokładnie czas ukazującej się gwiazdy i posławszy ich do Betlejem, powiedział: Wyruszywszy, wywiedzcie się dokładnie o dziecku; a gdy znajdziecie, oznajmijcie mi, żebym i ja, przyszedłszy, pokłonił się mu.",
+     "units": [
+      [
+       "λάθρᾳ καλέσας τοὺς μάγους",
+       "potajemnie wezwawszy magów",
+       "Przysłówek λάθρᾳ (potajemnie) pada u Mateusza dwa razy, i trudno o parę bardziej przeciwną. W 1,19 jest to potajemność Józefa, który chce oddalić Marię bez rozgłosu, by jej nie wystawić na widok; tutaj jest to potajemność Heroda, który wzywa magów bez wiedzy tych, których właśnie zwołał. Ta sama ostrożność służy raz oszczędzeniu, raz zabiciu — i Mateusz daje jej oba razy to samo słowo, nie komentując. Czasownik καλέσας (wezwawszy) jest przy tym tym samym καλέω, które poprzednia perykopa niosła trzykrotnie w znaczeniu nadania imienia (1,21.23.25); tu wraca w znaczeniu świeckim i urzędowym, jako wezwanie przed oblicze. Partykuła Τότε (wtedy), którą Mateusz otwiera ten wiersz, jest jego ulubionym spoiwem narracyjnym i pada w księdze blisko dziewięćdziesiąt razy: nie tyle datuje, ile zaznacza kolejny ruch w układzie."
+      ],
+      [
+       "ἠκρίβωσεν τὸν χρόνον τοῦ φαινομένου ἀστέρος",
+       "wybadał dokładnie czas ukazującej się gwiazdy",
+       "Czasownik ἀκριβόω (wybadać ściśle) należy do słownika badania naukowego i prawniczego, a u Mateusza pada dwa razy — tu i w 2,16, gdzie dowiadujemy się, po co było pytanie: rozkaz zabicia obejmie dzieci do dwóch lat, κατὰ τὸν χρόνον ὃν ἠκρίβωσεν (wedle czasu, który dokładnie ustalił). Powtórzenie tego samego czasownika spina pytanie z jego skutkiem przez cztery wiersze, przez które czytelnik jeszcze nie wie, czemu Herod liczy. Imiesłów φαινομένου stoi w czasie teraźniejszym i w stronie medialnej: nie „która się ukazała\", lecz „ukazującej się\" — gwiazda w chwili rozmowy jest wciąż zjawiskiem trwającym, a nie wspomnieniem. Rzeczownik χρόνος (czas) oznacza tu rozciągłość, nie punkt, i to tłumaczy dwuletni rozmiar rzezi: Herod nie dostał daty, dostał przedział."
+      ],
+      [
+       "πορευθέντες ἐξετάσατε ἀκριβῶς",
+       "wyruszywszy, wywiedzcie się dokładnie",
+       "Trzy formy rozkazujące w dwóch wierszach, wszystkie w aoryście: ἐξετάσατε (wywiedzcie się), ἀπαγγείλατε (oznajmijcie), a przed nimi imiesłów πορευθέντες w funkcji polecenia. Herod mówi językiem rozporządzenia i nie dodaje ani jednego słowa, które by cokolwiek wyjaśniało. Czasownik ἐξετάζω (dopytać, przebadać) pada u Mateusza dwa razy, drugi raz w mowie misyjnej, gdy Jezus poleca Dwunastu wywiedzieć się w mieście, kto jest godny przyjąć ich pod dach (10,11) — polecenie o tej samej formie, w zupełnie odwrotnym celu. Przysłówek ἀκριβῶς (dokładnie) jest w Ewangelii jedyny i powtarza rdzeń czasownika z poprzedniego wiersza, tak że dokładność pada w tej scenie dwa razy w dwóch częściach mowy. Aparat notuje tu przestawienie: część świadków czyta ἀκριβῶς ἐξετάσατε, z przysłówkiem na przodzie. Rzecz w sensie nic nie zmienia, lecz pokazuje, że kopiści czuli nacisk położony na to słowo."
+      ],
+      [
+       "ὅπως κἀγὼ ἐλθὼν προσκυνήσω αὐτῷ",
+       "żebym i ja, przyszedłszy, pokłonił się mu",
+       "Zdanie celowe z ὅπως i coniunctivem aoristi, a w nim kłamstwo zbudowane z cudzych słów. Herod powtarza czasownik magów — προσκυνῆσαι z w. 2 — i dokłada do niego spójnik κἀγώ, zrosty καί i ἐγώ, który znaczy „i ja także\": król stawia siebie w jednym szeregu z przybyszami. Trzecie wystąpienie προσκυνέω w tej perykopie jest więc fałszywe, i to Mateusz zaznacza bez komentarza, zestawieniem samych zdarzeń. Z czterech czasowników, jakich Herod używa, mówiąc o sobie i o dziecku, trzy są prawdziwe; fałszywy jest ostatni. Scena ma u Mateusza dokładny odpowiednik w kuszeniu: szatan też żąda pokłonu i też go nie oddaje nikomu (4,9). W ustach władcy pokłon jest tu zasłoną dla zamiaru zabicia, i w tym znaczeniu wraca ironicznie przed Męką, gdy żołnierze klękają przed Jezusem w purpurze, drwiąc (27,29)."
+      ]
+     ]
+    },
+    {
+     "cs": 2,
+     "vs": 9,
+     "ce": 2,
+     "ve": 10,
+     "label": "w. 9–10",
+     "greek": "οἱ δὲ ἀκούσαντες τοῦ βασιλέως ἐπορεύθησαν καὶ ἰδοὺ ὁ ἀστήρ, ὃν εἶδον ἐν τῇ ἀνατολῇ, προῆγεν αὐτούς, ἕως ἐλθὼν ἐστάθη ἐπάνω οὗ ἦν τὸ παιδίον. ἰδόντες δὲ τὸν ἀστέρα ἐχάρησαν χαρὰν μεγάλην σφόδρα.",
+     "transl": "Oni zaś, wysłuchawszy króla, wyruszyli; i oto gwiazda, którą ujrzeli przy jej wschodzie, szła przed nimi, aż przyszedłszy, stanęła ponad tym, gdzie było dziecko. Ujrzawszy zaś gwiazdę, uradowali się radością wielką bardzo.",
+     "units": [
+      [
+       "ἀκούσαντες τοῦ βασιλέως",
+       "wysłuchawszy króla",
+       "Czasownik ἀκούω z dopełniaczem osoby znaczy w grece więcej niż usłyszeć: znaczy usłuchać. Magowie zatem nie tylko wysłuchali Heroda, lecz postąpili wedle jego polecenia — i to jest jedyny moment perykopy, w którym robią to, co im kazał król. Zdanie ustawia ich przy tym naprzeciw samego Heroda z w. 3, który też ἀκούσας (usłyszawszy) zaczął działać; ta sama forma imiesłowu otwiera obie reakcje, a prowadzi do przeciwnych czynów. Rzeczownik βασιλεύς pada tu trzeci i ostatni raz w perykopie, i wciąż oznacza Heroda. O tym, do kogo magowie idą, Mateusz tego słowa nie użyje: dziecko jest w tej scenie wyłącznie παιδίον (dziecko), nigdy król."
+      ],
+      [
+       "προῆγεν αὐτούς",
+       "szła przed nimi",
+       "Imperfectum προῆγεν (poprzedzała) opisuje czynność trwającą — nie jedno pokazanie się, lecz prowadzenie przez całą drogę. Czasownik προάγω pada u Mateusza sześć razy i zbiera przy tym dziwne towarzystwo: gwiazda prowadzi magów (2,9), uczniowie wyprawieni przodem przeprawiają się bez Jezusa (14,22), tłumy idą przed osiołkiem przy wjeździe (21,9), a dwa razy poprzedza sam Jezus — do Galilei, po zmartwychwstaniu (26,32; 28,7). Pierwsze i ostatnie użycie tego słowa dotyczą więc prowadzenia do miejsca, w którym będzie można Go zobaczyć. Osiem kilometrów z Jerozolimy do Betlejem nie wymagało przewodnika, a tekst żadnej trudności w drodze nie notuje; gwiazda nie jest tu rozwiązaniem problemu nawigacyjnego, lecz potwierdzeniem, że kierunek wskazany przez Pismo jest ten sam, który wskazywał znak."
+      ],
+      [
+       "ἐστάθη ἐπάνω οὗ ἦν τὸ παιδίον",
+       "stanęła ponad tym, gdzie było dziecko",
+       "Aoryst strony biernej od ἵστημι, i to tu jest właściwy problem tego wiersza. ἐστάθη znaczy „została postawiona\", „zatrzymana\" — forma zakłada kogoś, kto zatrzymuje. Aparat notuje w L, W, 0233, rodzinie f¹³ i tekście większościowym lekcję ἔστη, czyli aoryst czynny o znaczeniu nieprzechodnim: „stanęła\" sama. Tekst krytyczny, poparty ℵ, B, C, D, rodziną f¹ i 33, ma formę bierną, a różnica jednej litery decyduje, czy gwiazda jest podmiotem swojego zatrzymania, czy przedmiotem czyjegoś działania. Składnia ἐπάνω οὗ ἦν (ponad tym, gdzie było) jest przy tym niezręczna — przyimek rządzi całym zdaniem względnym zamiast rzeczownikiem — i D wraz z przekładami starołacińskimi ją wygładza, czytając ἐπάνω τοῦ παιδίου (ponad dzieckiem). Wygładzenie jest wtórne, ale pokazuje, co kopistów uwierało: tekst mówi o miejscu, nie o osobie. Spory o utożsamienie gwiazdy z koniunkcją Jowisza i Saturna w 7 r. przed Chr., z kometą z 12 r. przed Chr. albo z nową biorą to zdanie za zapis obserwacji — a zdanie opisuje zachowanie, którego nie ma żadne ciało niebieskie: iść przed kimś i zatrzymać się nad domem."
+      ],
+      [
+       "ἐχάρησαν χαρὰν μεγάλην σφόδρα",
+       "uradowali się radością wielką bardzo",
+       "Konstrukcja z accusativus figurae etymologicae (biernik rdzennie pokrewny) — czasownik z rzeczownikiem tego samego rdzenia — jest w grece możliwa, ale rzadka, a w tej postaci odpowiada hebrajskiemu wzmocnieniu przez bezokolicznik absolutny i wygląda na semityzm. Trzy wyrazy wzmocnienia jeden po drugim (χαρὰν μεγάλην σφόδρα) są u Mateusza nietypowe, bo jego proza wzmacnia oszczędnie; σφόδρα pada w księdze siedem razy i sześć pozostałych dotyczy strachu, smutku albo zdumienia (17,6.23; 18,31; 19,25; 26,22; 27,54). Jedyną radością, o której Mateusz mówi tak mocno, jest radość pogan nad odnalezioną gwiazdą — i jedyną paralelą tej formuły jest radość kobiet odchodzących od pustego grobu, μετὰ χαρᾶς μεγάλης (z radością wielką, 28,8). Zestawienie z w. 3 jest przy tym całym komentarzem, jakiego to miejsce potrzebuje: na tę samą wiadomość Herod odpowiedział wzburzeniem, magowie radością."
+      ]
+     ]
+    },
+    {
+     "cs": 2,
+     "vs": 11,
+     "ce": 2,
+     "ve": 11,
+     "label": "w. 11",
+     "greek": "καὶ ἐλθόντες εἰς τὴν οἰκίαν εἶδον τὸ παιδίον μετὰ Μαρίας τῆς μητρὸς αὐτοῦ, καὶ πεσόντες προσεκύνησαν αὐτῷ καὶ ἀνοίξαντες τοὺς θησαυροὺς αὐτῶν προσήνεγκαν αὐτῷ δῶρα, χρυσὸν καὶ λίβανον καὶ σμύρναν.",
+     "transl": "I przyszedłszy do domu, ujrzeli dziecko z Marią, matką jego, i upadłszy, pokłonili się mu, i otworzywszy skarby swoje, przynieśli mu dary: złoto i kadzidło, i mirrę.",
+     "units": [
+      [
+       "ἐλθόντες εἰς τὴν οἰκίαν",
+       "przyszedłszy do domu",
+       "Οἰκία z rodzajnikiem — dom, i to określony. Mateusz nie wie nic o żłobie, nie wie nic o gospodzie i nie wie nic o braku miejsca; rodzina mieszka w domu, a w następnej perykopie z tego domu ucieknie. Dwa opowiadania o dzieciństwie są w tym punkcie niezależne i nie da się ich pogodzić inaczej niż przez chronologię, której żadne z nich nie podaje. Jaskinia, którą zna cała późniejsza ikonografia, nie pochodzi z Mateusza ani z Łukasza: pierwszy o niej mówi *Protoewangelia Jakuba*, a jako o miejscu znanym pisze Justyn w *Dialogu z Żydem Tryfonem* 78 i Orygenes. Aparat notuje w tym miejscu drobny, lecz wymowny wariant: część rękopisów i cała tradycja łacińska czytają εὗρον (znaleźli) zamiast εἶδον (ujrzeli), i tę właśnie lekcję ma Wulgata — *invenerunt puerum*. Zachodnia pobożność, mówiąca o odnalezieniu Dzieciątka, opiera się więc na czytaniu wtórnym; tekst krytyczny mówi tylko, że magowie je zobaczyli."
+      ],
+      [
+       "τὸ παιδίον μετὰ Μαρίας τῆς μητρὸς αὐτοῦ",
+       "dziecko z Marią, matką jego",
+       "Szyk jest teologią. Podmiotem zobaczenia jest dziecko, matka wchodzi dopiero w wyrażeniu przyimkowym, a Józefa w tym wierszu nie ma — choć w poprzedniej perykopie był jedyną osobą działającą i choć w następnej będzie nią znowu. Formuła „dziecko i matka jego\" wraca w rozdziale drugim cztery razy (2,13.14.20.21) i zawsze w tej kolejności, nigdy odwrotnej; Maria jest w niej nazwana po imieniu tylko tutaj. Rzeczownik παιδίον (dziecko) pada w tej Ewangelii osiemnaście razy, z czego dziewięć w rozdziale drugim i wszystkie dziewięć o Jezusie. Zdrobnienie jest przy tym gramatyczne, nie czułe: παιδίον to po grecku małe dziecko, bez odcienia pieszczotliwego, i rodzaj nijaki tego słowa sprawia, że przez cały rozdział o Jezusie mówi się „ono\". Pokłon zostaje więc oddany komuś, o kim grecki nie potrafi powiedzieć „on\"."
+      ],
+      [
+       "πεσόντες προσεκύνησαν αὐτῷ",
+       "upadłszy, pokłonili się mu",
+       "Dwa czasowniki opisują jeden gest: πίπτω (padać) daje ruch, προσκυνέω — jego znaczenie. Para ta jest u Mateusza rzadka i pada w trzech miejscach: tu, w żądaniu szatana (4,9) i w przypowieści o dłużniku padającym do nóg pana (18,26). Opisuje pełną proskynezę, pokłon do ziemi, który Grecy przypisywali dworowi perskiemu i uważali za niewłaściwy wobec człowieka — Herodot opowiada o Spartanach odmawiających go królowi (VII,136). Magowie, jeśli naprawdę przyszli ze wschodu, znali go jako obrzęd dworski; tekst nie mówi, czy zrobili więcej niż hołd. Rozstrzyga układ księgi, nie zdanie: ten sam czyn obiecał Herod kłamliwie, tego samego zażądał szatan i tym samym zamknie się Ewangelia na górze w Galilei (28,17). Mateusz nie wyjaśnia intencji magów, bo intencję wykłada mu cała dalsza księga."
+      ],
+      [
+       "ἀνοίξαντες τοὺς θησαυροὺς αὐτῶν προσήνεγκαν δῶρα",
+       "otworzywszy skarby swoje, przynieśli dary",
+       "Θησαυρός znaczy i skarb, i szkatułę, w której się go trzyma; tu jest to drugie, a „otworzywszy\" rozstrzyga. Słowo pada u Mateusza dziewięć razy i to pierwsze z nich; pozostałe osiem mówi o skarbie gromadzonym w niebie, o skarbcu serca i o skarbie znalezionym w roli (6,19–21; 12,35; 13,44.52; 19,21). Mowa na górze każe nie zbierać skarbów na ziemi, bo gdzie skarb, tam i serce (6,21) — a jedyni ludzie, którzy w tej Ewangelii otwierają skarb i oddają go, to magowie. Czasownik προσφέρω (przynosić, składać) i rzeczownik δῶρον (dar) należą do słownika ofiarniczego: tą parą Mateusz mówi o darze przyniesionym na ołtarz, który trzeba zostawić, póki się nie pojedna z bratem (5,23–24), i o darze nakazanym przez Mojżesza (8,4). Z dziewięciu wystąpień δῶρον osiem dotyczy ofiary świątynnej, jedno — tego, co magowie kładą przed dzieckiem. To zresztą jedyne miejsce w całej księdze, w którym ktokolwiek daje Jezusowi rzecz materialną."
+      ],
+      [
+       "χρυσὸν καὶ λίβανον καὶ σμύρναν",
+       "złoto i kadzidło, i mirrę",
+       "Λίβανος (kadzidło) i σμύρνα (mirra) są u Mateusza wyrazami jednorazowymi i oba nazywają żywice z południa Półwyspu Arabskiego i z Rogu Afryki — towar szlaku kadzidlanego, który biegł przez państwo Nabatejczyków do Gazy. Lista jest więc najpierw realna: trzy najdroższe rzeczy, jakie mógł wieźć ktoś idący tą drogą. Jest też cytatem. Izajasz zapowiada narody przychodzące do światła Jerozolimy z wielbłądami Madianu i Efy, niosące złoto i kadzidło (Iz 60,6), a Psalm 72 królów Tarszisz i Saby składających dary i padających na twarz (Ps 72,10–11). Oba teksty mają złoto, oba mają hołd; mirry nie ma żaden. Trzeci dar jest dodatkiem Mateusza i właśnie dlatego tradycja widziała w nim przepowiedzenie pogrzebu. Ta lektura nie ma jednak u Mateusza oparcia: pod krzyżem nie podaje on wina z mirrą, lecz z żółcią (27,34), a mirra przy pogrzebie stoi u Jana (J 19,39). Hebrajskie מֹר (mor) było składnikiem świętego oleju namaszczenia (Wj 30,23), a לְבוֹנָה (lewona) — kadzidła zastrzeżonego dla świątyni (Wj 30,34–38); jedno i drugie przynosi się tu do prywatnego domu w Betlejem."
+      ]
+     ]
+    },
+    {
+     "cs": 2,
+     "vs": 12,
+     "ce": 2,
+     "ve": 12,
+     "label": "w. 12",
+     "greek": "καὶ χρηματισθέντες κατʼ ὄναρ μὴ ἀνακάμψαι πρὸς Ἡρῴδην, διʼ ἄλλης ὁδοῦ ἀνεχώρησαν εἰς τὴν χώραν αὐτῶν.",
+     "transl": "I otrzymawszy we śnie wyrocznię, by nie zawracali do Heroda, inną drogą oddalili się do swojej krainy.",
+     "units": [
+      [
+       "χρηματισθέντες κατʼ ὄναρ",
+       "otrzymawszy we śnie wyrocznię",
+       "Czasownik χρηματίζω w stronie biernej należy do słownika wyroczni: w grece pogańskiej opisuje odpowiedź otrzymaną od bóstwa albo od wyroczni, a w greckiej Biblii — pouczenie od Boga. Mateusz używa go dwa razy, tu i w 2,22, gdy Józef zostaje w ten sam sposób skierowany do Galilei. Wybór słowa jest celny podwójnie: wobec magów, którzy zawodowo zajmowali się odczytywaniem znaków, Bóg posługuje się terminem z ich własnej dziedziny, ale stroną bierną — nie zasięgnęli wyroczni, zostali nią powiadomieni. To także jedyny z sześciu snów u Mateusza, w którym nie pojawia się posłaniec. Przy Józefie zawsze staje ἄγγελος κυρίου (anioł Pana, 1,20; 2,13.19), żona Piłata po prostu wiele wycierpiała we śnie (27,19), a tutaj nie ma ani anioła, ani treści mowy — jest sam fakt powiadomienia i jego przedmiot. Wyrażenie κατʼ ὄναρ (we śnie) pada w Nowym Testamencie wyłącznie u Mateusza i dokładnie sześć razy; to trzecie z nich."
+      ],
+      [
+       "μὴ ἀνακάμψαι πρὸς Ἡρῴδην",
+       "by nie zawracali do Heroda",
+       "Bezokolicznik z przeczeniem μή w funkcji polecenia zależnego — grecki zwięźle oddaje treść wyroczni, nie przytaczając jej słów. Czasownik ἀνακάμπτω (zawrócić, pójść z powrotem tą samą drogą) jest u Mateusza jedyny i dokładnie zaprzecza temu, czego Herod żądał w w. 8: oznajmijcie mi. Polecenie dane magom nie mówi nic o niebezpieczeństwie i nie wyjaśnia niczego; zakazuje jednej czynności. Magowie, którzy w w. 9 usłuchali króla, teraz go nie słuchają, a Mateusz nie podaje, czy w ogóle wiedzieli dlaczego — posłuszeństwo wobec wyroczni jest w tej Ewangelii opisywane bez motywacji, tak samo jak przy Józefie. Następna perykopa pokaże, co z tego wyniknie, i użyje tego samego mechanizmu snu jeszcze dwa razy."
+      ],
+      [
+       "διʼ ἄλλης ὁδοῦ ἀνεχώρησαν",
+       "inną drogą oddalili się",
+       "Ἀναχωρέω (oddalić się, usunąć się) jest czasownikiem Mateuszowym w sensie ścisłym: pada dziesięć razy i niemal zawsze oznacza odejście przed zagrożeniem albo przed rozgłosem. To pierwsze z tych wystąpień, a trzy następne stoją w tej samej opowieści — Józef uchodzi do Egiptu (2,13.14) i odsuwa się do Galilei (2,22). Potem to samo słowo opisze wycofanie się Jezusa po uwięzieniu Chrzciciela (4,12), po spisku faryzeuszów (12,15), po śmierci Jana (14,13) i w strony Tyru i Sydonu (15,21). Mateusz zbudował z tego wzór: ten, kto ma do wykonania zadanie, nie staje do walki o pole, lecz schodzi z drogi. Wyrażenie διʼ ἄλλης ὁδοῦ (inną drogą) jest zarazem ostatnim słowem perykopy i jej domknięciem, bo cała ona była o drogach — przyszli jedną, Pismo wskazało drugą, wracają trzecią. Rzeczownik ὁδός (droga) będzie u Mateusza nieść potem ciężar przenośny: droga, którą trzeba przygotować (3,3), dwie drogi z Mowy na górze (7,13–14), droga Boża, której się naucza prawdziwie (22,16)."
+      ]
+     ]
+    }
+   ],
+   "struktura": "Perykopa jest zbudowana z dwóch podróży i jednej narady, a jej osią jest trzykrotne προσκυνέω (padać na twarz) — zamiar, kłamstwo, wykonanie.\n\nPierwsza podróż zajmuje w. 1–2: przybycie i pytanie, postawione w pałacu, czyli pod jedynym adresem, pod którym odpowiedzi być nie mogło. Narada zajmuje w. 3–6 i rozpada się na dwa ruchy: wzburzenie (w. 3) i zasięgnięcie opinii fachowców, którzy odpowiadają cytatem (w. 4–6). Między naradą a drugą podróżą stoi scena potajemna (w. 7–8), w której Herod osobno dopytuje o czas i osobno wydaje polecenie; jest to jedyna część perykopy rozgrywająca się bez świadków. Druga podróż zajmuje w. 9–11 i prowadzi już nie do miasta, lecz do domu: gwiazda, radość, pokłon, dary. Zakończenie (w. 12) odbiera Herodowi to, co sobie zapewnił w w. 8, i wyprowadza magów poza zasięg opowiadania.\n\nDwa ciągi biegną przez tę budowę równolegle. Pierwszy jest ciągiem dróg: magowie przychodzą drogą, którą wskazała gwiazda, do Betlejem kieruje ich drogą Pismo, odchodzą drogą, którą wskazała wyrocznia — żadna z tych trzech nie jest tą samą. Drugi jest ciągiem słów o pokłonie. Magowie zapowiadają go w w. 2 jako cel przyjazdu, Herod obiecuje go w w. 8 jako zasłonę zamiaru, magowie spełniają go w w. 11. Dwa z trzech wystąpień czasownika są prawdziwe i oba należą do przybyszów; fałszywe jest to, które wypowiada król.\n\nPo wierzchu obu ciągów biegnie rachunek dwóch królów. Mateusz nazywa βασιλεύς (król) wyłącznie Heroda i robi to trzy razy (w. 1.3.9). Dziecko jest w tej perykopie nazwane παιδίον (dziecko) cztery razy i nigdy królem — tytuł pada jedynie w pytaniu magów, jako przedmiot pytania, i wróci dopiero w ustach Piłata.",
+   "sections": [
+    {
+     "type": "kontekst",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
+     "body": "Pięć rzeczy trzeba znać, żeby ta perykopa przestała być baśnią o trzech królach: kim był Herod i dlaczego wiadomość o narodzonym królu była dla niego sprawą policyjną; co w pierwszym wieku znaczyło słowo μάγος (mag); co starożytność umiała i czego nie umiała odczytać z nieba; czym było Betlejem w oczekiwaniu mesjańskim; i skąd brały się trzy wymienione towary. Żadna z tych rzeczy nie wynika z tekstu — wszystkie są warunkiem jego odczytania.",
+     "children": [
+      [
+       "Herod i jedyna data u Mateusza",
+       "Herod Wielki był Idumejczykiem, synem Antypatra, i tron otrzymał nie przez dziedziczenie, lecz przez politykę rzymską: senat nadał mu tytuł króla w 40 r. przed Chr., a Jerozolimę opanował zbrojnie w 37, kończąc panowanie Hasmoneuszów. Przez trzydzieści trzy lata rządził jako *rex socius* (król sprzymierzony), odbudował świątynię na skalę, której Palestyna nie znała, założył Cezareę Nadmorską i Herodion — i wymordował własną rodzinę. Józef Flawiusz, jedyne obszerne źródło, wylicza: hasmonejskiego arcykapłana Aristobula III utopionego w basenie w Jerychu, żonę Mariamme, jej matkę Aleksandrę, dwóch synów z tego małżeństwa, Aleksandra i Aristobula, straconych około 7 r. przed Chr., i pierworodnego Antypatra zabitego kilka dni przed własną śmiercią króla w 4 r. przed Chr. Przy takim panowaniu doniesienie o narodzeniu prawowitego króla z rodu Dawida nie było wieścią religijną, lecz sprawą bezpieczeństwa państwa; Mateusz nie musi tego objaśniać swoim czytelnikom i nie objaśnia. Makrobiusz w *Saturnaliach* przypisuje Augustowi żart, że lepiej być świnią Heroda niż jego synem — świadectwo późne o cztery wieki, które zresztą plącze zabicie synów z rzezią niewiniątek, i jako źródło historyczne warte ostrożności. Datowanie jest tu zresztą kłopotem dla samej chronologii chrześcijańskiej: jeśli Jezus urodził się za Heroda, musiało to być przed rokiem 4 przed Chr., czyli rachuba lat Pańskich ustalona przez Dionizego Mniejszego w szóstym wieku myli się o kilka lat."
+      ],
+      [
+       "Kim byli magowie",
+       "Słowo μάγος weszło do greki z perskiego maguš. U Herodota (I,101) Magowie są jednym z plemion medyjskich, a (I,132) kapłanami, bez których nie składa się ofiary; w religii zaratusztriańskiej stanowili warstwę kapłańską zajmującą się obrzędem, wykładem snów i obserwacją nieba. Grecka Biblia stawia ich wśród babilońskich specjalistów, nad którymi Daniel zostaje przełożony (Dn 2,2.10.27; 4,4; 5,7), i to użycie jest neutralne. W grece hellenistycznej termin obsunął się jednak w stronę szarlatana, a Nowy Testament poza Mateuszem ma go wyłącznie w tym znaczeniu: Szymon w Samarii uprawia μαγεία (Dz 8,9.11), a Bar-Jezus na Cyprze jest nazwany μάγος i ψευδοπροφήτης (fałszywy prorok, Dz 13,6.8). Judaizm odnosił się do tej sztuki bez wahania: Prawo zakazuje wróżbiarstwa i wypatrywania znaków z surowością śmierci (Pwt 18,9–14), a Izajasz wyśmiewa babilońskich astrologów, każąc im ratować się własnymi rachunkami (Iz 47,13). Mateusz nic z tego nie komentuje i nie usprawiedliwia swoich przybyszów — mówi tylko, że przyszli i upadli na twarz. Nie podaje przy tym ani ich liczby, ani imion, ani kraju; nie nazywa ich królami. Z proponowanych ojczyzn każda ma swój argument: tytuł μάγος wskazuje Persję albo Babilonię, odczytanie wschodu gwiazdy — babilońską astronomię, a trzy dary — Arabię. Tekst rozstrzygnięcia nie daje."
+      ],
+      [
+       "Co można było odczytać z nieba",
+       "Babilońska astronomia tej epoki była nauką dojrzałą. Zachowane tabliczki z Babilonu i Sippar podają efemerydy, daty koniunkcji i wschodów heliakalnych liczone naprzód, a od piątego wieku przed Chr. istnieje też astrologia horoskopowa, rozdzielająca niebo na dwanaście znaków. Wyrażenie ἐν τῇ ἀνατολῇ (przy wschodzie) należy do tej terminologii i oznacza pierwsze ukazanie się gwiazdy nad horyzontem przed świtem, po okresie niewidoczności. Z prób utożsamienia zjawiska najstarszą poważną zgłosił Kepler w 1614 r., wskazując na potrójną koniunkcję Jowisza i Saturna w znaku Ryb w 7 r. przed Chr.; proponowano też kometę Halleya z 12 r. przed Chr. oraz nową z około 5 r. przed Chr., znaną z chińskich zapisów. Każda z tych hipotez tłumaczy wschód gwiazdy i żadna nie tłumaczy w. 9, bo zdanie o gwiazdzie, która poprzedza wędrujących i zatrzymuje się nad jednym domem, nie opisuje zachowania ciała niebieskiego. Dwie rzeczy rozchodzą się tu zatem: starożytni umieli policzyć wschód gwiazdy, a Mateusz pisze o czymś innym niż obserwacja. Daty koniunkcji i identyfikacje źródeł chińskich wymagają sprawdzenia w literaturze astronomicznej."
+      ],
+      [
+       "Betlejem i oczekiwanie mesjańskie",
+       "Betlejem leży osiem kilometrów na południe od Jerozolimy, przy drodze do Hebronu, i w pierwszym wieku było osadą rolniczą bez znaczenia. Jego ranga jest wyłącznie dawidowa: tam Samuel namaścił najmłodszego z synów Jessego, przeoczonego przy pierwszym przeglądzie (1 Sm 16,1–13), tam Dawid pasał owce i tam miał rodzinę, do której wracał na doroczną ofiarę (1 Sm 20,6). Oczekiwanie mesjańskie Drugiej Świątyni skupiało się jednak na pochodzeniu z rodu Dawida, nie na miejscu urodzenia; Psalmy Salomona 17 proszą o syna Dawida, nie o kogoś z Betlejem. Że wersja betlejemska krążyła, wiadomo jednak nie od Mateusza: Ewangelia Jana przytacza ją jako argument tłumu przeciw galilejskiemu pochodzeniu Jezusa (J 7,41–42). Mesjańską lekturę Mi 5,1 poświadcza też targum do Micheasza, a tradycja rabiniczna zna imię Menachem ben Chiskija jako urodzonego w Betlejem — oba loci wymagają sprawdzenia w wydaniach. Archeologia dokłada jeden rys, i to z czasów prześladowania: Hadrian urządził w tym miejscu gaj Adonisa, o czym pisze Hieronim (*Ep.* 58,3), co znaczy, że grota była przez chrześcijan czczona już przed rokiem 135 — pamięć o niej potwierdzają niezależnie Justyn (*Dial.* 78) i Orygenes. Bazylikę wzniosła tam Helena za Konstantyna, około 330 r."
+      ],
+      [
+       "Złoto, kadzidło i mirra jako towar",
+       "Λίβανος to żywica drzew z rodzaju Boswellia, σμύρνα — z rodzaju Commiphora; oba rosną w południowej Arabii, w Hadramaut i Omanie, oraz na somalijskim wybrzeżu. Transport szedł szlakiem kadzidlanym przez Jemen i Hidżaz do nabatejskiej Petry i dalej do Gazy, i był to jeden z najdroższych handlów starożytności; Pliniusz Starszy w *Historii naturalnej* XII podaje ceny i oburza się na sumy, jakie Rzym wydaje na wonności. Oba towary miały zastosowanie kultowe: לְבוֹנָה (lewona) wchodziła do kadzidła zastrzeżonego wyłącznie dla świątyni, którego wyrób na użytek prywatny był zakazany pod karą wyłączenia (Wj 30,34–38), i kładło się ją na chlebach pokładnych (Kpł 24,7); מֹר (mor) był pierwszym składnikiem świętego oleju namaszczenia (Wj 30,23), a poza kultem służył jako wonność weselna i przyprawa pogrzebowa. Lista z w. 11 jest więc najpierw spisem towarów, jaki mógł wieźć karawanowy przybysz z południa — i dopiero potem czymkolwiek innym. Dary królewskie ze złotem i kadzidłem przynoszą narody w Iz 60,6 i królowie w Ps 72,10; mirra nie występuje w żadnym z tych tekstów i jest dodatkiem Mateusza."
+      ],
+      [
+       "Arcykapłani, uczeni w Piśmie i Herod",
+       "Zwrot „wszyscy arcykapłani i uczeni w Piśmie ludu\" nie nazywa Sanhedrynu, choć opisuje ludzi, z których się składał. Liczba mnoga ἀρχιερεῖς obejmuje urzędującego arcykapłana, jego poprzedników i głowy rodów kapłańskich — Herod urząd ten obsadzał i odwoływał swobodnie, zerwawszy z zasadą dziedziczności, i wedle Józefa Flawiusza po zdobyciu Jerozolimy wytracił znaczną część dawnej rady, by zastąpić ją ludźmi sobie powolnymi; liczba straconych podawana w opracowaniach wymaga sprawdzenia w źródle. Γραμματεῖς to uczeni w Piśmie, warstwa zawodowa, nie stronnictwo, w większości związana z faryzeizmem; u Mateusza występują dwadzieścia dwa razy i prawie zawsze jako przeciwnicy. Zebranie obu grup w jednym zdaniu jest u niego formułą stałą i oznacza ciało, które będzie Jezusa sądzić (16,21; 20,18; 26,57; 27,41). Z punktu widzenia opowiadania scena z w. 4 jest zatem antycypacją: pierwsze posiedzenie w sprawie Jezusa odbywa się, gdy Jezus jest niemowlęciem, zwołuje je obcy król, a jego przedmiotem jest werset."
+      ]
+     ]
+    },
+    {
+     "type": "teologia",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "body": "Scholastyka miała na tę perykopę cztery osobne narzędzia, a w tekście działają one wszystkie razem. Pierwsze rozstrzyga, czym jest gwiazda w porządku przyczyn. Drugie — jak poznanie z rozumu naturalnego łączy się z objawieniem i dlaczego żadne z nich nie wystarcza tu osobno. Trzecie — komu wolno oddać pokłon. Czwarte — co człowiek może dać Temu, komu niczego dodać nie można; na to jedno pytanie odpowiada w perykopie gest, nie zdanie.",
+     "children": [
+      [
+       "Gwiazda jako znak, nie przyczyna",
+       "Cała trudność astrologiczna tej perykopy rozwiązuje się przez rozróżnienie, które Tomasz stosuje konsekwentnie: *signum* (znak) nie jest *causa* (przyczyną). Ciała niebieskie wpływają na ciała, bo należą do tego samego porządku materialnego, i tyle astrologii Tomasz uznaje za fizykę. Nie mają natomiast wpływu na akty woli, bo wola nie jest władzą cielesną; dlatego przewidywanie wolnych czynów ludzkich z położenia gwiazd jest wróżbiarstwem i grzechem, a nie błędem rachunkowym (*ST* II–II, q. 95, a. 5). Gwiazda magów nie jest w tym układzie przyczyną narodzenia ani jego warunkiem — jest znakiem danym po fakcie i dla kogoś. Tomasz idzie dalej i w kwestii o gwieździe magów rozstrzyga, że nie było to jedno z ciał niebieskich, lecz światło nowo stworzone, poruszające się w dolnym powietrzu (*ST* III, q. 36, a. 5), i z tego wyprowadza, dlaczego mogło zatrzymać się nad domem. Rozstrzygnięcie jest fizykalnie naiwne, lecz teologicznie konsekwentne: to, co zachowuje się inaczej niż gwiazdy, nie jest gwiazdą, choćby je tak nazwano. Zdanie Mateusza w w. 9 mówi dokładnie tyle."
+      ],
+      [
+       "Trzy porządki poznania i ich kolejność",
+       "Magowie dochodzą do Jezusa trzema drogami poznania i żadna nie zostaje odrzucona. Najpierw jest znak w naturze, odczytany przez wiedzę, którą sami posiadają — poznanie *ex ratione naturali* (z rozumu naturalnego), niedoskonałe i, co istotne, prowadzące ich nie tam, gdzie trzeba: gwiazda przywiodła ich do Jerozolimy, nie do Betlejem. Potem jest słowo prorockie, odczytane za nich przez obcych i wrogich, czyli poznanie *ex revelatione* (z objawienia) w postaci dokumentu. Na końcu jest wyrocznia we śnie, poznanie bez pośrednika. Układ nie jest wstępującą drabiną, w której niższe stopnie odpadają: po Piśmie wraca gwiazda i prowadzi do domu. Zasada, którą Tomasz formułuje jako *gratia non tollit naturam sed perficit* (łaska nie usuwa natury, lecz ją doskonali, *ST* I, q. 1, a. 8 ad 2), jest tu pokazana w działaniu, i to z zaznaczeniem jej granicy. Wiedza magów była prawdziwa co do faktu i niewystarczająca co do miejsca; Pismo dało miejsce i nie dało impulsu, bo ci, którzy je przytoczyli, nie ruszyli się z Jerozolimy. Żadna z tych trzech dróg nie wystarcza osobno, i to jest w tej perykopie twierdzenie, nie morał."
+      ],
+      [
+       "Adoracja i jej przedmiot",
+       "Προσκύνησις jest po grecku gestem ciała i nie rozstrzyga sama, komu się należy; język rozdziela to, co greka zostawia razem, dopiero w teologii łacińskiej, jako *latria* (cześć należna samemu Bogu) i *dulia* (cześć należna stworzeniu z racji godności). Dlatego z czynu magów nie da się wywnioskować ich wiary: pokłon do ziemi był na dworze perskim obrzędem wobec króla. Rozstrzyga nie gest, lecz przedmiot — i tutaj Tomasz jest precyzyjny: adoracja odnosi się do osoby, nie do natury, a ponieważ w Chrystusie jest jedna osoba, cześć jest jedna i jest czcią boską, choć dosięga także ciała, które ta osoba przyjęła (*ST* III, q. 25, a. 1–2). Z tego wynika rzecz, którą perykopa pokazuje układem, a nie zdaniem: ten sam gest, oddany dziecku w Betlejem, jest *latria*, a żądany przez szatana na górze (4,9) byłby świętokradztwem, i to nie dlatego, że inaczej wygląda, lecz dlatego, że ma innego adresata. Dlatego też odpowiedź Jezusa w 4,10 nie mówi o mierze czci, lecz o jej wyłączności."
+      ],
+      [
+       "Co człowiek może przynieść",
+       "Dar złożony Bogu nie dodaje Mu niczego — to twierdzenie Tomasz powtarza, ilekroć mówi o kulcie: zewnętrzne akty religii czynimy nie dla Boga, lecz dla siebie, bo przez nie nasz umysł poddaje się Jemu (*ST* II–II, q. 81, a. 7). Religia jest u niego częścią sprawiedliwości, cnotą oddawania tego, co się należy, z tą jedną osobliwością, że tu długu nigdy nie da się wyrównać; dlatego ofiara jest zawsze znakiem, a nie zapłatą. W tym świetle gest magów jest dokładnie tym, czym jest w tekście: otwarciem szkatuły, czyli oddaniem tego, co człowiek ma najdroższego, i niczym więcej. Mateusz nie mówi, co się z darami stało, i nie przypisuje im skutku. Mowa na górze wyciągnie z tego wniosek przeciwny do spodziewanego — nie żeby gromadzić dary dla Boga, lecz żeby nie gromadzić skarbu dla siebie, bo gdzie skarb, tam i serce (6,19–21). Jedyni ludzie, którzy w tej Ewangelii otworzyli skarb, byli poganami, a tym, co odeszło razem z darami, było ich serce."
+      ]
+     ]
+    },
+    {
+     "type": "autor_ludzki",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
+     "body": "Rozdział drugi jest u Mateusza katechizmem geograficznym. Rozdział pierwszy odpowiadał na pytanie o pochodzenie osoby — z kogo Jezus jest; rozdział drugi odpowiada na pytanie o pochodzenie miejsca i odpowiada czterokrotnie: Betlejem, Egipt, Rama, Nazaret. Każdej nazwie przypada zdanie Pisma, a cały ten układ nowsza egzegeza nazywa, za Kristerem Stendahlem, pytaniem *quis et unde* — kto i skąd. Mateusz nie ma tu żadnego tekstu Marka, bo Marek nie zna dzieciństwa, i żadnego z materiału wspólnego z Łukaszem; te dwa rozdziały są jego własnością redakcyjną, a jedyną możliwą miarą porównawczą jest Łukasz, z którym zgadza się w czterech punktach — Betlejem, Maria, Józef, Nazaret — i rozchodzi we wszystkim innym.\n\nZ czterech cytatów rozdziału drugiego trzy są opatrzone formułą wypełnienia i należą do narratora. Czwarty, i chronologicznie pierwszy, jest wyjątkiem: wkłada go Mateusz w usta arcykapłanów i uczonych w Piśmie, zapowiada formułą prawniczą γέγραπται (jest napisane) i pozostawia bez komentarza. Zabieg jest jednym z najoszczędniejszych w całej księdze. Przeciwnicy Jezusa cytują Pismo bezbłędnie, wskazują właściwą miejscowość, nie mylą się w niczym — i nie idą. Osiem kilometrów. Magowie, którzy nie znali tekstu i których sztukę Prawo zakazywało, przejechali setki. Ironia nie jest tu środkiem stylistycznym, lecz tezą, i dla gminy Mateuszowej po roku 70, spierającej się z synagogą o to, kto naprawdę czyta Pisma, była tezą o własnej sytuacji: znajomość tekstu nie jest tym samym co jego posłuchanie.\n\nDruga rzecz, którą Mateusz tu rozpoczyna, a domknie w następnej perykopie, to układ ról. Król wydaje rozkaz przeciw dziecku, dziecko ucieka do Egiptu i z Egiptu wraca — to schemat Mojżeszowy, czytelny dla każdego, kto zna Wj 1–2, i Mateusz prowadzi go świadomie, bez ani jednego słowa wyjaśnienia. Herod obsadza w nim miejsce faraona, a jego narada z fachowcami od Pisma ma swój odpowiednik w narradzie faraona z mędrcami. W tej perykopie schemat jest jeszcze tylko zawiązany; jego nazwanie należy do Mt 2,13–23 i tam trzeba je zostawić.\n\nJest też rzecz, której Mateusz nie robi, a której się po nim oczekuje. Nie wyjaśnia, co myśleć o magach. Nie mówi, że byli poganami wybranymi przez Boga, nie mówi, że ich sztuka była fałszywa, nie opowiada o ich dalszym losie i nie przypisuje im wiary. Podaje czyny: przyjechali, zapytali, usłyszeli, pojechali, zobaczyli, upadli, dali, odeszli. To ta sama technika, którą opisał Józefa w poprzedniej perykopie — człowieka scharakteryzowanego wyłącznie czasownikami wykonania. U Mateusza postacie drugiego planu nie mają wnętrza, mają uczynki, i czytelnik ma z uczynków wyciągnąć wniosek sam.",
+     "children": []
+    },
+    {
+     "type": "autor_bozy",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
+     "body": "Czterema rzeczami działa w tej scenie Bóg: gwiazdą, wersetem, snem i przyzwoleniem na to, żeby Herod pytał dalej. Żadna z nich nie jest mową — z góry nie pada tu ani jedno zdanie, a imienia Bożego nikt nie wymawia. Z tego układu wychodzą cztery twierdzenia, z których żadne nie jest w tekście wypowiedziane, a wszystkie są w nim zbudowane.",
+     "children": [
+      [
+       "Dwa sposoby usłyszenia tej samej wiadomości",
+       "Nowina jest jedna i dociera do dwóch adresatów. Herod, usłyszawszy, ἐταράχθη (zatrwożył się), a z nim całe miasto; magowie, ujrzawszy gwiazdę, ἐχάρησαν χαρὰν μεγάλην σφόδρα (uradowali się radością wielką bardzo). Mateusz stawia te dwa zdania czternaście wierszy od siebie i niczego nie dopowiada. Różnica nie leży w informacji, bo informacja jest ta sama, i nie leży w wiedzy, bo Herod wie więcej — ma jeszcze cytat. Leży w tym, czy narodzenie króla jest dla kogoś zyskiem, czy ubytkiem. To rozróżnienie wraca u Mateusza wszędzie, gdzie jedno i to samo działanie Jezusa wywołuje przeciwne skutki: tłumy się dziwią, uczeni oskarżają o sojusz z Belzebubem (12,22–24), ten sam cud budzi wiarę i postanowienie zabicia."
+      ],
+      [
+       "Pytanie postawione pod złym adresem",
+       "„Gdzie jest ten, który się narodził, król Judejczyków?\" — pytanie zadane w pałacu panującego króla. Magowie nie wiedzą, komu je zadają, i popełniają błąd, który uruchomi rzeź niewiniątek; opowiadanie nie obciąża ich jednak winą i nie przypisuje im naiwności. Rzecz jest zbudowana tak, żeby pokazać coś innego: adres jest zły, a odpowiedź z niego przychodzi prawdziwa. Ludzie, którzy chcą dziecko zabić, podają miejsce, w którym ono jest, i podają je poprawnie, cytując Pismo. Bóg w tej perykopie nie poprawia niczyich pomyłek i nie omija nikogo; prowadzi magów przez dwór Heroda, bo przez dwór Heroda przechodzi tekst Micheasza."
+      ],
+      [
+       "Czego nie można wziąć z powrotem",
+       "Wyrocznia z w. 12 zabrania jednej rzeczy: zawracania tą samą drogą. Nie mówi, czego się bać, nie wyjaśnia Heroda, nie nakazuje niczego poza zmianą trasy. Magowie, którzy przed chwilą usłuchali króla, teraz go nie słuchają, i żadna motywacja nie zostaje podana. Mateusz opisuje posłuszeństwo tak samo jak u Józefa — czasownikami wykonania, bez wnętrza. Wychodzi z tego zdanie o drodze: ten, kto raz upadł na twarz, nie wraca do punktu wyjścia, bo punkt wyjścia prowadzi do tego, kto poszukuje dziecka, by je zabić. Rzeczownik ὁδός (droga) zacznie u Mateusza niedługo znaczyć więcej niż trasę — Chrzciciel będzie przygotowywał drogę (3,3), a Mowa na górze postawi dwie drogi i dwie bramy (7,13–14)."
+      ],
+      [
+       "Pierwsi i ostatni",
+       "Pierwszymi, którzy w tej Ewangelii padają przed Jezusem na twarz, są obcy, przybyli z kraju, którego Mateusz nie nazywa, uprawiający sztukę zakazaną w Izraelu i nieznający Pisma. Ostatnie zdanie księgi każe jedenastu uczniom czynić uczniami wszystkie narody (28,19), a scena, w której to słyszą, otwiera się słowem προσεκύνησαν (pokłonili się, 28,17) — tym samym, które otwiera scenę w Betlejem. Między tymi punktami Mateusz rozsiewa pojedyncze głosy z tej samej strony: setnik z wiarą, jakiej nie było w Izraelu (8,10), zapowiedź przybyszów ze wschodu i z zachodu przy stole Abrahama (8,11), Kananejka wyprosząca uzdrowienie dla córki (15,21–28), królowa z południa jako świadek na sądzie (12,42), a pod krzyżem setnik i ci z nim wyznający Syna Bożego (27,54). Najbardziej żydowska z czterech Ewangelii zaczyna pokłonem pogan i kończy posłaniem do pogan, i nie traktuje tego jako zwrotu, lecz jako dopełnienie obietnicy danej Abrahamowi, od którego zaczyna się jej pierwszy wiersz."
+      ]
+     ]
+    },
+    {
+     "type": "odniesienia",
+     "title": "Sieć odniesień biblijnych",
+     "body": "Jedyny wyraźny cytat tej perykopy jest zszyty z dwóch miejsc Pisma i nie wymienia ani jednego z nich. Dalej idą odwołania nieoznaczone, z których dwa narzucały się starożytnym czytelnikom tak mocno, że Ojcowie brali je za oczywiste: wyrocznia Balaama o gwieździe i proroctwa o narodach niosących dary. Osobno trzeba policzyć odsyłacze wewnątrzmateuszowe, bo to one wyznaczają właściwy ciężar perykopy — pokłon, tytuł królewski i słowo o oddaleniu się.",
+     "children": [
+      [
+       "Mi 5,1 → w. 5–6",
+       "Źródło pierwszej połowy cytatu i jedyny tekst prorocki wiążący Mesjasza z Betlejem. Micheasz mówi do miasteczka małego wśród tysięcy Judy, że z niego wyjdzie władca Izraela, którego pochodzenie jest „od dni dawnych\". Mateusz zmienia trzy rzeczy: zastępuje אֶפְרָתָה (Efrata) przez γῆ Ἰούδα (ziemia Judy), odwraca stwierdzenie o małości przez οὐδαμῶς (w żaden sposób) i czyta spółgłoski אלפי jako אַלּוּפֵי (allufe, naczelnicy), a nie jako אַלְפֵי (alfe, tysiące). Trzy zmiany, z których żadna nie jest przypadkowa i żadna nie zmienia kierunku proroctwa."
+      ],
+      [
+       "2 Sm 5,2 → w. 5–6",
+       "Źródło drugiej połowy cytatu, zrośniętej z pierwszą bez szwu i bez wzmianki. Starszyzna Izraela przychodzi do Dawida w Hebronie i mówi mu, że to on będzie pasł lud Pana, Izraela, i będzie nad nim wodzem. Z tego zdania Mateusz bierze czasownik ποιμανεῖ (będzie pasł) i całe wyrażenie τὸν λαόν μου τὸν Ἰσραήλ (lud mój, Izraela) — wraz z zaimkiem „mój\", który w nowym kontekście nie ma do czego się odnieść i właśnie dlatego zdradza szew. Z proroka wzięto miejsce, z Księgi Samuela osobę i urząd."
+      ],
+      [
+       "Lb 24,15–19 → w. 1–2",
+       "Wyrocznia Balaama: wzejdzie gwiazda z Jakuba i podniesie się berło z Izraela. Mateusz jej nie cytuje i nie wspomina, a związek narzuca się mimo to przez trzy rzeczy — gwiazdę, wschodzenie i to, że mówcą jest wieszczbiarz z Mezopotamii, wezwany z zewnątrz i wbrew intencji zleceniodawcy błogosławiący Izraela (Lb 22,5–7). Tekst hebrajski ma כּוֹכָב (kochaw, gwiazda), LXX ἄστρον z czasownikiem ἀνατελεῖ (wzejdzie), tego samego rdzenia co Mateuszowe ἀνατολή (wschód). Qumran i powstanie Bar Kochby poświadczają, że lektura mesjańska była w tej epoce żywa."
+      ],
+      [
+       "Iz 60,1–6 → w. 11",
+       "Narody idą do światła wschodzącego nad Jerozolimą, królowie do blasku jej zorzy, a wielbłądy Madianu i Efy niosą złoto i kadzidło, głosząc chwałę Pana. Typologia jest tu pełna: figurą jest pielgrzymka narodów do odbudowanego miasta, wypełnieniem — przyjście obcych do dziecka w wiosce ośmiu kilometrów od tego miasta. Dwa z trzech darów z w. 11 stoją w tym tekście dosłownie. Trzeciego, mirry, nie ma, i stąd jego osobna waga."
+      ],
+      [
+       "Ps 72,10–11.15 → w. 11",
+       "Psalm o królu sprawiedliwym: królowie Tarszisz i wysp przyniosą dary, królowie Saby i Seby złożą daninę, pokłonią się mu wszyscy królowie, a przyniesione będzie złoto Saby. Z tego psalmu, nie z Mateusza, pochodzi przekonanie, że magowie byli królami, i stąd wzięła je cała ikonografia zachodnia. Psalm jest też najmocniejszym w Psałterzu połączeniem hołdu, darów i panowania od morza do morza — czyli dokładnie tych elementów, które perykopa układa wokół dziecka bez tronu."
+      ],
+      [
+       "1 Krl 10,1–13 i Mt 12,42 → w. 11",
+       "Królowa Saby przybywa z końca świata do Jerozolimy, by wysłuchać mądrości Salomona, i przywozi wielbłądy wyładowane wonnościami, złotem i drogimi kamieniami. Mateusz sam wiąże tę scenę z Jezusem, gdy mówi o królowej z południa, która stanie na sądzie przeciw temu pokoleniu, bo przyszła z końca świata słuchać Salomona, a tu jest coś więcej niż Salomon (12,42). Paralela dotyczy nie darów, lecz kierunku: obcy przebywa drogę, by usłyszeć, a bliski nie przechodzi ośmiu kilometrów."
+      ],
+      [
+       "Dn 2,1–12 → w. 1.4",
+       "W greckiej Biblii μάγοι są jedną z grup wezwanych przez Nabuchodonozora, gdy chce poznać znaczenie snu, i grupą, która zawodzi; tłumaczem okazuje się Daniel. Tło jest podwójne: dostarcza neutralnego znaczenia słowa, którym Mateusz nazywa swoich przybyszów, i dostarcza wzoru scenie z w. 4 — król zwołuje fachowców, by wydobyć z nich tajemnicę dotyczącą królestwa. U Daniela fachowcy nie umieją odpowiedzieć, u Mateusza umieją, i to jest cała różnica."
+      ],
+      [
+       "Pwt 18,9–14 i Iz 47,13 → w. 2",
+       "Kontrast, którego nie wolno zatrzeć. Prawo zakazuje w Izraelu wróżbiarstwa, wypatrywania znaków i pytania zmarłych, wymieniając te praktyki jako przyczynę wypędzenia narodów z ziemi; Izajasz wyśmiewa babilońskich astrologów, każąc im stawać do walki z własnymi rachunkami nieba. Mateusz nie uchyla tych zakazów i nie usprawiedliwia magów — stawia obok siebie sztukę zakazaną i pokłon przyjęty, i zostawia zestawienie bez komentarza. Ojcowie wyciągali z tego wniosek, że gwiazda była wezwaniem skierowanym do nich w języku, który znali, i zarazem końcem tego języka."
+      ],
+      [
+       "1 Sm 16,1–13 → w. 5–6",
+       "Samuel zostaje posłany do Betlejem, do Jessego, i przechodzi siedmiu synów, zanim Pan wskaże najmłodszego, pasącego owce, którego nawet nie przyprowadzono na ofiarę. Figurą jest wybór pominiętego w miejscu bez znaczenia, wypełnieniem — narodzenie w tym samym miasteczku, o którym cytat mówi „w żaden sposób nie jesteś najmniejsze\". Ten sam tekst dostarcza pasterskiego tła dla ποιμανεῖ z w. 6: Dawid pasł, zanim został namaszczony."
+      ],
+      [
+       "Mt 27,11.29.37 → w. 2",
+       "Tytuł βασιλεὺς τῶν Ἰουδαίων (król Judejczyków) pada w tej Ewangelii dwa razy jako pytanie — raz w ustach magów, raz w ustach Piłata — i dwa razy w scenie Męki, w drwinie żołnierzy i na tablicy nad krzyżem. Za każdym razem mówią go poganie; po stronie żydowskiej stoi ὁ χριστός (Mesjasz) albo βασιλεὺς Ἰσραήλ (król Izraela). Paralela jest dosłowna i Mateusz nigdy jej nie łamie: tytuł wprowadzony przez przybyszów przy kołysce zostaje przybity nad ukrzyżowanym."
+      ],
+      [
+       "Mt 4,8–10 → w. 2.8.11",
+       "Szatan prowadzi Jezusa na wysoką górę, pokazuje królestwa świata i obiecuje je w zamian za jedną rzecz: ἐὰν πεσὼν προσκυνήσῃς μοι (jeśli upadłszy, pokłonisz się mi) — tę samą parę czasowników, która opisuje czyn magów. Odpowiedź przytacza Prawo: Panu Bogu twojemu będziesz się kłaniał i Jemu samemu służył. Kontrast rozstrzyga o znaczeniu pokłonu z w. 11, bo pokazuje, że w tej Ewangelii gest nie jest obojętny i że jego adresat jest jeden."
+      ],
+      [
+       "Mt 1,19 → w. 7",
+       "Przysłówek λάθρᾳ (potajemnie) pada u Mateusza dwa razy. W 1,19 Józef chce potajemnie oddalić Marię, by jej nie wystawić na widok; w 2,7 Herod potajemnie wzywa magów, by wydobyć czas gwiazdy. Ta sama dyskrecja służy raz oszczędzeniu człowieka, raz przygotowaniu zabójstwa. Kontrast jest zbudowany jednym słowem i Mateusz go nie nazywa."
+      ],
+      [
+       "Mt 8,11 i Mt 28,16–20 → całość",
+       "Wyrażenie ἀπὸ ἀνατολῶν (ze wschodu) wraca u Mateusza raz, w zdaniu o wielu, którzy przyjdą ze wschodu i z zachodu, by zasiąść z Abrahamem, Izaakiem i Jakubem w królestwie niebios, podczas gdy synowie królestwa zostaną wyrzuceni. Zdanie to jest wykładem perykopy o magach, wypowiedzianym sześć rozdziałów później, przy okazji wiary setnika. Zamknięcie zaś stoi na końcu księgi: jedenastu oddaje pokłon i słyszy nakaz wobec wszystkich narodów. Rozwinięcie biegnie więc od pokłonu obcych do posłania do obcych."
+      ],
+      [
+       "Mt 21,1–11 → w. 3",
+       "Dwa razy Jerozolima reaguje na przybycie Jezusa i oba razy Mateusz opisuje to czasownikiem w stronie biernej z przymiotnikiem πᾶσα (cała). W 2,3 ἐταράχθη πᾶσα Ἱεροσόλυμα (zatrwożyła się cała Jerozolima), gdy do miasta przyjeżdżają obcy z pytaniem; w 21,10 ἐσείσθη πᾶσα ἡ πόλις (zadrżało całe miasto), gdy wjeżdża On sam, i miasto pyta: kto to jest. Paralela jest celowa i zamyka klamrę: pytanie, które przywieźli magowie, miasto zadaje samo, dziewiętnaście rozdziałów później."
+      ],
+      [
+       "Łk 2,1–20 → całość",
+       "Drugie opowiadanie o dzieciństwie, niezależne i w szczegółach nieuzgadnialne. U Łukasza jest spis, podróż z Nazaretu, brak miejsca, żłób, pasterze z okolicy i hymn aniołów; u Mateusza rodzina mieszka w domu w Betlejem, przychodzą obcy z daleka, nie ma ani żłobu, ani pasterzy, ani aniołów na niebie. Wspólne są cztery rzeczy: Betlejem, Maria, Józef i Nazaret jako miejsce dalszego życia. Zestawienie obu tekstów jest konieczne właśnie po to, by nie czytać jednego przez drugi — bo jaskinia, wół i osioł nie pochodzą z żadnego z nich."
+      ],
+      [
+       "Wj 30,22–38 → w. 11",
+       "Mirra jest pierwszym składnikiem świętego oleju namaszczenia, kadzidło — składnikiem kadzidła zastrzeżonego wyłącznie dla przybytku, którego wytwarzanie na własny użytek karane było wyłączeniem ze zgromadzenia. Tło to zmienia wagę w. 11, bo obie żywice mają w Prawie przeznaczenie kultowe i obie zostają tu przyniesione do prywatnego domu. Namaszczenie i kadzenie należą do świątyni; magowie składają ich materiał przed dzieckiem."
+      ],
+      [
+       "J 19,38–40 → w. 11",
+       "Mirra wraca w Nowym Testamencie przy pogrzebie Jezusa, gdy Nikodem przynosi mieszaninę mirry i aloesu, około stu funtów. Na tym odsyłaczu, a nie na tekście Mateusza, opiera się tradycyjna wykładnia trzeciego daru jako przepowiedzenia śmierci — i trzeba to powiedzieć wprost, bo u Mateusza napój pod krzyżem jest winem z żółcią (27,34), nie z mirrą. Paralela jest zatem prawdziwa, lecz międzyewangeliczna; wewnątrz Mateusza mirra pada raz jedyny i bez wyjaśnienia."
+      ]
+     ]
+    },
+    {
+     "type": "recepcja",
+     "title": "Znaczenie w historii i liturgii Kościoła",
+     "body": null,
+     "children": [
+      [
+       "Historia dogmatu: gwiazda przeciw fatum",
+       "Perykopa nie wywołała własnego sporu dogmatycznego, ale dostarczała argumentów w dwóch innych. Pierwszy dotyczył powołania narodów. Przeciw lekturze, która wiązała zbawienie z przynależnością do Izraela, Ojcowie odwoływali się do magów jako do pierwocin pogan — najmocniej Leon Wielki w mowach na Objawienie Pańskie, dla którego Epifania jest świętem powołania narodów, i Augustyn, który w kazaniach na ten dzień zestawia pasterzy jako pierwocinę Izraela z magami jako pierwociną pogan. Drugi spór dotyczył astrologii i był w pierwszych wiekach gorący, bo wiara w nieodwracalny los pisany w gwiazdach była w cesarstwie powszechna. Chrześcijańska odpowiedź używała tej właśnie perykopy przeciw astrologii: skoro gwiazda posłużyła do przyprowadzenia magów do Chrystusa, to z chwilą Jego przyjścia sztuka gwiezdna straciła swój przedmiot. Najstarsze znane sformułowanie tej myśli należy do Ignacego Antiocheńskiego, który w liście do Efezjan pisze o gwieździe przewyższającej blaskiem wszystkie i o tym, że odtąd rozwiązywać się zaczęło wszelkie czarowanie (*Ad Eph.* 19,2–3); Orygenes rozwija ją w *Contra Celsum* I,60, łącząc z wyrocznią Balaama. Z późniejszych rozstrzygnięć: scholastyka odebrała gwieździe status ciała niebieskiego właśnie po to, by nie przyznawać racji astrologom (*ST* III, q. 36, a. 5). Loci patrystyczne i brzmienia kazań wymagają sprawdzenia przy źródłach."
+      ],
+      [
+       "Liturgia",
+       "W rycie rzymskim Mt 2,1–12 jest Ewangelią uroczystości Objawienia Pańskiego, 6 stycznia, i nie podlega cyklowi trzyletniemu — czyta się ją w każdym roku A, B i C, bo uroczystość ma własne, stałe czytania: Iz 60,1–6, Ps 72, Ef 3,2–3a.5–6 i ta perykopa. Tam, gdzie święto nie jest dniem nakazanym, przenosi się je na niedzielę między 2 i 8 stycznia; w Polsce jest dniem nakazanym i od 2011 r. ponownie także dniem ustawowo wolnym. Po Ewangelii uroczystości śpiewa się orędzie o święcie Paschy i o dniach ruchomych roku, zaczynające się od słowa *Noveritis* (dowiedzcie się). Z obrzędów ludowych i błogosławieństw tego dnia najtrwalsze są poświęcenie złota, kadzidła i kredy oraz pisanie na drzwiach liter K+M+B — odczytywanych albo jako imiona magów, albo jako *Christus mansionem benedicat* (Chrystus niech błogosławi temu domowi); od 2009 r. doszły w polskich miastach Orszaki Trzech Króli. W Liturgii godzin hymnem Epifanii jest *Hostis Herodes impie* (Herodzie, wrogu bezbożny), fragment abecedariusza Seduliusza, w brewiarzu po poprawkach Urbana VIII zaczynający się od *Crudelis Herodes* (okrutny Herodzie), oraz *O sola magnarum urbium* Prudencjusza. Antyfona do Benedictus wymienia natomiast trzy tajemnice tego dnia naraz — *Tribus miraculis ornatum diem sanctum colimus* (czcimy dzień święty ozdobiony trzema cudami): pokłon magów, chrzest w Jordanie i wesele w Kanie — choć Ewangelia mszalna podaje tylko pierwszą z nich. Rozróżnienie jest rzeczowe: związek Epifanii z chrztem i Kaną jest w rycie rzymskim antyfonalny i kaznodziejski, nie lekcjonarzowy.\n\nWschód rozkłada to zupełnie inaczej, i tę różnicę trzeba podać wprost, bo zbieżność daty jest myląca. W rycie bizantyjskim 6 stycznia to Θεοφάνεια (Teofania), święto chrztu Pańskiego, a jego Ewangelią jest Mt 3,13–17 — magów nie ma w nim wcale. Pokłon magów należy na Wschodzie do samego Narodzenia Chrystusa, 25 grudnia, i Mt 2,1–12 jest Ewangelią Liturgii tego dnia; wchodzi też w Wielkie Godziny Królewskie czytane w wigilię. Zachód więc rozdzielił dwa wydarzenia na dwa święta i magów przypisał drugiemu, Wschód trzyma je razem w pierwszym, a drugie oddał chrztowi. Sigla Lekcjonarza rzymskiego, zakresy perykop, brzmienia hymnów i antyfon oraz rubryki typikonu bizantyjskiego wymagają sprawdzenia w księgach przed publikacją."
+      ],
+      [
+       "Trzej królowie: liczba, imiona, relikwie, obrazy",
+       "Z tekstu Mateusza nie wynika ani liczba magów, ani ich godność królewska, ani imiona. Liczba trzy pochodzi z trzech darów i utrwaliła się na Zachodzie, lecz nie wszędzie: tradycja syryjska i ormiańska mówi o dwunastu, a najstarsze malarstwo rzymskie podaje raz dwóch, raz czterech. Godność królewska pochodzi z Ps 72,10–11 i Iz 60,3, nie z Ewangelii. Imiona Kacper, Melchior i Baltazar pojawiają się w łacińskim Zachodzie najwcześniej około szóstego wieku, w *Excerpta latina barbari*, i w inskrypcjach mozaiki w Sant'Apollinare Nuovo w Rawennie, gdzie trzej idą w czapkach frygijskich — strój, którym sztuka wczesnochrześcijańska znaczyła cudzoziemca z Persji. Sam pokłon magów jest najczęstszą scennością chrystologiczną sztuki przedkonstantyńskiej: występuje w katakumbie Pryscylli i na sarkofagach trzeciego i czwartego wieku częściej niż Narodzenie, bo mówi o tym, co dla Kościoła z pogan było własną historią. Relikwie, uznawane za szczątki magów, przeniósł z Mediolanu do Kolonii w 1164 r. arcybiskup Rainald von Dassel, a ich relikwiarz, dzieło Mikołaja z Verdun, powstawał od około 1180 r. — od niego wziął początek ruch pielgrzymkowy, z którego wyrosła katedra kolońska. Datowania, atrybucje, inskrypcje rawenneńskie i stan relikwii wymagają weryfikacji przy źródłach."
+      ]
+     ]
+    },
+    {
+     "type": "patrystyka",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
+     "body": "Ta perykopa ma u Ojców komentarzy więcej niż jakakolwiek inna z dzieciństwa, i wszystkie krążą wokół dwóch pytań: dlaczego Bóg przemówił do magów przez gwiazdę, czyli przez sztukę zakazaną, i dlaczego ci, którzy znali Pismo, nie poszli. Poniżej cztery głosy o czterech różnych akcentach — Chryzostom o zniżeniu się Boga do cudzej umiejętności, Hieronim o samobójczej uczoności arcykapłanów i o swobodzie cytatu, Orygenes o znaczeniu trzech darów i o końcu wieszczbiarstwa, Leon Wielki o drodze, którą się nie wraca.",
+     "children": []
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "body": "Osiem kilometrów. Tyle dzieli pałac, w którym cytują Micheasza, od domu, w którym jest dziecko, i tej odległości nie przebywa nikt z tych, którzy umieją cytować. Przebywają ją obcy, którzy przyjechali z odległości, jakiej Mateusz nawet nie podaje, i którzy do Jerozolimy trafili nie dlatego, że czytali Pismo, lecz dlatego, że źle odczytali swoją własną sztukę. Cała perykopa stoi na tej nierównowadze, i nie jest ona ironią literacką, lecz twierdzeniem: wiedza o tekście i posłuszeństwo wobec tego, o czym tekst mówi, są dwiema różnymi rzeczami, i Mateusz pisze to w rozdziale drugim, zanim powie o Jezusie choćby jedno słowo w czasie teraźniejszym.\n\nTrzy drogi układają się przy tym w porządek, który nie jest drabiną. Gwiazda przywiodła magów do niewłaściwego miasta — wiedza naturalna dała im prawdę o fakcie i pomyłkę co do miejsca. Pismo podało miejsce i nie poruszyło tych, którzy je odczytali. Wyrocznia we śnie nie wyjaśniła niczego i zakazała jednej rzeczy. Żaden z tych trzech porządków nie wystarczył osobno, i Mateusz nie wskazuje wśród nich najwyższego: po Piśmie wraca gwiazda i prowadzi do drzwi. Tyle można o tej scenie powiedzieć o poznaniu, i ani słowa więcej, bo tekst nie mówi, co magowie myśleli, tylko co zrobili.\n\nPokłon pada w tej perykopie trzy razy i tylko raz jest prawdziwy. Zapowiadają go przybysze, obiecuje go król, wykonują przybysze — i to król kłamie. Mateusz nie komentuje tej asymetrii, tak jak nie komentował niczego innego; zapisuje czasowniki i zostawia rachunek. Ale w jego księdze ten rachunek się domyka: ten sam gest, o który tu chodzi, zażąda dla siebie szatan na górze i usłyszy, że należy się on jednemu (4,9–10), a na innej górze, w Galilei, oddadzą go uczniowie, zanim usłyszą o wszystkich narodach (28,17–19). Pierwsi, którzy w tej Ewangelii upadają przed Jezusem na twarz, nie mają w niej imion, kraju ani liczby, a sztuka, którą uprawiają, jest w Izraelu zakazana.\n\nZostaje tytuł, i on jest najcięższy. Βασιλεὺς τῶν Ἰουδαίων (król Judejczyków) pada u Mateusza w pytaniu magów i nie wraca aż do przesłuchania u Piłata, gdzie zadaje je drugi poganin, po czym żołnierze powtórzą go w drwinie, a pisarz wypisze na tablicy nad głową ukrzyżowanego. Dwa razy to brzmienie wchodzi do tej księgi i oba razy z zewnątrz: raz jako pytanie tych, którzy przyjechali dać, raz jako wyrok tych, którzy przyszli zabić. Między jednym i drugim stoi to, co Herod zaczął w w. 7, licząc czas gwiazdy — a czego skutek Mateusz opisze dopiero po ucieczce do Egiptu.",
+     "children": []
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "body": "*Tekst grecki wedle wydania krytycznego Nestle-Aland, pobrany z `db.sqlite` (księga 470) wraz z Wulgatą klementyńską, morfologią MorphGNT i aparatem; znaki aparatu (`°`, `⸋`, `⸂`, `⸉`, `⸀`, `˸`) usunięte z zapisu perykopy. Przekład polski jest roboczy, własny i celowo dosłowny — nie pochodzi z żadnego wydania objętego prawem autorskim; przekład międzywierszowy z `db.sqlite` posłużył wyłącznie jako materiał kontrolny. Transkrypcje hebrajskie uproszczone. Liczby wystąpień słów u Mateusza (μάγος cztery razy, ἀστήρ pięć, ἀνατολή pięć, προσκυνέω trzynaście, ποιμαίνω raz, ἡγέομαι raz, ἡγεμών dziesięć, ἀναχωρέω dziesięć, χρηματίζω dwa, παιδίον osiemnaście, θησαυρός dziewięć, δῶρον dziewięć, προσφέρω piętnaście, ταράσσω dwa, τίκτω cztery, ἀκριβόω dwa, ἀκριβῶς raz, προάγω sześć, λαός czternaście, λάθρᾳ dwa, Βηθλέεμ pięć, Ἰουδαῖος pięć, σφόδρα siedem, λίβανος i σμύρνα po razie) policzone w tabeli `words` po numerach Stronga. Formę rodzaju żeńskiego `Ἱεροσόλυμα` w 2,3 wobec dziesięciu form nijakich liczby mnogiej sprawdzono w kolumnie `morphology`. Noty tekstualne opierają się na ośmiu wpisach aparatu dla Mt 2,1–12 w tabeli `commentaries`; świadków podano wedle tych wpisów.*\n\n*Loci patrystyczne — numery homilii Chryzostoma, miejsca u Hieronima, Orygenesa, Ignacego Antiocheńskiego i Leona Wielkiego — podano wedle standardowej numeracji i przed publikacją wymagają sprawdzenia przy źródłach (Źródła Myśli Teologicznej, PSP, Migne). To samo dotyczy sigliów Lekcjonarza rzymskiego i zakresu czytań uroczystości, brzmień hymnów i antyfon Epifanii, rubryk typikonu bizantyjskiego, danych Józefa Flawiusza o straconych przez Heroda, datowania koniunkcji z 7 r. przed Chr. i źródeł chińskich, lokalizacji targumu do Mi 5,1 i miejsc rabinicznych, a także datowań i atrybucji w ikonografii (katakumba Pryscylli, mozaika w Sant'Apollinare Nuovo, relikwiarz Mikołaja z Verdun). Przy pracy publikacyjnej warto zestawić analizę z komentarzami: U. Luz, W. D. Davies – D. C. Allison (ICC), R. T. France (NICNT), a po polsku A. Paciorek (NKB NT I); do spraw gwiazdy osobno z literaturą astronomiczną, a do magów z opracowaniami religii irańskiej.*",
+     "children": []
+    }
+   ],
+   "refs": [
+    [
+     [
+      "pericope"
+     ],
+     "Mi",
+     5,
+     1,
+     5,
+     3,
+     "Mi 5,1–3",
+     "cytat",
+     "Źródło pierwszej połowy cytatu z w. 6 i jedyne proroctwo wiążące Mesjasza z Betlejem. Mateusz odwraca stwierdzenie o małości miasteczka, zamienia אֶפְרָתָה (Efrata) na γῆ Ἰούδα (ziemia Judy) i czyta spółgłoski אלפי jako אַלּוּפֵי (allufe, naczelnicy), nie jako אַלְפֵי (alfe, tysiące) — czyli nie idzie ani za LXX, ani za masoreckim odczytaniem."
+    ],
+    [
+     [
+      "unit",
+      "w. 3–6",
+      6
+     ],
+     "2 Sm",
+     5,
+     1,
+     5,
+     3,
+     "2 Sm 5,1–3",
+     "cytat",
+     "Źródło drugiej połowy cytatu. Starszyzna Izraela mówi Dawidowi w Hebronie, że to on będzie pasł lud Pana i będzie nad nim wodzem; stąd ποιμανεῖ (będzie pasł) i τὸν λαόν μου τὸν Ἰσραήλ (lud mój, Izraela) wraz z zaimkiem, który w nowym kontekście nie ma odniesienia."
+    ],
+    [
+     [
+      "unit",
+      "w. 1–2",
+      5
+     ],
+     "Lb",
+     24,
+     15,
+     24,
+     19,
+     "Lb 24,15–19",
+     "aluzja",
+     "Wyrocznia Balaama o gwieździe wschodzącej z Jakuba i berle podnoszącym się z Izraela. Mateusz jej nie cytuje; związek biegnie przez gwiazdę, przez rdzeń ἀνατολ- (LXX ἀνατελεῖ, wzejdzie) i przez to, że mówcą jest wieszczbiarz wezwany z Mezopotamii."
+    ],
+    [
+     [
+      "unit",
+      "w. 1–2",
+      3
+     ],
+     "Lb",
+     22,
+     5,
+     22,
+     7,
+     "Lb 22,5–7",
+     "tlo",
+     "Balaam, sprowadzony z Petor nad Rzeką, jest w Pięcioksięgu pierwowzorem obcego wieszczbiarza, przez którego Bóg mówi wbrew intencji zleceniodawcy. Tradycja żydowska i chrześcijańska nazywała go magiem, i to ona ustawiła tło dla czytania magów z Mt 2."
+    ],
+    [
+     [
+      "unit",
+      "w. 11",
+      4
+     ],
+     "Iz",
+     60,
+     1,
+     60,
+     6,
+     "Iz 60,1–6",
+     "typologia",
+     "Narody i królowie idą do światła wschodzącego nad Jerozolimą, wielbłądy Madianu i Efy niosą złoto i kadzidło. Figurą jest pielgrzymka narodów do odbudowanego miasta, wypełnieniem — przyjście obcych do dziecka w wiosce pod tym miastem. Dwa z trzech darów stoją w tym tekście dosłownie; mirry w nim nie ma."
+    ],
+    [
+     [
+      "unit",
+      "w. 11",
+      4
+     ],
+     "Ps",
+     72,
+     10,
+     72,
+     11,
+     "Ps 72,10–11",
+     "typologia",
+     "Królowie Tarszisz, Saby i Seby przynoszą dary i padają na twarz przed królem sprawiedliwym. Z tego psalmu, nie z Mateusza, pochodzi przekonanie o królewskiej godności magów, które przeszło do całej ikonografii zachodniej."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "1 Krl",
+     10,
+     1,
+     10,
+     13,
+     "1 Krl 10,1–13",
+     "typologia",
+     "Królowa Saby przybywa z końca świata do Jerozolimy, wioząc wonności, złoto i drogie kamienie, by usłyszeć mądrość Salomona. Mateusz sam ustanawia tę paralelę w 12,42, gdzie królowa z południa staje na sądzie przeciw temu pokoleniu — paralela dotyczy kierunku ruchu, nie darów."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Mt",
+     12,
+     38,
+     12,
+     42,
+     "Mt 12,38–42",
+     "paralela",
+     "Żądanie znaku i odmowa: królowa z południa przyszła z końca ziemi słuchać Salomona, a tu jest coś więcej niż Salomon. Zestawienie domyka perykopę o magach — ci, którzy mieli Pismo, żądają znaku, a ci, którzy mieli tylko znak, przejechali drogę."
+    ],
+    [
+     [
+      "unit",
+      "w. 1–2",
+      3
+     ],
+     "Dn",
+     2,
+     1,
+     2,
+     12,
+     "Dn 2,1–12",
+     "tlo",
+     "W greckiej Biblii μάγοι są jedną z grup wezwanych przez Nabuchodonozora i grupą, która zawodzi. Tło podwójne: neutralne znaczenie terminu, którym Mateusz nazywa przybyszów, i wzór scenicznego układu z w. 4 — król zwołuje fachowców po tajemnicę dotyczącą królestwa."
+    ],
+    [
+     [
+      "unit",
+      "w. 1–2",
+      6
+     ],
+     "Pwt",
+     18,
+     9,
+     18,
+     14,
+     "Pwt 18,9–14",
+     "kontrast",
+     "Prawo zakazuje w Izraelu wróżbiarstwa i wypatrywania znaków, wymieniając te praktyki jako przyczynę wypędzenia narodów z ziemi. Mateusz nie uchyla zakazu i nie usprawiedliwia magów; stawia obok siebie sztukę zakazaną i pokłon przyjęty."
+    ],
+    [
+     [
+      "section",
+      "Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Iz",
+     47,
+     13,
+     47,
+     13,
+     "Iz 47,13",
+     "kontrast",
+     "Izajasz wyśmiewa babilońskich astrologów, każąc im stawać do walki z własnymi rachunkami nieba. Tekst pokazuje, jak judaizm oceniał dokładnie tę umiejętność, którą przybysze z Mt 2 przywożą ze sobą."
+    ],
+    [
+     [
+      "unit",
+      "w. 3–6",
+      4
+     ],
+     "1 Sm",
+     16,
+     1,
+     16,
+     13,
+     "1 Sm 16,1–13",
+     "typologia",
+     "Samuel posłany do Betlejem przechodzi siedmiu synów Jessego, zanim Pan wskaże najmłodszego, pasącego owce i nieprzyprowadzonego na ofiarę. Figurą jest wybór pominiętego w miejscu bez znaczenia, wypełnieniem — narodzenie w tym samym miasteczku; ten sam tekst daje tło pasterskie dla ποιμανεῖ z w. 6."
+    ],
+    [
+     [
+      "unit",
+      "w. 1–2",
+      4
+     ],
+     "Mt",
+     27,
+     11,
+     27,
+     11,
+     "Mt 27,11",
+     "paralela",
+     "Pytanie Piłata σὺ εἶ ὁ βασιλεὺς τῶν Ἰουδαίων (ty jesteś król Judejczyków) jest drugim i ostatnim miejscem, w którym ten tytuł pada u Mateusza jako pytanie, i również w ustach poganina. Z tytułem magów łączy je dosłowne brzmienie."
+    ],
+    [
+     [
+      "unit",
+      "w. 1–2",
+      4
+     ],
+     "Mt",
+     27,
+     29,
+     27,
+     37,
+     "Mt 27,29.37",
+     "paralela",
+     "Drwina żołnierzy χαῖρε βασιλεῦ τῶν Ἰουδαίων (witaj, królu Judejczyków) i napis nad krzyżem οὗτός ἐστιν Ἰησοῦς ὁ βασιλεὺς τῶν Ἰουδαίων. Tytuł wprowadzony do Ewangelii przez przybyszów przy kołysce zostaje przybity nad ukrzyżowanym, i oba razy używają go poganie."
+    ],
+    [
+     [
+      "unit",
+      "w. 11",
+      2
+     ],
+     "Mt",
+     4,
+     8,
+     4,
+     10,
+     "Mt 4,8–10",
+     "kontrast",
+     "Szatan obiecuje królestwa świata za jedną rzecz: ἐὰν πεσὼν προσκυνήσῃς μοι (jeśli upadłszy, pokłonisz się mi) — tę samą parę czasowników, którą opisany jest czyn magów. Odpowiedź z Prawa rozstrzyga, że pokłon ma jednego adresata, i tym samym określa znaczenie w. 11."
+    ],
+    [
+     [
+      "unit",
+      "w. 7–8",
+      0
+     ],
+     "Mt",
+     1,
+     19,
+     1,
+     19,
+     "Mt 1,19",
+     "kontrast",
+     "Przysłówek λάθρᾳ (potajemnie) pada u Mateusza dwa razy. Józef chce potajemnie oddalić Marię, by jej nie wystawić na widok; Herod potajemnie wzywa magów, by wydobyć czas gwiazdy. Ta sama dyskrecja służy raz oszczędzeniu, raz przygotowaniu zabójstwa."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mt",
+     8,
+     10,
+     8,
+     12,
+     "Mt 8,10–12",
+     "rozwiniecie",
+     "Przy wierze setnika Jezus mówi o wielu, którzy przyjdą ἀπὸ ἀνατολῶν καὶ δυσμῶν (ze wschodu i z zachodu), by zasiąść z Abrahamem, Izaakiem i Jakubem, podczas gdy synowie królestwa zostaną wyrzuceni. To wykład perykopy o magach, podany sześć rozdziałów później i tym samym wyrażeniem."
+    ],
+    [
+     [
+      "section",
+      "Zakończenie: intencja całości"
+     ],
+     "Mt",
+     28,
+     16,
+     28,
+     20,
+     "Mt 28,16–20",
+     "rozwiniecie",
+     "Jedenastu na górze w Galilei oddaje pokłon — προσεκύνησαν, to samo słowo co w 2,11 — i słyszy nakaz wobec wszystkich narodów. Pokłon obcych przy kołysce i posłanie do obcych na końcu księgi są dwoma końcami jednej klamry."
+    ],
+    [
+     [
+      "unit",
+      "w. 3–6",
+      0
+     ],
+     "Mt",
+     21,
+     1,
+     21,
+     11,
+     "Mt 21,1–11",
+     "paralela",
+     "Dwa razy Jerozolima reaguje na przybycie i oba razy Mateusz pisze to stroną bierną z πᾶσα (cała): ἐταράχθη πᾶσα Ἱεροσόλυμα (2,3) i ἐσείσθη πᾶσα ἡ πόλις (21,10). Za pierwszym razem miasto słyszy pytanie magów, za drugim widzi odpowiedź i pyta samo: kto to jest."
+    ],
+    [
+     [
+      "section",
+      "Autor ludzki: kim jest i co chce przekazać"
+     ],
+     "Łk",
+     2,
+     1,
+     2,
+     20,
+     "Łk 2,1–20",
+     "paralela",
+     "Drugie opowiadanie o dzieciństwie, niezależne i w szczegółach nieuzgadnialne: spis, podróż z Nazaretu, brak miejsca, żłób, pasterze, hymn aniołów. Wspólne są Betlejem, Maria, Józef i Nazaret; jaskinia, wół i osioł nie pochodzą z żadnego z dwóch tekstów."
+    ],
+    [
+     [
+      "unit",
+      "w. 11",
+      4
+     ],
+     "Wj",
+     30,
+     22,
+     30,
+     38,
+     "Wj 30,22–38",
+     "tlo",
+     "Mirra jest pierwszym składnikiem świętego oleju namaszczenia, kadzidło — składnikiem kadzidła zastrzeżonego dla przybytku, którego wyrób na użytek prywatny karano wyłączeniem ze zgromadzenia. Oba dary mają w Prawie przeznaczenie kultowe i oba zostają przyniesione do prywatnego domu."
+    ],
+    [
+     [
+      "unit",
+      "w. 11",
+      4
+     ],
+     "J",
+     19,
+     38,
+     19,
+     40,
+     "J 19,38–40",
+     "paralela",
+     "Mirra wraca przy pogrzebie Jezusa, gdy Nikodem przynosi mieszaninę mirry i aloesu. Na tym miejscu, nie na tekście Mateusza, opiera się wykładnia trzeciego daru jako przepowiedzenia śmierci — u Mateusza napój pod krzyżem jest winem z żółcią (27,34), nie z mirrą."
+    ],
+    [
+     [
+      "unit",
+      "w. 1–2",
+      0
+     ],
+     "Mt",
+     1,
+     18,
+     1,
+     25,
+     "Mt 1,18–25",
+     "tlo",
+     "Imiesłów γεννηθέντος z w. 1 i tytuł ὁ τεχθείς z w. 2 przytaczają dwa czasowniki poprzedniej perykopy: γεννάω, którym rodowód operował czterdzieści razy, i τίκτω, którym anioł i prorok mówili o Marii (1,21.23.25). Rozdział drugi zaczyna się od słów rozdziału pierwszego."
+    ],
+    [
+     [
+      "section",
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Dz",
+     13,
+     6,
+     13,
+     8,
+     "Dz 13,6–8",
+     "tlo",
+     "Bar-Jezus na Cyprze jest nazwany μάγος i fałszywym prorokiem, a w Samarii Szymon uprawia μαγεία (Dz 8,9.11). Poza Mateuszem Nowy Testament używa tego terminu wyłącznie pejoratywnie, co pokazuje, jak nieoczywisty jest wybór słowa w Mt 2,1."
+    ]
+   ],
+   "patristic": [
+    [
+     "w. 1–2",
+     "św. Jan Chryzostom",
+     "Homiliae in Matthaeum",
+     "Hom. in Mt. 6",
+     "Chryzostom bierze się za pytanie najtrudniejsze: po co Bóg posłużył się gwiazdą, skoro czytanie gwiazd było zabobonem. Odpowiada, że Bóg przemówił do magów w jedynym języku, jaki znali, tak jak do rybaków przemówił przez połów, a do Samarytanki przez wodę — zniżenie się do cudzej umiejętności nie jest jej zatwierdzeniem, lecz sposobem wyprowadzenia z niej. Dowodem ma być to, że gwiazda nie dała im tego, czego oczekiwali: nie wskazała miejsca, tylko przywiodła ich do miasta, w którym musieli spytać o Pismo. Kaznodzieja zaznacza przy tym, że przybysze przebyli długą drogę, by zapytać o dziecko, którego właśni ziomkowie nie poszli zobaczyć o milę — i to zestawienie, nie sama gwiazda, jest dla niego sensem opowiadania. Dodaje jeszcze uwagę o Herodzie, że trwoga władcy wobec niemowlęcia zdradza, jak słabo panuje ten, kto panuje przez strach."
+    ],
+    [
+     "w. 3–6",
+     "św. Hieronim",
+     "Commentariorum in Matthaeum libri IV",
+     "In Mt. I ad 2,5–6",
+     "Hieronim, jako jedyny z łacińskich komentatorów Mateusza pracujący przy tekście hebrajskim, zauważa wprost, że cytat w w. 6 nie zgadza się ani z hebrajskim Micheaszem, ani z przekładem greckim, i nie udaje, że problemu nie ma. Tłumaczy to swobodą apostolską w przytaczaniu: ewangelista podaje sens, nie litery, a odwrócenie zdania o małości Betlejem jest u niego wykładem, nie pomyłką — miasto było najmniejsze przed narodzeniem i przestało być nim po nim. Drugi jego akcent dotyczy arcykapłanów. Znali miejsce, podali je bez wahania i tym samym wydali wyrok na siebie, bo nikt nie jest bardziej bez wymówki niż ten, kto wskazuje drogę i nią nie idzie; wiedza, której się nie usłucha, obraca się w oskarżenie. Hieronim dorzuca, że Herod kazał szukać dziecka, by je zabić, a oni mu w tym pomogli, nie wiedząc, co czynią."
+    ],
+    [
+     "w. 11",
+     "Orygenes",
+     "Contra Celsum",
+     "C. Cels. I,60",
+     "Orygenes odpowiada Celsusowi, który wyszydzał opowiadanie o magach jako bajkę, i robi to dwoma argumentami. Pierwszy dotyczy gwiazdy: była ona nowym zjawiskiem, w rodzaju komet, jakie starożytni wiązali z przełomami w dziejach, i jej pojawienie się przy narodzeniu Chrystusa znaczyło koniec władzy, którą demony sprawowały przez wieszczbiarstwo — magowie przyszli, bo ich sztuka przestała działać, i przyszli szukać przyczyny własnej niemocy. Argument drugi dotyczy darów i jest tym miejscem, od którego zaczyna się cała późniejsza wykładnia trzech ofiar: złoto przynosi się królowi, kadzidło Bogu, mirrę temu, kto ma umrzeć i zostać pogrzebany. Orygenes wiąże przy tym magów z wyrocznią Balaama, przyjmując, że znali ją z tradycji swojego kraju — stąd mieli wiedzieć, czego szukać na niebie."
+    ],
+    [
+     "w. 12",
+     "św. Leon Wielki",
+     "Sermones",
+     "Serm. in Epiph. (Serm. 31–38)",
+     "Leon, który z Objawienia Pańskiego zrobił święto powołania narodów, czyta ostatni wiersz perykopy jako regułę dla ochrzczonych. Magowie, pouczeni we śnie, nie wracają tą samą drogą: kto poznał Chrystusa, nie ma chodzić ścieżkami, którymi przyszedł, i nie ma wracać do tego, co porzucił. Zakaz powrotu do Heroda rozciąga biskup Rzymu na porzucenie dawnych obyczajów i dawnych bogów, a drogę inną czyta jako nowy sposób życia — wykładnia moralna, która weszła potem do całej liturgii tego dnia. Drugim jego akcentem jest pierwszeństwo: pasterze są pierwociną Izraela, magowie pierwociną pogan, a Kościół zbudowany z jednych i drugich zaczyna się w tej samej wiosce. Dlatego Epifania jest u niego świętem nie samego pokłonu, lecz tego, że pokłon oddali obcy."
+    ]
+   ],
+   "textual": [
+    [
+     3,
+     "πᾶσα Ἱεροσόλυμα",
+     "opuszczenie",
+     "Tekst krytyczny czyta καὶ πᾶσα Ἱεροσόλυμα μετʼ αὐτοῦ (i cała Jerozolima z nim). Przymiotnik πᾶσα opuszcza kodeks Bezae (D).",
+     "Opuszczenie jest pojedyncze i nie ma poparcia, więc dla rekonstrukcji tekstu nie waży nic; wymowne jest natomiast to, co usuwa. Bez πᾶσα zdanie mówi, że zatrwożył się Herod i Jerozolima; z πᾶσα mówi, że zatrwożyło się całe miasto, a tym samym rozciąga reakcję władcy na ludność i czyni z niej zapowiedź tego, co wydarzy się w 21,10 i 27,25. Przymiotnik jest zresztą jedynym świadectwem, że nazwa miasta stoi w tym wierszu w rodzaju żeńskim i w liczbie pojedynczej — forma w całej Ewangelii jedyna, bo pozostałe dziesięć wystąpień jest nijakich i mnogich. Kopista, który usunął πᾶσα, usunął także ten gramatyczny sygnał, co może być właśnie powodem poprawki: forma wyglądała na błąd."
+    ],
+    [
+     4,
+     "ποῦ ὁ χριστὸς γεννᾶται",
+     "interpunkcja",
+     "Aparat nie podaje tu wariantu lekcji, lecz wariant interpunkcji: zamiast kropki po ἐπυνθάνετο παρʼ αὐτῶν można postawić dwukropek wysoki, a po γεννᾶται znak pytania, czyniąc ze zdania pytanie przytoczone wprost.",
+     "Rozstrzygnięcie zmienia nie treść, lecz tryb scenicznego prowadzenia. Przy interpunkcji przyjętej w tekście Herod wypytuje, a treść pytania podaje narrator w mowie zależnej; przy drugiej możliwości słyszymy samego Heroda. Druga wersja jest sceniczniej ostrzejsza i lepiej pasuje do Mateuszowego upodobania do mowy wprost, lecz czasownik πυνθάνομαι (dowiadywać się) naturalnie rządzi zdaniem zależnym, więc tekst główny ma za sobą składnię. W obu wariantach bez zmiany zostaje natomiast czas teraźniejszy γεννᾶται, który sprawia, że pytanie dotyczy zapisu, a nie zdarzenia."
+    ],
+    [
+     4,
+     "παρʼ αὐτῶν",
+     "opuszczenie",
+     "Tekst krytyczny czyta ἐπυνθάνετο παρʼ αὐτῶν (dowiadywał się u nich). Wyrażenie opuszczają D, Γ i nieliczne rękopisy.",
+     "Opuszczenie jest wtórne i prawdopodobnie zwyczajnym skróceniem, bo wyrażenie jest po polsku i po grecku nadmiarowe — wiadomo, u kogo się dowiaduje, skoro właśnie ich zwołał. Ta sama grupa świadków opuszcza πᾶσα w w. 3, co każe traktować oba miejsca razem: D wygładza w tej perykopie składnię kilkakrotnie, a przy w. 9 wygładzi ją jeszcze raz. Dla sensu wariant nie waży nic, dla charakterystyki rękopisu — potwierdza znaną tendencję."
+    ],
+    [
+     6,
+     "γῆ Ἰούδα",
+     "wariant lekcji",
+     "Tekst krytyczny czyta Βηθλέεμ, γῆ Ἰούδα (Betlejem, ziemio Judy). Lekcję τῆς Ἰουδαίας (Judei) mają D, nieliczne rękopisy, przekłady starołacińskie oraz syryjskie sinajski, kuretoński i Peszitta; lekcję γῆ τῶν Ἰουδαίων (ziemio Judejczyków) ff¹ i rękopis bohairski.",
+     "Lekcja pierwotna jest trudniejsza i widać to po składni: Βηθλέεμ i γῆ stoją w wołaczu, a Ἰούδα pozostaje dopełniaczem, przez co zdanie zgrzyta. Oba warianty tę niezręczność usuwają, a pierwszy z nich dodatkowo wyrównuje cytat do sformułowania z w. 1 i 5, gdzie dwa razy pada ἐν Βηθλέεμ τῆς Ἰουδαίας. Kierunek poprawki jest więc jasny: kopiści ujednolicali trzy wystąpienia nazwy w jednej perykopie. Zarazem właśnie to, co wygładzili, jest śladem pracy ewangelisty — γῆ Ἰούδα nie stoi ani w hebrajskim Micheaszu, który ma אֶפְרָתָה (Efrata), ani w LXX, która ma οἶκος τοῦ Ἐφραθά; jest własnym zabiegiem Mateusza."
+    ],
+    [
+     8,
+     "ἐξετάσατε ἀκριβῶς",
+     "szyk",
+     "Tekst krytyczny czyta ἐξετάσατε ἀκριβῶς (wywiedzcie się dokładnie), z poparciem ℵ, B, C*, D, rodzin f¹ i f¹³, kodeksu 33, lekcjonarzy 844 i 2211 oraz Euzebiusza. Szyk odwrócony, ἀκριβῶς ἐξετάσατε, mają C³, L, W, 0233 i tekst większościowy.",
+     "Dla sensu przestawienie nie znaczy nic, dla rytmu zdania — tyle, że przysłówek wysunięty na przód kładzie nacisk na dokładność, a nie na samo polecenie. Zmiana poszła zapewne za przyzwyczajeniem retorycznym kopistów, dla których przysłówek przed czasownikiem był naturalniejszy. Wariant jest wart odnotowania z innego powodu: pokazuje, że właśnie to słowo zwracało uwagę. Rdzeń ἀκριβ- pada w tej perykopie dwa razy w dwóch częściach mowy (ἠκρίβωσεν w w. 7, ἀκριβῶς w w. 8) i wróci w 2,16, gdzie okaże się, po co Herod liczył tak dokładnie."
+    ],
+    [
+     9,
+     "ἐστάθη",
+     "wariant lekcji",
+     "Tekst krytyczny czyta ἐστάθη (została zatrzymana, stanęła), aoryst strony biernej, z poparciem ℵ, B, C, D, rodziny f¹, kodeksu 33 i lekcjonarza 2211. Lekcję ἔστη, aoryst czynny nieprzechodni, mają L, W, 0233, rodzina f¹³ i tekst większościowy.",
+     "Różnica jednej litery decyduje, czy gwiazda zatrzymuje się sama, czy zostaje zatrzymana. Forma bierna ἵστημι bywa w grece używana nieprzechodnio i teoretycznie można ją czytać jak czynną, ale kopista, który miał przed sobą ἐστάθη, nie miał powodu zamieniać jej na formę rzadszą — kierunek poprawki idzie zawsze ku łatwiejszemu, a tu łatwiejsze jest ἔστη. Lekcja tekstu krytycznego pozostawia w zdaniu niewypowiedzianego sprawcę, dokładnie tak jak εὑρέθη w 1,18 i jak ἐγεννήθη w 1,16. Mateuszowe opowiadanie o dzieciństwie wielokrotnie mówi o działaniu Boga stroną bierną bez podania podmiotu, i w. 9 należy do tego szeregu."
+    ],
+    [
+     9,
+     "ἐπάνω οὗ ἦν τὸ παιδίον",
+     "wariant lekcji",
+     "Tekst krytyczny czyta ἐπάνω οὗ ἦν τὸ παιδίον (ponad tym, gdzie było dziecko). Lekcję ἐπάνω τοῦ παιδίου (ponad dzieckiem) mają D i przekłady starołacińskie.",
+     "Konstrukcja tekstu krytycznego jest niezręczna, bo przyimek ἐπάνω rządzi tu całym zdaniem względnym zamiast rzeczownikiem w dopełniaczu, i właśnie dlatego jest pierwotna: wariant zachodni ją upraszcza. Upraszczając, przesuwa jednak sens. Tekst krytyczny mówi, że gwiazda zatrzymała się nad miejscem; D mówi, że nad osobą — a to już wprowadza obraz, którego Mateusz nie ma, i zbliża zdanie do późniejszej ikonografii, w której gwiazda stoi dokładnie nad główką Dzieciątka. W perykopie i tak nie pada ani słowo o tym, by magowie dostrzegli w gwiezdnym znaku cokolwiek poza kierunkiem."
+    ],
+    [
+     11,
+     "εἶδον",
+     "wariant lekcji",
+     "Tekst krytyczny czyta εἶδον (ujrzeli). Lekcję εὗρον (znaleźli) ma rękopis 474, część rękopisów oraz cała tradycja łacińska, w tym Wulgata: *invenerunt puerum*.",
+     "Wariant jest drobny i nie ma poparcia w rękopisach greckich najwyższej rangi, lecz jego skutki w recepcji są nieproporcjonalnie duże, bo łacina czytała to miejsce przez tysiąc lat w postaci wtórnej. Zachodnia pobożność, kolędy i kaznodziejstwo mówią o odnalezieniu Dzieciątka, podczas gdy tekst krytyczny mówi tylko, że magowie je zobaczyli. Podmiana jest zresztą zrozumiała: czasownik εὑρίσκω pada w poprzednim polecenie Heroda (ἐπὰν δὲ εὕρητε, gdy zaś znajdziecie, w. 8), więc kopista albo tłumacz domknął scenę słowem, które już w niej stało."
+    ]
+   ],
+   "theme_links": [
+    [
+     "pokłon i jego adresat",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "pokłon i jego adresat",
+     [
+      "block",
+      "w. 11"
+     ]
+    ],
+    [
+     "pokłon i jego adresat",
+     [
+      "block",
+      "w. 7–8"
+     ]
+    ],
+    [
+     "narody u kolebki i w nakazie misyjnym",
+     [
+      "block",
+      "w. 1–2"
+     ]
+    ],
+    [
+     "narody u kolebki i w nakazie misyjnym",
+     [
+      "section",
+      "Autor Boży: co Duch Święty chce przekazać"
+     ]
+    ],
+    [
+     "król Judejczyków: magowie i titulus",
+     [
+      "block",
+      "w. 1–2"
+     ]
+    ],
+    [
+     "król Judejczyków: magowie i titulus",
+     [
+      "section",
+      "Zakończenie: intencja całości"
+     ]
+    ],
+    [
+     "gwiazda, wiedza naturalna i objawienie",
+     [
+      "block",
+      "w. 9–10"
+     ]
+    ],
+    [
+     "gwiazda, wiedza naturalna i objawienie",
+     [
+      "section",
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ]
+    ],
+    [
+     "pasterz-wódz z Betlejem",
+     [
+      "block",
+      "w. 3–6"
+     ]
+    ],
+    [
+     "formuły wypełnienia",
+     [
+      "unit",
+      "w. 3–6",
+      3
+     ]
+    ],
+    [
+     "Syn Dawida i chrystologia królewska",
+     [
+      "block",
+      "w. 3–6"
+     ]
+    ],
+    [
+     "obietnica Abrahamowa i narody",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "sny i objawienie nocne u Mateusza",
+     [
+      "block",
+      "w. 12"
+     ]
+    ]
+   ],
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     "ST III, q. 36, a. 3.5.7–8; II–II, q. 95, a. 5; q. 81, a. 7; III, q. 25, a. 1–2",
+     [
+      "section",
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Kwestia o objawieniu narodzenia i o gwieździe magów (czy była jednym z ciał niebieskich, kiedy się ukazała, kiedy magowie przybyli), niegodziwość wróżbiarstwa z gwiazd wobec aktów wolnych, zewnętrzne akty religii czynione dla człowieka a nie dla Boga oraz jedność adoracji Chrystusa jako odniesionej do osoby.",
+     "Summa Theologiae"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "Super Mt., cap. II, lect. 1–2",
+     [
+      "section",
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Wykład Mt 2,1–12: dlaczego pierwszymi świadkami są poganie, w jakim sensie gwiazda była znakiem, a nie przyczyną, oraz czego dowodzi swoboda, z jaką ewangelista przytacza Micheasza.",
+     "Super Evangelium S. Matthaei lectura"
+    ],
+    [
+     "Józef Flawiusz",
+     "Ant. XV,7,4–6; XVI,11,7; XVII,6,5; XVII,7,1; Bell. I,33",
+     [
+      "section",
+      "Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Panowanie Heroda Wielkiego, stracenie Aristobula III, Mariamme, synów Aleksandra i Aristobula oraz Antypatra, a także okoliczności śmierci króla w Jerychu w 4 r. przed Chr. Numeracja ksiąg i rozdziałów wymaga sprawdzenia w wydaniu.",
+     "Antiquitates Iudaicae"
+    ],
+    [
+     "Herodot",
+     "Hist. I,101.132; VII,136",
+     [
+      "section",
+      "Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Magowie jako plemię medyjskie i jako kapłani, bez których nie składa się ofiary, oraz spartańska odmowa proskynezy przed królem perskim — dwa świadectwa o sensie, jaki słowo i gest miały poza Izraelem.",
+     "Historiae"
+    ],
+    [
+     "św. Ignacy Antiocheński",
+     "Ad Eph. 19,2–3",
+     [
+      "section",
+      "Znaczenie w historii i liturgii Kościoła"
+     ],
+     "Gwiazda przewyższająca blaskiem wszystkie inne i myśl, że od jej ukazania się zaczęło się rozwiązywać wszelkie czarowanie — najstarsze znane użycie tej perykopy przeciw astrologii.",
+     null
+    ],
+    [
+     "K. Stendahl",
+     "Quis et Unde?, w: Judentum, Urchristentum, Kirche (1960)",
+     [
+      "section",
+      "Autor ludzki: kim jest i co chce przekazać"
+     ],
+     "Lektura Mt 1–2 jako odpowiedzi na dwa pytania: kto (rozdział pierwszy) i skąd (rozdział drugi), z czterema nazwami miejsc i przypisanymi im zdaniami Pisma. Rok i dane wydawnicze wymagają sprawdzenia.",
+     "Quis et Unde? An Analysis of Mt 1–2"
+    ],
+    [
+     "Makrobiusz",
+     "Sat. II,4,11",
+     [
+      "section",
+      "Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Żart przypisany Augustowi o tym, że lepiej być świnią Heroda niż jego synem — świadectwo o cztery wieki późniejsze, plączące stracenie synów z rzezią niewiniątek, i jako źródło historyczne niepewne.",
+     "Saturnalia"
+    ]
+   ],
+   "revision_note": "2026-11-27: perykopa trzecia bazy Mateusza (Mt 2,1–12). Sekcja I w sześciu blokach i trzydziestu jednostkach analizy; oś na trzykrotnym προσκυνέω — zamiar magów w w. 2, kłamstwo Heroda w w. 8, wykonanie w w. 11 — oraz na trzech drogach poznania, z których żadna nie wystarcza osobno: gwiazda prowadzi do niewłaściwego miasta, Pismo podaje miejsce i nie rusza tych, którzy je cytują, wyrocznia zakazuje powrotu. Osobno wykazany splot cytatu z w. 6 (Mi 5,1 + 2 Sm 5,2) i jego rozejście się z LXX oraz z masorecką wokalizacją. Sekcje II–VII z podsekcjami, katena czterogłosowa (Chryzostom, Hieronim, Orygenes, Leon Wielki), osiem not tekstualnych wedle ośmiu wpisów aparatu, w tym wariant ἐστάθη / ἔστη i łacińskie *invenerunt*. Osiemnaście nowych leksemów, osiem terminów hebrajskich, pięć nowych motywów, dwadzieścia cztery odniesienia biblijne. Przebieg redakcyjny wedle humanizer.md usunął trzy otwarcia sekcji powtarzające formuły z perykopy drugiej oraz pięć zwrotów zapowiadających („warto zauważyć\"). Status w_opracowaniu; loci patrystyczne, sigla liturgiczne, dane Flawiusza i datowania astronomiczne wymagają weryfikacji przy źródłach."
+  }
+ ]
+}

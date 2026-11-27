@@ -25,7 +25,8 @@ DB      = data/egzegeza_mateusza.sqlite
 TYP     = egzegeza.typ
 PDF     = egzegeza.pdf
 SOURCES = tools/egzegeza_mateusza_build.py data/schema.sql \
-          data/wprowadzenie.json data/rodowod.json data/narodzenie.json
+          data/wprowadzenie.json data/rodowod.json data/narodzenie.json \
+          data/magowie.json
 BUILD   = tools/egzegeza_mateusza_build.py
 APP     = browser/app.py
 EXPORT  = tools/export_pericope.py
