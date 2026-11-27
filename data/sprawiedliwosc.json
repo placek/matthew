@@ -1,0 +1,3076 @@
+{
+ "books": [
+  [
+   "Tb",
+   "Księga Tobiasza",
+   "ST",
+   17
+  ],
+  [
+   "Prz",
+   "Księga Przysłów",
+   "ST",
+   22
+  ]
+ ],
+ "verses": {
+  "chapter": 6,
+  "items": [
+   [
+    1,
+    "Προσέχετε [δὲ] τὴν δικαιοσύνην ὑμῶν μὴ ποιεῖν ἔμπροσθεν τῶν ἀνθρώπων πρὸς τὸ θεαθῆναι αὐτοῖς· εἰ δὲ μή γε, μισθὸν οὐκ ἔχετε παρὰ τῷ πατρὶ ὑμῶν τῷ ἐν τοῖς οὐρανοῖς.",
+    "Uważajcie [zaś], żeby sprawiedliwości waszej nie czynić wobec ludzi, po to, by być przez nich oglądanymi; w przeciwnym razie zapłaty nie macie u Ojca waszego, tego w niebiosach."
+   ],
+   [
+    2,
+    "Ὅταν οὖν ποιῇς ἐλεημοσύνην, μὴ σαλπίσῃς ἔμπροσθέν σου, ὥσπερ οἱ ὑποκριταὶ ποιοῦσιν ἐν ταῖς συναγωγαῖς καὶ ἐν ταῖς ῥύμαις, ὅπως δοξασθῶσιν ὑπὸ τῶν ἀνθρώπων· ἀμὴν λέγω ὑμῖν, ἀπέχουσιν τὸν μισθὸν αὐτῶν.",
+    "Kiedy więc czynisz jałmużnę, nie trąb przed sobą, jak obłudnicy czynią w synagogach i na zaułkach, żeby zostali chwaleni przez ludzi. Amen mówię wam: odebrali zapłatę swoją."
+   ],
+   [
+    3,
+    "σοῦ δὲ ποιοῦντος ἐλεημοσύνην μὴ γνώτω ἡ ἀριστερά σου τί ποιεῖ ἡ δεξιά σου,",
+    "Ciebie zaś, gdy czynisz jałmużnę, niech nie wie lewica twoja, co czyni prawica twoja,"
+   ],
+   [
+    4,
+    "ὅπως ᾖ σου ἡ ἐλεημοσύνη ἐν τῷ κρυπτῷ· καὶ ὁ πατήρ σου ὁ βλέπων ἐν τῷ κρυπτῷ ἀποδώσει σοι.",
+    "żeby jałmużna twoja była w ukryciu. A Ojciec twój, ten widzący w ukryciu, odda tobie."
+   ],
+   [
+    5,
+    "Καὶ ὅταν προσεύχησθε, οὐκ ἔσεσθε ὡς οἱ ὑποκριταί, ὅτι φιλοῦσιν ἐν ταῖς συναγωγαῖς καὶ ἐν ταῖς γωνίαις τῶν πλατειῶν ἑστῶτες προσεύχεσθαι, ὅπως φανῶσιν τοῖς ἀνθρώποις· ἀμὴν λέγω ὑμῖν, ἀπέχουσιν τὸν μισθὸν αὐτῶν.",
+    "A kiedy się modlicie, nie będziecie jak obłudnicy, bo lubią w synagogach i na rogach placów stojąc modlić się, żeby ukazali się ludziom. Amen mówię wam: odebrali zapłatę swoją."
+   ],
+   [
+    6,
+    "σὺ δὲ ὅταν προσεύχῃ, εἴσελθε εἰς τὸ ταμεῖόν σου καὶ κλείσας τὴν θύραν σου πρόσευξαι τῷ πατρί σου τῷ ἐν τῷ κρυπτῷ· καὶ ὁ πατήρ σου ὁ βλέπων ἐν τῷ κρυπτῷ ἀποδώσει σοι.",
+    "Ty zaś, kiedy się modlisz, wejdź do alkierza swego i zamknąwszy drzwi swoje, módl się do Ojca swego, tego w ukryciu. A Ojciec twój, ten widzący w ukryciu, odda tobie."
+   ],
+   [
+    7,
+    "Προσευχόμενοι δὲ μὴ βατταλογήσητε ὥσπερ οἱ ἐθνικοί, δοκοῦσιν γὰρ ὅτι ἐν τῇ πολυλογίᾳ αὐτῶν εἰσακουσθήσονται.",
+    "Modląc się zaś, nie paplajcie jak poganie, mniemają bowiem, że w wielomówstwie swoim zostaną wysłuchani."
+   ],
+   [
+    8,
+    "μὴ οὖν ὁμοιωθῆτε αὐτοῖς· οἶδεν γὰρ ὁ πατὴρ ὑμῶν ὧν χρείαν ἔχετε πρὸ τοῦ ὑμᾶς αἰτῆσαι αὐτόν.",
+    "Nie dajcie się więc im upodobnić, wie bowiem Ojciec wasz, czego potrzebę macie, zanim wy go poprosicie."
+   ],
+   [
+    9,
+    "Οὕτως οὖν προσεύχεσθε ὑμεῖς· Πάτερ ἡμῶν ὁ ἐν τοῖς οὐρανοῖς· ἁγιασθήτω τὸ ὄνομά σου·",
+    "Tak więc modlić się będziecie wy: Ojcze nasz, ten w niebiosach, niech zostanie uświęcone imię twoje,"
+   ],
+   [
+    10,
+    "ἐλθέτω ἡ βασιλεία σου· γενηθήτω τὸ θέλημά σου, ὡς ἐν οὐρανῷ καὶ ἐπὶ γῆς·",
+    "niech przyjdzie królestwo twoje, niech się stanie wola twoja, jak w niebie, tak i na ziemi."
+   ],
+   [
+    11,
+    "τὸν ἄρτον ἡμῶν τὸν ἐπιούσιον δὸς ἡμῖν σήμερον·",
+    "Chleb nasz ἐπιούσιον (powszedni, jutrzejszy albo ponadistotny — wyraz nierozstrzygnięty) daj nam dzisiaj,"
+   ],
+   [
+    12,
+    "καὶ ἄφες ἡμῖν τὰ ὀφειλήματα ἡμῶν, ὡς καὶ ἡμεῖς ἀφήκαμεν τοῖς ὀφειλέταις ἡμῶν·",
+    "i odpuść nam długi nasze, jak i my odpuściliśmy dłużnikom naszym,"
+   ],
+   [
+    13,
+    "καὶ μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν, ἀλλὰ ῥῦσαι ἡμᾶς ἀπὸ τοῦ πονηροῦ.",
+    "i nie wprowadź nas w doświadczenie, ale wyrwij nas od złego."
+   ],
+   [
+    14,
+    "Ἐὰν γὰρ ἀφῆτε τοῖς ἀνθρώποις τὰ παραπτώματα αὐτῶν, ἀφήσει καὶ ὑμῖν ὁ πατὴρ ὑμῶν ὁ οὐράνιος·",
+    "Jeśli bowiem odpuścicie ludziom występki ich, odpuści i wam Ojciec wasz niebieski;"
+   ],
+   [
+    15,
+    "ἐὰν δὲ μὴ ἀφῆτε τοῖς ἀνθρώποις, οὐδὲ ὁ πατὴρ ὑμῶν ἀφήσει τὰ παραπτώματα ὑμῶν.",
+    "jeśli zaś nie odpuścicie ludziom, ani Ojciec wasz nie odpuści występków waszych."
+   ],
+   [
+    16,
+    "Ὅταν δὲ νηστεύητε, μὴ γίνεσθε ὡς οἱ ὑποκριταὶ σκυθρωποί, ἀφανίζουσιν γὰρ τὰ πρόσωπα αὐτῶν ὅπως φανῶσιν τοῖς ἀνθρώποις νηστεύοντες· ἀμὴν λέγω ὑμῖν, ἀπέχουσιν τὸν μισθὸν αὐτῶν.",
+    "Kiedy zaś pościcie, nie stawajcie się jak obłudnicy ponurzy, zacierają bowiem twarze swoje, żeby ukazali się ludziom jako poszczący. Amen mówię wam: odebrali zapłatę swoją."
+   ],
+   [
+    17,
+    "σὺ δὲ νηστεύων ἄλειψαί σου τὴν κεφαλὴν καὶ τὸ πρόσωπόν σου νίψαι,",
+    "Ty zaś, poszcząc, namaść swoją głowę i twarz swoją umyj,"
+   ],
+   [
+    18,
+    "ὅπως μὴ φανῇς τοῖς ἀνθρώποις νηστεύων ἀλλὰ τῷ πατρί σου τῷ ἐν τῷ κρυφαίῳ· καὶ ὁ πατήρ σου ὁ βλέπων ἐν τῷ κρυφαίῳ ἀποδώσει σοι.",
+    "żebyś nie ukazał się ludziom jako poszczący, ale Ojcu swemu, temu w skrytości. A Ojciec twój, ten widzący w skrytości, odda tobie."
+   ]
+  ]
+ },
+ "lexemes": [
+  [
+   "προσέχω",
+   "prosecho",
+   "czasownik",
+   "zwracać uwagę, mieć się na baczności — u Mateusza sześć wystąpień. Pięć z nich ostrzega przed kimś: przed fałszywymi prorokami (7,15), przed ludźmi (10,17), przed kwasem faryzeuszów i saduceuszów (16,6.11.12). Jedyny wyjątek stoi w Mt 6,1 i ostrzega przed własnym postępowaniem"
+  ],
+  [
+   "θεάομαι",
+   "theaomai",
+   "czasownik",
+   "przyglądać się, oglądać jako widowisko — z tego samego rdzenia co θέατρον (teatr). U Mateusza cztery wystąpienia (6,1; 11,7; 22,11; 23,5), a pierwsze i ostatnie mają identyczną konstrukcję πρὸς τὸ θεαθῆναι (po to, by być oglądanym): raz jako przestroga, raz jako oskarżenie uczonych w Piśmie"
+  ],
+  [
+   "ἐλεημοσύνη",
+   "eleemosyne",
+   "rzeczownik",
+   "jałmużna, czyn miłosierdzia — u Mateusza trzy wystąpienia i wszystkie trzy w Mt 6,2–4. Rzeczownik utworzony od ἔλεος (litość), ale w grece synagogalnej oddaje hebrajskie צְדָקָה, czyli sprawiedliwość; to zrównanie tłumaczy, dlaczego część rękopisów stawia go w 6,1 w miejsce δικαιοσύνη"
+  ],
+  [
+   "ὑποκριτής",
+   "hypokrites",
+   "rzeczownik",
+   "aktor, ten kto odpowiada z maski, stąd udający — u Mateusza trzynaście wystąpień, z czego trzy w Mt 6,2.5.16 i siedem w mowie przeciw uczonym w Piśmie (rozdz. 23). W grece Septuaginty wyraz oddaje raczej חָנֵף (bezbożny) niż aktora, więc sens teatralny i sens religijny nachodzą tu na siebie"
+  ],
+  [
+   "σαλπίζω",
+   "salpizo",
+   "czasownik",
+   "trąbić, dąć w trąbę (σάλπιγξ) — u Mateusza jednorazowy, w zakazie z Mt 6,2. Żadne źródło starożytne nie poświadcza trąbienia przed rozdaniem jałmużny, a dla ofiarnych skrzynek w kształcie trąb świątynnych czasownik byłby niewłaściwy; zwrot należy więc czytać jako obrazowy"
+  ],
+  [
+   "ῥύμη",
+   "rhyme",
+   "rzeczownik",
+   "wąska uliczka, zaułek — u Mateusza jednorazowy (6,2) i przeciwstawiony szerokiemu placowi z wiersza piątego. Jałmużna obłudników idzie więc w synagodze i w zaułku, modlitwa w synagodze i na placu: dwa pary miejsc, w których w małym mieście widzą człowieka wszyscy, którzy go znają"
+  ],
+  [
+   "ἀπέχω",
+   "apecho",
+   "czasownik",
+   "odebrać w całości, mieć pokwitowane — w języku kwitów papirusowych ἀπέχω znaczy „otrzymałem\". U Mateusza pięć wystąpień: trzy razy o zapłacie obłudników (6,2.5.16) i dwa razy w sensie odległości, o łodzi daleko od brzegu (14,24) i o sercu dalekim od Boga w cytacie z Izajasza (15,8)"
+  ],
+  [
+   "ἀριστερός",
+   "aristeros",
+   "przymiotnik",
+   "lewy — u Mateusza jednorazowy, w Mt 6,3, i użyty rzeczownikowo w rodzaju żeńskim (lewica, domyślnie ręka). Tryb rozkazujący γνώτω zwraca się do części ciała, nie do człowieka: zdanie nakazuje niewiedzę temu, kto wiedzieć nie może, i przez to usuwa sprawcę z pola widzenia"
+  ],
+  [
+   "δεξιός",
+   "dexios",
+   "przymiotnik",
+   "prawy — u Mateusza dwanaście wystąpień. Prawa ręka jest w tej Ewangelii dwa razy przedmiotem rozporządzenia: w 5,30 trzeba ją odciąć, jeśli przywodzi do upadku, a w 6,3 trzeba jej czyn zataić przed drugą ręką. Po prawicy stają też owce w scenie sądu (25,33–34)"
+  ],
+  [
+   "ἀποδίδωμι",
+   "apodidomi",
+   "czasownik",
+   "oddać, wypłacić — czasownik rachunku. U Mateusza osiemnaście wystąpień: ostatni kodrans (5,26), dopełnienie przysiąg (5,33), trzykrotna obietnica Ojca (6,4.6.18), rachunek ze słów (12,36), odpłata wedle czynów przy przyjściu Syna Człowieczego (16,27), siedem razy w przypowieści o dłużniku (18,25–34) i wypłata robotnikom (20,8)"
+  ],
+  [
+   "προσεύχομαι",
+   "proseuchomai",
+   "czasownik",
+   "modlić się — u Mateusza piętnaście wystąpień, z czego sześć w Mt 6,5–9. Poza tą perykopą czasownik stoi w nakazie modlitwy za prześladujących (5,44), przy modlitwie Jezusa na górze (14,23) i pięć razy w Getsemani (26,36.39.41.42.44), gdzie wraca także treść dwóch prośb modlitwy"
+  ],
+  [
+   "γωνία",
+   "gonia",
+   "rzeczownik",
+   "kąt, narożnik — u Mateusza dwa wystąpienia: rogi placów, na których stają obłudnicy (6,5), i kamień węgielny z Ps 118,22 (21,42). Wyraz dotyczy miejsca widocznego z dwóch stron naraz, więc w 6,5 nie jest przypadkowy"
+  ],
+  [
+   "πλατεῖα",
+   "plateia",
+   "rzeczownik",
+   "szeroka ulica, plac — u Mateusza dwa wystąpienia i stoją sobie naprzeciw. W 6,5 obłudnicy modlą się na rogach placów, żeby ich widziano; w 12,19, w najdłuższym cytacie tej Ewangelii z Izajasza, o Słudze powiedziano, że nikt nie usłyszy jego głosu na placach"
+  ],
+  [
+   "ταμεῖον",
+   "tameion",
+   "rzeczownik",
+   "schowek, izba zamykana, pierwotnie pomieszczenie na zapasy — u Mateusza dwa wystąpienia (6,6; 24,26). W domu galilejskim była to izba bez okna, służąca do przechowywania, i jedyna, którą dawało się zamknąć; nakaz z 6,6 zakłada więc dom, w którym taka izba jest"
+  ],
+  [
+   "κλείω",
+   "kleio",
+   "czasownik",
+   "zamknąć — u Mateusza trzy wystąpienia, które układają się w zarzut. W 6,6 uczeń zamyka za sobą drzwi, żeby modlić się bez widowni; w 23,13 uczeni w Piśmie zamykają królestwo niebios wobec ludzi; w 25,10 zamknięte zostają drzwi na gody"
+  ],
+  [
+   "θύρα",
+   "thyra",
+   "rzeczownik",
+   "drzwi — u Mateusza cztery wystąpienia (6,6; 24,33; 25,10; 27,60). Trzy ostatnie dotyczą progu, którego nie da się już przekroczyć: bliskości końca, zamkniętych drzwi i kamienia u wejścia do grobu. Pierwsze jest jedynym, w którym drzwi zamyka się po to, żeby coś zacząć"
+  ],
+  [
+   "βατταλογέω",
+   "battalogeo",
+   "czasownik",
+   "paplać, powtarzać bez treści — u Mateusza i w całym Nowym Testamencie jednorazowy (6,7) i poza nim w grece niemal nieświadczony. Etymologie proponowane są trzy: dźwiękonaśladowcza, od imienia jąkały Battosa i semicka; żadna nie jest pewna, a sens ustala dopiero następne zdanie, które mówi o wielomówstwie"
+  ],
+  [
+   "πολυλογία",
+   "polylogia",
+   "rzeczownik",
+   "wielomówstwo, mnogość słów — u Mateusza jednorazowy (6,7). Złożenie przezroczyste: πολύς (wiele) i λόγος (słowo). Zdanie przypisuje poganom przekonanie, że wysłuchanie jest funkcją liczby słów, i w tym jednym rzeczowniku streszcza całą teorię modlitwy, którą odrzuca"
+  ],
+  [
+   "εἰσακούω",
+   "eisakouo",
+   "czasownik",
+   "wysłuchać, przyjąć prośbę — u Mateusza jednorazowy (6,7), w stronie biernej i w czasie przyszłym, czyli w passivum divinum: sprawcą wysłuchania jest Bóg, lecz zdanie go nie nazywa. Bierna forma zostaje przy tym w obrębie cudzego mniemania, bo stoi w zdaniu zależnym od δοκοῦσιν (mniemają)"
+  ],
+  [
+   "ὁμοιόω",
+   "homoioo",
+   "czasownik",
+   "przyrównać, uczynić podobnym — u Mateusza osiem wystąpień. Siedem z nich otwiera przypowieść: podobne jest królestwo niebios do… (13,24; 18,23; 22,2; 25,1) albo do czegoś przyrównany jest człowiek (7,24.26; 11,16). Ósme, w 6,8, jest jedynym zakazem i jedynym miejscem bez przypowieści"
+  ],
+  [
+   "οἶδα",
+   "oida",
+   "czasownik",
+   "wiedzieć — forma perfecti o znaczeniu teraźniejszym, oznaczająca wiedzę posiadaną, nie nabywaną. U Mateusza dwadzieścia siedem wystąpień. W 6,8 i 6,32 ten sam czasownik orzeka o wiedzy Ojca o potrzebach, raz przed prośbą, raz zamiast troski"
+  ],
+  [
+   "αἰτέω",
+   "aiteo",
+   "czasownik",
+   "prosić, żądać — u Mateusza czternaście wystąpień, z czego pięć w Mt 7,7–11, w zachęcie do proszenia. W 6,8 ten sam czasownik stoi w zdaniu, które mówi, że Ojciec wie przed prośbą; obie wypowiedzi należą do jednej mowy i Mateusz ich nie uzgadnia"
+  ],
+  [
+   "ἁγιάζω",
+   "hagiazo",
+   "czasownik",
+   "uświęcić, wyłączyć do świętego użytku — u Mateusza trzy wystąpienia. W 23,17.19 podmiotem są przybytek i ołtarz, które uświęcają złoto i dar; w 6,9 forma jest bierna i bez sprawcy, więc pierwsza prośba nie mówi, kto ma uświęcić imię"
+  ],
+  [
+   "ὄνομα",
+   "onoma",
+   "rzeczownik",
+   "imię — u Mateusza dwadzieścia dwa wystąpienia. Rozdział pierwszy trzykrotnie mówi o nadaniu imienia Jezusowi (1,21.23.25), rozdział ostatni o jednym imieniu Ojca, Syna i Ducha Świętego (28,19), a Mt 6,9 jest jedynym miejscem, w którym o imię Boga się prosi"
+  ],
+  [
+   "θέλημα",
+   "thelema",
+   "rzeczownik",
+   "wola, to, co postanowione — u Mateusza sześć wystąpień. Cztery dotyczą woli Ojca jako kryterium przynależności (7,21; 12,50; 18,14; 21,31), jedno woli ojca z przypowieści o dwóch synach, a dwa pozostałe — Mt 6,10 i 26,42 — zawierają tę samą formułę γενηθήτω τὸ θέλημά σου (niech się stanie wola twoja)"
+  ],
+  [
+   "ἐπιούσιος",
+   "epiousios",
+   "przymiotnik",
+   "przymiotnik bez pewnego znaczenia, w Nowym Testamencie tylko w Modlitwie Pańskiej. Wyprowadzano go od ἐπὶ τὴν οὖσαν ἡμέραν (na dzień bieżący), od ἡ ἐπιοῦσα ἡμέρα (dzień następny) i od οὐσία (istota), skąd łacińskie supersubstantialis. Orygenes zapisał, że nie znalazł go u żadnego pisarza greckiego"
+  ],
+  [
+   "ὀφείλημα",
+   "opheilema",
+   "rzeczownik",
+   "dług, to, co się komuś należy — u Mateusza jednorazowy, w Mt 6,12. Grecki wyraz jest ściśle rachunkowy i nie ma w sobie nic z winy moralnej; za metaforą stoi aramejskie חוֹבָא, które znaczy zarazem dług i grzech. Objaśnienie z w. 14–15 zmienia zresztą wyraz na παράπτωμα"
+  ],
+  [
+   "ὀφειλέτης",
+   "opheiletes",
+   "rzeczownik",
+   "dłużnik — u Mateusza dwa wystąpienia: w piątej prośbie (6,12) i w przypowieści o słudze winnym dziesięć tysięcy talentów (18,24). Drugie miejsce jest rozwinięciem pierwszego w opowieść i kończy się zdaniem, które powtarza warunek z 6,15"
+  ],
+  [
+   "εἰσφέρω",
+   "eisphero",
+   "czasownik",
+   "wnieść, wprowadzić — u Mateusza jednorazowy, w szóstej prośbie (6,13). Czasownik jest przechodni i sprawczy: nie „nie pozwól nam wejść\", lecz „nie wprowadź\". W 26,41 ta sama sytuacja opisana jest czasownikiem nieprzechodnim εἰσέλθητε (żebyście nie weszli), czyli bez sprawcy"
+  ],
+  [
+   "πειρασμός",
+   "peirasmos",
+   "rzeczownik",
+   "próba, doświadczenie — u Mateusza dwa wystąpienia, w Mt 6,13 i 26,41, i oba w modlitwie. Rzeczownik pochodzi od πειράζω, czasownika kuszenia na pustyni (4,1.3), gdzie to Duch prowadzi Jezusa, by został doświadczony; Ewangelia nie uchyla się więc od zdania, które szósta prośba zakłada"
+  ],
+  [
+   "ῥύομαι",
+   "rhyomai",
+   "czasownik",
+   "wyrwać, wyciągnąć z niebezpieczeństwa — u Mateusza dwa wystąpienia. W 6,13 jest to ostatnia prośba modlitwy; w 27,43 ten sam czasownik wkładają w usta urągających pod krzyżem, którzy wołają, żeby Bóg wyrwał tego, kto na niego zaufał"
+  ],
+  [
+   "παράπτωμα",
+   "paraptoma",
+   "rzeczownik",
+   "upadek obok, wykroczenie — u Mateusza dwa wystąpienia i oba w Mt 6,14–15. Objaśnienie piątej prośby nie powtarza jej wyrazu: w prośbie stoją długi, w objaśnieniu kroki obok drogi. Zmiana obrazu przenosi rzecz z rachunku na postępowanie"
+  ],
+  [
+   "σκυθρωπός",
+   "skythropos",
+   "przymiotnik",
+   "o posępnym obliczu, ponury — u Mateusza jednorazowy (6,16) i stoi orzecznikowo, nie przydawkowo: zakaz nie brzmi „nie bądźcie obłudnikami\", lecz „nie stawajcie się, jak obłudnicy, ponurzy\". Przedmiotem zakazu jest zatem wyraz twarzy, a obłudnicy są tylko przykładem"
+  ],
+  [
+   "ἀφανίζω",
+   "aphanizo",
+   "czasownik",
+   "uczynić niewidocznym, zniszczyć — u Mateusza trzy wystąpienia, wszystkie w szóstym rozdziale. W 6,16 obłudnicy zacierają swoje twarze, w 6,19–20 mól i rdza niszczą skarby na ziemi. Ten sam czasownik opisuje więc zabieg na twarzy i działanie zniszczenia, a w 6,16 stoi obok φανῶσιν (ukazali się), z którym dzieli rdzeń"
+  ],
+  [
+   "πρόσωπον",
+   "prosopon",
+   "rzeczownik",
+   "twarz, oblicze — u Mateusza dziesięć wystąpień, z czego dwa w Mt 6,16–17. Wyraz oznacza także stronę zewnętrzną: w 16,3 jest to oblicze nieba, w 22,16 wzgląd na osobę. W tej perykopie twarz jest tym, co obłudnik zaciera, a uczeń obmywa"
+  ],
+  [
+   "ἀλείφω",
+   "aleipho",
+   "czasownik",
+   "namaścić, natrzeć oliwą — u Mateusza jednorazowy (6,17). Namaszczenie głowy oliwą było czynnością powszednią i świąteczną zarazem, a jej zaniechanie znakiem żałoby i postu. Nakaz z 6,17 żąda więc nie przepychu, lecz tego, co robi człowiek, który nie pości"
+  ],
+  [
+   "κεφαλή",
+   "kephale",
+   "rzeczownik",
+   "głowa — u Mateusza dwanaście wystąpień. W 6,17 jest przedmiotem namaszczenia; w 5,36 jest tym, czym nie wolno przysięgać, bo nie można uczynić jednego włosa białym albo czarnym. W obu miejscach chodzi o to, czym człowiek wobec Boga nie rozporządza"
+  ],
+  [
+   "νίπτω",
+   "nipto",
+   "czasownik",
+   "obmyć (część ciała, nie całość) — u Mateusza dwa wystąpienia. W 6,17 uczeń obmywa twarz, żeby nie było po nim widać postu; w 15,2 faryzeusze zarzucają uczniom, że jedzą nieobmytymi rękami. Pierwsze obmycie jest nakazane, drugie nie było obowiązkiem Prawa"
+  ],
+  [
+   "κρυπτός",
+   "kryptos",
+   "przymiotnik",
+   "ukryty — u Mateusza siedem wystąpień, z czego sześć w Mt 6,4.6.18 i jedno w 10,26, gdzie powiedziano, że nie ma nic ukrytego, co by nie zostało poznane. Ukrycie nie jest więc w tej Ewangelii stanem trwałym, lecz warunkiem, pod którym czyn należy do Ojca"
+  ],
+  [
+   "κρυφαῖος",
+   "kryphaios",
+   "przymiotnik",
+   "skryty — w Nowym Testamencie tylko w Mt 6,18, dwa razy, i tylko w tekście przyjętym przez wydawców; większość rękopisów ma w tym miejscu κρυπτῷ, wyrównane do w. 4 i 6. Wymiana przymiotnika na synonim w trzecim członie trójki jest zatem Mateuszowa, a jej zatarcie kopistyczne"
+  ],
+  [
+   "φιλέω",
+   "phileo",
+   "czasownik",
+   "kochać, lubić, mieć upodobanie — u Mateusza pięć wystąpień. Dwa z nich wprowadzają zarzut tą samą formą: w 6,5 obłudnicy lubią modlić się stojąc na widoku, w 23,6 lubią pierwsze miejsca na uczcie i pierwsze krzesła w synagogach. Trzecie to pocałunek Judasza (26,48)"
+  ],
+  [
+   "δοκέω",
+   "dokeo",
+   "czasownik",
+   "mniemać, sądzić, wydawać się — u Mateusza dziesięć wystąpień. W 6,7 wprowadza cudze przekonanie o modlitwie, którego zdanie nie przyjmuje; ten sam czasownik otwiera pytania Jezusa „jak wam się zdaje\" (17,25; 18,12; 21,28; 22,17.42) i ostrzeżenie, by nie mniemać o sobie, że ma się Abrahama za ojca (3,9)"
+  ],
+  [
+   "ἄνθρωπος",
+   "anthropos",
+   "rzeczownik",
+   "człowiek — u Mateusza sto piętnaście wystąpień, z czego siedem w Mt 6,1–18. W pięciu z nich ludzie są widownią, której należy unikać (6,1.2.5.16.18), a w dwóch tymi, którym trzeba odpuścić (6,14.15). Zmiana roli następuje dokładnie w wierszach dołączonych do piątej prośby"
+  ],
+  [
+   "πονηρός",
+   "poneros",
+   "przymiotnik",
+   "zły — u Mateusza dwadzieścia sześć wystąpień, a w rodzaju męskim z rodzajnikiem oznacza osobę: zły, który porywa zasiane słowo (13,19), i zły, którego synami są chwasty (13,38). W Mt 6,13 forma dopełniacza nie rozstrzyga rodzaju, a edycja MorphGNT tagowała ją tu jako nijaką, a tę samą formę w 5,37 jako męską"
+  ],
+  [
+   "ἔμπροσθεν",
+   "emprosthen",
+   "przysłówek",
+   "przed, wobec — używany jako przyimek niewłaściwy z dopełniaczem. U Mateusza osiemnaście wystąpień, a pełny zwrot ἔμπροσθεν τῶν ἀνθρώπων (wobec ludzi) pięć razy: jako nakaz (5,16), jako zakaz (6,1), dwa razy o wyznaniu i zaparciu się Chrystusa (10,32.33) i raz jako oskarżenie (23,13)"
+  ]
+ ],
+ "semitic": [
+  [
+   "אַבָּא",
+   "abba",
+   "aram",
+   "ojcze — forma emfatyczna rzeczownika „ojciec\", w aramejskim potocznym zwrot zarówno dziecka, jak i dorosłego syna do ojca. Pod greckim Πάτερ z Mt 6,9 stoi prawdopodobnie ten wyraz; Mateusz go nie transkrybuje, choć zachował abba Marek (Mk 14,36), a za nim Paweł (Rz 8,15; Ga 4,6)"
+  ],
+  [
+   "אָבִינוּ שֶׁבַּשָּׁמַיִם",
+   "awinu szebaszamajim",
+   "hbr",
+   "Ojcze nasz, który jesteś w niebiosach — zwrot utrwalony w modlitwie żydowskiej i częsty w literaturze rabinicznej. Adres pierwszej prośby nie jest zatem bez poprzedników; nowe w Mt 6,9 jest nie samo słowo, lecz brak tytułów majestatu, które zwykle mu towarzyszyły"
+  ],
+  [
+   "קַדִּישׁ",
+   "kaddisz",
+   "aram",
+   "święty — nazwa modlitwy aramejskiej otwieranej prośbą, by wielkie imię zostało wywyższone i uświęcone, a królowanie przyszło. Dwie pierwsze prośby z Mt 6,9–10 idą za tym samym porządkiem; datowanie Kadiszu w zachowanej postaci jest jednak późniejsze i związek trzeba traktować jako pokrewieństwo formy, nie zapożyczenie"
+  ],
+  [
+   "עֲמִידָה",
+   "amida",
+   "hbr",
+   "stanie — nazwa modlitwy odmawianej na stojąco, trzy razy dziennie. Postawa stojąca z Mt 6,5 (ἑστῶτες) jest więc postawą modlitwy zwyczajną, a nie nadmiarem; zarzut dotyczy celu, nie postawy. Liczba i redakcja błogosławieństw Amidy ustaliły się po roku 70 i wymagają sprawdzenia"
+  ],
+  [
+   "חוֹבָא",
+   "chowa",
+   "aram",
+   "dług, powinność, a w użyciu religijnym grzech — pod ὀφείλημα z Mt 6,12 stoi ten wyraz i dlatego piąta prośba mówi o długach tam, gdzie chodzi o grzechy. Dwuznaczność jest aramejska, nie grecka: grecki ὀφείλημα sam z siebie znaczenia moralnego nie ma"
+  ],
+  [
+   "מָחָר",
+   "machar",
+   "hbr",
+   "jutro — Hieronim zapisał, że w Ewangelii używanej przez Hebrajczyków w miejscu ἐπιούσιος stało słowo o tym znaczeniu, które on sam oddaje przez crastinum. Świadectwo przemawia za wykładnią „chleb dnia następnego\" i wymaga sprawdzenia w jego komentarzu do Mateusza"
+  ],
+  [
+   "קֻפָּה",
+   "kuppa",
+   "hbr",
+   "kosz, skrzynka — nazwa cotygodniowej zbiórki dla ubogich miejscowych, rozdawanej w piątek; obok niej תַּמְחוּי (tamchui), miska z posiłkiem dla przechodnich, rozdawana codziennie. Oba urządzenia opisuje Miszna, redagowana około roku 200, więc ich stan w pierwszym wieku jest wnioskiem, nie świadectwem"
+  ],
+  [
+   "שׁוֹפָרוֹת",
+   "szofarot",
+   "hbr",
+   "trąby — tak nazywano skrzynki ofiarne o zwężającej się szyjce, ustawione na dziedzińcu świątynnym; Miszna wylicza ich trzynaście. Z tej nazwy wyprowadza się czasem trąbienie z Mt 6,2, ale grecki σαλπίσῃς znaczy „dąć w trąbę\", a nie „wrzucać do trąby\", więc objaśnienie nie wystarcza"
+  ],
+  [
+   "תַּעֲנִית",
+   "taanit",
+   "hbr",
+   "post — nazwa praktyki i traktatu misznaickiego, który opisuje posty ogłaszane w czasie suszy: wyniesienie arki na plac, popiół na głowach, zaniechanie obmyć i namaszczeń. Mt 6,16–17 odwraca dokładnie dwa z tych znaków, nakazując namaszczenie i obmycie"
+  ]
+ ],
+ "lexeme_semitic": [
+  [
+   "ἐλεημοσύνη",
+   "cedaka",
+   "Hebrajskie צְדָקָה znaczy sprawiedliwość, a w użyciu późniejszym jałmużnę; Septuaginta oddaje je w części miejsc przez ἐλεημοσύνη. To przesunięcie wyjaśnia, dlaczego Mt 6,1 mówi o sprawiedliwości, a w. 2 bezpośrednio po nim o jałmużnie, i dlaczego część rękopisów postawiła w w. 1 jałmużnę. Zakres miejsc LXX wymaga sprawdzenia w wydaniu."
+  ],
+  [
+   "ὀφείλημα",
+   "chowa",
+   "Grecki rzeczownik jest rachunkowy, aramejski חוֹבָא jest zarazem długiem i grzechem. Piąta prośba mówi więc o długach nie przez wybór obrazu, lecz przez wierność brzmieniu wyrazu, który pod nią stoi — a objaśnienie w w. 14–15 przechodzi już na grecki wyraz winy moralnej, παράπτωμα."
+  ],
+  [
+   "ἐπιούσιος",
+   "machar",
+   "Hieronim świadczy, że Ewangelia hebrajska miała w tym miejscu wyraz znaczący „jutro\". Jeśli świadectwo jest trafne, grecki przymiotnik jest próbą oddania czegoś, czego greka nie miała, a sześć różnych przekładów w wersjach starożytnych jest śladem tej samej trudności. Locus u Hieronima wymaga sprawdzenia."
+  ],
+  [
+   "πατήρ",
+   "abba",
+   "Pod wołaczem Πάτερ z Mt 6,9 stoi najpewniej aramejskie אַבָּא. Mateusz go nie zachowuje, inaczej niż Marek w Getsemani; w scenie Getsemani Mateusz pisze πάτερ μου (Ojcze mój, 26,39.42), czyli w liczbie pojedynczej to, co w 6,9 stoi w mnogiej."
+  ],
+  [
+   "προσεύχομαι",
+   "amida",
+   "Modlitwa odmawiana na stojąco trzy razy dziennie tłumaczy postawę z Mt 6,5: ἑστῶτες (stanąwszy) opisuje zwyczaj, nie wykroczenie. Zarzut przenosi się zatem w całości na zdanie celowe — ὅπως φανῶσιν τοῖς ἀνθρώποις (żeby ukazali się ludziom)."
+  ],
+  [
+   "νηστεύω",
+   "taanit",
+   "Opis postu publicznego w traktacie o postach wylicza popiół, zaniechanie obmycia i zaniechanie namaszczenia. Mt 6,17 nakazuje dwa z tych trzech znaków odwrócić. Datowanie traktatu wymaga sprawdzenia, bo Miszna jest zapisem porządku późniejszego niż perykopa."
+  ],
+  [
+   "σαλπίζω",
+   "szofarot",
+   "Skrzynki ofiarne nazywane trąbami są poświadczone dla dziedzińca świątynnego, lecz grecki czasownik znaczy dęcie w trąbę, nie wrzucanie do niej, a świątynia nie jest w w. 2 wymieniona: wymienione są synagogi i zaułki. Objaśnienie jest więc możliwe tylko przy założeniu, którego tekst nie podaje."
+  ]
+ ],
+ "occurrences": [
+  [
+   "δικαιοσύνη",
+   1,
+   "δικαιοσύνην"
+  ],
+  [
+   "θεάομαι",
+   1,
+   "θεαθῆναι"
+  ],
+  [
+   "μισθός",
+   1,
+   "μισθὸν"
+  ],
+  [
+   "οὐρανός",
+   1,
+   "οὐρανοῖς"
+  ],
+  [
+   "πατήρ",
+   1,
+   "πατρὶ"
+  ],
+  [
+   "προσέχω",
+   1,
+   "Προσέχετε"
+  ],
+  [
+   "ἄνθρωπος",
+   1,
+   "ἀνθρώπων"
+  ],
+  [
+   "ἔμπροσθεν",
+   1,
+   "ἔμπροσθεν"
+  ],
+  [
+   "δοξάζω",
+   2,
+   "δοξασθῶσιν"
+  ],
+  [
+   "μισθός",
+   2,
+   "μισθὸν"
+  ],
+  [
+   "σαλπίζω",
+   2,
+   "σαλπίσῃς"
+  ],
+  [
+   "συναγωγή",
+   2,
+   "συναγωγαῖς"
+  ],
+  [
+   "ἀπέχω",
+   2,
+   "ἀπέχουσιν"
+  ],
+  [
+   "ἄνθρωπος",
+   2,
+   "ἀνθρώπων"
+  ],
+  [
+   "ἐλεημοσύνη",
+   2,
+   "ἐλεημοσύνην"
+  ],
+  [
+   "ἔμπροσθεν",
+   2,
+   "ἔμπροσθέν"
+  ],
+  [
+   "ὑποκριτής",
+   2,
+   "ὑποκριταὶ"
+  ],
+  [
+   "ῥύμη",
+   2,
+   "ῥύμαις"
+  ],
+  [
+   "δεξιός",
+   3,
+   "δεξιά"
+  ],
+  [
+   "ἀριστερός",
+   3,
+   "ἀριστερά"
+  ],
+  [
+   "ἐλεημοσύνη",
+   3,
+   "ἐλεημοσύνην"
+  ],
+  [
+   "κρυπτός",
+   4,
+   "κρυπτῷ"
+  ],
+  [
+   "πατήρ",
+   4,
+   "πατήρ"
+  ],
+  [
+   "ἀποδίδωμι",
+   4,
+   "ἀποδώσει"
+  ],
+  [
+   "ἐλεημοσύνη",
+   4,
+   "ἐλεημοσύνη"
+  ],
+  [
+   "γωνία",
+   5,
+   "γωνίαις"
+  ],
+  [
+   "μισθός",
+   5,
+   "μισθὸν"
+  ],
+  [
+   "πλατεῖα",
+   5,
+   "πλατειῶν"
+  ],
+  [
+   "προσεύχομαι",
+   5,
+   "προσεύχησθε"
+  ],
+  [
+   "προσεύχομαι",
+   5,
+   "προσεύχεσθαι"
+  ],
+  [
+   "συναγωγή",
+   5,
+   "συναγωγαῖς"
+  ],
+  [
+   "φαίνω",
+   5,
+   "φανῶσιν"
+  ],
+  [
+   "φιλέω",
+   5,
+   "φιλοῦσιν"
+  ],
+  [
+   "ἀπέχω",
+   5,
+   "ἀπέχουσιν"
+  ],
+  [
+   "ἄνθρωπος",
+   5,
+   "ἀνθρώποις"
+  ],
+  [
+   "ὑποκριτής",
+   5,
+   "ὑποκριταί"
+  ],
+  [
+   "θύρα",
+   6,
+   "θύραν"
+  ],
+  [
+   "κλείω",
+   6,
+   "κλείσας"
+  ],
+  [
+   "κρυπτός",
+   6,
+   "κρυπτῷ"
+  ],
+  [
+   "πατήρ",
+   6,
+   "πατρί"
+  ],
+  [
+   "πατήρ",
+   6,
+   "πατήρ"
+  ],
+  [
+   "προσεύχομαι",
+   6,
+   "προσεύχῃ"
+  ],
+  [
+   "προσεύχομαι",
+   6,
+   "πρόσευξαι"
+  ],
+  [
+   "ταμεῖον",
+   6,
+   "ταμεῖόν"
+  ],
+  [
+   "ἀποδίδωμι",
+   6,
+   "ἀποδώσει"
+  ],
+  [
+   "βατταλογέω",
+   7,
+   "βατταλογήσητε"
+  ],
+  [
+   "δοκέω",
+   7,
+   "δοκοῦσιν"
+  ],
+  [
+   "εἰσακούω",
+   7,
+   "εἰσακουσθήσονται"
+  ],
+  [
+   "πολυλογία",
+   7,
+   "πολυλογίᾳ"
+  ],
+  [
+   "προσεύχομαι",
+   7,
+   "Προσευχόμενοι"
+  ],
+  [
+   "ἐθνικός",
+   7,
+   "ἐθνικοί"
+  ],
+  [
+   "αἰτέω",
+   8,
+   "αἰτῆσαι"
+  ],
+  [
+   "οἶδα",
+   8,
+   "οἶδεν"
+  ],
+  [
+   "πατήρ",
+   8,
+   "πατὴρ"
+  ],
+  [
+   "χρεία",
+   8,
+   "χρείαν"
+  ],
+  [
+   "ὁμοιόω",
+   8,
+   "ὁμοιωθῆτε"
+  ],
+  [
+   "οὐρανός",
+   9,
+   "οὐρανοῖς"
+  ],
+  [
+   "πατήρ",
+   9,
+   "Πάτερ"
+  ],
+  [
+   "προσεύχομαι",
+   9,
+   "προσεύχεσθε"
+  ],
+  [
+   "ἁγιάζω",
+   9,
+   "ἁγιασθήτω"
+  ],
+  [
+   "ὄνομα",
+   9,
+   "ὄνομά"
+  ],
+  [
+   "βασιλεία",
+   10,
+   "βασιλεία"
+  ],
+  [
+   "γῆ",
+   10,
+   "γῆς"
+  ],
+  [
+   "θέλημα",
+   10,
+   "θέλημά"
+  ],
+  [
+   "οὐρανός",
+   10,
+   "οὐρανῷ"
+  ],
+  [
+   "ἄρτος",
+   11,
+   "ἄρτον"
+  ],
+  [
+   "ἐπιούσιος",
+   11,
+   "ἐπιούσιον"
+  ],
+  [
+   "ἀφίημι",
+   12,
+   "ἄφες"
+  ],
+  [
+   "ἀφίημι",
+   12,
+   "ἀφήκαμεν"
+  ],
+  [
+   "ὀφείλημα",
+   12,
+   "ὀφειλήματα"
+  ],
+  [
+   "ὀφειλέτης",
+   12,
+   "ὀφειλέταις"
+  ],
+  [
+   "εἰσφέρω",
+   13,
+   "εἰσενέγκῃς"
+  ],
+  [
+   "πειρασμός",
+   13,
+   "πειρασμόν"
+  ],
+  [
+   "πονηρός",
+   13,
+   "πονηροῦ"
+  ],
+  [
+   "ῥύομαι",
+   13,
+   "ῥῦσαι"
+  ],
+  [
+   "οὐράνιος",
+   14,
+   "οὐράνιος"
+  ],
+  [
+   "παράπτωμα",
+   14,
+   "παραπτώματα"
+  ],
+  [
+   "πατήρ",
+   14,
+   "πατὴρ"
+  ],
+  [
+   "ἀφίημι",
+   14,
+   "ἀφῆτε"
+  ],
+  [
+   "ἀφίημι",
+   14,
+   "ἀφήσει"
+  ],
+  [
+   "ἄνθρωπος",
+   14,
+   "ἀνθρώποις"
+  ],
+  [
+   "παράπτωμα",
+   15,
+   "παραπτώματα"
+  ],
+  [
+   "πατήρ",
+   15,
+   "πατὴρ"
+  ],
+  [
+   "ἀφίημι",
+   15,
+   "ἀφῆτε"
+  ],
+  [
+   "ἀφίημι",
+   15,
+   "ἀφήσει"
+  ],
+  [
+   "ἄνθρωπος",
+   15,
+   "ἀνθρώποις"
+  ],
+  [
+   "μισθός",
+   16,
+   "μισθὸν"
+  ],
+  [
+   "νηστεύω",
+   16,
+   "νηστεύητε"
+  ],
+  [
+   "νηστεύω",
+   16,
+   "νηστεύοντες"
+  ],
+  [
+   "πρόσωπον",
+   16,
+   "πρόσωπα"
+  ],
+  [
+   "σκυθρωπός",
+   16,
+   "σκυθρωποί"
+  ],
+  [
+   "φαίνω",
+   16,
+   "φανῶσιν"
+  ],
+  [
+   "ἀπέχω",
+   16,
+   "ἀπέχουσιν"
+  ],
+  [
+   "ἀφανίζω",
+   16,
+   "ἀφανίζουσιν"
+  ],
+  [
+   "ἄνθρωπος",
+   16,
+   "ἀνθρώποις"
+  ],
+  [
+   "ὑποκριτής",
+   16,
+   "ὑποκριταὶ"
+  ],
+  [
+   "κεφαλή",
+   17,
+   "κεφαλὴν"
+  ],
+  [
+   "νίπτω",
+   17,
+   "νίψαι"
+  ],
+  [
+   "νηστεύω",
+   17,
+   "νηστεύων"
+  ],
+  [
+   "πρόσωπον",
+   17,
+   "πρόσωπόν"
+  ],
+  [
+   "ἀλείφω",
+   17,
+   "ἄλειψαί"
+  ],
+  [
+   "κρυφαῖος",
+   18,
+   "κρυφαίῳ"
+  ],
+  [
+   "νηστεύω",
+   18,
+   "νηστεύων"
+  ],
+  [
+   "πατήρ",
+   18,
+   "πατρί"
+  ],
+  [
+   "πατήρ",
+   18,
+   "πατήρ"
+  ],
+  [
+   "φαίνω",
+   18,
+   "φανῇς"
+  ],
+  [
+   "ἀποδίδωμι",
+   18,
+   "ἀποδώσει"
+  ],
+  [
+   "ἄνθρωπος",
+   18,
+   "ἀνθρώποις"
+  ]
+ ],
+ "works": [
+  [
+   "Tertulian",
+   "De oratione",
+   "O modlitwie",
+   "ok. 198–204",
+   "patrystyka"
+  ],
+  [
+   "Orygenes",
+   "De oratione",
+   "O modlitwie",
+   "ok. 233–234",
+   "patrystyka"
+  ],
+  [
+   "św. Cyprian z Kartaginy",
+   "De dominica oratione",
+   "O Modlitwie Pańskiej",
+   "251–252",
+   "patrystyka"
+  ],
+  [
+   "Jan Kasjan",
+   "Collationes patrum",
+   "Rozmowy z Ojcami",
+   "ok. 426–429",
+   "patrystyka"
+  ],
+  [
+   "Sobór Trydencki",
+   "Decretum de iustificatione (sesja VI)",
+   "Dekret o usprawiedliwieniu",
+   "1547",
+   "magisterium"
+  ],
+  [
+   "Kościół katolicki",
+   "Catechismus Catholicae Ecclesiae",
+   "Katechizm Kościoła Katolickiego",
+   "1992",
+   "magisterium"
+  ],
+  [
+   "J. Jeremias",
+   "Abba. Studien zur neutestamentlichen Theologie und Zeitgeschichte",
+   "Abba. Studia z teologii Nowego Testamentu",
+   "1966",
+   "wspolczesna"
+  ]
+ ],
+ "themes": [
+  [
+   "trzy uczynki i złamana symetria",
+   "Mt 6,1–18 składa się z tezy (w. 1) i trzech członów o jednakowej budowie: zdanie warunkowe z ὅταν (kiedy), zakaz z odwołaniem do obłudników, zdanie celowe o tym, czego oni szukają, formuła ἀμὴν λέγω ὑμῖν, ἀπέχουσιν τὸν μισθὸν αὐτῶν (amen mówię wam, odebrali zapłatę swoją) powtórzona trzy razy co do słowa, przeciwstawienie w liczbie pojedynczej i obietnica ὁ πατήρ σου ὁ βλέπων ἐν τῷ κρυπτῷ ἀποδώσει σοι (Ojciec twój, ten widzący w ukryciu, odda tobie), również trzykrotna. Symetria zostaje złamana dokładnie raz: po drugim członie wchodzi materiał o modlitwie pogan, Modlitwa Pańska i warunek przebaczenia (w. 7–15). Wstawka jest dłuższa niż trzy człony razem, a jej ostatnia część przyczepia się przez γάρ do piątej prośby, czyli jest komentarzem do jednego wiersza tekstu wstawionego w środek."
+  ],
+  [
+   "Ojciec w ukryciu",
+   "W całej Ewangelii Mateusza Ojciec jest określony przez niebo dwadzieścia razy: trzynaście razy jako ὁ ἐν τοῖς οὐρανοῖς (ten w niebiosach) i siedem razy jako ὁ οὐράνιος (niebieski). Jedyne inne umiejscowienie Ojca stoi w tej perykopie i jest nim ukrycie: τῷ πατρί σου τῷ ἐν τῷ κρυπτῷ (Ojcu swemu, temu w ukryciu, 6,6) oraz τῷ ἐν τῷ κρυφαίῳ (temu w skrytości, 6,18). Oba zwroty stoją w odległości kilku wierszy od dwóch zwrotów o niebie (6,1 i 6,9), więc nie zastępują ich, lecz stają obok. Przymiotnik κρυπτός nie nazywa przy tym miejsca niedostępnego, bo w 10,26 powiedziano, że nie ma nic ukrytego, co by nie zostało poznane; nazywa to, co niedostępne dla ludzkiego patrzenia — a patrzenie ludzkie jest w tej perykopie jedynym, przed którym się coś zamyka."
+  ],
+  [
+   "obłudnik i jego widownia",
+   "Grecki ὑποκριτής to aktor, ten kto mówi z maski. U Mateusza pada trzynaście razy, z czego trzy w tej perykopie i siedem w mowie przeciw uczonym w Piśmie i faryzeuszom. Zarzut nie dotyczy przy tym fałszu w czynie: jałmużna obłudników jest jałmużną, ich modlitwa modlitwą, ich post postem. Dotyczy zdania celowego: ὅπως δοξασθῶσιν ὑπὸ τῶν ἀνθρώπων (żeby zostali chwaleni przez ludzi, w. 2), ὅπως φανῶσιν τοῖς ἀνθρώποις (żeby ukazali się ludziom, w. 5 i 16). Trzy razy ten sam cel i trzy razy ten sam skutek wyrażony czasownikiem kupieckim ἀπέχουσιν — rachunek zamknięty, zapłata pokwitowana. Maska nie ukrywa więc braku czynu, lecz wskazuje, komu czyn został okazany."
+  ],
+  [
+   "Modlitwa Pańska: trzy prośby Jego, cztery nasze",
+   "Modlitwa z Mt 6,9–13 dzieli się po zaimkach. Po wołaczu idą trzy prośby w trzeciej osobie z aorystem trybu rozkazującego i z zaimkiem σου (twoje): niech zostanie uświęcone imię twoje, niech przyjdzie królestwo twoje, niech się stanie wola twoja. Potem cztery prośby w drugiej osobie, z zaimkami pierwszej osoby liczby mnogiej: daj nam, odpuść nam, nie wprowadź nas, wyrw nas. Granica między trójką i czwórką przypada na zdanie ὡς ἐν οὐρανῷ καὶ ἐπὶ γῆς (jak w niebie, tak i na ziemi), które domyka pierwszą część i zarazem otwiera drugą, bo wszystko, o co się dalej prosi, jest ziemskie: chleb, dług, próba, zły. Porządek jest zatem porządkiem celu i tego, co do celu prowadzi, a nie porządkiem rosnącej pilności."
+  ],
+  [
+   "modlitwa w liczbie mnogiej za zamkniętymi drzwiami",
+   "Nakaz z Mt 6,6 stoi w liczbie pojedynczej i jest w niej konsekwentny: wejdź, zamknij, módl się, a Ojciec twój odda tobie. Modlitwa podana trzy wiersze dalej nie zawiera ani jednej formy pierwszej osoby liczby pojedynczej. Form pierwszej osoby mnogiej jest w niej dziewięć (ἡμῶν, ἡμῖν, ἡμᾶς, ἡμεῖς), a wołacz otwierający brzmi Πάτερ ἡμῶν (Ojcze nasz), nie „Ojcze mój\" — przy czym Mateusz zna i zapisuje πάτερ μου, lecz dopiero w Getsemani (26,39.42). Izba z zamkniętymi drzwiami nie jest więc miejscem, w którym modlący się zostaje sam ze sobą: usunięta zostaje widownia, nie wspólnota."
+  ],
+  [
+   "długi i występki: dwa słowa o grzechu",
+   "Piąta prośba mówi o ὀφειλήματα (długi) i o ὀφειλέται (dłużnicy) — oba wyrazy należą do rachunku i same z siebie nie mają znaczenia moralnego; pod nimi stoi aramejskie חוֹבָא, które znaczy zarazem dług i grzech. Objaśnienie dołączone w w. 14–15 nie powtarza tych wyrazów: mówi o παραπτώματα (występki, dosłownie upadki obok), rzeczowniku, który u Mateusza pada tylko w tych dwóch wierszach. W dwóch zdaniach obok siebie stoją zatem dwie metafory grzechu — niezapłacona należność i krok poza drogę — i Mateusz żadnej z nich nie uzgadnia z drugą. Czasownik ἀφίημι, który obie obsługuje, znaczy przy tym „puścić, zostawić\": w rachunku umorzenie, w drodze zaniechanie pogoni."
+  ],
+  [
+   "poganie jako druga miara Kazania",
+   "Kazanie mierzy ucznia dwiema miarami, a nie jedną. Pierwsza stoi w 5,20: sprawiedliwość ma przewyższać sprawiedliwość uczonych w Piśmie i faryzeuszów. Druga pada trzy razy i dotyczy pogan: nie witają tylko swoich inaczej niż ἐθνικοί (5,47), nie modlą się jak ἐθνικοί (6,7), nie zabiegają o to, czego szukają τὰ ἔθνη (6,32). Przymiotnik ἐθνικός stoi w Ewangeliach tylko u Mateusza i tylko trzy razy (5,47; 6,7; 18,17). Trzy uczynki z szóstego rozdziału są wyłożone przeciw obu miarom naraz: obłudnikom przeciwstawia się ukrycie, poganom — krótkość."
+  ],
+  [
+   "chleb ἐπιούσιος: słowo bez poświadczenia",
+   "Przymiotnik ἐπιούσιος z czwartej prośby nie występuje w grece poza Modlitwą Pańską, a Orygenes zapisał, że nie znalazł go u żadnego pisarza. Wersje starożytne są zapisem bezradności: w przekładach łacińskich stoi cottidianum (powszedni) i supersubstantialem (ponadistotny) w Wulgacie, w syryjskich perpetuum (ustawiczny) i necessarium (konieczny), w koptyjskich venientem (nadchodzący) i crastinum (jutrzejszy). Sześć rozstrzygnięć wychodzi z trzech możliwych wyprowadzeń: od ἐπὶ τὴν οὖσαν ἡμέραν (na dzień bieżący), od ἡ ἐπιοῦσα ἡμέρα (dzień następny) i od οὐσία (istota). Hieronim świadczy przy tym, że Ewangelia hebrajska miała w tym miejscu wyraz znaczący jutro. Przekład roboczy zostawia wyraz nieprzetłumaczony, bo każdy wybór jest już wykładnią."
+  ]
+ ],
+ "pericopes": [
+  {
+   "pericope": {
+    "cs": 6,
+    "vs": 1,
+    "ce": 6,
+    "ve": 18,
+    "title": "Jałmużna, modlitwa Pańska i post",
+    "motto": "Pater tuus qui videt in abscondito (Ojciec twój, który widzi w ukryciu)",
+    "status": "w_opracowaniu",
+    "position": 11
+   },
+   "intro": "Dwadzieścia pięć wierszy wcześniej Kazanie nakazało, żeby światło uczniów zaświeciło wobec ludzi; tutaj zakazuje, żeby ich sprawiedliwość była wobec ludzi czyniona. Zwrot jest w obu zdaniach ten sam co do wyrazu — ἔμπροσθεν τῶν ἀνθρώπων (wobec ludzi) — i Mateusz nie zaznacza, że czytelnik ma przed sobą dwa przeciwne nakazy. Różnicę niesie wyłącznie zdanie celowe: w 5,16 kończy się ono na Ojcu, który ma być chwalony, w 6,1 na patrzących, dla których czyn ma być widowiskiem. Perykopa, która z tej tezy wyrasta, trzyma się jej z osobliwą dyscypliną formalną: trzy uczynki pobożne dostają trzy człony o identycznej budowie, z dwiema formułami powtórzonymi co do słowa — o zapłacie już odebranej i o Ojcu, który widzi w ukryciu. Symetria pęka dokładnie raz, po drugim członie, i to, co w nią wchodzi, jest dłuższe niż trzy człony razem: ostrzeżenie przed modlitwą pogan, Modlitwa Pańska i warunek przebaczenia. W osiemnastu wierszach Ojciec zostaje nazwany dziesięć razy — nigdzie w tej Ewangelii nie stoi tak gęsto — i dwa razy umiejscowiony tam, gdzie nie stoi w niej nigdzie więcej.",
+   "blocks": [
+    {
+     "cs": 6,
+     "vs": 1,
+     "ce": 6,
+     "ve": 1,
+     "label": "w. 1",
+     "greek": "Προσέχετε [δὲ] τὴν δικαιοσύνην ὑμῶν μὴ ποιεῖν ἔμπροσθεν τῶν ἀνθρώπων πρὸς τὸ θεαθῆναι αὐτοῖς· εἰ δὲ μή γε, μισθὸν οὐκ ἔχετε παρὰ τῷ πατρὶ ὑμῶν τῷ ἐν τοῖς οὐρανοῖς.",
+     "transl": "Uważajcie [zaś], żeby sprawiedliwości waszej nie czynić wobec ludzi, po to, by być przez nich oglądanymi; w przeciwnym razie zapłaty nie macie u Ojca waszego, tego w niebiosach.",
+     "units": [
+      [
+       "Προσέχετε [δὲ]",
+       "Uważajcie [zaś]",
+       "Czasownik προσέχω pada u Mateusza sześć razy i pięć z nich ostrzega przed kimś z zewnątrz: przed fałszywymi prorokami (7,15), przed ludźmi, którzy wydadzą uczniów sądom (10,17), przed kwasem faryzeuszów i saduceuszów (16,6.11.12). Tu, w jedynym wyjątku, przedmiotem baczności jest własne postępowanie, a składnia jest rzadka: tryb rozkazujący z bezokolicznikiem zaprzeczonym (μὴ ποιεῖν), czyli nakaz pilnowania, żeby czegoś nie robić. Spójnik δέ wydawcy postawili w nawiasie kwadratowym, bo jego świadectwa dzielą się mniej więcej równo; rozstrzygnięcie nie jest obojętne dla delimitacji. Z δέ wiersz pierwszy wiąże się z nakazem doskonałości z 5,48 i jest dalszym krokiem tego samego wywodu; bez δέ otwiera nową rzecz. Tekst drukowany zachowuje spójnik i nawias, czyli zostawia pytanie otwarte — i to jest w tym miejscu najuczciwsze, bo granica między drugą a trzecią częścią Kazania jest w tym wierszu i w innym nie będzie."
+      ],
+      [
+       "τὴν δικαιοσύνην ὑμῶν",
+       "sprawiedliwości waszej",
+       "Rzeczownik δικαιοσύνη pada u Mateusza siedem razy (3,15; 5,6.10.20; 6,1.33; 21,32) i cztery z tych wystąpień stoją w Kazaniu. W 5,20 sprawiedliwość jest miarą wejścia do królestwa, w 6,1 jest czymś, co się czyni, a w 6,33 czymś, czego się szuka razem z królestwem. Składnia wiersza pokazuje, które znaczenie tu obowiązuje: ποιεῖν δικαιοσύνην (czynić sprawiedliwość) to nie stan ani przymiot, lecz praktyka — zwrot odpowiadający hebrajskiemu עָשָׂה צְדָקָה. Aparat notuje w tym miejscu dwie lekcje zastępcze: ἐλεημοσύνην (jałmużnę) u kodeksów L, W, Z, Θ, rodziny f13, minuskułu 33 i większości bizantyjskiej oraz δόσιν (datek) u korektora Sinaiticusa i w syryjskim curetoniańskim. Obie zwężają zdanie do pierwszego z trzech uczynków i tym samym odbierają wierszowi rolę nagłówka; pierwsza robi to tym łatwiej, że po hebrajsku sprawiedliwość i jałmużna zaczęły być jednym wyrazem."
+      ],
+      [
+       "ἔμπροσθεν τῶν ἀνθρώπων",
+       "wobec ludzi",
+       "Zwrot pada u Mateusza pięć razy i rozkład tych pięciu miejsc jest całą trudnością tej perykopy. W 5,16 stoi w nakazie: οὕτως λαμψάτω τὸ φῶς ὑμῶν ἔμπροσθεν τῶν ἀνθρώπων (tak niech zaświeci światło wasze wobec ludzi). W 6,1 stoi w zakazie, w tym samym brzmieniu, dwadzieścia pięć wierszy dalej. W 10,32–33 jest miejscem wyznania i zaparcia się Chrystusa, a w 23,13 miejscem, w którym uczeni w Piśmie zamykają królestwo. Ewangelia nie ma zatem jednego sądu o jawności: ta sama przestrzeń jest w niej raz nakazana, raz zakazana i dwa razy neutralna. Różnica nie leży w widzialności czynu, bo w obu zdaniach Kazania czyn jest widziany. Leży w zdaniu celowym, i dopiero ono rozstrzyga — w 5,16 kończy się ono na Ojcu, który ma być chwalony, w 6,1 na patrzących."
+      ],
+      [
+       "πρὸς τὸ θεαθῆναι αὐτοῖς",
+       "po to, by być przez nich oglądanymi",
+       "Czasownik θεάομαι należy do rodziny wyrazów o patrzeniu na widowisko; z tego samego rdzenia jest θέατρον. U Mateusza pada cztery razy, a dwa z tych wystąpień mają identyczną konstrukcję — przyimek πρός z rodzajnikiem i bezokolicznikiem aorystu strony biernej: tutaj i w 23,5, gdzie o uczonych w Piśmie powiedziano πάντα δὲ τὰ ἔργα αὐτῶν ποιοῦσιν πρὸς τὸ θεαθῆναι τοῖς ἀνθρώποις (wszystkie zaś czyny swoje czynią po to, by być oglądanymi przez ludzi). Przestroga z szóstego rozdziału i oskarżenie z dwudziestego trzeciego są więc jednym zdaniem użytym dwa razy, najpierw wobec uczniów, potem wobec przeciwników. Celownik αὐτοῖς przy formie biernej wskazuje tych, dla których czyn ma być widowiskiem. W 5,16 w tym samym miejscu składni stoi czasownik ὁράω w trybie łączącym z podmiotem ludzkim i z dopełnieniem „dobre czyny\", a zdanie nie kończy się na patrzeniu."
+      ],
+      [
+       "μισθὸν οὐκ ἔχετε παρὰ τῷ πατρὶ ὑμῶν",
+       "zapłaty nie macie u Ojca waszego",
+       "Rzeczownik μισθός pada u Mateusza dziesięć razy, a cztery z nich w tej perykopie (6,1.2.5.16); dwa poprzednie stały w Kazaniu — przy prześladowanych, których zapłata jest wielka w niebiosach (5,12), i przy miłości tych, którzy odwzajemniają, za którą zapłaty nie ma (5,46). Zdanie nie odrzuca zatem samego rachunku, lecz pyta, u kogo rachunek jest prowadzony: przyimek παρά z celownikiem znaczy „u\", w czyimś posiadaniu i pod czyjąś opieką. Konstrukcja εἰ δὲ μή γε (w przeciwnym razie) jest utartym zwrotem mowy potocznej i wprowadza następstwo niepożądane. Wiersz zamyka się wreszcie pierwszym w tej perykopie określeniem Ojca przez niebo — τῷ ἐν τοῖς οὐρανοῖς (temu w niebiosach) — i to określenie wróci jeszcze raz, w 6,9; pięć wierszy po tym pierwszym Ojciec zostanie umiejscowiony inaczej."
+      ]
+     ]
+    },
+    {
+     "cs": 6,
+     "vs": 2,
+     "ce": 6,
+     "ve": 4,
+     "label": "w. 2–4",
+     "greek": "Ὅταν οὖν ποιῇς ἐλεημοσύνην, μὴ σαλπίσῃς ἔμπροσθέν σου, ὥσπερ οἱ ὑποκριταὶ ποιοῦσιν ἐν ταῖς συναγωγαῖς καὶ ἐν ταῖς ῥύμαις, ὅπως δοξασθῶσιν ὑπὸ τῶν ἀνθρώπων· ἀμὴν λέγω ὑμῖν, ἀπέχουσιν τὸν μισθὸν αὐτῶν. σοῦ δὲ ποιοῦντος ἐλεημοσύνην μὴ γνώτω ἡ ἀριστερά σου τί ποιεῖ ἡ δεξιά σου, ὅπως ᾖ σου ἡ ἐλεημοσύνη ἐν τῷ κρυπτῷ· καὶ ὁ πατήρ σου ὁ βλέπων ἐν τῷ κρυπτῷ ἀποδώσει σοι.",
+     "transl": "Kiedy więc czynisz jałmużnę, nie trąb przed sobą, jak obłudnicy czynią w synagogach i na zaułkach, żeby zostali chwaleni przez ludzi. Amen mówię wam: odebrali zapłatę swoją. Ciebie zaś, gdy czynisz jałmużnę, niech nie wie lewica twoja, co czyni prawica twoja, żeby jałmużna twoja była w ukryciu. A Ojciec twój, ten widzący w ukryciu, odda tobie.",
+     "units": [
+      [
+       "Ὅταν οὖν ποιῇς ἐλεημοσύνην",
+       "Kiedy więc czynisz jałmużnę",
+       "Rzeczownik ἐλεημοσύνη pada u Mateusza trzy razy i wszystkie trzy stoją w tych trzech wierszach. Jest utworzony od ἔλεος (litość), ale w grece synagogalnej służył do oddania hebrajskiego צְדָקָה, czyli sprawiedliwości, i to przesunięcie jest tu istotne: wiersz drugi nie zmienia tematu wobec wiersza pierwszego, lecz podaje pierwszy przykład tego, co wiersz pierwszy nazwał sprawiedliwością. Tryb łączący z ὅταν oznacza czynność powtarzalną, nie jednorazową, a druga osoba liczby pojedynczej (ποιῇς) stoi tu, gdzie w dwóch następnych członach stanie liczba mnoga (προσεύχησθε, νηστεύητε). Przy tym samym czasowniku ποιέω, powtórzonym w tej perykopie pięć razy, zbiegają się zatem oba tematy: czyni się sprawiedliwość i czyni się jałmużnę, a obłudnicy też ją czynią — ποιοῦσιν w tym samym wierszu."
+      ],
+      [
+       "μὴ σαλπίσῃς ἔμπροσθέν σου",
+       "nie trąb przed sobą",
+       "Czasownik σαλπίζω jest u Mateusza jednorazowy i zakaz jest w całej perykopie jedynym zdaniem, którego nie da się odczytać wprost. Trąbienia przed rozdaniem jałmużny nie poświadcza żadne źródło starożytne. Objaśnienie, które wraca w komentarzach, wiąże zwrot ze skrzynkami ofiarnymi o zwężonej szyjce, zwanymi trąbami (שׁוֹפָרוֹת), stojącymi na dziedzińcu świątynnym — ale grecki czasownik znaczy dąć w trąbę, nie wrzucać do trąby, a wiersz nie mówi o świątyni, tylko o synagogach i zaułkach. Drugie objaśnienie przywołuje szofar dęty przy ogłaszaniu postu publicznego; to realia poświadczone, lecz dotyczą postu, nie jałmużny. Pozostaje obraz: trąbienie przed sobą jest zapowiadaniem własnego nadejścia. Zwrot ἔμπροσθέν σου (przed sobą) jest przy tym drugim w dwóch wierszach użyciem tego przyimka, po ἔμπροσθεν τῶν ἀνθρώπων (wobec ludzi) — ten sam wyraz przenosi się z widowni na samego człowieka."
+      ],
+      [
+       "ὥσπερ οἱ ὑποκριταὶ ποιοῦσιν",
+       "jak obłudnicy czynią",
+       "Rzeczownik ὑποκριτής znaczy w grece aktora, tego, kto odpowiada z maski, i u Mateusza pada trzynaście razy: trzy w tej perykopie, raz w zarzucie o drzazgę i belkę (7,5), raz w cytacie z Izajasza (15,7), siedem razy w mowie przeciw uczonym w Piśmie i faryzeuszom. W greckim Starym Testamencie wyraz oddaje raczej חָנֵף (bezbożny) niż aktora, więc nachodzą tu na siebie dwa sensy: udawanie i bezbożność. Rzecz, którą trzeba powiedzieć wprost, bo rozstrzyga o całym bloku: zarzut nie dotyczy czynu. Czasownik ποιοῦσιν mówi, że obłudnicy jałmużnę dają, i zdanie tego nie podważa. Perykopa nie zna pozorowanej jałmużny ani pozorowanego postu; zna jałmużnę prawdziwą, oddaną nie temu, komu należało ją okazać. Mateusz nie podaje przy tym, kim są obłudnicy, i w szóstym rozdziale ani razu ich nie nazywa po imieniu — nazwie w dwudziestym trzecim."
+      ],
+      [
+       "ἐν ταῖς συναγωγαῖς καὶ ἐν ταῖς ῥύμαις",
+       "w synagogach i na zaułkach",
+       "Dwa miejsca, oba zamknięte i oba znane. Rzeczownik συναγωγή pada u Mateusza dziewięć razy i wróci w następnym wierszu tej perykopy; w 23,6 obłudnicy lubią w synagogach pierwsze krzesła, w 10,17 synagogi są już „ich\". Rzeczownik ῥύμη, wąska uliczka, jest u Mateusza jednorazowy i stoi w opozycji do πλατεῖα z wiersza piątego, czyli do szerokiego placu. Para miejsc powtarza się więc w obu członach z jedną zmianą: jałmużna idzie w synagodze i w zaułku, modlitwa w synagodze i na placu. Żadne z tych miejsc nie jest sceną: zaułek jest ciasny, a plac w galilejskim miasteczku niewielki. To, co je łączy, jest czymś innym niż rozmiar widowni — są to miejsca, w których widzą człowieka ci, którzy go znają. Zapłata, o której mówi następne zdanie, nie pochodzi z rozgłosu, lecz z uznania sąsiadów."
+      ],
+      [
+       "ὅπως δοξασθῶσιν ὑπὸ τῶν ἀνθρώπων",
+       "żeby zostali chwaleni przez ludzi",
+       "Czasownik δοξάζω pada u Mateusza cztery razy, a dwa z tych miejsc stoją naprzeciw siebie. W 5,16 zdanie celowe brzmi ὅπως ἴδωσιν ὑμῶν τὰ καλὰ ἔργα καὶ δοξάσωσιν τὸν πατέρα ὑμῶν (żeby zobaczyli wasze dobre czyny i chwalili Ojca waszego): forma czynna, podmiot ludzki, dopełnienie — Ojciec. W 6,2 jest δοξασθῶσιν: forma bierna, podmiot — obłudnicy, sprawca wprowadzony przez ὑπό. Dwa zdania mają tę samą spójkę celową i ten sam czasownik, a różnią się stroną i tym, kto na końcu zostaje uwielbiony. Składnia niesie więc całą naukę tej perykopy, i niesie ją bez jednego zdania o intencji: w pierwszym wypadku chwała przechodzi przez czyn do Ojca, w drugim zatrzymuje się na wykonawcy. W dwóch pozostałych miejscach u Mateusza chwalą Boga tłumy, które zobaczyły uzdrowienie (9,8; 15,31)."
+      ],
+      [
+       "ἀπέχουσιν τὸν μισθὸν αὐτῶν",
+       "odebrali zapłatę swoją",
+       "Czasownik ἀπέχω jest terminem z kwitów: w papirusach greckich ἀπέχω znaczy „otrzymałem w całości\", i stawiano go na pokwitowaniu, żeby zamknąć rachunek. Czas teraźniejszy nie znaczy więc, że zapłata trwa, lecz że została odebrana i że nic się już nie należy; polski przekład wymaga tu czasu przeszłego. U Mateusza czasownik pada pięć razy: trzy razy w tej formule (6,2.5.16) i dwa razy w sensie odległości — o łodzi oddalonej od brzegu (14,24) i w cytacie z Izajasza o sercu, które jest daleko od Boga, cytacie wprowadzonym słowem „obłudnicy\" (15,7–8). Formuła wraca w perykopie trzy razy w brzmieniu identycznym co do wyrazu, poprzedzona uroczystym ἀμὴν λέγω ὑμῖν (amen mówię wam), i jest jedyną rzeczą, którą perykopa powtarza bez żadnej zmiany. Jej odpowiednikiem w członie dodatnim jest ἀποδώσει — ten zapłatę pobrał, tamtemu zostanie wypłacona."
+      ],
+      [
+       "μὴ γνώτω ἡ ἀριστερά σου τί ποιεῖ ἡ δεξιά σου",
+       "niech nie wie lewica twoja, co czyni prawica twoja",
+       "Zdanie jest poleceniem niewykonalnym i jest tak zbudowane, żeby to było widać. Tryb rozkazujący aorystu γνώτω stoi w trzeciej osobie i zwraca się nie do człowieka, lecz do jego ręki; podmiotem zakazu jest część ciała, która wiedzieć nie może. Przymiotnik ἀριστερός jest u Mateusza jednorazowy, δεξιός pada dwanaście razy, a prawa ręka jest w tej Ewangelii przedmiotem rozporządzenia jeszcze raz — w 5,30, gdzie trzeba ją odciąć, jeśli przywodzi do upadku. Trzydzieści wierszy po nakazie odcięcia prawej ręki stoi nakaz zatajenia tego, co ona czyni. Przysłowia o dwóch rękach nie znam z literatury rabinicznej i nie podaję go jako paraleli; możliwe, że jest to obraz Mateuszowy. Rzecz warta uwagi: zdanie nie nakazuje ukrycia czynu przed ludźmi, bo ludzie w nim nie występują. Nakazuje niewiedzę samemu dającemu, czyli odbiera mu także tę widownię, którą jest on sam."
+      ],
+      [
+       "ὅπως ᾖ σου ἡ ἐλεημοσύνη ἐν τῷ κρυπτῷ",
+       "żeby jałmużna twoja była w ukryciu",
+       "Przymiotnik κρυπτός pada u Mateusza siedem razy, z czego sześć w tej perykopie, i jest tu użyty rzeczownikowo z przyimkiem: ἐν τῷ κρυπτῷ, w tym, co ukryte. Siódme wystąpienie, w 10,26, orzeka rzecz przeciwną — nie ma nic ukrytego, co by nie zostało poznane — i trzy wiersze dalej każe mówić w świetle to, co powiedziano w ciemności (10,27). Ukrycie nie jest zatem w tej Ewangelii wartością trwałą, lecz warunkiem, pod którym czyn należy do Ojca, a nie do widowni. Zdanie celowe z ὅπως stoi tu w miejscu składni, które w wierszu drugim zajmowało ὅπως δοξασθῶσιν (żeby zostali chwaleni): ten sam spójnik, ten sam szyk, inny koniec. Aparat notuje w w. 4 trzy ingerencje kopistów, z których najważniejsza dokłada po ἀποδώσει σοι zwrot ἐν τῷ φανερῷ (w jawności) — i dokłada go także w w. 6 i w w. 18, czyli we wszystkich trzech obietnicach."
+      ],
+      [
+       "ὁ πατήρ σου ὁ βλέπων ἐν τῷ κρυπτῷ ἀποδώσει σοι",
+       "Ojciec twój, ten widzący w ukryciu, odda tobie",
+       "Formuła wraca trzy razy (6,4.6.18) i jest drugą obok formuły o zapłacie obłudników rzeczą powtarzaną w tej perykopie dosłownie; w trzecim wystąpieniu zmienia się tylko przymiotnik, na κρυφαίῳ. Czasownik ἀποδίδωμι pada u Mateusza osiemnaście razy i jest słowem rachunku: oddać ostatni kodrans (5,26), dopełnić przysiąg (5,33), zdać sprawę ze słów (12,36), wypłacić robotnikom (20,8), oddać cesarzowi (22,21), a siedem razy rozlicza dług w przypowieści o nielitościwym słudze (18,25–34). Najważniejsze dla tego miejsca jest 16,27: Syn Człowieczy przyjdzie w chwale Ojca i odda każdemu wedle jego czynów. Czas przyszły w trzech obietnicach szóstego rozdziału nie jest więc czasem obietnicy nieokreślonej; ma u Mateusza wskazany termin. Imiesłów ὁ βλέπων (ten widzący) mówi przy tym, że ukrycie nie jest ukryciem przed wszystkimi: jedno patrzenie zostaje, i ono jest tym, przez które czyn ma być widziany."
+      ]
+     ]
+    },
+    {
+     "cs": 6,
+     "vs": 5,
+     "ce": 6,
+     "ve": 6,
+     "label": "w. 5–6",
+     "greek": "Καὶ ὅταν προσεύχησθε, οὐκ ἔσεσθε ὡς οἱ ὑποκριταί, ὅτι φιλοῦσιν ἐν ταῖς συναγωγαῖς καὶ ἐν ταῖς γωνίαις τῶν πλατειῶν ἑστῶτες προσεύχεσθαι, ὅπως φανῶσιν τοῖς ἀνθρώποις· ἀμὴν λέγω ὑμῖν, ἀπέχουσιν τὸν μισθὸν αὐτῶν. σὺ δὲ ὅταν προσεύχῃ, εἴσελθε εἰς τὸ ταμεῖόν σου καὶ κλείσας τὴν θύραν σου πρόσευξαι τῷ πατρί σου τῷ ἐν τῷ κρυπτῷ· καὶ ὁ πατήρ σου ὁ βλέπων ἐν τῷ κρυπτῷ ἀποδώσει σοι.",
+     "transl": "A kiedy się modlicie, nie będziecie jak obłudnicy, bo lubią w synagogach i na rogach placów stojąc modlić się, żeby ukazali się ludziom. Amen mówię wam: odebrali zapłatę swoją. Ty zaś, kiedy się modlisz, wejdź do alkierza swego i zamknąwszy drzwi swoje, módl się do Ojca swego, tego w ukryciu. A Ojciec twój, ten widzący w ukryciu, odda tobie.",
+     "units": [
+      [
+       "ὅταν προσεύχησθε, οὐκ ἔσεσθε ὡς οἱ ὑποκριταί",
+       "kiedy się modlicie, nie będziecie jak obłudnicy",
+       "Zakaz jest wyrażony czasem przyszłym trybu orzekającego z przeczeniem οὐκ, a nie trybem łączącym z μή, jak w dwóch pozostałych członach (μὴ σαλπίσῃς, μὴ γίνεσθε). Jest to dokładnie ta konstrukcja, w której trzydzieści wierszy wcześniej przytoczono przykazania Dekalogu: οὐ φονεύσεις, οὐ μοιχεύσεις (nie będziesz zabijał, nie będziesz cudzołożył, 5,21.27). Zdanie o modlitwie nosi więc gramatyczną formę przykazania, i jest w tej perykopie jedyne. Dochodzi do tego liczba: ὅταν προσεύχησθε jest w liczbie mnogiej, podczas gdy pierwszy człon miał ποιῇς w pojedynczej. Aparat pokazuje, że starożytni czytelnicy tę nierówność usuwali — pierwotny Sinaiticus, kodeks Bezy, L, W, Θ, f13, minuskuł 33 i większość bizantyjska mają w tym miejscu liczbę pojedynczą (προσεύχῃ, οὐκ ἔσῃ), wyrównaną do członów sąsiednich. Wydawcy drukują mnogą, bo lekcja trudniejsza, a syryjski sinaicki opuszcza cały wiersz."
+      ],
+      [
+       "φιλοῦσιν ... ἑστῶτες προσεύχεσθαι",
+       "lubią ... stojąc modlić się",
+       "Czasownik φιλέω pada u Mateusza pięć razy i dwa razy wprowadza zarzut w tej samej formie: tutaj oraz w 23,6, gdzie uczeni w Piśmie lubią pierwsze miejsca na uczcie i pierwsze krzesła w synagogach. Zarzut dotyczy więc upodobania, nie czynności. Imiesłów ἑστῶτες to forma perfecti od ἵστημι i znaczy „stanąwszy\", czyli zajmując postawę — a postawa stojąca była postawą modlitwy zwyczajną, nie nadzwyczajną; modlitwa odmawiana trzy razy dziennie nazywała się po hebrajsku עֲמִידָה (amida), czyli właśnie stanie. Oskarżenie nie dotyczy zatem ani postawy, ani miejsca, ani pory. Kodeks Bezy i rękopisy starołacińskie dokładają w tym miejscu bezokolicznik στῆναι (lubią stać), a tym samym przenoszą winę na samo stanie — co jest najwcześniejszym śladem czytania, które perykopa wyklucza. Reszta zdania mówi, czego wina dotyczy, i mówi to spójnikiem celowym."
+      ],
+      [
+       "ἐν ταῖς γωνίαις τῶν πλατειῶν",
+       "na rogach placów",
+       "Oba rzeczowniki padają u Mateusza po dwa razy i oba drugie wystąpienia są znaczące. γωνία to narożnik; w 21,42 jest to kamień, który stał się głową węgła w cytacie z psalmu. πλατεῖα to szeroka ulica albo plac; w 12,19, w najdłuższym cytacie tej Ewangelii z Izajasza, powiedziano o Słudze: οὐδὲ ἀκούσει τις ἐν ταῖς πλατείαις τὴν φωνὴν αὐτοῦ (ani nie usłyszy nikt na placach głosu jego). Miejsce, na którym obłudnicy stają, żeby ich widziano, jest zatem tym samym miejscem, o którym sześć rozdziałów dalej Mateusz powie, że Słudze nie słyszano tam głosu. Róg placu jest przy tym punktem widocznym z dwóch stron naraz, a nie po prostu miejscem ludnym; wybór wyrazu jest dokładny. Zdanie nie zakazuje modlitwy publicznej — człowiek zastany na ulicy w porze modlitwy stawał tam, gdzie był."
+      ],
+      [
+       "ὅπως φανῶσιν τοῖς ἀνθρώποις",
+       "żeby ukazali się ludziom",
+       "Trzecie z kolei zdanie celowe tej perykopy i drugie z trzech, które orzekają o obłudnikach; to samo brzmienie wróci w w. 16. Czasownik φαίνω pada u Mateusza trzynaście razy, a trzy wystąpienia w tej perykopie są jedynymi, w których podmiotem są ludzie — w pierwszych rozdziałach to anioł ukazuje się we śnie (1,20; 2,13.19), w 24,27.30 ukaże się znak i Syn Człowieczy. Celownik τοῖς ἀνθρώποις (ludziom) wskazuje tych, którym się ukazują, i to on będzie w w. 18 zamieniony. Warto zważyć różnicę wobec w. 2: tam stało δοξασθῶσιν, zostali chwaleni, czyli szukano sądu ludzi; tu i w w. 16 stoi φανῶσιν, ukazali się, czyli szuka się samego ich spojrzenia. Trzy zdania celowe nie są więc trzema wariantami jednej myśli: najpierw chwała, potem dwa razy samo bycie widzianym."
+      ],
+      [
+       "εἴσελθε εἰς τὸ ταμεῖόν σου καὶ κλείσας τὴν θύραν σου",
+       "wejdź do alkierza swego i zamknąwszy drzwi swoje",
+       "Rzeczownik ταμεῖον oznacza izbę na zapasy; w domu galilejskim była to przestrzeń bez okna, służąca do przechowywania, i jedyna, którą dawało się zamknąć. U Mateusza pada dwa razy — tu i w 24,26, gdzie fałszywa wieść o Mesjaszu brzmi „oto jest w alkierzach\". Czasownik κλείω pada trzy razy i jego rozkład jest zarzutem: tutaj uczeń zamyka drzwi, żeby się modlić, w 23,13 uczeni w Piśmie zamykają królestwo niebios wobec ludzi, w 25,10 zamknięte zostają drzwi na gody. Dwa nakazy w aoryście — wejdź, zamknij — opisują czynność, którą trzeba wykonać raz. Przy tej dosłowności obraz zakłada przy tym dom, w którym taka izba jest; nakaz nie jest skierowany do kogoś, kto nie ma gdzie zamknąć drzwi, i to ograniczenie należy zauważyć, zanim się z izby zrobi przenośnię."
+      ],
+      [
+       "τῷ πατρί σου τῷ ἐν τῷ κρυπτῷ",
+       "do Ojca swego, tego w ukryciu",
+       "To jest w tej Ewangelii miejsce bez odpowiednika. Ojciec jest u Mateusza umiejscowiony dwadzieścia razy i zawsze przez niebo: trzynaście razy jako ὁ ἐν τοῖς οὐρανοῖς (ten w niebiosach) i siedem razy jako ὁ οὐράνιος (niebieski). Jedyne inne umiejscowienie stoi tu i w w. 18, i jest nim ukrycie. Składnia jest przy tym ta sama co w zwrotach o niebie — rodzajnik z przyimkiem przydany do rzeczownika — więc zdanie mówi o Ojcu tak, jak się mówi o Ojcu w niebiosach, tylko z innym dopełnieniem miejsca. Nie zastępuje przy tym nieba, bo niebo stało pięć wierszy wcześniej (6,1) i stanie trzy wiersze dalej (6,9). Po tym określeniu następuje w tym samym wierszu imiesłów ὁ βλέπων ἐν τῷ κρυπτῷ (ten widzący w ukryciu): Ojciec jest w ukryciu i w ukryciu widzi, czyli ukrycie nie jest w tym zdaniu zasłoną, lecz miejscem spotkania."
+      ]
+     ]
+    },
+    {
+     "cs": 6,
+     "vs": 7,
+     "ce": 6,
+     "ve": 8,
+     "label": "w. 7–8",
+     "greek": "Προσευχόμενοι δὲ μὴ βατταλογήσητε ὥσπερ οἱ ἐθνικοί, δοκοῦσιν γὰρ ὅτι ἐν τῇ πολυλογίᾳ αὐτῶν εἰσακουσθήσονται. μὴ οὖν ὁμοιωθῆτε αὐτοῖς· οἶδεν γὰρ ὁ πατὴρ ὑμῶν ὧν χρείαν ἔχετε πρὸ τοῦ ὑμᾶς αἰτῆσαι αὐτόν.",
+     "transl": "Modląc się zaś, nie paplajcie jak poganie, mniemają bowiem, że w wielomówstwie swoim zostaną wysłuchani. Nie dajcie się więc im upodobnić, wie bowiem Ojciec wasz, czego potrzebę macie, zanim wy go poprosicie.",
+     "units": [
+      [
+       "μὴ βατταλογήσητε",
+       "nie paplajcie",
+       "Czasownik jest w Nowym Testamencie jednorazowy i poza nim w grece niemal nieświadczony, więc jego znaczenie trzeba wyprowadzać, a nie sprawdzać. Proponowano trzy drogi: dźwiękonaśladowczą, od powtarzanej zgłoski bat-bat; wywód od imienia własnego — Herodot opowiada o Battosie z Cyreny, który się zacinał (Historiae IV,155); oraz pochodzenie semickie. Żadna nie jest pewna i nie warto wybierać. Sens ustala samo zdanie, bo następne po nim wprowadzone jest przez γάρ i podaje rzeczownik, który czasownik objaśnia: πολυλογία, wielomówstwo. Przedmiotem zakazu jest zatem mnożenie słów, a nie powtarzanie — rozróżnienie, które ma znaczenie, bo Jezus w Getsemani będzie modlił się trzy razy tymi samymi słowami (26,44). Zakaz stoi w aoryście trybu łączącego z μή, czyli zabrania podjęcia czynności, nie trwania w niej. Locus u Herodota wymaga sprawdzenia."
+      ],
+      [
+       "ὥσπερ οἱ ἐθνικοί",
+       "jak poganie",
+       "Przymiotnik ἐθνικός stoi w Ewangeliach tylko u Mateusza i tylko trzy razy: w 5,47 (nie czynią tego samego poganie?), tutaj i w 18,17, gdzie brat, który nie słucha Kościoła, ma być jak poganin. Kazanie mierzy więc ucznia dwiema miarami — sprawiedliwością uczonych w Piśmie i faryzeuszów (5,20) oraz postępowaniem pogan — a trzy uczynki szóstego rozdziału są wyłożone przeciw obu naraz: obłudnikom przeciwstawia się ukrycie, poganom krótkość. Aparat notuje w tym miejscu lekcję ὑποκριταί (obłudnicy) u kodeksu Watykańskiego, minuskułu 1424, syryjskiego curetoniańskiego i tradycji średnioegipskiej. Jest to świadectwo poważne, a lekcja wyrównywałaby wszystkie cztery ostrzeżenia do jednego adresata — i właśnie dlatego jest wtórna: usuwa drugą miarę, którą Mateusz w Kazaniu dwa razy wprowadził."
+      ],
+      [
+       "δοκοῦσιν γὰρ ὅτι ἐν τῇ πολυλογίᾳ αὐτῶν εἰσακουσθήσονται",
+       "mniemają bowiem, że w wielomówstwie swoim zostaną wysłuchani",
+       "Czasownik δοκέω wprowadza cudze przekonanie, którego zdanie nie podziela; u Mateusza otwiera też pytania „jak wam się zdaje\" (17,25; 18,12; 21,28) i ostrzeżenie, by nie mniemać o sobie, że ma się Abrahama za ojca (3,9). Rzeczownik πολυλογία i czasownik εἰσακούω są u Mateusza jednorazowe. Forma εἰσακουσθήσονται jest czasem przyszłym strony biernej, czyli passivum divinum: wysłuchującym jest Bóg, lecz zdanie go nie nazywa — przy czym cała ta bierna forma stoi w obrębie mniemania pogan, a nie w obrębie twierdzenia. Zarzut jest więc dokładnie określony: nie dotyczy liczby słów jako takiej, lecz przekonania, że liczba słów coś sprawia. Przykładem, który Pismo opowiada, jest Karmel: prorocy Baala wołali od rana do południa i nie było głosu ani odpowiedzi (1 Krl 18,26–29)."
+      ],
+      [
+       "οἶδεν γὰρ ὁ πατὴρ ὑμῶν ὧν χρείαν ἔχετε",
+       "wie bowiem Ojciec wasz, czego potrzebę macie",
+       "Czasownik οἶδα jest formą perfecti o znaczeniu teraźniejszym i oznacza wiedzę posiadaną, nie nabywaną. Zdanie wróci w tym samym rozdziale prawie bez zmiany: οἶδεν γὰρ ὁ πατὴρ ὑμῶν ὁ οὐράνιος ὅτι χρῄζετε τούτων ἁπάντων (wie bowiem Ojciec wasz niebieski, że potrzebujecie tego wszystkiego, 6,32), tam jako racja przeciw trosce, tu jako racja przeciw wielomówstwu. Aparat notuje w tym miejscu dwie lekcje rozwinięte: ὁ θεὸς ὁ πατὴρ ὑμῶν (Bóg, Ojciec wasz) u korektora Sinaiticusa, kodeksu Watykańskiego oraz w tradycji sahidzkiej i średnioegipskiej, a także ὁ πατὴρ ὑμῶν ὁ οὐράνιος (Ojciec wasz niebieski) u późniejszych minuskułów i w syryjskim harkleńskim. Pierwsza jest osobliwa, bo nigdzie u Mateusza Bóg i Ojciec wasz nie stoją w apozycji; druga wyrównuje zdanie do 6,32. Wydawcy drukują krótkie ὁ πατὴρ ὑμῶν (Ojciec wasz)."
+      ],
+      [
+       "πρὸ τοῦ ὑμᾶς αἰτῆσαι αὐτόν",
+       "zanim wy go poprosicie",
+       "Konstrukcja z przyimkiem πρό, rodzajnikiem i bezokolicznikiem z podmiotem w bierniku wyraża wyprzedzenie w czasie. Trudność zdania jest widoczna i nie została w tej Ewangelii rozwiązana: jeśli Ojciec wie przed prośbą, prośba nie może go powiadomić, a mimo to trzydzieści wierszy dalej w tej samej mowie stoi Αἰτεῖτε καὶ δοθήσεται ὑμῖν (proście, i będzie wam dane, 7,7), a czasownik αἰτέω pada w 7,7–11 pięć razy. Mateusz nie zestawia tych dwóch zdań i nie komentuje ich zgody. To, co z samego tekstu wynika, jest skromniejsze od rozwiązań teologicznych: skoro wysłuchanie nie zależy od powiadomienia, nie może zależeć od obfitości słów — i to jest cały wniosek, do którego zdanie zostało użyte. Kodeks Bezy i starołaciński rękopis h mają tu zresztą inną lekcję: ἀνοῖξαι τὸ στόμα (zanim otworzycie usta)."
+      ],
+      [
+       "μὴ οὖν ὁμοιωθῆτε αὐτοῖς",
+       "nie dajcie się więc im upodobnić",
+       "Czasownik ὁμοιόω pada u Mateusza osiem razy i siedem z tych wystąpień otwiera przypowieść: podobne jest królestwo niebios do człowieka, który posiał (13,24), do króla (18,23; 22,2), do dziesięciu panien (25,1), a człowiek bywa przyrównany do budującego na skale albo na piasku (7,24.26) i pokolenie do dzieci na rynku (11,16). Ósme wystąpienie stoi tutaj, jest jedynym zakazem i jedynym miejscem bez przypowieści. Forma jest bierna, aorystu trybu łączącego, więc zakaz nie dotyczy czynnego naśladowania, lecz dania się przyrównać — z czego wynika, że podobieństwo mogłoby zajść bez zamiaru. Zdanie zamyka blok i jest jedynym w perykopie, które nie przeciwstawia dwóch postępowań, lecz tylko odcina jedno. Odpowiedź dodatnia przyjdzie w następnym wierszu i nie będzie opisem postępowania: będzie tekstem do odmówienia."
+      ]
+     ]
+    },
+    {
+     "cs": 6,
+     "vs": 9,
+     "ce": 6,
+     "ve": 13,
+     "label": "w. 9–13",
+     "greek": "Οὕτως οὖν προσεύχεσθε ὑμεῖς· Πάτερ ἡμῶν ὁ ἐν τοῖς οὐρανοῖς· ἁγιασθήτω τὸ ὄνομά σου· ἐλθέτω ἡ βασιλεία σου· γενηθήτω τὸ θέλημά σου, ὡς ἐν οὐρανῷ καὶ ἐπὶ γῆς· τὸν ἄρτον ἡμῶν τὸν ἐπιούσιον δὸς ἡμῖν σήμερον· καὶ ἄφες ἡμῖν τὰ ὀφειλήματα ἡμῶν, ὡς καὶ ἡμεῖς ἀφήκαμεν τοῖς ὀφειλέταις ἡμῶν· καὶ μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν, ἀλλὰ ῥῦσαι ἡμᾶς ἀπὸ τοῦ πονηροῦ.",
+     "transl": "Tak więc modlić się będziecie wy: Ojcze nasz, ten w niebiosach, niech zostanie uświęcone imię twoje, niech przyjdzie królestwo twoje, niech się stanie wola twoja, jak w niebie, tak i na ziemi. Chleb nasz ἐπιούσιον (powszedni, jutrzejszy albo ponadistotny — wyraz nierozstrzygnięty) daj nam dzisiaj, i odpuść nam długi nasze, jak i my odpuściliśmy dłużnikom naszym, i nie wprowadź nas w doświadczenie, ale wyrwij nas od złego.",
+     "units": [
+      [
+       "Οὕτως οὖν προσεύχεσθε ὑμεῖς",
+       "Tak więc modlić się będziecie wy",
+       "Przysłówek οὕτως znaczy „w ten sposób\" i sam z siebie nie rozstrzyga, czy podane słowa są wzorem, czy tekstem. Rozstrzyga co innego: podane jest nie pouczenie o modlitwie, lecz modlitwa — jedyny w tej Ewangelii ciągły tekst, który uczeń ma wypowiedzieć. Zaimek ὑμεῖς jest w grece zbędny i postawiony znaczy nacisk; w Kazaniu stoi emfatycznie w 5,13.14, w 5,48 i tutaj, a za każdym razem oddziela słuchaczy od kogoś, o kim była mowa przed chwilą — tu od pogan. Tryb rozkazujący czasu teraźniejszego προσεύχεσθε nakazuje czynność ciągłą albo powtarzalną, w odróżnieniu od aorystów εἴσελθε i κλείσας z w. 6. Didache zapisuje tę modlitwę i nakazuje odmawiać ją trzy razy dziennie (8,2–3), więc już na przełomie pierwszego i drugiego wieku była tekstem przepisanym, a nie samym schematem. Locus w Didache wymaga sprawdzenia."
+      ],
+      [
+       "Πάτερ ἡμῶν ὁ ἐν τοῖς οὐρανοῖς",
+       "Ojcze nasz, ten w niebiosach",
+       "Wołacz πάτερ pada u Mateusza cztery razy: tutaj, w dziękczynieniu Jezusa (11,25) i dwa razy w Getsemani jako πάτερ μου (26,39.42). Tylko jeden z tych czterech jest w liczbie mnogiej i tylko ten jest wkładany w usta uczniów — Mateusz zna więc oba zaimki i rozdziela je. Pod greckim wołaczem stoi najpewniej aramejskie אַבָּא (abba), którego Mateusz nie transkrybuje, choć zachował je Marek w Getsemani (Mk 14,36), a za nim Paweł (Rz 8,15; Ga 4,6). Sam adres nie jest przy tym bez poprzedników: אָבִינוּ שֶׁבַּשָּׁמַיִם (awinu szebaszamajim, Ojcze nasz, który jesteś w niebiosach) jest w modlitwie żydowskiej utrwalony. Nowe jest to, czego w zwrocie nie ma — żadnego tytułu majestatu, żadnego „Panie\", żadnego „Boże Abrahama\". Dopowiedzenie ὁ ἐν τοῖς οὐρανοῖς (ten w niebiosach) jest drugim w tej perykopie określeniem Ojca przez niebo i ostatnim; dalej będzie już tylko ukrycie."
+      ],
+      [
+       "ἁγιασθήτω τὸ ὄνομά σου",
+       "niech zostanie uświęcone imię twoje",
+       "Pierwsza prośba jest aorystem trybu rozkazującego strony biernej w trzeciej osobie i nie podaje sprawcy. Czasownik ἁγιάζω pada u Mateusza trzy razy, a w dwóch pozostałych miejscach podmiotem są przybytek i ołtarz, które uświęcają złoto i dar (23,17.19) — czyli uświęca zawsze to, co większe. Tło prośby jest prorockie i rozstrzyga o jej kierunku: w Ez 36,22–23 Bóg mówi, że sam uświęci swoje wielkie imię, zbezczeszczone wśród narodów. Prośba nie wzywa więc ludzi do oddawania czci, lecz prosi Boga, by uczynił to, co u Ezechiela zapowiada. Dwie pierwsze prośby idą przy tym tym samym porządkiem co aramejski קַדִּישׁ (kaddisz), otwierany prośbą o wywyższenie i uświęcenie wielkiego imienia oraz o nadejście królowania; zachowana postać Kadiszu jest jednak późniejsza, więc jest to pokrewieństwo formy, nie zapożyczenie, i wymaga sprawdzenia przy wydaniach."
+      ],
+      [
+       "ἐλθέτω ἡ βασιλεία σου",
+       "niech przyjdzie królestwo twoje",
+       "Rzeczownik βασιλεία pada u Mateusza pięćdziesiąt pięć razy, zwykle w omowie βασιλεία τῶν οὐρανῶν (królestwo niebios), która imienia Boga unika. Tutaj, w jedynym miejscu, gdzie uczeń zwraca się do Boga bezpośrednio, omowa znika i zostaje zaimek: królestwo twoje. Rzecz jest konsekwentna — nie ma potrzeby omijać imienia w zdaniu, które jest skierowane do tego, czyje imię się omija. Czasownik ἔρχομαι w aoryście trybu rozkazującego oznacza przyjście jednorazowe; w zwiastowaniu Chrzciciela i Jezusa królestwo nie przychodzi, lecz „przybliżyło się\" (ἤγγικεν, 3,2; 4,17; 10,7), co jest formą perfecti o skutku trwającym. Prośba stawia więc obok siebie dwa różne orzeczenia o tej samej rzeczy i nie usuwa między nimi napięcia: królestwo już się przybliżyło i wciąż jest o co prosić."
+      ],
+      [
+       "γενηθήτω τὸ θέλημά σου",
+       "niech się stanie wola twoja",
+       "Rzeczownik θέλημα pada u Mateusza sześć razy, a dwa z tych wystąpień zawierają tę samą formułę co do wyrazu: ta prośba i modlitwa Jezusa w Getsemani — πάλιν ἐκ δευτέρου ἀπελθὼν προσηύξατο λέγων· πάτερ μου, εἰ οὐ δύναται τοῦτο παρελθεῖν ἐὰν μὴ αὐτὸ πίω, γενηθήτω τὸ θέλημά σου (znowu po raz drugi odszedłszy, modlił się mówiąc: Ojcze mój, jeśli nie może to przejść, chyba żebym je wypił, niech się stanie wola twoja, 26,42). Jest to jedyny raz, kiedy prośba z tej modlitwy wraca w narracji tej Ewangelii dosłownie, i wraca w ustach tego, kto ją podał. Pozostałe cztery wystąpienia czynią wolę Ojca kryterium przynależności: nie każdy, kto mówi „Panie, Panie\", wejdzie, lecz kto czyni wolę Ojca (7,21), i kto ją czyni, jest bratem (12,50). Aparat notuje w tym wierszu drobne ingerencje: pierwotny kodeks Bezy oraz rękopisy starołacińskie a, b, c, k opuszczają ὡς, a Tertulian i Cyprian idą za nimi."
+      ],
+      [
+       "ὡς ἐν οὐρανῷ καὶ ἐπὶ γῆς",
+       "jak w niebie, tak i na ziemi",
+       "Zdanie stoi na szwie modlitwy i można je przydać do prośby trzeciej albo do wszystkich trzech; grecki nie rozstrzyga. Rozstrzyga rozkład zaimków. Przed tym zdaniem padły trzy prośby w trzeciej osobie z zaimkiem σου (twoje), po nim przyjdą cztery w drugiej osobie z zaimkami pierwszej osoby liczby mnogiej, a wszystko, o co się dalej prosi, jest ziemskie: chleb, dług, próba, zły. Rzeczownik οὐρανός stoi tu w liczbie pojedynczej, choć w w. 9 był w mnogiej — Mateusz używa obu i w tej perykopie użył obu w odstępie jednego wiersza. Para niebo–ziemia wróci u niego przy władzy wiązania (16,19; 18,18), przy zgodzie dwóch na ziemi (18,19) i w zdaniu o wszelkiej władzy danej na niebie i na ziemi (28,18). Kodeksy D, L, Θ i rodzina f13 dokładają przed γῆς rodzajnik, wyrównując drugi człon do pierwszego."
+      ],
+      [
+       "τὸν ἄρτον ἡμῶν τὸν ἐπιούσιον δὸς ἡμῖν σήμερον",
+       "Chleb nasz ἐπιούσιον daj nam dzisiaj",
+       "Przymiotnik ἐπιούσιος nie występuje w grece poza Modlitwą Pańską i Orygenes zapisał, że nie znalazł go u żadnego pisarza; możliwe więc, że powstał na potrzebę przekładu. Wyprowadzenia są trzy: od ἐπὶ τὴν οὖσαν ἡμέραν (na dzień bieżący), stąd powszedni; od ἡ ἐπιοῦσα ἡμέρα (dzień następny), stąd jutrzejszy; od οὐσία (istota), stąd łacińskie supersubstantialis. Aparat jest w tym miejscu nie wykazem lekcji greckich, lecz wykazem bezradności przekładów: cottidianum w starołacińskich, supersubstantialem w Wulgacie, perpetuum w syryjskim curetoniańskim, necessarium w pozostałych syryjskich, venientem w sahidzkim, crastinum w średnioegipskim i bohairskim. Hieronim świadczy przy tym, że Ewangelia hebrajska miała tu wyraz מָחָר (machar, jutro). Przekład roboczy zostawia wyraz nieprzełożony, bo każdy wybór jest już wykładnią. Reszta prośby mówi jedno: δός jest aorystem, a σήμερον znaczy dzisiaj — prosi się raz i na jeden dzień, jak zbierano mannę (Wj 16,4)."
+      ],
+      [
+       "ἄφες ἡμῖν τὰ ὀφειλήματα ἡμῶν, ὡς καὶ ἡμεῖς ἀφήκαμεν",
+       "odpuść nam długi nasze, jak i my odpuściliśmy",
+       "Rzeczownik ὀφείλημα jest u Mateusza jednorazowy i należy w całości do rachunku: znaczy należność, nie winę moralną. Pod obrazem stoi aramejskie חוֹבָא (chowa), które znaczy zarazem dług i grzech, więc prośba mówi o długach nie przez wybór przenośni, lecz przez wierność wyrazowi. Czasownik ἀφίημι znaczy puścić i zostawić; w rachunku jest umorzeniem. Rozstrzygające jest jednak czasownikowe czas drugiego członu. Wydawcy drukują ἀφήκαμεν, aoryst trybu orzekającego — odpuściliśmy — za pierwotnym Sinaiticusem, kodeksem Watykańskim, Z i rodziną f1. Większość świadków ma czas teraźniejszy: ἀφίομεν u Bezy, W, Δ, Θ, albo ἀφίεμεν u korektora Sinaiticusa, rodziny f13, tradycji bizantyjskiej i w Didache. Różnica jest ciężka: czas teraźniejszy opisuje postawę trwającą, aoryst żąda czynu już dokonanego, zanim się o odpuszczenie poprosi. Kopiści złagodzili trudniejsze."
+      ],
+      [
+       "μὴ εἰσενέγκῃς ἡμᾶς εἰς πειρασμόν, ἀλλὰ ῥῦσαι ἡμᾶς ἀπὸ τοῦ πονηροῦ",
+       "nie wprowadź nas w doświadczenie, ale wyrwij nas od złego",
+       "Czasownik εἰσφέρω jest u Mateusza jednorazowy, przechodni i sprawczy: nie „nie pozwól nam wejść\", lecz „nie wprowadź\". Ta sama sytuacja jest w 26,41 opisana czasownikiem nieprzechodnim — ἵνα μὴ εἰσέλθητε εἰς πειρασμόν (żebyście nie weszli w doświadczenie) — czyli bez sprawcy. Ewangelia nie uchyla się przy tym od zdania, które prośba zakłada: w 4,1 Duch wyprowadza Jezusa na pustynię, żeby został doświadczony. Rzeczownik πειρασμός pada u Mateusza dwa razy i oba są w modlitwie. Co do τοῦ πονηροῦ (od złego), forma dopełniacza nie rozstrzyga rodzaju, a edycja morfologiczna MorphGNT tagowała ją w 6,13 jako nijaką, a w 5,37 — tę samą formę w tej samej Ewangelii — jako męską; podaję to jako decyzję wydawcy, nie jako dane tekstu. U Mateusza ὁ πονηρός jest osobą w 13,19.38. Doksologii wydawcy nie drukują; ma ją większość bizantyjska i Didache."
+      ]
+     ]
+    },
+    {
+     "cs": 6,
+     "vs": 14,
+     "ce": 6,
+     "ve": 15,
+     "label": "w. 14–15",
+     "greek": "Ἐὰν γὰρ ἀφῆτε τοῖς ἀνθρώποις τὰ παραπτώματα αὐτῶν, ἀφήσει καὶ ὑμῖν ὁ πατὴρ ὑμῶν ὁ οὐράνιος· ἐὰν δὲ μὴ ἀφῆτε τοῖς ἀνθρώποις, οὐδὲ ὁ πατὴρ ὑμῶν ἀφήσει τὰ παραπτώματα ὑμῶν.",
+     "transl": "Jeśli bowiem odpuścicie ludziom występki ich, odpuści i wam Ojciec wasz niebieski; jeśli zaś nie odpuścicie ludziom, ani Ojciec wasz nie odpuści występków waszych.",
+     "units": [
+      [
+       "Ἐὰν γὰρ ἀφῆτε τοῖς ἀνθρώποις",
+       "Jeśli bowiem odpuścicie ludziom",
+       "Spójnik γάρ przyczepia te dwa wiersze nie do całej modlitwy, lecz do jednej jej prośby — piątej — i to jest w budowie perykopy rzecz najdziwniejsza: komentarz do jednego wiersza stoi wewnątrz drugiego z trzech symetrycznych członów. Zmienia się przy tym dopełnienie. Prośba mówiła o dłużnikach (τοῖς ὀφειλέταις ἡμῶν), objaśnienie mówi o ludziach (τοῖς ἀνθρώποις, ludziom), i jest to w tej perykopie szóste z siedmiu wystąpień rzeczownika ἄνθρωπος. W pięciu poprzednich ludzie byli widownią, której należy unikać (6,1.2.5.16.18); tutaj i w wierszu następnym są tymi, którym trzeba odpuścić. Rola tego samego wyrazu odwraca się zatem dokładnie w dwóch wierszach dołączonych do modlitwy. Pierwotny kodeks Bezy, L i część minuskułów opuszczają γάρ, co odcina te wiersze od modlitwy i czyni z nich zdanie samodzielne."
+      ],
+      [
+       "τὰ παραπτώματα αὐτῶν",
+       "występki ich",
+       "Rzeczownik παράπτωμα pada u Mateusza dwa razy i oba wystąpienia są w tych dwóch wierszach. Znaczy upadek obok, krok poza drogę, i należy do słownictwa winy moralnej, czego ὀφείλημα z w. 12 nie czyniło. W dwóch zdaniach obok siebie stoją więc dwie przenośnie grzechu — niezapłacona należność i krok w bok — i Mateusz żadnej z nich nie uzgadnia z drugą ani nie tłumaczy, czemu zmienił wyraz. Czasownik, który obie obsługuje, jest ten sam: ἀφίημι, u Mateusza czterdzieści siedem razy, a w tej perykopie sześć (6,12 dwa razy, 6,14 dwa razy, 6,15 dwa razy). Przy długu znaczy umorzyć, przy kroku w bok — zaniechać pogoni. Aparat notuje w w. 14 dwie harmonizacje do 18,35 i do w. 15, a w w. 15 dodanie „występków ich\" po „ludziom\" u Watykańskiego, L, W, Θ i większości bizantyjskiej."
+      ],
+      [
+       "ἀφήσει καὶ ὑμῖν ὁ πατὴρ ὑμῶν ὁ οὐράνιος",
+       "odpuści i wam Ojciec wasz niebieski",
+       "Przymiotnik οὐράνιος pada u Mateusza siedem razy i jest jego własnym sposobem mówienia o Ojcu, krótszym niż omowa z przyimkiem; w tej perykopie stoi tylko tutaj. Dwa wiersze są zbudowane jako para okresów warunkowych — ἐάν z trybem łączącym aorystu, raz twierdząco, raz przecząco — i jest to w Kazaniu jedyna taka symetryczna para. W wierszu piętnastym przymiotnik odpada i zostaje samo ὁ πατὴρ ὑμῶν (Ojciec wasz), co jest u Mateusza zwykłe, ale w zestawieniu dwóch zdań zwraca uwagę. Rzecz, którą trzeba powiedzieć, zanim się z tych wierszy zrobi rachunek wymienny: w 18,23–35 ten sam porządek jest opowiedziany odwrotnie — król darowuje dług pierwszy, a sługa, który darowanego długu nie przenosi na swojego dłużnika, traci darowanie. Pierwszeństwo należy więc do odpuszczenia Bożego, a warunek z w. 15 opisuje, co je odbiera."
+      ],
+      [
+       "οὐδὲ ὁ πατὴρ ὑμῶν ἀφήσει",
+       "ani Ojciec wasz nie odpuści",
+       "Zdanie przecząco-warunkowe jest w całej tej mowie jedynym, w którym działanie Ojca zostaje uzależnione od działania słuchaczy. We wszystkich pozostałych miejscach Kazania Ojciec sprawia coś niezależnie: wschodzić każe słońcu nad złymi i dobrymi (5,45), wie przed prośbą (6,8), karmi ptaki (6,26), da dobre rzeczy proszącym (7,11). Tu jedno jego działanie jest obwarowane, i obwarowane dwukrotnie — przez zdanie twierdzące i przez jego zaprzeczenie. Mateusz powtórzy ten warunek na końcu przypowieści o nielitościwym słudze, z dopowiedzeniem, którego tutaj nie ma: ἀπὸ τῶν καρδιῶν ὑμῶν (z serc waszych, 18,35). Aparat notuje w tym miejscu trzy różne szyki wyrazów i dodanie „wam\" po „odpuści\" — kopiści uzupełniali zdanie, które jest urwane, bo czasownik ἀφῆτε w w. 15 nie ma dopełnienia bliższego."
+      ]
+     ]
+    },
+    {
+     "cs": 6,
+     "vs": 16,
+     "ce": 6,
+     "ve": 18,
+     "label": "w. 16–18",
+     "greek": "Ὅταν δὲ νηστεύητε, μὴ γίνεσθε ὡς οἱ ὑποκριταὶ σκυθρωποί, ἀφανίζουσιν γὰρ τὰ πρόσωπα αὐτῶν ὅπως φανῶσιν τοῖς ἀνθρώποις νηστεύοντες· ἀμὴν λέγω ὑμῖν, ἀπέχουσιν τὸν μισθὸν αὐτῶν. σὺ δὲ νηστεύων ἄλειψαί σου τὴν κεφαλὴν καὶ τὸ πρόσωπόν σου νίψαι, ὅπως μὴ φανῇς τοῖς ἀνθρώποις νηστεύων ἀλλὰ τῷ πατρί σου τῷ ἐν τῷ κρυφαίῳ· καὶ ὁ πατήρ σου ὁ βλέπων ἐν τῷ κρυφαίῳ ἀποδώσει σοι.",
+     "transl": "Kiedy zaś pościcie, nie stawajcie się jak obłudnicy ponurzy, zacierają bowiem twarze swoje, żeby ukazali się ludziom jako poszczący. Amen mówię wam: odebrali zapłatę swoją. Ty zaś, poszcząc, namaść swoją głowę i twarz swoją umyj, żebyś nie ukazał się ludziom jako poszczący, ale Ojcu swemu, temu w skrytości. A Ojciec twój, ten widzący w skrytości, odda tobie.",
+     "units": [
+      [
+       "Ὅταν δὲ νηστεύητε",
+       "Kiedy zaś pościcie",
+       "Czasownik νηστεύω pada u Mateusza osiem razy i tylko w trzech miejscach: przy czterdziestu dniach Jezusa na pustyni (4,2), cztery razy tutaj i trzy razy w pytaniu uczniów Jana, dlaczego uczniowie Jezusa nie poszczą (9,14–15). Z tych trzech miejsc składa się cała nauka tej Ewangelii o poście, a składa się w porządku, który sam jest nauką: Jezus pości, jego uczniowie na razie nie poszczą, bo pan młody jest z nimi, lecz będą pościć, gdy zostanie im zabrany — i wtedy obowiązuje to, co powiedziano tutaj. Zdanie zakłada więc post, którego przy mówieniu nie było. Tryb łączący z ὅταν jest w liczbie mnogiej, jak w członie o modlitwie i inaczej niż w członie o jałmużnie; rozstrzygnięcie w w. 17 wróci, jak dwa poprzednie, do liczby pojedynczej."
+      ],
+      [
+       "μὴ γίνεσθε ὡς οἱ ὑποκριταὶ σκυθρωποί",
+       "nie stawajcie się jak obłudnicy ponurzy",
+       "Przymiotnik σκυθρωπός jest u Mateusza jednorazowy i stoi orzecznikowo, nie przydawkowo: zakaz nie brzmi „nie stawajcie się obłudnikami\", lecz „nie stawajcie się, jak obłudnicy, ponurzy\". Przedmiotem zakazu jest zatem wyraz twarzy, a obłudnicy są przykładem, nie definicją. Czasownik γίνομαι w trybie rozkazującym czasu teraźniejszego zabrania trwania w stawaniu się takim, a nie jednorazowego czynu. Kodeksy L, W, Θ, 0233, rodzina f13 i minuskuł 33 mają w tym miejscu ὥσπερ zamiast ὡς, wyrównując spójnik do w. 2 i w. 7 — ślad tego samego porządkującego odruchu, który w innych miejscach tej perykopy usuwał liczbę mnogą i zmieniał κρυφαίῳ na κρυπτῷ. Mateusz w trzech członach użył trzech różnych wprowadzeń porównania: ὥσπερ, ὡς z orzeczeniem imiennym i ὡς z przymiotnikiem orzecznikowym."
+      ],
+      [
+       "ἀφανίζουσιν γὰρ τὰ πρόσωπα αὐτῶν ὅπως φανῶσιν",
+       "zacierają bowiem twarze swoje, żeby ukazali się",
+       "To jest w perykopie jedyna gra słów i jest dokładna: ἀφανίζουσιν i φανῶσιν mają ten sam rdzeń φαν-, a przedrostek ἀ- w pierwszym z nich go przeczy. Zdanie mówi więc, że czynią swoje twarze niewidocznymi, żeby stać się widocznymi, i cały zarzut daje się odczytać z dwóch form jednego wyrazu. Czasownik ἀφανίζω pada u Mateusza trzy razy, wszystkie trzy w szóstym rozdziale: tutaj o twarzach, a w 6,19–20 o molu i rdzy, które niszczą skarby gromadzone na ziemi. Ten sam czasownik opisuje zatem zabieg obłudnika na własnej twarzy i działanie zniszczenia — i dzieli tę perykopę od następnej, bo granica między nimi przechodzi między dwoma jego wystąpieniami. Rzeczownik πρόσωπον pada dziesięć razy i znaczy u Mateusza także stronę zewnętrzną: oblicze nieba (16,3), wzgląd na osobę (22,16)."
+      ],
+      [
+       "ἄλειψαί σου τὴν κεφαλὴν καὶ τὸ πρόσωπόν σου νίψαι",
+       "namaść swoją głowę i twarz swoją umyj",
+       "Czasownik ἀλείφω jest u Mateusza jednorazowy, νίπτω pada dwa razy — tu i w zarzucie faryzeuszów, że uczniowie jedzą nieobmytymi rękami (15,2). Oba nakazy są w aoryście strony medialnej, czyli dotyczą czynności wykonanej na sobie, i oba każą zrobić to, co robi człowiek, który nie pości. Namaszczenie głowy oliwą i obmycie twarzy były czynnościami powszednimi; ich zaniechanie było znakiem żałoby i postu. Opis postu publicznego wylicza popiół na głowie, zaniechanie obmycia i zaniechanie namaszczenia — nakaz odwraca więc dokładnie dwa z tych trzech znaków. Pismo opowiada tę samą kolejność przy Dawidzie: gdy dziecko umarło, wstał, obmył się, namaścił i zmienił odzienie, czyli przestał pościć (2 Sm 12,20). Szyk obu członów jest przy tym odwrócony — orzeczenie przed dopełnieniem, potem dopełnienie przed orzeczeniem."
+      ],
+      [
+       "ὅπως μὴ φανῇς τοῖς ἀνθρώποις ... ἀλλὰ τῷ πατρί σου",
+       "żebyś nie ukazał się ludziom ... ale Ojcu swemu",
+       "Jest to jedyny w perykopie człon dodatni, który ma własne zdanie celowe, i w tym zdaniu stoi rzecz, do której cała perykopa prowadzi. Dwa celowniki są postawione równolegle i połączone przez ἀλλά (ale): τοῖς ἀνθρώποις (ludziom) i τῷ πατρί σου (Ojcu swemu). Ojciec zajmuje zatem w składni dokładnie to miejsce, które w trzech zdaniach o obłudnikach zajmowali ludzie — miejsce tego, komu się czyn okazuje. Czasownik φαίνω zostaje przy tym ten sam, w tej samej formie biernej, co w w. 5 i w. 16; nie znika więc ukazywanie się, zmienia się ten, przed kim ono zachodzi. Gramatyka mówi tu to, czego perykopa nie wypowiada w żadnym zdaniu oznajmującym: widownia nie zostaje zniesiona, zostaje zamieniona. Kodeks Watykański i starołaciński k mają w tym miejscu inny szyk trzech wyrazów."
+      ],
+      [
+       "ἐν τῷ κρυφαίῳ",
+       "w skrytości",
+       "W trzecim członie Mateusz zmienia przymiotnik. Dwa razy wcześniej stało ἐν τῷ κρυπτῷ (6,4.6), tutaj dwa razy stoi ἐν τῷ κρυφαίῳ (w skrytości) — wyraz, który w Nowym Testamencie poza tym miejscem nie występuje. Zmiana jest synonimiczna i niczego nie dodaje do znaczenia, a przez to tym wyraźniej pokazuje, że trójka członów nie jest u Mateusza mechaniczna: w ostatnim z nich zmienia się przymiotnik, szyk celowników i konstrukcja zdania celowego. Kopiści zmianę usunęli: L, W, Θ, 0233, 0250, rodzina f13, minuskuł 33 i większość bizantyjska mają w obu miejscach τῷ κρυπτῷ, wyrównane do wierszy poprzednich, a pierwotny kodeks Bezy ma dwie różne formy obok siebie. Wydawcy drukują κρυφαίῳ za Sinaiticusem, Watykańskim i rodziną f1, czyli lekcję, której nikt nie miałby powodu wprowadzić."
+      ]
+     ]
+    }
+   ],
+   "struktura": "Osiemnaście wierszy dzieli się na tezę i trzy człony. Teza (w. 1) ma trzy kroki: nakaz baczności, zakaz czynienia sprawiedliwości wobec ludzi i następstwo, czyli brak zapłaty u Ojca. Każdy z trzech członów — jałmużna (w. 2–4), modlitwa (w. 5–6), post (w. 16–18) — powtarza sześcioczęściowy szkielet: zdanie warunkowe z ὅταν (kiedy), zakaz z odwołaniem do obłudników, zdanie celowe o tym, czego oni szukają, formuła o zapłacie, przeciwstawienie w liczbie pojedynczej i obietnica Ojca.\n\nDwie z tych sześciu części są powtórzone co do wyrazu. Pierwsza brzmi ἀμὴν λέγω ὑμῖν, ἀπέχουσιν τὸν μισθὸν αὐτῶν (amen mówię wam, odebrali zapłatę swoją) i stoi trzy razy bez żadnej zmiany (w. 2.5.16). Druga brzmi καὶ ὁ πατήρ σου ὁ βλέπων ἐν τῷ κρυπτῷ ἀποδώσει σοι (a Ojciec twój, ten widzący w ukryciu, odda tobie) i stoi trzy razy z jedną zmianą, w trzecim wystąpieniu przymiotnika na κρυφαίῳ (w. 4.6.18). Perykopa nie powtarza dosłownie nic poza tymi dwiema formułami, a obie dotyczą zapłaty: raz pobranej, raz odłożonej.\n\nPozostałe cztery części szkieletu Mateusz za każdym razem przestawia, i te przestawienia są jedyną drogą do jego zamysłu. Porównanie wprowadza trzy razy inaczej: ὥσπερ z orzeczeniem (w. 2), ὡς z orzeczeniem imiennym w czasie przyszłym (w. 5), ὡς z przymiotnikiem orzecznikowym (w. 16). Zdanie celowe mówi raz o chwale (δοξασθῶσιν, w. 2) i dwa razy o samym ukazaniu się (φανῶσιν, w. 5.16). Liczba jest nierówna: zakaz idzie raz w liczbie pojedynczej (ποιῇς, w. 2) i dwa razy w mnogiej (προσεύχησθε, νηστεύητε), natomiast rozstrzygnięcie dodatnie jest trzy razy w pojedynczej. Trzeci człon jest przy tym jedynym, który ma własne zdanie celowe po stronie dodatniej (w. 18) — i właśnie tam stoi zamiana celowników, do której cała perykopa prowadzi.\n\nSymetria pęka raz. Po drugim członie wchodzi materiał o modlitwie (w. 7–15), dłuższy niż trzy człony razem i zbudowany z dwóch części: ostrzeżenia przed modlitwą pogan wraz z Modlitwą Pańską (w. 7–13) oraz warunku przebaczenia (w. 14–15). Druga część przyczepia się przez γάρ do piątej prośby, czyli jest objaśnieniem jednego wiersza tekstu, który sam został wstawiony. Trzeci człon podejmuje szkielet dokładnie tam, gdzie go porzucono, co znaczy, że wstawka nie jest przeróbką struktury, lecz wejściem w nią.\n\nModlitwa dzieli się po zaimkach. Trzy prośby w trzeciej osobie z aorystem trybu rozkazującego mają zaimek σου (twoje): imię, królestwo, wola. Cztery w drugiej osobie mają zaimki pierwszej osoby liczby mnogiej: chleb, długi, próba, zły. Granica wypada na zdaniu ὡς ἐν οὐρανῷ καὶ ἐπὶ γῆς (jak w niebie, tak i na ziemi), które domyka pierwszą trójkę i otwiera to, co ziemskie. Form pierwszej osoby liczby mnogiej jest w modlitwie dziewięć, form pierwszej osoby pojedynczej ani jednej.\n\nRozkład jednego rzeczownika mierzy wreszcie całość. πατήρ pada w tych osiemnastu wierszach dziesięć razy (6,1.4.6 dwa razy, 8.9.14.15.18 dwa razy) na sześćdziesiąt trzy wystąpienia w całej Ewangelii. Dwa razy jest umiejscowiony przez niebo (w. 1 i w. 9) i dwa razy przez ukrycie (w. 6 i w. 18); drugie z tych umiejscowień nie ma u Mateusza żadnego odpowiednika poza tą perykopą.",
+   "sections": [
+    {
+     "type": "kontekst",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
+     "body": null,
+     "children": [
+      [
+       "Trzy uczynki, których Mateusz nie nazywa trójką",
+       "Jałmużna, modlitwa i post stanowiły w judaizmie Drugiej Świątyni zespół rozpoznawalny, i perykopa to zakłada, nie ogłaszając. Księga Tobiasza zestawia je wprost: dobra jest modlitwa z postem, jałmużną i sprawiedliwością, a jałmużna wybawia od śmierci i oczyszcza z wszelkiego grzechu (Tb 12,8–9). Syrach wiąże jałmużnę z przebłaganiem za grzech (Syr 3,30), Daniel modli się o poście i w worze (Dn 9,3), a Księga Tobiasza każe dawać jałmużnę wedle zamożności i nie odwracać twarzy od żadnego ubogiego (Tb 4,7–11). Po roku 70 ta sama trójka — nawrócenie, modlitwa i jałmużna — stanie się formułą liturgii Dnia Przebłagania. Mateusz nie podaje jej jako trójki ani nie uzasadnia wyboru; porządkuje ją tylko gramatycznie, nadając trzem członom jeden szkielet. Oznacza to, że dla jego czytelników trójka była oczywista, a nowe było to, co o niej powiedziano. Loci w Tobiaszu i Syrachu oraz datowanie formuły liturgicznej wymagają sprawdzenia w wydaniach."
+      ],
+      [
+       "Cedaka: jak sprawiedliwość stała się jałmużną",
+       "Hebrajskie צְדָקָה (cedaka) znaczy w Pismie sprawiedliwość, a w hebrajszczyźnie późniejszej jałmużnę; Septuaginta oddaje je w części miejsc przez ἐλεημοσύνη, czyli tym samym wyrazem, którym Mateusz nazywa pierwszy z trzech uczynków. To przesunięcie wyjaśnia dwie rzeczy naraz. Po pierwsze, dlaczego w. 1 mówi o sprawiedliwości, a w. 2, bez żadnego przejścia, o jałmużnie: dla ucha, które znało oba użycia, przejścia nie było. Po drugie, dlaczego część rękopisów postawiła w w. 1 jałmużnę w miejsce sprawiedliwości — kopista nie poprawiał sensu, lecz wybierał drugie znaczenie jednego wyrazu. Urządzenia zbiórki opisuje Miszna: קֻפָּה (kuppa), cotygodniowa skrzynka dla ubogich miejscowych, rozdawana w piątek, i תַּמְחוּי (tamchui), miska z posiłkiem dla przechodnich, wydawana codziennie. Miszna została jednak zredagowana około roku 200, więc jej opis jest dla pierwszego wieku wnioskiem, nie świadectwem. Zakres miejsc Septuaginty i sigla traktatów wymagają sprawdzenia."
+      ],
+      [
+       "Trąby świątynne i trąby postu",
+       "Zakaz z w. 2 nie ma w źródłach starożytnych odpowiednika praktycznego: nikt nie świadczy, że przed rozdaniem jałmużny trąbiono. Dwa objaśnienia krążą po komentarzach i warto obu dokładnie odmierzyć wagę. Pierwsze wiąże czasownik ze skrzynkami ofiarnymi na dziedzińcu świątynnym, zwanymi שׁוֹפָרוֹת (szofarot, trąby) od zwężającej się szyjki; Miszna wylicza ich trzynaście. Objaśnienie jest atrakcyjne, lecz grecki σαλπίζω znaczy dąć w trąbę, nie wrzucać do trąby, a wiersz nie wspomina świątyni — wspomina synagogi i zaułki. Drugie przywołuje szofar dęty przy ogłaszaniu postu publicznego, co jest praktyką poświadczoną, ale dotyczy trzeciego z uczynków, nie pierwszego. Pozostaje czytanie obrazowe, i jest ono najprostsze: trąbić przed sobą znaczy zapowiadać własne nadejście. Rzecz warto zostawić nierozstrzygniętą, bo rozstrzygnięcie wymagałoby danych, których nie ma. Sigla Miszny i poświadczenia szofaru przy postach wymagają sprawdzenia."
+      ],
+      [
+       "Synagoga, zaułek i róg placu",
+       "Cztery nazwy miejsc w dwóch wierszach układają się w pary: synagoga i zaułek przy jałmużnie, synagoga i plac przy modlitwie. Synagogi pierwszego wieku są archeologicznie poświadczone — budowle w Gamli, Magdali, Masadzie i Herodionie pochodzą z czasu przed rokiem 70, a sala w Magdali wraz z rzeźbionym kamieniem została odkryta w roku 2009. Były to miejsca zgromadzenia, czytania Prawa i modlitwy, a także, wedle późniejszych świadectw, zbiórki dla ubogich. ῥύμη to wąska uliczka, πλατεῖα szeroka ulica albo plac; w galilejskim miasteczku jedno i drugie mierzyło się w dziesiątkach metrów. Trzeba to powiedzieć, bo zmienia sens zarzutu: nie chodzi o rozgłos przed tłumem obcych, lecz o widok przed tymi, którzy człowieka znają po imieniu. Zapłata, którą obłudnicy pobierają, jest zapłatą sąsiedzką. Datowania budowli i zakres ich funkcji wymagają sprawdzenia przy publikacjach wykopalisk."
+      ],
+      [
+       "Pory modlitwy i postawa stojąca",
+       "Modlitwa trzy razy dziennie jest w Pismie poświadczona przy Danielu, który otwierał okna ku Jerozolimie i klękał trzykrotnie (Dn 6,11), a w Dziejach wspomniana jest godzina dziewiąta jako godzina modlitwy (Dz 3,1). Hebrajska nazwa modlitwy odmawianej na stojąco — עֲמִידָה (amida), czyli stanie — opisuje postawę, którą zakłada w. 5: ἑστῶτες znaczy stanąwszy, a nie wystawiając się. Liczba i brzmienie błogosławieństw tej modlitwy ustaliły się po roku 70, więc nie wolno ich bez zastrzeżenia rzutować na czas Kazania. Rzecz jest jednak istotna niezależnie od datowania: człowiek zastany o porze modlitwy na ulicy stawał tam, gdzie był, i nikt nie uważał tego za przewinę. Zarzut z w. 5 nie dotyczy więc ani pory, ani postawy, ani miejsca — i właśnie dlatego cała jego treść musi mieścić się w zdaniu celowym. Sigla traktatów o błogosławieństwach i chronologia redakcji wymagają sprawdzenia."
+      ],
+      [
+       "Alkierz: która izba w domu dawała się zamknąć",
+       "Dom galilejski pierwszego wieku, znany z wykopalisk w Kafarnaum, składał się z kilku pomieszczeń skupionych wokół wspólnego dziedzińca, na którym gotowano i pracowano. Pomieszczeniem bez okna, służącym do przechowywania zapasów i rzeczy cenniejszych, było ταμεῖον, i to ono dawało się zamknąć na drzwi. Nakaz z w. 6 wskazuje więc izbę najmniej nadającą się do modlitwy i najbardziej nadającą się do odcięcia widowni. Z obrazu wynika przy tym coś, czego perykopa nie omawia: dom, w którym jest izba zamykana, nie jest domem najbiedniejszym, a wiele mieszkań jednoizbowych w ogóle takiego miejsca nie miało. Nakaz nie jest zatem receptą architektoniczną i tradycja monastyczna, która czytała alkierz jako celę, a potem jako wnętrze człowieka, odpowiadała na trudność rzeczywistą. Wnioski o rozkładzie domów opierają się na materiale archeologicznym i wymagają sprawdzenia przy publikacjach stanowisk."
+      ],
+      [
+       "Post nakazany, post ogłaszany i post dobrowolny",
+       "Prawo Mojżeszowe nakazuje post jeden: w Dzień Przebłagania trzeba udręczyć swoją duszę (Kpł 16,29.31), a wyrażenie to rozumiano jako powstrzymanie się od jedzenia. Obok tego istniały posty ogłaszane w nieszczęściu — Joel wzywa do ogłoszenia postu i zwołania zgromadzenia (Jl 2,15), Jeremiasz wspomina post ogłoszony w świątyni (Jr 36,9) — oraz cztery posty upamiętniające zburzenie Jerozolimy, wymienione u Zachariasza (Za 8,19), który zapowiada, że obrócą się one w radość. Post dobrowolny dwa razy w tygodniu jest poświadczony w Nowym Testamencie (Łk 18,12), a Didache nakazuje chrześcijanom pościć w czwartym i szóstym dniu tygodnia, wprost odcinając się od tych, których nazywa obłudnikami i którzy postili w drugim i piątym (8,1). Mt 6,16–18 dotyczy zatem postu dobrowolnego, bo tylko on jest do ukrycia. Sigla i datowanie Didache wymagają sprawdzenia."
+      ],
+      [
+       "Oliwa i woda: co robił człowiek, który nie pościł",
+       "Znaki postu i żałoby były zewnętrzne i wyliczalne: popiół na głowie, rozdarte szaty, bose stopy, zaniechanie obmycia i zaniechanie namaszczenia oliwą. Traktat o postach opisuje post ogłaszany przy suszy właśnie przez takie wyliczenie. Nakaz z w. 17 odwraca dwa z tych znaków, i odwraca je dokładnie: namaść głowę, obmyj twarz. Nie jest to nakaz przepychu — namaszczenie oliwą było zabiegiem powszednim, higienicznym i leczniczym zarazem, a psalm mówi o oliwie, która rozjaśnia oblicze (Ps 104,15). Najdokładniejszy odpowiednik narracyjny podaje Druga Księga Samuela: gdy dziecko umarło, Dawid wstał z ziemi, obmył się, namaścił, zmienił odzienie i zjadł, czyli wykonał tę samą sekwencję, która u Mateusza stoi w trybie rozkazującym (2 Sm 12,20). Nakaz każe więc poszczącemu robić to, co robi człowiek, który post zakończył. Loci psalmów i sigla traktatu o postach wymagają sprawdzenia."
+      ],
+      [
+       "Po jakim języku modlono się w Galilei",
+       "Modlitwa podana po grecku była wypowiedziana najpewniej po aramejsku, a język liturgiczny był wtedy podzielony: modlitwy hebrajskie odmawiano po hebrajsku, aramejski קַדִּישׁ (kaddisz) po aramejsku. Z tej dwujęzyczności wynikają dwie rzeczy dla tekstu. Pierwsza dotyczy adresu: pod Πάτερ stoi prawdopodobnie אַבָּא (abba), wyraz, którego Mateusz nie transkrybuje, choć zachował go Marek (Mk 14,36), a za nim Paweł w dwóch listach (Rz 8,15; Ga 4,6). Druga dotyczy piątej prośby: grecki ὀφείλημα znaczy należność i nie ma w sobie winy moralnej, natomiast aramejskie חוֹבָא (chowa) znaczy zarazem dług i grzech, więc obraz długu nie jest wyborem przenośni, lecz śladem wyrazu. Próby odtworzenia aramejskiego brzmienia całej modlitwy podejmowano w dwudziestym wieku i bywają przedstawiane jako tekst pierwotny; są hipotezą, a tekstem jest greka, którą mamy. Brzmienia aramejskie i loci wymagają sprawdzenia."
+      ]
+     ]
+    },
+    {
+     "type": "teologia",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "body": "Perykopa stawia scholastyce cztery pytania i wszystkie cztery są trudne w sposób, który widać już w brzmieniu tekstu. Pierwsze: jeśli zapłata obłudników jest zapłatą, to czym jest zapłata obiecana — czy czyn ludzki może Bogu coś należeć. Drugie: jeśli Ojciec wie przed prośbą, po co prośba. Trzecie: czy przebaczenie Boże jest naprawdę uwarunkowane naszym, jak w. 15 brzmi dosłownie. Czwarte, najmniej oczywiste: co to znaczy, że Ojciec jest w ukryciu, skoro Bóg nie jest w miejscu.",
+     "children": [
+      [
+       "Zapłata, która nie jest ceną",
+       "Trudność jest w tym, że perykopa mówi o zapłacie cztery razy i ani razu jej nie odrzuca. Obłudnicy swoją pobrali — czasownik ἀπέχω jest terminem z kwitów — a wierny otrzyma swoją od Ojca, czasownikiem ἀποδίδωμι, który u Mateusza rozlicza długi i wypłaca robotnikom. Scholastyka nie usuwa tej kupieckiej warstwy, lecz określa, w jakim sensie między Bogiem a człowiekiem może zachodzić należność. Tomasz odpowiada, że sprawiedliwość ścisła między nimi nie zachodzi, bo nie ma wspólnej miary; zasługa jest możliwa tylko dlatego, że Bóg sam ustanowił porządek, w którym czyn dokonany z łaski jest przyjęty jako zasługujący (ST I–II, q. 114, a. 1). Zapłata nie jest zatem ceną czynu, lecz skutkiem obietnicy, i właśnie dlatego może być odłożona: 16,27 mówi, że Syn Człowieczy odda każdemu wedle jego czynów, gdy przyjdzie. Obłudnicy nie dostają mniej, niż im się należy — dostają dokładnie tyle, ile wynosiła zapłata, o którą się umówili, i rachunek zostaje zamknięty.\n\nCzym przy tym jest ich wina, skoro czyn wykonali. Tomasz ma na to narzędzie precyzyjne w nauce o próżnej chwale: pragnienie chwały nie jest złem samo w sobie, bo chwała jest poznaniem i uznaniem dobra. Staje się wadą na trzy sposoby: gdy chwała, której się szuka, jest nieprawdziwa; gdy szuka się jej u tych, których sąd nic nie wart; i gdy nie odnosi się jej do Boga jako ostatecznego celu (ST II–II, q. 132, a. 1). Trzeci sposób odpowiada dokładnie składni w. 1: zdanie celowe kończy się na patrzących. Loci wymagają sprawdzenia."
+      ],
+      [
+       "Po co prosić Tego, który wie",
+       "Wiersz ósmy mówi, że Ojciec wie, czego potrzebujemy, zanim poprosimy, a trzydzieści wierszy dalej ta sama mowa nakazuje prosić (7,7). Mateusz nie uzgadnia tych zdań; scholastyka musi, bo pytanie jest w niej postawione wprost: czy modlitwa ma sens, jeśli nie informuje Boga ani nie zmienia jego postanowienia. Tomasz rozstrzyga przez porządek przyczyn. Modlitwy nie zanosimy po to, by odmienić Boży zamysł, lecz by otrzymać to, co Bóg postanowił dać przez modlitwę; prośba należy więc do tego, co zostało postanowione, a nie stoi wobec postanowienia na zewnątrz (ST II–II, q. 83, a. 2). Przy takim ujęciu wiedza Ojca o potrzebie nie czyni prośby zbędną, lecz czyni ją możliwą: proszący nie powiadamia, on przyjmuje.\n\nAugustyn odpowiedział na to samo pytanie krócej i z innej strony, w liście do Proby: nakazano nam modlić się nie dlatego, żeby Bóg miał się czegoś dowiedzieć, lecz żeby w nas samych rosło pragnienie tego, co ma być dane. Wniosek, do którego sam tekst zmierza, jest przy tym skromniejszy od obu wykładów i warto go nie przeskakiwać: skoro wysłuchanie nie zależy od powiadomienia, nie może zależeć od obfitości słów. Tyle, i tylko tyle, perykopa z wiersza ósmego wyprowadza. Loci Tomasza i Augustyna wymagają sprawdzenia."
+      ],
+      [
+       "Siedem prośb i porządek celu",
+       "Modlitwa jest ułożona tak, że trzy pierwsze prośby dotyczą Boga, a cztery następne proszących, i kolejność nie jest ustępstwem wobec pobożności. Tomasz czyta ją jako porządek, w którym najpierw prosi się o cel, a potem o to, co do celu prowadzi, i na tej podstawie nazywa Modlitwę Pańską modlitwą najdoskonalszą: uczy nie tylko, o co prosić, lecz w jakiej kolejności pragnąć (ST II–II, q. 83, a. 9). Jest to twierdzenie metafizyczne, nie retoryczne. Jeśli dobro jest tym, czego się pragnie, a porządek pragnień idzie za porządkiem dóbr, to modlitwa, która zaczyna od imienia, królestwa i woli, nie jest uprzejmą zwłoką przed prośbą o chleb — jest wyrażeniem hierarchii, bez której prośba o chleb nie miałaby racji.\n\nAugustyn poszedł dalej i przyporządkował siedem prośb siedmiu darom Ducha oraz błogosławieństwom (De sermone Domini in monte II,11). Przyporządkowanie to jest konstrukcją, nie odczytaniem, i trzeba je tak podać; jego trwała zasługa polega na czymś innym — na tym, że pierwsze dostrzegło w modlitwie uporządkowaną całość, a nie zbiór prośb. Rachunek siedmiu nie jest przy tym w tekście podany: zależy od tego, czy szósta i siódma prośba są dwiema, czy jedną prośbą z dopowiedzeniem, bo łączy je ἀλλά. Loci wymagają sprawdzenia."
+      ],
+      [
+       "Warunek, który nie jest ceną",
+       "Wiersz piętnasty brzmi jak transakcja: jeśli nie odpuścicie, nie odpuści wam i Ojciec. Jest to w całym Kazaniu jedyne miejsce, w którym działanie Ojca zostaje od czegoś uzależnione — wszędzie indziej Ojciec wie przed prośbą, karmi ptaki i każe słońcu wschodzić nad złymi i dobrymi, nie pytając o warunki. Rozwiązania trzeba szukać nie w złagodzeniu zdania, lecz w naturze tego, co ono opisuje. Odpuszczenie grzechu nie jest aktem zewnętrznym, który Bóg może wykonać przy każdym stanie przyjmującego: wymaga wlania łaski, a ta jest miłością (ST III, q. 86, a. 2; ST II–II, q. 24). Kto odmawia odpuszczenia bratu, trwa w stanie, w którym miłości nie ma, więc przeszkoda jest po jego stronie, nie po stronie Boga. Warunek nie wyznacza zatem ceny, lecz opisuje niezdolność.\n\nTekst sam w tę stronę prowadzi, choć nie tym językiem. Przypowieść o nielitościwym słudze opowiada ten sam układ w porządku odwróconym: król darowuje dziesięć tysięcy talentów pierwszy, bez warunku, a sługa traci darowanie dopiero wtedy, gdy darowanego nie przenosi dalej (18,23–35). Pierwszeństwo należy więc do odpuszczenia Bożego; jedyną rzeczą, która je odbiera, jest odmowa — i Mateusz dopowiada przy tym, że ma ona być „z serc waszych\" (18,35), czyli nie w formie. Loci wymagają sprawdzenia."
+      ],
+      [
+       "Co znaczy, że Ojciec jest w ukryciu",
+       "Zwrot ὁ πατήρ σου ὁ ἐν τῷ κρυπτῷ (Ojciec twój, ten w ukryciu) jest u Mateusza bez odpowiednika: wszystkie dwadzieścia pozostałych umiejscowień Ojca idzie przez niebo. Scholastyka nie może tego zwrotu czytać jako wskazania miejsca, bo Bóg nie jest w miejscu jak w naczyniu; jest we wszystkich rzeczach przez istotę, obecność i moc, a nie jako część ani przypadłość (ST I, q. 8, a. 1–3). Przymiotnik κρυπτός nie określa więc położenia, lecz tryb dostępu: nazywa to, co niedostępne dla patrzenia — a patrzenie ludzkie jest w tej perykopie jedynym, przed którym się cokolwiek zamyka. Izba z zamkniętymi drzwiami nie przybliża zatem Ojca; usuwa drugiego adresata czynu.\n\nDruga połowa zwrotu idzie w tę samą stronę. O Ojcu powiedziano, że widzi w ukryciu, lecz widzenie Boga nie jest u Tomasza przyjmowaniem obrazu od rzeczy: Bóg zna rzeczy nie dlatego, że go one poruszają, lecz jako ich przyczyna (ST I, q. 14, a. 8). Zdanie o Ojcu, który widzi w ukryciu, nie obiecuje więc świadka obecnego w izbie na wzór świadka ludzkiego, tylko stwierdza, że nie ma takiej osłony, która by czyn czyniła niewidzianym. Ukrycie nie jest przy tym u Mateusza stanem trwałym: w 10,26 powiedziano, że nie ma nic ukrytego, co by nie zostało poznane. Loci wymagają sprawdzenia."
+      ]
+     ]
+    },
+    {
+     "type": "autor_ludzki",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
+     "body": "Perykopa stoi w środku Kazania i w środku ma Modlitwę Pańską, więc najpierw trzeba policzyć, co wokół czego jest ułożone. Kazanie dzieli się na błogosławieństwa z obrazami jawności (5,3–16), Prawo i antytezy (5,17–48), trzy uczynki (6,1–18), skarb i troskę (6,19–34), sąd i proszenie (7,1–12) oraz dwie drogi (7,13–27). Trzy uczynki są członem środkowym, a w jego środku, w miejscu, w którym pękła symetria trzech panelów, stoi tekst do odmówienia. Mateusz nie zaznacza tego ani słowem; rozkład jest rozkładem materiału, nie komentarzem.\n\nKlamra wokół całości jest jednak wyraźna i trzyma się na jednym rzeczowniku. δικαιοσύνη pada w Kazaniu cztery razy: w czwartym i ósmym błogosławieństwie (5,6.10), jako miara wejścia do królestwa (5,20), jako to, co się czyni (6,1), i wreszcie jako to, czego się szuka razem z królestwem (6,33). Trzy ostatnie wystąpienia wyznaczają trzy progi: wymagania, praktyki i poszukiwania. Perykopa o trzech uczynkach jest więc zapowiedziana przez 5,20 i domknięta przez 6,33, a sama stoi dokładnie w połowie tego odcinka.\n\nAdresat jest mierzony dwiema miarami, a nie jedną, i to jest w kompozycji Kazania rzecz niedoceniana. Pierwsza miara to uczeni w Piśmie i faryzeusze (5,20), druga to poganie: inaczej niż ἐθνικοί mają witać nie tylko swoich (5,47), inaczej niż ἐθνικοί mają się modlić (6,7), i nie mają zabiegać o to, czego szukają τὰ ἔθνη (6,32). Trzy uczynki wykładane są przeciw obu miarom naraz — obłudnikom przeciwstawia się ukrycie, poganom krótkość — i dopiero to tłumaczy, czemu w środku członu o modlitwie stoi materiał o innym przeciwniku niż w dwóch pozostałych członach.\n\nPraca redakcyjna jest w tej perykopie widoczna i nie wymaga porównania z Markiem ani Łukaszem. Trzy człony mają jeden szkielet, dwie jego części są powtórzone co do wyrazu, a cztery pozostałe są za każdym razem przestawione; symetria pęka raz, a to, co w nią wchodzi, jest dłuższe niż trzy człony razem. Ostatnia część wstawki przyczepia się przez γάρ do piątej prośby, czyli jest objaśnieniem jednego wiersza tekstu, który sam został wstawiony. Autor komponujący swobodnie nie umieściłby komentarza do jednej prośby wewnątrz drugiego z trzech równoległych panelów. Trzeci panel podejmuje przy tym szkielet dokładnie tam, gdzie go porzucono. Układ ten świadczy o pisarzu, który miał trzy człony o ustalonym kształcie i tekst modlitwy o ustalonym brzmieniu, i który tekst wstawił w człon, do którego należał tematycznie, nie przebudowując ani jednego, ani drugiego.\n\nTekstów Marka i Łukasza w tym repozytorium nie ma, więc kolacji wykonać się nie da i nie udaję, że da się ją wykonać z pamięci. Jedno można powiedzieć z samego Mateusza: modlitwa nie jest u niego o nic proszona. Nikt o nią nie prosi, nikt nie pyta, jak się modlić; podana jest jako poprawka cudzego błędu, zaraz po zdaniu o poganach, którzy mniemają, że wysłuchanie zależy od liczby słów. To ujęcie jest Mateuszowe i widać je bez żadnej paraleli.\n\nDwudziesty trzeci rozdział jest tej perykopy fotograficznym negatywem i Mateusz zbudował go z tych samych wyrazów. Oskarżenie uczonych w Piśmie brzmi πρὸς τὸ θεαθῆναι τοῖς ἀνθρώποις (23,5) — ta sama konstrukcja co w 6,1. Zarzut z 23,6 zaczyna się od φιλοῦσιν i wylicza pierwsze krzesła w synagogach, jak 6,5. W 23,13 zamykają królestwo ἔμπροσθεν τῶν ἀνθρώπων (wobec ludzi), tym samym zwrotem, który w 5,16 był nakazem, a w 6,1 zakazem. W 23,9 pada zdanie, że nie wolno nikogo na ziemi nazywać ojcem, bo jeden jest Ojciec, ten niebieski. Siedem razy pada tam ὑποκριταί. Czytelnik, który przeszedł szósty rozdział, rozpoznaje w dwudziestym trzecim nie nową naukę, lecz wyliczenie tego, co zostało w niej zakazane.\n\nWspólnota, do której to pisano, miała za sobą rozejście się z synagogą — mówią o tym Mateuszowe „synagogi ich\" i zapowiedź biczowania w nich (10,17) — a zarazem miała swoją jałmużnę, swoją modlitwę i swój post, o którym Jezus powiedział, że przyjdzie (9,15). Ostrzeżenie przed obłudnikami jest w tej sytuacji skierowane wewnątrz, nie na zewnątrz: nie opisuje przeciwnika, lecz możliwość, która stoi przed każdym, kto trzy uczynki wykonuje. Mateusz nie nazywa w szóstym rozdziale obłudników po imieniu ani razu. Nazwie ich w dwudziestym trzecim, i wtedy będzie już jasne, że czytelnik rozpoznał opis wcześniej.",
+     "children": []
+    },
+    {
+     "type": "autor_bozy",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
+     "body": "Cztery rzeczy w tej perykopie da się przeliczyć, i dopiero po nich wolno mówić o treści: ten sam zwrot raz nakazany i raz zakazany, dziesięć wystąpień jednego rzeczownika w osiemnastu wierszach, dwa celowniki postawione naprzeciw siebie w wierszu osiemnastym i rozkład zaimków w modlitwie.",
+     "children": [
+      [
+       "Ten sam zwrot, raz nakazany, raz zakazany",
+       "Zwrot ἔμπροσθεν τῶν ἀνθρώπων (wobec ludzi) pada u Mateusza pięć razy. Dwa z tych pięciu stoją w Kazaniu w odległości dwudziestu pięciu wierszy i orzekają rzeczy przeciwne: οὕτως λαμψάτω τὸ φῶς ὑμῶν ἔμπροσθεν τῶν ἀνθρώπων (tak niech zaświeci światło wasze wobec ludzi, 5,16) oraz τὴν δικαιοσύνην ὑμῶν μὴ ποιεῖν ἔμπροσθεν τῶν ἀνθρώπων (sprawiedliwości waszej nie czynić wobec ludzi, 6,1). Mateusz nie zaznacza, że czytelnik ma przed sobą nakaz i jego zaprzeczenie, i nie podaje reguły, która je rozdziela.\n\nRozdziela je składnia, i tylko ona. Oba zdania mają spójnik celowy i oba mówią o patrzeniu ludzi; różnią się tym, na czym zdanie celowe się kończy. W 5,16 kończy się na Ojcu: ὅπως ἴδωσιν ὑμῶν τὰ καλὰ ἔργα καὶ δοξάσωσιν τὸν πατέρα ὑμῶν (żeby zobaczyli wasze dobre czyny i chwalili Ojca waszego) — forma czynna, podmiot ludzki, dopełnienie Boże. W 6,1 kończy się na patrzących: πρὸς τὸ θεαθῆναι αὐτοῖς (po to, by być przez nich oglądanymi), forma bierna, a celownik wskazuje tych, dla których czyn jest widowiskiem. Ta sama różnica wraca w. 2, gdzie δοξασθῶσιν jest bierną postacią tego samego czasownika, który w 5,16 stał w czynnej z Ojcem jako dopełnieniem. Perykopa nie rozstrzyga więc o widzialności uczynków — rozstrzyga o tym, gdzie kończy się zdanie celowe, a to jest pytanie o cel, nie o zachowanie."
+      ],
+      [
+       "Ojciec dziesięć razy w osiemnastu wierszach",
+       "Rzeczownik πατήρ pada u Mateusza sześćdziesiąt trzy razy, a dziesięć z tych wystąpień stoi w tych osiemnastu wierszach (6,1.4.6 dwa razy, 8.9.14.15.18 dwa razy). Gęstszego skupienia nie ma w tej Ewangelii nigdzie. Rozkład nie jest przy tym równy wobec roli: w każdym z trzech członów Ojciec jest tym, kto widzi i odda, we wstawce — tym, kto wie przed prośbą i odpuszcza, a w samej modlitwie tym, do kogo się mówi.\n\nOsobno trzeba policzyć umiejscowienie. W całej Ewangelii Ojciec jest określony przez niebo dwadzieścia razy: trzynaście razy jako ὁ ἐν τοῖς οὐρανοῖς (ten w niebiosach) i siedem razy jako ὁ οὐράνιος (niebieski). Jedyne inne umiejscowienie stoi w tej perykopie, dwa razy, i jest nim ukrycie: τῷ ἐν τῷ κρυπτῷ (w. 6) i τῷ ἐν τῷ κρυφαίῳ (w. 18). Nie zastępuje ono nieba, bo niebo stoi pięć wierszy przed pierwszym z nich (w. 1) i trzy wiersze po nim (w. 9). W osiemnastu wierszach o Ojcu powiedziano zatem dwa razy, że jest w niebiosach, i dwa razy, że jest w ukryciu, a składnia obu zwrotów jest ta sama — rodzajnik z przyimkiem przydany do rzeczownika. Mateusz nie łączy tych dwóch określeń żadnym zdaniem i nie tłumaczy, jak się mają do siebie."
+      ],
+      [
+       "Dwa celowniki w wierszu osiemnastym",
+       "Trzeci człon jest jedynym, który po stronie dodatniej ma własne zdanie celowe, i w tym zdaniu stoi rzecz, do której cała perykopa prowadzi: ὅπως μὴ φανῇς τοῖς ἀνθρώποις νηστεύων ἀλλὰ τῷ πατρί σου (żebyś nie ukazał się ludziom jako poszczący, ale Ojcu swemu). Dwa celowniki są postawione równolegle i złączone przez ἀλλά, a czasownik pozostaje ten sam i w tej samej formie biernej, co w dwóch zdaniach o obłudnikach (φανῶσιν, w. 5.16).\n\nZ tego wynika wniosek, którego perykopa nie wypowiada w żadnym zdaniu oznajmującym, a który rozstrzyga o jej wykładni. Ukazywanie się nie zostaje zakazane; zostaje przeniesione. Ojciec zajmuje w składni dokładnie to miejsce, które w trzech zdaniach o obłudnikach zajmowali ludzie — miejsce tego, komu czyn się okazuje. Perykopa nie zaleca więc czynów bez widowni, bo czyn bez widowni nie miałby w tej gramatyce celu; zaleca czyn okazany jednemu. Dlatego zamknięcie drzwi z w. 6 nie jest ukryciem się przed wszystkimi, lecz usunięciem jednego z dwóch adresatów, a obietnica, która trzy razy wraca, mówi o drugim: ὁ βλέπων (ten widzący)."
+      ],
+      [
+       "Modlitwa, w której nie ma pierwszej osoby liczby pojedynczej",
+       "Nakaz z w. 6 jest w liczbie pojedynczej i jest w niej konsekwentny: wejdź, zamknij, módl się, a Ojciec twój odda tobie. Tekst podany trzy wiersze dalej nie zawiera ani jednej formy pierwszej osoby liczby pojedynczej. Form pierwszej osoby liczby mnogiej jest w nim dziewięć, a wołacz otwierający brzmi Πάτερ ἡμῶν (Ojcze nasz). Mateusz zna i zapisuje πάτερ μου (Ojcze mój), lecz dopiero w Getsemani (26,39.42), i wkłada ten zwrot wyłącznie w usta Jezusa; uczniom podaje liczbę mnogą.\n\nRozkład zaimków idzie dalej. Po wołaczu stoją trzy prośby z zaimkiem σου: imię twoje, królestwo twoje, wola twoja. Potem cztery prośby z zaimkami pierwszej osoby liczby mnogiej, i wszystko, o co się w nich prosi, jest ziemskie: chleb, dług, próba, zły. Zdanie ὡς ἐν οὐρανῷ καὶ ἐπὶ γῆς (jak w niebie, tak i na ziemi) stoi na szwie i można je przydać do obu części. Jest jeszcze jedna rzecz warta policzenia: w jedynym miejscu tej Ewangelii, w którym uczeń zwraca się do Boga wprost, znika Mateuszowa omowa. Wszędzie indziej mówi się βασιλεία τῶν οὐρανῶν (królestwo niebios), żeby nie wymawiać imienia; tu stoi βασιλεία σου (królestwo twoje) — bo nie ma czego omijać w zdaniu skierowanym do tego, czyje imię się omija."
+      ],
+      [
+       "Ukrycie, które nie jest ostatnim słowem",
+       "Przymiotnik κρυπτός pada u Mateusza siedem razy i sześć z nich stoi w tej perykopie. Siódme wystąpienie jest w mowie misyjnej i orzeka rzecz przeciwną: οὐδὲν γάρ ἐστιν κεκαλυμμένον ὃ οὐκ ἀποκαλυφθήσεται καὶ κρυπτὸν ὃ οὐ γνωσθήσεται (nic bowiem nie jest zakryte, co nie zostanie odkryte, i ukryte, co nie zostanie poznane, 10,26). Zdanie następne nakazuje mówić w świetle to, co usłyszano w ciemności (10,27). Ukrycie nie jest zatem u Mateusza wartością trwałą i perykopa o trzech uczynkach nie zaleca dyskrecji jako cnoty.\n\nJest warunkiem, i to warunkiem o określonym terminie. Czasownik trzech obietnic — ἀποδώσει, odda — jest czasem przyszłym, a u Mateusza wskazuje jedno miejsce: Syn Człowieczy przyjdzie w chwale Ojca i odda każdemu wedle jego czynów (16,27). Zapłata obłudników jest pobrana w czasie teraźniejszym i rachunek zamknięty; zapłata odłożona ma datę. Perykopa nie przeciwstawia więc jawności ukryciu, lecz dwa terminy ujawnienia: jeden na placu i teraz, drugi wtedy. Nie mówi przy tym ani słowa o tym, co ujawnienie przyniesie — poprzestaje na czasowniku rachunku."
+      ]
+     ]
+    },
+    {
+     "type": "odniesienia",
+     "title": "Sieć odniesień biblijnych",
+     "body": "Perykopa nie cytuje Starego Testamentu ani razu i nie ma w niej żadnej formuły wypełnienia — jest to jedna z niewielu Mateuszowych perykop, które obywają się bez cytatu. Sieć odniesień biegnie więc dwiema innymi drogami. Pierwsza prowadzi do tekstów, które zakłada: do trójki uczynków z Księgi Tobiasza, do prorockiego sporu o post, do prośby Ezechiela o uświęcenie imienia, do manny zbieranej na jeden dzień. Druga prowadzi w głąb samej Ewangelii i jest gęstsza niż pierwsza: jedenaście wyrazów tej perykopy wraca u Mateusza w miejscach, które ją albo odwracają, albo rozwijają, a sześć z nich zbiega się w dwudziestym trzecim rozdziale i w Getsemani.",
+     "children": [
+      [
+       "Mt 5,16 → w. 1",
+       "Ten sam zwrot ἔμπροσθεν τῶν ἀνθρώπων (wobec ludzi) w nakazie i w zakazie, w odstępie dwudziestu pięciu wierszy. Różnica jest w zdaniu celowym: w 5,16 kończy się na Ojcu, który ma być chwalony, w 6,1 na patrzących. Oba zdania mówią o czynach widzianych, żadne nie zaleca ukrywania dobra."
+      ],
+      [
+       "Mt 23,5 → w. 1",
+       "Oskarżenie uczonych w Piśmie ma identyczną konstrukcję: πρὸς τὸ θεαθῆναι τοῖς ἀνθρώποις (po to, by być oglądanymi przez ludzi). Przestroga dana uczniom w szóstym rozdziale staje się w dwudziestym trzecim zarzutem wobec przeciwników, i to dosłownie tym samym zwrotem."
+      ],
+      [
+       "Mt 5,20 i 6,33 → w. 1",
+       "Trzy wystąpienia δικαιοσύνη (sprawiedliwość) w odstępie pół rozdziału: miara wejścia do królestwa (5,20), to, co się czyni (6,1), i to, czego się szuka razem z królestwem (6,33). Perykopa o trzech uczynkach stoi dokładnie w połowie odcinka wyznaczonego przez pierwsze i trzecie."
+      ],
+      [
+       "Mt 5,12 i 5,46 → w. 1",
+       "Dwa poprzednie wystąpienia μισθός (zapłata) w Kazaniu: wielka zapłata prześladowanych, która jest w niebiosach (5,12), i brak zapłaty za miłość odwzajemnioną (5,46). Perykopa nie odrzuca rachunku, lecz pyta, u kogo rachunek jest prowadzony."
+      ],
+      [
+       "Tb 12,8–9 i Tb 4,7–11 → perykopa",
+       "Trójka uczynków zestawiona wprost: dobra jest modlitwa z postem, jałmużną i sprawiedliwością. Mateusz tej trójki nie ogłasza ani nie uzasadnia — zakłada ją i porządkuje gramatycznie. Tobiasz dodaje przy tym, że jałmużna oczyszcza z grzechu, czego Mt 6,2–4 nie powtarza."
+      ],
+      [
+       "Syr 3,30 → w. 2–4",
+       "Jałmużna jako przebłaganie za grzech — twierdzenie, które stało się w późniejszych sporach tekstem dowodowym. Mateusz o skutku jałmużny nie mówi niczego poza tym, że Ojciec odda; cały ciężar jego zdania spoczywa na tym, komu jałmużna jest okazana."
+      ],
+      [
+       "Mt 23,6 i 23,13 → w. 5–6",
+       "Dwa zarzuty zbudowane z wyrazów tej perykopy: φιλοῦσιν i pierwsze krzesła w synagogach (23,6) oraz zamykanie królestwa ἔμπροσθεν τῶν ἀνθρώπων (23,13). Czasownik κλείω, którym uczeń zamyka drzwi, żeby się modlić, opisuje w rozdziale dwudziestym trzecim zamknięcie królestwa."
+      ],
+      [
+       "Iz 42,2 (przez Mt 12,19) → w. 5–6",
+       "Rzeczownik πλατεῖα (plac) pada u Mateusza dwa razy. Obłudnicy stają na rogach placów, żeby ich widziano; o Słudze w najdłuższym cytacie tej Ewangelii z Izajasza powiedziano, że nikt nie usłyszy jego głosu na placach. Kontrast jest Mateuszowy, nie wyinterpretowany."
+      ],
+      [
+       "2 Krl 4,32–33 i Iz 26,20 → w. 6",
+       "Dwa starotestamentowe obrazy zamkniętych drzwi: Elizeusz wchodzi do izby, zamyka drzwi za sobą i modli się nad dzieckiem, a Izajasz każe ludowi wejść do swoich komór i zamknąć drzwi, aż przejdzie gniew. Pierwszy jest paralelą czynności, drugi obrazem schronienia."
+      ],
+      [
+       "1 Krl 18,26–29 → w. 7",
+       "Prorocy Baala wołali od rana do południa i nie było głosu ani odpowiedzi — opowiedziany przez Pismo przykład przekonania, że wysłuchanie jest funkcją liczby słów. Wiersz siódmy przypisuje to przekonanie poganom i nie wskazuje żadnego miejsca Pisma; Karmel jest paralelą rzeczy, nie cytatem."
+      ],
+      [
+       "Syr 7,14 → w. 7–8",
+       "Przestroga przed mnożeniem słów w modlitwie, stojąca w tradycji mądrościowej. Zakaz Mateuszowy nie jest zatem nowością wobec Pisma; nowe jest uzasadnienie, które podaje — nie powściągliwość jako cnota, lecz wiedza Ojca uprzedzająca prośbę."
+      ],
+      [
+       "Mt 7,7–11 i 6,32 → w. 8",
+       "Trzy zdania jednej mowy, których Mateusz nie uzgadnia: Ojciec wie przed prośbą (6,8), Ojciec wie, czego potrzebujecie, więc nie troszczcie się (6,32), proście i będzie wam dane (7,7). Czasownik αἰτέω pada w 7,7–11 pięć razy, a w 6,8 stoi w zdaniu, które prośbę wyprzedza."
+      ],
+      [
+       "Mt 5,47 i 18,17 → w. 7",
+       "Trzy jedyne u Mateusza wystąpienia przymiotnika ἐθνικός (poganin). Kazanie mierzy ucznia dwiema miarami — uczonymi w Piśmie (5,20) i poganami — a człon o modlitwie jest jedynym miejscem tej perykopy, w którym przeciwnikiem nie są obłudnicy."
+      ],
+      [
+       "Ez 36,22–23 → w. 9",
+       "Bóg zapowiada, że sam uświęci swoje wielkie imię, zbezczeszczone wśród narodów. Pierwsza prośba jest aorystem strony biernej bez sprawcy i nie wzywa ludzi do oddania czci — prosi o to, co u Ezechiela zostało zapowiedziane jako działanie Boga wobec własnego imienia."
+      ],
+      [
+       "Iz 63,16; Pwt 32,6; Ml 2,10 → w. 9",
+       "Trzy starotestamentowe miejsca, w których Bóg jest nazwany Ojcem ludu: wyznanie Izajasza, pytanie Pieśni Mojżesza i pytanie Malachiasza. Adres z w. 9 nie jest zatem bez poprzedników, a to, co w nim nowe, nie jest samym słowem — jest brakiem tytułów majestatu, które mu towarzyszyły."
+      ],
+      [
+       "Mt 26,39.42 → w. 9–10",
+       "Getsemani powtarza z tej modlitwy dwie rzeczy: wołacz, przestawiony na liczbę pojedynczą (πάτερ μου, Ojcze mój), i trzecią prośbę co do wyrazu — γενηθήτω τὸ θέλημά σου (niech się stanie wola twoja, 26,42). Jest to jedyne miejsce, gdzie prośba tej modlitwy wraca w narracji dosłownie."
+      ],
+      [
+       "Wj 16,4.16–20 i Prz 30,8 → w. 11",
+       "Dwa teksty o chlebie wydzielanym na jeden dzień: manna zbierana codziennie, której nadmiar się psuł, i prośba mędrca o chleb jego wyznaczonej miary. Czwarta prośba ma aoryst (δός) i przysłówek σήμερον (dzisiaj), czyli prosi raz i na jeden dzień, niezależnie od tego, jak się rozstrzygnie ἐπιούσιος."
+      ],
+      [
+       "Mt 18,21–35 → w. 12 i w. 14–15",
+       "Przypowieść o nielitościwym słudze jest rozwinięciem piątej prośby w opowieść, z tym samym rzeczownikiem ὀφειλέτης (dłużnik, 18,24) i z zakończeniem, które powtarza warunek z w. 15 i dopowiada „z serc waszych\" (18,35). Porządek jest tam odwrócony: król darowuje pierwszy."
+      ],
+      [
+       "Mt 4,1–4 i 26,41 → w. 13",
+       "Dwa miejsca, w których Ewangelia mówi to, co szósta prośba zakłada. W 4,1 Duch wyprowadza Jezusa, żeby został doświadczony, a kusiciel mówi o chlebie; w 26,41 nakaz modlitwy brzmi, żeby nie wejść w doświadczenie — czasownikiem nieprzechodnim, podczas gdy 6,13 ma przechodni i sprawczy."
+      ],
+      [
+       "Mt 27,43 → w. 13",
+       "Czasownik ῥύομαι (wyrwać) pada u Mateusza dwa razy: w ostatniej prośbie modlitwy i w ustach urągających pod krzyżem, którzy wołają, żeby Bóg wyrwał tego, kto na niego zaufał. Dwa jedyne wystąpienia jednego czasownika stoją więc w modlitwie uczniów i w szyderstwie."
+      ],
+      [
+       "Jk 1,13 → w. 13",
+       "Zdanie, że Bóg nikogo nie doświadcza, stoi wobec szóstej prośby w widocznym napięciu, bo prośba zakłada, że wprowadzenie w doświadczenie jest czymś, o czego zaniechanie można Boga prosić. Mateusz nie łagodzi tego zdania ani go nie objaśnia; Ewangelia mówi natomiast, że Duch Jezusa wyprowadził (4,1)."
+      ],
+      [
+       "Kpł 16,29.31; Jl 2,12–15; Za 8,19 → w. 16–18",
+       "Trzy porządki postu: jedyny post nakazany Prawem, post ogłaszany w nieszczęściu wraz z wezwaniem, by rozdzierać serca, a nie szaty, oraz cztery posty upamiętniające, o których Zachariasz zapowiada, że obrócą się w radość. Wezwanie Joela jest najbliższą paralelą w. 16, bo też przeciwstawia znak zewnętrzny wnętrzu."
+      ],
+      [
+       "Iz 58,3–8 → w. 16–18",
+       "Prorocki spór o post: lud pyta, dlaczego pości, a Bóg nie widzi, i otrzymuje odpowiedź, że post, który Bóg wybiera, polega na rozerwaniu więzów i podzieleniu chleba z głodnym. Mateusz nie cytuje tego miejsca, lecz trzy uczynki jego perykopy są dokładnie tymi, które Izajasz zestawia."
+      ],
+      [
+       "2 Sm 12,20 i Ps 104,15 → w. 17",
+       "Narracyjny odpowiednik nakazu i jego tło: Dawid po śmierci dziecka wstaje, obmywa się, namaszcza i zmienia odzienie, czyli kończy post dokładnie tą sekwencją, którą Mt 6,17 nakazuje; psalm mówi o oliwie, która rozjaśnia oblicze. Nakaz każe poszczącemu wyglądać jak ten, kto nie pości."
+      ],
+      [
+       "Mt 4,2 i 9,14–15 → w. 16",
+       "Dwa pozostałe miejsca, w których Mateusz mówi o poście: czterdzieści dni Jezusa i pytanie uczniów Jana, dlaczego uczniowie Jezusa nie poszczą, wraz z odpowiedzią, że będą pościć, gdy pan młody zostanie im zabrany. Z tych trzech miejsc razem składa się cała nauka tej Ewangelii o poście."
+      ],
+      [
+       "Mt 6,19–21 → w. 16",
+       "Czasownik ἀφανίζω pada u Mateusza trzy razy i wszystkie trzy w szóstym rozdziale: obłudnicy zacierają swoje twarze (6,16), mól i rdza niszczą skarby gromadzone na ziemi (6,19–20). Granica między tą perykopą a następną przechodzi między dwoma wystąpieniami jednego wyrazu."
+      ],
+      [
+       "Mt 10,26–27 → perykopa",
+       "Jedyne wystąpienie przymiotnika κρυπτός poza tą perykopą orzeka rzecz przeciwną: nie ma nic ukrytego, co by nie zostało poznane, a to, co usłyszano w ciemności, ma być mówione w świetle. Ukrycie nie jest zatem u Mateusza stanem trwałym ani zalecaną cnotą."
+      ],
+      [
+       "Mt 16,27 → perykopa",
+       "Czasownik ἀποδίδωμι z trzech obietnic ma u Mateusza wskazany termin: Syn Człowieczy przyjdzie w chwale Ojca i odda każdemu wedle jego czynów. Zapłata obłudników jest pobrana w czasie teraźniejszym, zapłata odłożona ma więc datę, a nie tylko inny adres."
+      ],
+      [
+       "Mt 23,9 → perykopa",
+       "Zdanie, że nie wolno nikogo na ziemi nazywać ojcem, bo jeden jest Ojciec, ten niebieski, stoi w mowie zbudowanej z wyrazów tej perykopy. Dziesięciu wystąpieniom πατήρ w osiemnastu wierszach odpowiada w rozdziale dwudziestym trzecim zakaz używania tego słowa o kimkolwiek innym."
+      ],
+      [
+       "Mk 11,25 i Łk 11,1–4 → w. 9–15",
+       "Dwie paralele, których w tym repozytorium nie można skolacjonować i które podaję jako wskazanie, nie jako kolację: zdanie o odpuszczaniu podczas modlitwy stojącej u Marka oraz modlitwa u Łukasza, krótsza i podana w odpowiedzi na prośbę uczniów. U Mateusza nikt o modlitwę nie prosi."
+      ],
+      [
+       "Łk 18,9–14 i Łk 18,12 → perykopa",
+       "Przypowieść o dwóch modlących się w świątyni oraz zdanie faryzeusza, że pości dwa razy w tygodniu. Pierwsza jest narracyjnym rozwinięciem tej perykopy, drugie świadectwem o poście dobrowolnym, którego Mt 6,16–18 dotyczy. Obu nie da się tu skolacjonować."
+      ],
+      [
+       "Dz 10,4 → w. 2–4",
+       "Jałmużny Korneliusza wstępują przed Boga jako pamiątka — zdanie, które zakłada, że jałmużna jest widziana tam, gdzie Mt 6,4 umieszcza patrzenie Ojca. Jest to jedno z niewielu miejsc Nowego Testamentu, w których skutek jałmużny zostaje nazwany, i nazwany ostrożnie."
+      ],
+      [
+       "Rz 8,15 i Ga 4,6 → w. 9",
+       "Dwa miejsca, w których aramejskie אַבָּא zostało zachowane obok greckiego przekładu. Mateusz tego nie robi ani w w. 9, ani w Getsemani, gdzie Marek je zachował (Mk 14,36); u Mateusza stoi tam πάτερ μου (Ojcze mój). Świadectwa listowe pokazują, że wołacz był w modlitwie pierwszych wspólnot utrwalony w brzmieniu aramejskim."
+      ],
+      [
+       "1 Krn 29,11–13 → w. 13",
+       "Źródło doksologii, której wydawcy w tekście nie drukują: błogosławieństwo Dawida wylicza wielkość, moc, chwałę i królestwo należące do Boga. Doksologia dołączona do modlitwy w tradycji bizantyjskiej i w Didache idzie za tym porządkiem wyliczenia, co jest argumentem za jej liturgicznym pochodzeniem."
+      ]
+     ]
+    },
+    {
+     "type": "recepcja",
+     "title": "Znaczenie w historii i liturgii Kościoła",
+     "body": null,
+     "children": [
+      [
+       "Doksologia: skąd się wzięła różnica między Kościołami",
+       "Modlitwa Pańska kończy się u Mateusza prośbą o wyrwanie od złego, a nie doksologią; zdania ὅτι σοῦ ἐστιν ἡ βασιλεία καὶ ἡ δύναμις καὶ ἡ δόξα εἰς τοὺς αἰῶνας· ἀμήν (bo twoje jest królestwo i moc, i chwała na wieki, amen) nie mają Sinaiticus, Watykański, kodeks Bezy, Z, 0170, rodzina f1, przekłady łacińskie ani Orygenes. Mają je kodeksy L, W, Θ, 0233, rodzina f13, minuskuł 33 i cała tradycja bizantyjska, a w postaci krótszej Didache; część rękopisów dokłada samo ἀμήν, jeden minuskuł ma wersję trynitarną. Wyliczenie idzie za błogosławieństwem Dawida z 1 Krn 29,11–13, co wskazuje na pochodzenie liturgiczne: zakończenie dopisane w modlitwie wspólnoty wróciło do rękopisów Ewangelii. Stąd bierze się różnica praktyczna między Kościołami — przekłady reformacyjne, oparte na tekście bizantyjskim, zawierają doksologię jako część modlitwy, a wydania krytyczne i Wulgata jej nie mają. Świadków i brzmienia podano wedle aparatu w `db.sqlite` i wymagają sprawdzenia przy wydaniu."
+      ],
+      [
+       "Supersubstantialis: jedno słowo i dwie tradycje",
+       "Hieronim przełożył ἐπιούσιος u Mateusza przez supersubstantialem (ponadistotny), a w miejscu paralelnym u Łukasza przez cottidianum (powszedni), więc Kościół łaciński czyta w Ewangelii jeden wyraz, a w modlitwie odmawia drugi. Rozejście się przekładów stało się rozejściem wykładni: supersubstantialis żywił czytanie eucharystyczne, obecne u Cypriana i u Augustyna, natomiast cottidianum czytanie materialne, o chlebie na dzień. Tomasz obu nie rozdziela i przyjmuje, że prosi się zarazem o chleb powszedni i o chleb sakramentalny; Katechizm Kościoła Katolickiego również zestawia oba sensy. Rzecz warto podać dokładnie, bo w kazaniach bywa odwrotnie: to nie wykładnia duchowa została dołożona do prostego tekstu, lecz tekst był od początku niejasny, a sześć różnych przekładów starożytnych jest zapisem tej niejasności. Loci Hieronima, Cypriana, Augustyna i Tomasza oraz numery Katechizmu wymagają sprawdzenia przy źródłach."
+      ],
+      [
+       "Jałmużna, zasługa i spór szesnastego wieku",
+       "Wiersze 1–4 weszły w spór o zasługę, i to z obu stron. Reformacja czytała zakaz czynienia sprawiedliwości wobec ludzi oraz zapowiedź, że obłudnicy zapłatę już odebrali, jako rozstrzygnięcie przeciw uczynkom zasługującym; strona katolicka wskazywała, że ten sam tekst cztery razy mówi o zapłacie i obiecuje, że Ojciec odda. Sobór Trydencki w dekrecie o usprawiedliwieniu (sesja VI, 1547) utrzymał zasługę, określając ją jednak jako skutek łaski, a nie jako należność wobec Boga — czyli dokładnie tak, jak rozstrzygał już Tomasz. Teksty dowodowe o jałmużnie gładzącej grzech brano przy tym nie z tej perykopy, lecz z Tobiasza i Syracha; Mt 6,2–4 o skutku jałmużny nie mówi nic poza tym, że Ojciec odda. Przemilczenie tej różnicy jest w literaturze polemicznej częste i warto go nie powtarzać. Numer sesji, brzmienia kanonów i loci wymagają sprawdzenia przy źródłach."
+      ],
+      [
+       "Liturgia",
+       "W rycie rzymskim perykopa ma jedno miejsce nieporównywalne z innymi: Ewangelią Środy Popielcowej jest Mt 6,1–6.16–18, czyli człon o jałmużnie i człon o poście, z wyciętym środkiem. Kościół czyta zatem nakaz obmycia twarzy w dniu, w którym posypuje głowy popiołem, i tej sprzeczności nie da się wygładzić — można tylko powiedzieć, czym ona jest: obrzęd popielcowy nie jest znakiem postu okazywanym ludziom, lecz znakiem przyjmowanym, a zestawienie czytania z obrzędem stawia przed uczestnikiem dokładnie to pytanie, które stawia perykopa. Wyciętego środka, czyli Mt 6,7–15, ryt rzymski czyta osobno, we wtorek pierwszego tygodnia Wielkiego Postu, a w okresie zwykłym oba odcinki przypadają na jedenasty tydzień. Modlitwa Pańska odmawiana jest przy tym w każdej Mszy po kanonie, a w Liturgii godzin w Jutrzni i Nieszporach, czyli dwa razy dziennie.\n\nMiejsce doksologii w rycie rzymskim jest osobną sprawą i wyjaśnia pozorną niekonsekwencję. Po modlitwie następuje embolizm *Libera nos* (wybaw nas), rozwijający ostatnią prośbę, a dopiero po nim lud odpowiada *Quia tuum est regnum* (bo twoje jest królestwo) — formuła wzięta z liturgii wschodniej i wprowadzona do Mszy rzymskiej w roku 1969. Doksologia nie jest więc w tym rycie częścią modlitwy, lecz odpowiedzią po niej. W tradycji bizantyjskiej doksologię wygłasza kapłan po modlitwie, a sama modlitwa śpiewana jest przed komunią. Ewangeliarz bizantyjski czyta Mateusza w porządku ciągłym od poniedziałku po Pięćdziesiątnicy, więc rozdział szósty przypada na pierwsze tygodnie tego cyklu; dokładnych przydziałów dni dla poszczególnych członów nie podaję, bo nie dają się tu sprawdzić, a zgadywanie sigliów jest w tej warstwie najczęstszym źródłem błędu. Wszystkie sigla Lekcjonarza rzymskiego wraz z latami i dniami, data wprowadzenia formuły *Quia tuum est regnum* oraz porządek bizantyjski wymagają sprawdzenia w księgach przed publikacją."
+      ],
+      [
+       "Przekazanie modlitwy i tradycja komory",
+       "Modlitwa Pańska była w starożytności tekstem przekazywanym katechumenom w osobnym obrzędzie, nie podawanym do publicznej wiadomości; obrzęd przekazania i oddania modlitwy jest poświadczony w katechezach łacińskich, a Augustyn wygłosił do kandydatów do chrztu kilka kazań właśnie o niej. Traktaty o modlitwie, które zostawili Tertulian, Orygenes i Cyprian, są pierwszymi komentarzami do tego tekstu i zarazem pierwszymi dziełami chrześcijańskimi o modlitwie w ogóle. Druga linia recepcji wyszła z wiersza szóstego. Nakaz wejścia do zamykanej izby czytano w monastycyzmie jako regułę celi, a potem jako wskazanie wnętrza człowieka: Jan Kasjan oparł na tej perykopie wykład modlitwy w Rozmowach z Ojcami, a tradycja hezychastyczna uczyniła z komory obraz modlitwy wewnętrznej. Czytanie przenośne odpowiada przy tym na trudność rzeczywistą, bo nie każdy dom miał izbę do zamknięcia. Loci kazań Augustyna, obrzędu przekazania i rozdziałów Kasjana wymagają sprawdzenia przy źródłach."
+      ]
+     ]
+    },
+    {
+     "type": "patrystyka",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
+     "body": "Przy tej perykopie ciężar komentarza patrystycznego leży nie w komentarzach ciągłych do Mateusza, lecz w czterech osobnych traktatach o modlitwie: Tertuliana, Orygenesa, Cypriana i w drugiej księdze dzieła Augustyna o Kazaniu na górze. Jest to jedyne miejsce pierwszych rozdziałów tej Ewangelii, przy którym tak jest, i powód jest prosty: osiemnaście wierszy zawiera tekst, który odmawiano codziennie, więc komentowano go osobno, a nie po drodze. Orygenes nie wchodzi tu jako komentator Mateusza — grecki tekst jego komentarza zachował się dopiero od Mt 13,36 — lecz jako autor traktatu i jako świadek tekstu, i to w czterech miejscach aparatu (w. 4 dwa razy, 6, 8, 13). Pięć głosów poniżej idzie w pięciu kierunkach: Augustyn o celu, dla którego czyn się podejmuje; Chryzostom o jałmużnie i o masce; Orygenes o komorze i o wyrazie, którego nie znalazł u żadnego pisarza; Cyprian o tym, czemu modlitwa mówi „nasz\"; Chromacjusz o oliwie i obmyciu. Dwóch tekstów nie wolno przy tej perykopie użyć pod cudzym imieniem: *Opus imperfectum in Matthaeum*, choć chodzi pod imieniem Chryzostoma, jest anonimowym komentarzem łacińskim o ariańskim zabarwieniu, a komentarz do Mateusza z PL 92 nie jest dziełem Bedy.",
+     "children": []
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "body": "Obłudnicy z wiersza szesnastego zacierają swoje twarze, żeby stać się widoczni. Gra słów jest w grece dokładna — ἀφανίζουσιν i φανῶσιν to dwie postacie jednego rdzenia, a przedrostek przeczący w pierwszej z nich jest całą różnicą — i w jednym zdaniu mieści się to, co perykopa ma do powiedzenia o trzech uczynkach. Zarzut nie dotyczy bowiem czynu. Jałmużna obłudników jest jałmużną, ich modlitwa modlitwą, ich post postem; czasownik ποιοῦσιν w wierszu drugim stwierdza to wprost i nigdzie nie zostaje odwołany. Dotyczy tego, co w greckim zdaniu stoi po spójniku celowym.\n\nDlatego dwa nakazy Kazania mogą brzmieć przeciwnie i nie być sprzeczne. W 5,16 światło ma zaświecić ἔμπροσθεν τῶν ἀνθρώπων (wobec ludzi), w 6,1 sprawiedliwości nie wolno czynić ἔμπροσθεν τῶν ἀνθρώπων; zwrot jest ten sam co do wyrazu, a Mateusz nie zaznacza, że zestawia nakaz z jego zaprzeczeniem. Różnica mieści się w jednym miejscu składni: w pierwszym zdaniu cel kończy się na Ojcu, który ma być chwalony, w drugim na patrzących, dla których czyn ma być widowiskiem. Ta sama różnica wraca w samym czasowniku, bo δοξάσωσιν z 5,16 jest formą czynną z Ojcem jako dopełnieniem, a δοξασθῶσιν z 6,2 bierną z obłudnikami jako podmiotem. Perykopa nie rozstrzyga więc o widzialności uczynków i nie zaleca dyskrecji; o ukryciu mówi zresztą ta sama Ewangelia, że nie ma nic ukrytego, co by nie zostało poznane (10,26).\n\nRozstrzyga o adresacie, i mówi to gramatyką, nie zdaniem oznajmującym. W ostatnim wierszu stoją obok siebie dwa celowniki złączone przez ἀλλά: ὅπως μὴ φανῇς τοῖς ἀνθρώποις νηστεύων ἀλλὰ τῷ πατρί σου (żebyś nie ukazał się ludziom jako poszczący, ale Ojcu swemu). Czasownik zostaje ten sam i w tej samej formie biernej, co w dwóch zdaniach o obłudnikach — ukazywanie się nie zostaje zniesione, tylko przeniesione. Ojciec zajmuje w składni to miejsce, które przedtem zajmowali ludzie: miejsce tego, komu czyn się okazuje. Stąd dziesięć wystąpień rzeczownika πατήρ w osiemnastu wierszach, najgęstsze w całej Ewangelii, i stąd dwa umiejscowienia, których Mateusz nie powtarza nigdzie więcej. Ojciec jest u niego dwadzieścia razy określony przez niebo; tutaj dwa razy przez ukrycie, w odstępie kilku wierszy od dwóch zwrotów o niebie, bez jednego słowa o tym, jak te określenia mają się do siebie.\n\nZapłaty perykopa nie odrzuca. Mówi o niej cztery razy, dwoma czasownikami rachunku, i oba są dokładne. ἀπέχουσιν jest wyrazem z pokwitowania i znaczy, że należność została odebrana w całości; stoi w czasie teraźniejszym trzy razy, w brzmieniu identycznym co do wyrazu, i trzy razy zamyka rachunek. ἀποδώσει jest czasem przyszłym i ma u Mateusza wyznaczony termin, bo tym samym czasownikiem powiedziano, że Syn Człowieczy odda każdemu wedle jego czynów, gdy przyjdzie w chwale Ojca (16,27). Różnica nie leży zatem między zapłatą i bezinteresownością, lecz między dwiema datami i dwoma płatnikami. Obłudnicy nie dostają mniej, niż im się należało; dostają dokładnie to, o co się umówili, i właśnie dlatego nic więcej nie zostaje do wypłaty.\n\nPozostaje izba z zamkniętymi drzwiami, i ona jest w tej perykopie najłatwiejsza do przeczytania na opak. Nakaz jest w liczbie pojedynczej i jest w niej konsekwentny: wejdź, zamknij, módl się, a Ojciec twój odda tobie. Tekst, który trzy wiersze dalej zostaje podany do odmówienia, nie zawiera ani jednej formy pierwszej osoby liczby pojedynczej — ma dziewięć form liczby mnogiej i zaczyna się od Πάτερ ἡμῶν (Ojcze nasz). Mateusz zna πάτερ μου (Ojcze mój) i zapisze je, ale dopiero w Getsemani i tylko w ustach Jezusa. Za drzwiami, które się zamyka, żeby nie było widowni, odmawia się więc modlitwę w liczbie mnogiej. Usunięci zostali patrzący, nie ci, za których się prosi.",
+     "children": []
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "body": "*Tekst grecki wedle wydania krytycznego Nestle-Aland, pobrany z `db.sqlite` (księga 470) wraz z Wulgatą klementyńską i aparatem; znaki aparatu usunięte z zapisu perykopy przez skrypt, nawias kwadratowy przy δέ w w. 1 zachowany, bo niesie decyzję wydawców i ma znaczenie dla delimitacji. Przekład polski jest roboczy, własny i celowo dosłowny; przekład międzywierszowy z `db.sqlite` posłużył jako materiał kontrolny i jego wybory zostały w kilku miejscach odrzucone. ἐπιούσιος pozostawiono w przekładzie nieprzełożone, bo każdy z sześciu znanych wyborów jest już wykładnią, a sama trudność jest przedmiotem analizy; interlinia ma tu „powszedni\". ἀπέχουσιν oddano czasem przeszłym („odebrali\"), choć grecki ma czas teraźniejszy, bo wyraz jest terminem z pokwitowania i polski czas teraźniejszy sugerowałby trwanie zapłaty, czyli przeciwieństwo sensu. ταμεῖον oddano przez „alkierz\", a nie „pokój\" ani „komora\", żeby zachować odniesienie do izby na zapasy; interlinia ma „alkierz\" i to rozstrzygnięcie przyjęto. ἀφανίζουσιν oddano przez „zacierają\", żeby zachować związek z φανῶσιν („ukazali się\") w tym samym wierszu — interlinia ma „wyniszczają\", co związek zerwałoby. σκυθρωποί oddano orzecznikowo („obłudnicy ponurzy\"), bo przymiotnik tak stoi w grece i to jest w zdaniu argumentem. θεαθῆναι oddano omownie („by być oglądanymi\"), bo polski nie ma czasownika o zabarwieniu widowiskowym w stronie biernej. βατταλογήσητε oddano przez „paplajcie\", z zastrzeżeniem, że znaczenie wyrazu nie jest ustalone. μὴ ὁμοιωθῆτε (nie dajcie się upodobnić) oddano przez „nie dajcie się upodobnić\", z zachowaniem strony biernej, bo forma czynna przemyciłaby wykładnię o naśladowaniu zamierzonym. ὀφειλήματα oddano przez „długi\", a παραπτώματα przez „występki\", żeby zachować rozejście się dwóch wyrazów, którego Mateusz nie uzgadnia.*\n\n*Dane liczbowe o częstotliwości policzono na tekście z `db.sqlite` po numerach Stronga — stąd liczby dla προσέχω (6), θεάομαι (4), δικαιοσύνη (7), μισθός (10), ἐλεημοσύνη (3), ὑποκριτής (13), σαλπίζω (1), ῥύμη (1), συναγωγή (9), δοξάζω (4), ἀπέχω (5), ἀριστερός (1), δεξιός (12), κρυπτός wraz z κρυφαῖος (7), ἀποδίδωμι (18), προσεύχομαι (15), φιλέω (5), γωνία (2), πλατεῖα (2), φαίνω (13), ταμεῖον (2), κλείω (3), θύρα (4), βατταλογέω (1), ἐθνικός (3), δοκέω (10), πολυλογία (1), εἰσακούω (1), οἶδα (27), χρεία (6), αἰτέω (14), ὁμοιόω (8), ἁγιάζω (3), ὄνομα (22), βασιλεία (55), θέλημα (6), ἄρτος (21), ἐπιούσιος (1), ὀφείλημα (1), ὀφειλέτης (2), ἀφίημι (47), εἰσφέρω (1), πειρασμός (2), ῥύομαι (2), παράπτωμα (2), οὐράνιος (7), νηστεύω (8), σκυθρωπός (1), ἀφανίζω (3), πρόσωπον (10), ἀλείφω (1), κεφαλή (12), νίπτω (2), ἄνθρωπος (115), ἔμπροσθεν (18), πατήρ (63) i οὐρανός (82). Rozkład πατήρ w tej perykopie (6,1.4.6 dwa razy, 8.9.14.15.18 dwa razy, razem dziesięć) oraz rachunek umiejscowień Ojca w całej Ewangelii — trzynaście razy ὁ ἐν τοῖς οὐρανοῖς (ten w niebiosach), siedem razy ὁ οὐράνιος (niebieski), dwa razy ukrycie w tej perykopie — sprawdzono przez przegląd wszystkich sześćdziesięciu trzech wystąpień. Pięć wystąpień zwrotu ἔμπροσθεν τῶν ἀνθρώπων (5,16; 6,1; 10,32.33; 23,13) wyszukano w pełnym tekście. Rozkład form pierwszej osoby w modlitwie — dziewięć form liczby mnogiej, żadna pojedynczej — policzono po formach wyrazowych w w. 9–13. Tagowanie τοῦ πονηροῦ (od złego) w w. 13 jako rodzaju nijakiego pochodzi z edycji MorphGNT i podano je jako decyzję wydawcy, nie jako dane tekstu; ta sama forma w 5,37 jest w tej edycji tagowana jako męska. Transkrypcje hebrajskie i aramejskie uproszczone.*\n\n*Noty tekstualne opierają się na trzydziestu trzech wpisach aparatu dla Mt 6,1–18 w tabeli `commentaries`; świadków podano wedle tych wpisów i nie uzupełniano z innych wydań. Tekstu Marka, Łukasza, Dziejów, listów Pawła, Listu Jakuba, Pięcioksięgu, ksiąg historycznych, Izajasza, Ezechiela, Joela, Zachariasza, Daniela, psalmów, Przysłów, Tobiasza i Syracha nie ma w tym repozytorium, więc wszystkie zdania o ich brzmieniu — zwłaszcza o trójce uczynków w Tb 12,8–9, o jałmużnie w Syr 3,30 i Tb 4,7–11, o przestrodze przed wielomówstwem w Syr 7,14, o uświęceniu imienia w Ez 36,22–23, o poście w Kpł 16,29.31, Iz 58,3–8, Jl 2,12–15 i Za 8,19, o mannie w Wj 16,4.16–20, o chlebie wyznaczonej miary w Prz 30,8, o Elizeuszu w 2 Krl 4,32–33, o komorach w Iz 26,20, o prorokach Baala w 1 Krl 18,26–29, o Dawidzie w 2 Sm 12,20, o oliwie w Ps 104,15, o błogosławieństwie Dawida w 1 Krn 29,11–13, o modlitwie Daniela w Dn 6,11 i 9,3 oraz o wersjach modlitwy u Marka i Łukasza — podano z pamięci i wymagają kolacji przy wydaniach krytycznych. To samo dotyczy sigliów misznaickich o jałmużnie, skrzynkach świątynnych i postach (Pea 8,7; Szekalim 6,5; Taanit 1,4–6), datowania redakcji Miszny i błogosławieństw Amidy, datowania i brzmienia Kadiszu, loci Didache o modlitwie trzy razy dziennie i o postach w czwartym i szóstym dniu tygodnia (8,1–3), datowań synagog w Gamli, Magdali, Masadzie i Herodionie wraz z rokiem odkrycia kamienia magdalskiego, wniosków o rozkładzie domów galilejskich z wykopalisk w Kafarnaum, locus u Herodota o jąkającym się Battosie (Historiae IV,155) oraz świadectwa Hieronima o wyrazie מָחָר w Ewangelii hebrajskiej.*\n\n*Loci patrystyczne — księga i rozdział Augustyna z De sermone Domini in monte, numer homilii Chryzostoma, rozdziały traktatu Orygenesa O modlitwie, rozdziały traktatu Cypriana O Modlitwie Pańskiej i miejsce u Chromacjusza — podano wedle standardowej numeracji albo, gdzie numeracja jest niepewna, przez wskazanie wiersza, i przed publikacją wymagają sprawdzenia przy źródłach (Źródła Myśli Teologicznej, PSP, Migne). To samo dotyczy loci Tomasza (ST I, q. 8, a. 1–3; q. 14, a. 8; ST I–II, q. 114, a. 1; ST II–II, q. 24; q. 83, a. 2 i a. 9; q. 132, a. 1; ST III, q. 86, a. 2), Augustynowego listu do Proby, przypisania siedmiu prośb darom Ducha w De sermone Domini in monte II,11, kazań Augustyna wygłoszonych do kandydatów do chrztu, wykładu modlitwy u Jana Kasjana, dekretu o usprawiedliwieniu sesji szóstej Soboru Trydenckiego, numerów Katechizmu o czwartej prośbie — a przede wszystkim sigliów Lekcjonarza rzymskiego dla Środy Popielcowej, wtorku pierwszego tygodnia Wielkiego Postu i jedenastego tygodnia zwykłego, daty wprowadzenia formuły Quia tuum est regnum do Mszy rzymskiej oraz porządku modlitwy i doksologii w liturgii bizantyjskiej. Przydziałów dni ewangeliarza bizantyjskiego dla poszczególnych członów perykopy świadomie nie podano. Przy pracy publikacyjnej warto zestawić analizę z komentarzami: U. Luz, W. D. Davies i D. C. Allison (ICC), R. T. France (NICNT), a po polsku A. Paciorek (NKB NT I); do kwestii aramejskiego brzmienia modlitwy — J. Jeremias, z zastrzeżeniem, że odtworzenie jest hipotezą.*",
+     "children": []
+    }
+   ],
+   "refs": [
+    [
+     [
+      "unit",
+      "w. 1",
+      2
+     ],
+     "Mt",
+     5,
+     16,
+     5,
+     16,
+     "Mt 5,16",
+     "kontrast",
+     "Ten sam zwrot ἔμπροσθεν τῶν ἀνθρώπων (wobec ludzi) w nakazie i w zakazie, w odstępie dwudziestu pięciu wierszy. Różnicę niesie zdanie celowe: w 5,16 kończy się ono na Ojcu, który ma być chwalony, w 6,1 na patrzących. Oba zdania mówią o czynach widzianych."
+    ],
+    [
+     [
+      "unit",
+      "w. 1",
+      3
+     ],
+     "Mt",
+     23,
+     5,
+     23,
+     5,
+     "Mt 23,5",
+     "rozwiniecie",
+     "Oskarżenie uczonych w Piśmie ma identyczną konstrukcję πρὸς τὸ θεαθῆναι τοῖς ἀνθρώποις (po to, by być oglądanymi przez ludzi). Przestroga dana uczniom w szóstym rozdziale wraca w dwudziestym trzecim jako zarzut wobec przeciwników, dosłownie tym samym zwrotem."
+    ],
+    [
+     [
+      "unit",
+      "w. 1",
+      1
+     ],
+     "Mt",
+     5,
+     20,
+     5,
+     20,
+     "Mt 5,20",
+     "paralela",
+     "Pierwsze z trzech wystąpień δικαιοσύνη w tym odcinku Kazania: sprawiedliwość jako miara wejścia do królestwa. W 6,1 ta sama sprawiedliwość jest czymś, co się czyni, a w 6,33 czymś, czego się szuka."
+    ],
+    [
+     [
+      "unit",
+      "w. 1",
+      1
+     ],
+     "Mt",
+     6,
+     33,
+     6,
+     33,
+     "Mt 6,33",
+     "paralela",
+     "Trzecie wystąpienie δικαιοσύνη, domykające odcinek otwarty w 5,20. Perykopa o trzech uczynkach stoi dokładnie w połowie tej klamry, a jej teza używa tego samego rzeczownika w znaczeniu praktyki."
+    ],
+    [
+     [
+      "unit",
+      "w. 1",
+      4
+     ],
+     "Mt",
+     5,
+     12,
+     5,
+     12,
+     "Mt 5,12",
+     "paralela",
+     "Pierwsze wystąpienie μισθός w Kazaniu: zapłata prześladowanych jest wielka w niebiosach. Perykopa nie odrzuca rachunku, lecz pyta, u kogo rachunek jest prowadzony — παρά z celownikiem znaczy „u\", w czyimś posiadaniu."
+    ],
+    [
+     [
+      "unit",
+      "w. 1",
+      4
+     ],
+     "Mt",
+     5,
+     46,
+     5,
+     46,
+     "Mt 5,46",
+     "paralela",
+     "Drugie wystąpienie μισθός: za miłość odwzajemnioną zapłaty nie ma. Zdanie stoi dwa wiersze przed nakazem doskonałości, a więc w bezpośrednim sąsiedztwie tezy z 6,1, i mierzy ucznia tą samą miarą rachunku."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Tb",
+     12,
+     8,
+     12,
+     9,
+     "Tb 12,8–9",
+     "tlo",
+     "Trójka uczynków zestawiona wprost: dobra jest modlitwa z postem, jałmużną i sprawiedliwością. Mateusz tej trójki nie ogłasza ani nie uzasadnia; zakłada ją i porządkuje gramatycznie, nadając trzem członom jeden szkielet."
+    ],
+    [
+     [
+      "unit",
+      "w. 2–4",
+      0
+     ],
+     "Tb",
+     4,
+     7,
+     4,
+     11,
+     "Tb 4,7–11",
+     "tlo",
+     "Nakaz dawania jałmużny wedle zamożności i zakaz odwracania twarzy od ubogiego, wraz z obietnicą, że jałmużna wybawia od śmierci. Mt 6,2–4 o skutku jałmużny nie mówi nic poza tym, że Ojciec odda."
+    ],
+    [
+     [
+      "unit",
+      "w. 2–4",
+      0
+     ],
+     "Syr",
+     3,
+     30,
+     3,
+     30,
+     "Syr 3,30",
+     "tlo",
+     "Jałmużna jako przebłaganie za grzech — twierdzenie, które stało się w sporach szesnastego wieku tekstem dowodowym. Perykopa Mateuszowa go nie powtarza, a cały ciężar jej zdania spoczywa na tym, komu jałmużna jest okazana."
+    ],
+    [
+     [
+      "unit",
+      "w. 5–6",
+      1
+     ],
+     "Mt",
+     23,
+     6,
+     23,
+     6,
+     "Mt 23,6",
+     "paralela",
+     "Ten sam czasownik φιλοῦσιν otwiera zarzut i to samo miejsce — synagogi — w nim pada. Zarzut dotyczy w obu miejscach upodobania, nie czynności: w 6,5 upodobania do modlitwy na widoku, w 23,6 do pierwszych krzeseł."
+    ],
+    [
+     [
+      "unit",
+      "w. 5–6",
+      4
+     ],
+     "Mt",
+     23,
+     13,
+     23,
+     13,
+     "Mt 23,13",
+     "kontrast",
+     "Czasownik κλείω, którym uczeń zamyka za sobą drzwi, żeby się modlić, opisuje w rozdziale dwudziestym trzecim zamknięcie królestwa niebios ἔμπροσθεν τῶν ἀνθρώπων (wobec ludzi). Dwa zamknięcia, i tylko jedno jest nakazane."
+    ],
+    [
+     [
+      "unit",
+      "w. 5–6",
+      2
+     ],
+     "Iz",
+     42,
+     2,
+     42,
+     2,
+     "Iz 42,2",
+     "kontrast",
+     "Cytowane u Mateusza w 12,19: nikt nie usłyszy głosu Sługi na placach. Rzeczownik πλατεῖα pada w tej Ewangelii dwa razy, a oba wystąpienia stoją naprzeciw siebie — obłudnicy stają na rogach placów, żeby ich widziano."
+    ],
+    [
+     [
+      "unit",
+      "w. 5–6",
+      4
+     ],
+     "2 Krl",
+     4,
+     32,
+     4,
+     33,
+     "2 Krl 4,32–33",
+     "typologia",
+     "Elizeusz wchodzi do izby, w której leży zmarłe dziecko, zamyka drzwi za sobą i modli się. Czynność jest ta sama co w nakazie z w. 6 — wejść, zamknąć, modlić się — i jest w Pismie jedynym tak dokładnym jej odpowiednikiem."
+    ],
+    [
+     [
+      "unit",
+      "w. 5–6",
+      4
+     ],
+     "Iz",
+     26,
+     20,
+     26,
+     20,
+     "Iz 26,20",
+     "aluzja",
+     "Wezwanie, by lud wszedł do swoich komór i zamknął za sobą drzwi, aż przejdzie gniew. Obraz schronienia zamykanego od wewnątrz jest prorockim tłem izby z w. 6, choć kontekst jest tam eschatologiczny, nie modlitewny."
+    ],
+    [
+     [
+      "unit",
+      "w. 7–8",
+      2
+     ],
+     "1 Krl",
+     18,
+     26,
+     18,
+     29,
+     "1 Krl 18,26–29",
+     "kontrast",
+     "Prorocy Baala wołali od rana do południa i nie było głosu ani odpowiedzi — opowiedziany przez Pismo przykład przekonania, że wysłuchanie jest funkcją liczby słów. Wiersz siódmy przypisuje to przekonanie poganom i nie wskazuje żadnego miejsca Pisma."
+    ],
+    [
+     [
+      "unit",
+      "w. 7–8",
+      2
+     ],
+     "Syr",
+     7,
+     14,
+     7,
+     14,
+     "Syr 7,14",
+     "paralela",
+     "Przestroga przed mnożeniem słów w modlitwie, stojąca w tradycji mądrościowej. Zakaz Mateuszowy nie jest wobec Pisma nowością; nowe jest uzasadnienie — nie powściągliwość jako cnota, lecz wiedza Ojca uprzedzająca prośbę."
+    ],
+    [
+     [
+      "unit",
+      "w. 7–8",
+      1
+     ],
+     "Mt",
+     5,
+     47,
+     5,
+     47,
+     "Mt 5,47",
+     "paralela",
+     "Pierwsze z trzech jedynych u Mateusza wystąpień przymiotnika ἐθνικός. Kazanie mierzy ucznia dwiema miarami, a człon o modlitwie jest jedynym miejscem tej perykopy, w którym przeciwnikiem nie są obłudnicy."
+    ],
+    [
+     [
+      "unit",
+      "w. 7–8",
+      1
+     ],
+     "Mt",
+     18,
+     17,
+     18,
+     17,
+     "Mt 18,17",
+     "por",
+     "Trzecie wystąpienie ἐθνικός: brat, który nie słucha Kościoła, ma być jak poganin i celnik. Wyraz służy u Mateusza do wskazania granicy wspólnoty, a w 6,7 granica dotyczy sposobu modlitwy."
+    ],
+    [
+     [
+      "unit",
+      "w. 7–8",
+      4
+     ],
+     "Mt",
+     7,
+     7,
+     7,
+     11,
+     "Mt 7,7–11",
+     "kontrast",
+     "Pięć wystąpień czasownika αἰτέω w zachęcie do proszenia, trzydzieści wierszy po zdaniu, że Ojciec wie przed prośbą. Mateusz nie uzgadnia tych dwóch miejsc jednej mowy i nie komentuje ich zgody."
+    ],
+    [
+     [
+      "unit",
+      "w. 7–8",
+      3
+     ],
+     "Mt",
+     6,
+     32,
+     6,
+     32,
+     "Mt 6,32",
+     "rozwiniecie",
+     "To samo zdanie o wiedzy Ojca, prawie bez zmiany brzmienia, użyte w następnej perykopie jako racja przeciw trosce; tutaj jest racją przeciw wielomówstwu. Jeden argument obsługuje u Mateusza dwie różne przestrogi."
+    ],
+    [
+     [
+      "unit",
+      "w. 9–13",
+      2
+     ],
+     "Ez",
+     36,
+     22,
+     36,
+     23,
+     "Ez 36,22–23",
+     "tlo",
+     "Bóg zapowiada, że sam uświęci swoje wielkie imię, zbezczeszczone wśród narodów. Pierwsza prośba jest aorystem strony biernej bez sprawcy i nie wzywa ludzi do oddania czci — prosi o to, co u Ezechiela jest działaniem Boga wobec własnego imienia."
+    ],
+    [
+     [
+      "unit",
+      "w. 9–13",
+      1
+     ],
+     "Iz",
+     63,
+     16,
+     63,
+     16,
+     "Iz 63,16",
+     "tlo",
+     "Wyznanie, w którym Bóg zostaje nazwany Ojcem ludu, choć Abraham go nie zna. Adres z w. 9 nie jest zatem bez poprzedników; nowe nie jest samo słowo, lecz brak towarzyszących mu zwykle tytułów majestatu."
+    ],
+    [
+     [
+      "unit",
+      "w. 9–13",
+      1
+     ],
+     "Pwt",
+     32,
+     6,
+     32,
+     6,
+     "Pwt 32,6",
+     "tlo",
+     "Pytanie Pieśni Mojżesza: czyż nie on jest twoim ojcem, który cię nabył. Nazwanie Boga ojcem ludu jest w Pismie poświadczone, a w modlitwie żydowskiej utrwalone w zwrocie אָבִינוּ שֶׁבַּשָּׁמַיִם (Ojcze nasz, który jesteś w niebiosach)."
+    ],
+    [
+     [
+      "unit",
+      "w. 9–13",
+      1
+     ],
+     "Ml",
+     2,
+     10,
+     2,
+     10,
+     "Ml 2,10",
+     "tlo",
+     "Pytanie Malachiasza: czyż nie jeden jest Ojciec nas wszystkich. Wiersz wiąże ojcostwo Boga z powinnością wobec braci — związek, który u Mateusza wróci w wierszach dołączonych do piątej prośby (6,14–15)."
+    ],
+    [
+     [
+      "unit",
+      "w. 9–13",
+      4
+     ],
+     "Mt",
+     26,
+     39,
+     26,
+     42,
+     "Mt 26,39.42",
+     "rozwiniecie",
+     "Getsemani powtarza z tej modlitwy wołacz, przestawiony na liczbę pojedynczą (πάτερ μου, Ojcze mój), i trzecią prośbę co do wyrazu: γενηθήτω τὸ θέλημά σου (26,42). Jest to jedyne miejsce, gdzie prośba tej modlitwy wraca w narracji dosłownie."
+    ],
+    [
+     [
+      "unit",
+      "w. 9–13",
+      6
+     ],
+     "Wj",
+     16,
+     4,
+     16,
+     20,
+     "Wj 16,4.16–20",
+     "typologia",
+     "Manna zbierana na jeden dzień, której nadmiar się psuł. Aoryst δός i przysłówek σήμερον każą prosić raz i na jeden dzień, niezależnie od tego, jak się rozstrzygnie ἐπιούσιος; figura wyprzedza prośbę o chleb wydzielany."
+    ],
+    [
+     [
+      "unit",
+      "w. 9–13",
+      6
+     ],
+     "Prz",
+     30,
+     8,
+     30,
+     8,
+     "Prz 30,8",
+     "paralela",
+     "Prośba mędrca o chleb jego wyznaczonej miary, bez ubóstwa i bez bogactwa. Jest to w Pismie najbliższy odpowiednik czwartej prośby i jedyne miejsce, w którym o chleb odmierzony prosi się wprost."
+    ],
+    [
+     [
+      "unit",
+      "w. 9–13",
+      7
+     ],
+     "Mt",
+     18,
+     21,
+     18,
+     35,
+     "Mt 18,21–35",
+     "rozwiniecie",
+     "Przypowieść o nielitościwym słudze jest rozwinięciem piątej prośby w opowieść: ten sam rzeczownik ὀφειλέτης (18,24) i zakończenie, które powtarza warunek z w. 15 z dopowiedzeniem „z serc waszych\". Porządek jest tam odwrócony — król darowuje pierwszy."
+    ],
+    [
+     [
+      "unit",
+      "w. 9–13",
+      8
+     ],
+     "Mt",
+     4,
+     1,
+     4,
+     4,
+     "Mt 4,1–4",
+     "paralela",
+     "Duch wyprowadza Jezusa, żeby został doświadczony, a kusiciel mówi o chlebie. Ewangelia nie uchyla się więc od zdania, które szósta prośba zakłada, i stawia obok siebie te same trzy rzeczy: chleb, doświadczenie i złego."
+    ],
+    [
+     [
+      "unit",
+      "w. 9–13",
+      8
+     ],
+     "Mt",
+     26,
+     41,
+     26,
+     41,
+     "Mt 26,41",
+     "paralela",
+     "Nakaz modlitwy, żeby nie wejść w doświadczenie, wyrażony czasownikiem nieprzechodnim εἰσέλθητε, podczas gdy 6,13 ma przechodni i sprawczy εἰσενέγκῃς. Rzeczownik πειρασμός pada u Mateusza dwa razy i oba są w modlitwie."
+    ],
+    [
+     [
+      "unit",
+      "w. 9–13",
+      8
+     ],
+     "Mt",
+     27,
+     43,
+     27,
+     43,
+     "Mt 27,43",
+     "kontrast",
+     "Czasownik ῥύομαι pada u Mateusza dwa razy: w ostatniej prośbie modlitwy i w ustach urągających pod krzyżem, którzy wołają, żeby Bóg wyrwał tego, kto na niego zaufał. Dwa jedyne wystąpienia stoją w modlitwie i w szyderstwie."
+    ],
+    [
+     [
+      "unit",
+      "w. 9–13",
+      8
+     ],
+     "Jk",
+     1,
+     13,
+     1,
+     13,
+     "Jk 1,13",
+     "kontrast",
+     "Zdanie, że Bóg nikogo nie doświadcza, stoi wobec szóstej prośby w napięciu, bo prośba zakłada, że wprowadzenie w doświadczenie jest czymś, o czego zaniechanie wolno Boga prosić. Mateusz tego napięcia nie łagodzi."
+    ],
+    [
+     [
+      "unit",
+      "w. 9–13",
+      8
+     ],
+     "1 Krn",
+     29,
+     11,
+     29,
+     13,
+     "1 Krn 29,11–13",
+     "tlo",
+     "Źródło doksologii, której wydawcy nie drukują: błogosławieństwo Dawida wylicza wielkość, moc, chwałę i królestwo należące do Boga. Zależność od tego wyliczenia jest argumentem za liturgicznym pochodzeniem zakończenia."
+    ],
+    [
+     [
+      "unit",
+      "w. 14–15",
+      0
+     ],
+     "Mt",
+     18,
+     35,
+     18,
+     35,
+     "Mt 18,35",
+     "paralela",
+     "Ten sam warunek na końcu przypowieści, z dopowiedzeniem, którego tu nie ma: ἀπὸ τῶν καρδιῶν ὑμῶν (z serc waszych). Odpuszczenie ma zatem nie być formą, a przypowieść pokazuje, że pierwszeństwo należy do darowania Bożego."
+    ],
+    [
+     [
+      "unit",
+      "w. 16–18",
+      0
+     ],
+     "Kpł",
+     16,
+     29,
+     16,
+     31,
+     "Kpł 16,29.31",
+     "tlo",
+     "Jedyny post nakazany Prawem: w Dniu Przebłagania trzeba udręczyć swoją duszę. Mt 6,16–18 nie dotyczy tego postu ani postów ogłaszanych, lecz postu dobrowolnego, bo tylko on jest do ukrycia."
+    ],
+    [
+     [
+      "unit",
+      "w. 16–18",
+      1
+     ],
+     "Jl",
+     2,
+     12,
+     2,
+     15,
+     "Jl 2,12–15",
+     "paralela",
+     "Wezwanie, by rozdzierać serca, a nie szaty, wraz z nakazem ogłoszenia postu i zwołania zgromadzenia. Jest to najbliższa prorocka paralela w. 16, bo też przeciwstawia znak zewnętrzny wnętrzu, nie znosząc samego postu."
+    ],
+    [
+     [
+      "unit",
+      "w. 16–18",
+      1
+     ],
+     "Iz",
+     58,
+     3,
+     58,
+     8,
+     "Iz 58,3–8",
+     "tlo",
+     "Prorocki spór o post: lud pyta, dlaczego pości, a Bóg nie widzi, i słyszy, że post wybrany polega na rozerwaniu więzów i podzieleniu chleba z głodnym. Mateusz tego miejsca nie cytuje, lecz trzy jego uczynki są dokładnie tymi, które Izajasz zestawia."
+    ],
+    [
+     [
+      "unit",
+      "w. 16–18",
+      0
+     ],
+     "Za",
+     8,
+     19,
+     8,
+     19,
+     "Za 8,19",
+     "tlo",
+     "Cztery posty upamiętniające zburzenie Jerozolimy, o których Zachariasz zapowiada, że obrócą się w radość i weselenie. Zapowiedź ta jest tłem odpowiedzi Jezusa uczniom Jana o poście odłożonym do czasu, gdy pan młody zostanie zabrany (9,15)."
+    ],
+    [
+     [
+      "unit",
+      "w. 16–18",
+      3
+     ],
+     "2 Sm",
+     12,
+     20,
+     12,
+     20,
+     "2 Sm 12,20",
+     "paralela",
+     "Dawid po śmierci dziecka wstaje, obmywa się, namaszcza i zmienia odzienie, czyli kończy post dokładnie tą sekwencją, którą w. 17 nakazuje poszczącemu. Nakaz każe więc wyglądać jak człowiek, który post zakończył."
+    ],
+    [
+     [
+      "unit",
+      "w. 16–18",
+      3
+     ],
+     "Ps",
+     104,
+     15,
+     104,
+     15,
+     "Ps 104,15",
+     "tlo",
+     "Oliwa, która rozjaśnia oblicze, i chleb, który umacnia serce. Namaszczenie z w. 17 nie jest zatem przepychem, lecz czynnością powszednią, której zaniechanie było znakiem żałoby i postu."
+    ],
+    [
+     [
+      "unit",
+      "w. 16–18",
+      0
+     ],
+     "Mt",
+     9,
+     14,
+     9,
+     15,
+     "Mt 9,14–15",
+     "rozwiniecie",
+     "Pytanie uczniów Jana, dlaczego uczniowie Jezusa nie poszczą, i odpowiedź, że będą pościć, gdy pan młody zostanie im zabrany. Z tego miejsca, z 4,2 i z tej perykopy składa się cała nauka tej Ewangelii o poście."
+    ],
+    [
+     [
+      "unit",
+      "w. 16–18",
+      0
+     ],
+     "Mt",
+     4,
+     2,
+     4,
+     2,
+     "Mt 4,2",
+     "paralela",
+     "Czterdzieści dni postu Jezusa na pustyni — jedyne u Mateusza miejsce, w którym ktoś pości w narracji. Nauka o poście z w. 16–18 dotyczy zatem czynności, którą Ewangelia przypisała najpierw samemu Jezusowi."
+    ],
+    [
+     [
+      "unit",
+      "w. 16–18",
+      2
+     ],
+     "Mt",
+     6,
+     19,
+     6,
+     21,
+     "Mt 6,19–21",
+     "rozwiniecie",
+     "Czasownik ἀφανίζω pada u Mateusza trzy razy i wszystkie trzy w szóstym rozdziale: obłudnicy zacierają twarze, mól i rdza niszczą skarby. Granica między tą perykopą a następną przechodzi między dwoma wystąpieniami jednego wyrazu."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mt",
+     10,
+     26,
+     10,
+     27,
+     "Mt 10,26–27",
+     "kontrast",
+     "Jedyne wystąpienie przymiotnika κρυπτός poza tą perykopą orzeka rzecz przeciwną: nie ma nic ukrytego, co by nie zostało poznane, a co usłyszano w ciemności, ma być mówione w świetle. Ukrycie nie jest u Mateusza wartością trwałą."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mt",
+     16,
+     27,
+     16,
+     27,
+     "Mt 16,27",
+     "rozwiniecie",
+     "Czasownik ἀποδίδωμι z trzech obietnic ma u Mateusza wskazany termin: Syn Człowieczy przyjdzie w chwale Ojca i odda każdemu wedle jego czynów. Zapłata odłożona ma więc datę, a nie tylko innego płatnika."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mt",
+     23,
+     9,
+     23,
+     9,
+     "Mt 23,9",
+     "paralela",
+     "Zakaz nazywania kogokolwiek na ziemi ojcem, bo jeden jest Ojciec, ten niebieski. Dziesięciu wystąpieniom πατήρ w osiemnastu wierszach odpowiada w rozdziale dwudziestym trzecim zakaz używania tego słowa o kimkolwiek innym."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mk",
+     11,
+     25,
+     11,
+     25,
+     "Mk 11,25",
+     "paralela",
+     "Zdanie o odpuszczaniu podczas modlitwy odmawianej na stojąco, podane jako wskazanie, nie jako kolacja: tekstu Marka nie ma w tym repozytorium. Stojąca postawa modlitwy jest tam założona tak samo jak w Mt 6,5."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Łk",
+     11,
+     1,
+     11,
+     4,
+     "Łk 11,1–4",
+     "paralela",
+     "Modlitwa podana w innej scenerii, krótsza i w odpowiedzi na prośbę uczniów. U Mateusza nikt o modlitwę nie prosi: podana jest jako poprawka błędu przypisanego poganom. Kolacji w tym repozytorium wykonać się nie da."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Łk",
+     18,
+     9,
+     18,
+     14,
+     "Łk 18,9–14",
+     "paralela",
+     "Przypowieść o faryzeuszu i celniku modlących się w świątyni, wraz ze zdaniem faryzeusza, że pości dwa razy w tygodniu. Jest to narracyjne rozwinięcie tej perykopy i zarazem świadectwo o poście dobrowolnym, którego ona dotyczy."
+    ],
+    [
+     [
+      "unit",
+      "w. 2–4",
+      8
+     ],
+     "Dz",
+     10,
+     4,
+     10,
+     4,
+     "Dz 10,4",
+     "por",
+     "Jałmużny Korneliusza wstępują przed Boga jako pamiątka — zdanie zakładające, że jałmużna jest widziana tam, gdzie Mt 6,4 umieszcza patrzenie Ojca. Jest to jedno z niewielu miejsc, w których skutek jałmużny zostaje nazwany."
+    ],
+    [
+     [
+      "unit",
+      "w. 9–13",
+      1
+     ],
+     "Rz",
+     8,
+     15,
+     8,
+     15,
+     "Rz 8,15",
+     "tlo",
+     "Aramejskie אַבָּא zachowane obok greckiego przekładu, co świadczy o utrwaleniu tego wołacza w modlitwie pierwszych wspólnot. Mateusz go nie zachowuje ani w w. 9, ani w Getsemani, gdzie Marek je zachował."
+    ],
+    [
+     [
+      "unit",
+      "w. 9–13",
+      1
+     ],
+     "Ga",
+     4,
+     6,
+     4,
+     6,
+     "Ga 4,6",
+     "tlo",
+     "Drugie miejsce, w którym Paweł przytacza aramejski wołacz obok greckiego. Oba listy wiążą go z Duchem posłanym do serc, czyli z modlitwą, a nie z nauczaniem — co zgadza się z użyciem tego zwrotu w Mt 6,9 jako tekstu do wypowiedzenia."
+    ],
+    [
+     [
+      "unit",
+      "w. 7–8",
+      0
+     ],
+     "Dn",
+     6,
+     11,
+     6,
+     11,
+     "Dn 6,11",
+     "tlo",
+     "Daniel modli się trzy razy dziennie przy otwartych oknach ku Jerozolimie. Pory modlitwy i jej jawność są więc w Pismie poświadczone i nienaganne, co potwierdza, że zarzut z w. 5 nie dotyczy ani pory, ani miejsca."
+    ],
+    [
+     [
+      "unit",
+      "w. 16–18",
+      0
+     ],
+     "Dn",
+     9,
+     3,
+     9,
+     3,
+     "Dn 9,3",
+     "tlo",
+     "Daniel zwraca się do Boga modlitwą i błaganiem, w poście, worze i popiele — zestawienie dwóch z trzech uczynków perykopy wraz ze znakami, które w. 17 nakazuje odwrócić."
+    ]
+   ],
+   "patristic": [
+    [
+     "w. 1",
+     "św. Augustyn",
+     "De sermone Domini in monte",
+     "De serm. Dom. II,1–2",
+     "Augustyn ma do Kazania dzieło osobne i drugą jego księgę otwiera właśnie na tym wierszu, czyniąc z niego pytanie o cel, dla którego czyn się podejmuje. Rozstrzygnięcie jest u niego formalne, a nie moralizujące: ten sam czyn może być dokonany dla widzenia ludzkiego albo nie, i różnica nie leży w czynie. Stąd jego wykład sprzeczności z wcześniejszym nakazem o świeceniu światła — nakaz dotyczy tego, żeby czyn był widziany, zakaz tego, żeby był podjęty w celu zobaczenia. Augustyn zauważa przy tym, że samo ukrycie niczego nie zabezpiecza, bo można pragnąć chwały również z rzeczy ukrytych, a przechwalać się nią później; serce nie jest więc wolne od próżności dlatego, że drzwi są zamknięte. Z tego wyprowadza wniosek, który u niego wraca często: nie ma zewnętrznego znaku, po którym własna czystość intencji byłaby rozpoznawalna. Loci wymagają sprawdzenia."
+    ],
+    [
+     "w. 2–4",
+     "św. Jan Chryzostom",
+     "Homiliae in Matthaeum",
+     "Hom. in Mt. 19",
+     "Chryzostom zatrzymuje się najpierw na samym wyrazie: obłudnik to ten, kto gra kogoś, kim nie jest, więc wina polega na rozdźwięku między tym, co widać, a tym, kim człowiek jest — i dlatego zarzut nie znosi czynu, tylko go obraca przeciw wykonawcy. Przy trąbieniu wyklucza czytanie dosłowne i mówi, że mowa jest o rozgłosie, nie o instrumencie. Najwięcej miejsca poświęca jednak lewej i prawej ręce, i czyta ten obraz jako hiperbolę celową: jeśli nie wolno wiedzieć ręce, tym bardziej nie wolno obliczać samemu dającemu, a zatem przepis sięga dalej niż ukrycie przed ludźmi. Stąd jego teza, że jałmużna rozdana przy świadkach nie jest jeszcze stracona, jeśli dawca jej nie liczy, i odwrotnie — rozdana w tajemnicy przepada, jeśli sam ją sobie policzy. Numeracja homilii wymaga sprawdzenia."
+    ],
+    [
+     "w. 5–6",
+     "Orygenes",
+     "De oratione",
+     "De orat. 20 i 27",
+     "Greckiego komentarza Orygenesa do tego miejsca nie ma — zachowany tekst zaczyna się od Mt 13,36 — więc jego głosem jest traktat o modlitwie, napisany kilka lat wcześniej. Przy komorze Orygenes odrzuca czytanie, które sprowadzałoby nakaz do wyboru pomieszczenia, i wskazuje, że chodzi o odcięcie się od tego, co rozprasza; całą tę perykopę czyta jako naukę o tym, przed kim się staje, nie o tym, gdzie. Przy czwartej prośbie zapisał rzecz, która do dziś jest w aparacie punktem odniesienia: przymiotnika ἐπιούσιος nie znalazł u żadnego pisarza greckiego ani w mowie potocznej, więc uznał, że został utworzony przez tłumaczy, i zaproponował wyprowadzenie od οὐσία. Jest to zarazem najstarsze świadectwo o trudności tego wyrazu i najstarsza próba jej rozwiązania. Loci wymagają sprawdzenia."
+    ],
+    [
+     "w. 9–13",
+     "św. Cyprian z Kartaginy",
+     "De dominica oratione",
+     "De dom. orat. 8–9",
+     "Cyprian zatrzymuje się na zaimku i z niego wyprowadza całą naukę o modlitwie wspólnej: nie mówimy „Ojcze mój\", lecz „Ojcze nasz\", bo modlitwa nie jest sprawą jednego i nikt nie modli się tylko za siebie. Wywód idzie u niego dalej niż sama obserwacja gramatyczna — skoro prośby są w liczbie mnogiej, to i chleb, i odpuszczenie, i wyrwanie od złego są proszone dla wszystkich, a człowiek, który modli się wyłącznie o własne, mówi inną modlitwę niż ta, której go nauczono. Cyprian wiąże to z jednością Kościoła i czyta liczbę mnogą jako jej znak wpisany w sam tekst. Rzecz warto zauważyć ze względu na miejsce tej modlitwy w perykopie: nakaz poprzedzający ją jest w liczbie pojedynczej i mówi o zamkniętych drzwiach, a Cyprian odczytał to zestawienie dokładnie, nie znosząc żadnej z dwóch liczb. Loci wymagają sprawdzenia."
+    ],
+    [
+     "w. 16–18",
+     "św. Chromacjusz z Akwilei",
+     "Tractatus in Matthaeum",
+     "Tract. in Mt. (ad 6,16–18)",
+     "Chromacjusz czyta trzeci człon alegorycznie i trzeba to powiedzieć wprost, bo jego wykład nie jest objaśnieniem realiów: oliwa jest u niego znakiem miłosierdzia, a obmycie twarzy znakiem czystego sumienia, więc nakaz namaszczenia i umycia odczytuje jako wskazanie, czym post ma być od wewnątrz wypełniony. Wartość tego czytania polega na tym, że dostrzega niewystarczalność samego powstrzymania się od jedzenia i wiąże trzeci uczynek z pierwszym, czyli post z jałmużną — związek, którego Mateusz w tym miejscu nie wypowiada, a który stoi u Izajasza. Przy obłudnikach Chromacjusz zauważa, że zarzut nie dotyczy postu, lecz tego, komu post jest pokazywany, i że człowiek, który post ukrywa, nie traci przez to świadka. Numeracja traktatów Chromacjusza jest w wydaniach niejednolita, więc locus podano przez wskazanie wiersza i wymaga sprawdzenia."
+    ]
+   ],
+   "textual": [
+    [
+     1,
+     "[δὲ]",
+     "opuszczenie",
+     "Spójnik opuszczają kodeks Watykański, kodeks Bezy, Freerianus, 0250, rodzina f13, większość bizantyjska, przekłady łacińskie, syryjski curetoniański oraz tradycje średnioegipska i część bohairskich; mają go Sinaiticus, L, Z, Koridethi, rodzina f1, minuskuły 33, 892, 1241, 1424 i część tradycji syryjskiej i bohairskiej.",
+     "Wydawcy drukują spójnik w nawiasie kwadratowym, bo świadectwa są wyrównane. Rozstrzygnięcie dotyczy delimitacji: z δέ wiersz pierwszy jest dalszym krokiem wywodu rozpoczętego przed 5,48, bez δέ otwiera nową rzecz. Nawias zachowano w zapisie perykopy, bo niesie tę decyzję."
+    ],
+    [
+     1,
+     "τὴν δικαιοσύνην",
+     "lekcja zastępcza",
+     "Zamiast „sprawiedliwość\" stoi ἐλεημοσύνην (jałmużnę) u kodeksów L, W, Z, Koridethi, w rodzinie f13, w minuskule 33, w większości bizantyjskiej oraz w części przekładów łacińskich i syryjskich; δόσιν (datek) ma korektor Sinaiticusa, syryjski curetoniański i bohairski. Tekst drukowany opiera się na Sinaiticusie, Watykańskim, kodeksie Bezy, 0250, rodzinie f1 i przekładach łacińskich.",
+     "Obie lekcje zastępcze zwężają wiersz do pierwszego z trzech uczynków i odbierają mu rolę nagłówka, więc są wtórne. Pierwsza z nich nie jest przy tym pomyłką: hebrajskie צְדָקָה znaczy zarówno sprawiedliwość, jak i jałmużnę, a Septuaginta oddaje je w części miejsc przez ἐλεημοσύνη — kopista wybierał drugie znaczenie jednego wyrazu, nie zmieniał tematu."
+    ],
+    [
+     1,
+     "τοῖς οὐρανοῖς",
+     "opuszczenie",
+     "Rodzajnik przed „niebiosami\" opuszczają pierwotny Sinaiticus, kodeks Bezy, Z, 0250, rodzina f1, minuskuł 33 i kilka innych; mają go korektor Sinaiticusa, kodeks Watykański, L, W, Koridethi, rodzina f13 i większość bizantyjska.",
+     "Różnica nie zmienia sensu i jest wahaniem między dwiema utartymi postaciami Mateuszowej formuły o Ojcu w niebiosach. Warto ją zanotować tylko dlatego, że ta sama formuła wróci w w. 9, gdzie świadkowie wahają się już nie o rodzajnik, lecz o liczbę."
+    ],
+    [
+     4,
+     "ἀποδώσει σοι",
+     "dodatek",
+     "Po „odda tobie\" kodeksy L, W, Koridethi, 0250 i większość bizantyjska wraz z przekładami starołacińskimi i syryjskimi dokładają ἐν τῷ φανερῷ (w jawności). Ten sam dodatek ci sami świadkowie wnoszą w w. 6, a część z nich w w. 18. Lekcję krótszą mają Sinaiticus, Watykański, kodeks Bezy, Z, rodzina f1, Wulgata, syryjski curetoniański, przekłady koptyjskie oraz Orygenes.",
+     "Dodatek jest teologicznie doniosły i właśnie dlatego wtórny: zamienia obietnicę o odpłacie na obietnicę odpłaty jawnej, czyli przywraca widownię, którą perykopa usuwa. Potrójne wystąpienie w trzech równoległych miejscach wskazuje na jednolitą pracę redakcyjną w tradycji bizantyjskiej, a nie na przypadek. Aparat notuje też w w. 4 dodanie zaimka αὐτός i dwa przestawienia szyku."
+    ],
+    [
+     5,
+     "προσεύχησθε, οὐκ ἔσεσθε",
+     "liczba",
+     "Lekcję w liczbie pojedynczej (προσεύχῃ, οὐκ ἔσῃ) mają pierwotny Sinaiticus, kodeks Bezy, L, W, Koridethi, rodzina f13, minuskuł 33, większość bizantyjska oraz przekłady starołacińskie i syryjskie. Liczbę mnogą mają korektor Sinaiticusa, kodeks Watykański, Z, rodzina f1, minuskuł 892, przekłady łacińskie i koptyjskie.",
+     "Wydawcy drukują liczbę mnogą jako lekcję trudniejszą, bo rozbija ona symetrię trzech członów, w których dwa pozostałe rozstrzygnięcia idą w liczbie pojedynczej. Lekcja pojedyncza jest wyrównaniem do sąsiedztwa — tym samym odruchem, który w w. 16 zmienia spójnik, a w w. 18 przymiotnik. Syryjski sinaicki opuszcza przy tym cały wiersz piąty."
+    ],
+    [
+     5,
+     "ἑστῶτες προσεύχεσθαι",
+     "dodatek",
+     "Kodeks Bezy i rękopisy starołacińskie dokładają bezokolicznik στῆναι, a sam zwrot przerabiają na „stojąc i modląc się\".",
+     "Zmiana przenosi winę na samo stanie, które było postawą modlitwy zwyczajną — modlitwa odmawiana trzy razy dziennie nazywała się po hebrajsku właśnie staniem. Jest to najwcześniejszy ślad czytania, które perykopa wyklucza, bo cała treść zarzutu mieści się w zdaniu celowym, nie w postawie."
+    ],
+    [
+     7,
+     "οἱ ἐθνικοί",
+     "lekcja zastępcza",
+     "Zamiast „poganie\" stoi ὑποκριταί (obłudnicy) u kodeksu Watykańskiego, w minuskule 1424, w syryjskim curetoniańskim i w tradycji średnioegipskiej.",
+     "Świadectwo jest poważne, bo kodeks Watykański jest w tej perykopie w innych miejscach podstawą tekstu, ale lekcja jest wtórna: wyrównuje wszystkie cztery ostrzeżenia do jednego adresata i usuwa drugą miarę, którą Kazanie wprowadziło w 5,47 i powtórzy w 6,32. Przymiotnik ἐθνικός stoi w Ewangeliach tylko u Mateusza i tylko trzy razy."
+    ],
+    [
+     8,
+     "ὁ πατὴρ ὑμῶν",
+     "lekcja zastępcza",
+     "Lekcję ὁ θεὸς ὁ πατὴρ ὑμῶν (Bóg, Ojciec wasz) mają korektor Sinaiticusa, kodeks Watykański oraz przekłady sahidzki i średnioegipski; lekcję ὁ πατὴρ ὑμῶν ὁ οὐράνιος (Ojciec wasz niebieski) minuskuły 047, 892 po korekcie i 1424, syryjski harkleński i część tradycji Orygenesa. Tekst krótki mają pierwotny Sinaiticus, kodeks Bezy, L, W, Z, Koridethi, 0170, rodziny f1 i f13, minuskuł 33, większość bizantyjska i wszystkie przekłady łacińskie.",
+     "Pierwsza lekcja jest u Mateusza bez odpowiednika, bo nigdzie indziej Bóg i „Ojciec wasz\" nie stoją w apozycji; druga wyrównuje zdanie do 6,32, gdzie ta sama myśl wraca z przymiotnikiem οὐράνιος. Oba warianty są więc objaśnieniami, a lekcja krótsza — samo ὁ πατὴρ ὑμῶν (Ojciec wasz) — jest w tej perykopie jedynym określeniem Ojca bez żadnego dopowiedzenia."
+    ],
+    [
+     8,
+     "αἰτῆσαι αὐτόν",
+     "lekcja zastępcza",
+     "Kodeks Bezy i starołaciński rękopis h mają w tym miejscu ἀνοῖξαι τὸ στόμα (otworzyć usta) zamiast „poprosić go\".",
+     "Lekcja jest zawężeniem i zarazem wykładnią: wiąże zdanie wyłącznie z modlitwą wypowiadaną, czyli z wielomówstwem z wiersza poprzedniego, i usuwa ogólniejsze twierdzenie o wiedzy Ojca wyprzedzającej prośbę. Tekst drukowany pozwala odnieść zdanie do każdej prośby, i dlatego dopiero on tworzy napięcie z Mt 7,7."
+    ],
+    [
+     9,
+     "τοῖς οὐρανοῖς",
+     "lekcja zastępcza",
+     "Liczbę pojedynczą — τῷ οὐρανῷ (w niebie) — ma tradycja średnioegipska oraz Didache.",
+     "Świadectwo Didache jest tu ważniejsze niż jego waga rękopiśmienna, bo pokazuje brzmienie modlitwy w użyciu liturgicznym na przełomie pierwszego i drugiego wieku. Mateusz używa obu liczb i w tej samej perykopie użył ich w odstępie jednego wiersza (w. 9 mnoga, w. 10 pojedyncza), więc wahanie kopistów ma w samym tekście podstawę."
+    ],
+    [
+     11,
+     "ἐπιούσιον",
+     "przekład wersji",
+     "Aparat nie notuje w tym miejscu lekcji greckich, lecz rozbieżność przekładów: cottidianum (powszedni) w rękopisach starołacińskich i części Wulgaty, supersubstantialem (ponadistotny) w Wulgacie, perpetuum (ustawiczny) w syryjskim curetoniańskim, necessarium (konieczny) w pozostałych przekładach syryjskich, venientem (nadchodzący) w sahidzkim, crastinum (jutrzejszy) w średnioegipskim i bohairskim.",
+     "Sześć różnych rozstrzygnięć wobec jednego wyrazu greckiego jest najlepszym dowodem, że starożytni tłumacze nie wiedzieli, co znaczy, i że nie jest to trudność nowożytna. Rozbieżność idzie za trzema możliwymi wyprowadzeniami — od dnia bieżącego, od dnia następnego i od istoty. Hieronim świadczy przy tym, że Ewangelia hebrajska miała tu wyraz znaczący jutro, co wspiera wykładnię drugą; jego świadectwo wymaga sprawdzenia."
+    ],
+    [
+     12,
+     "ἀφήκαμεν",
+     "czas gramatyczny",
+     "Aoryst trybu orzekającego („odpuściliśmy\") mają pierwotny Sinaiticus, kodeks Watykański, Z i rodzina f1; czas teraźniejszy ἀφίομεν — kodeks Bezy, L, W, Δ, Koridethi i minuskuł 565, a ἀφίεμεν korektor Sinaiticusa, rodzina f13, większość bizantyjska oraz Didache. Aparat notuje też zastąpienie „długów\" przez τὴν ὀφειλήν (dług, w liczbie pojedynczej) w Didache i przez τὰ παραπτώματα (występki) u Orygenesa.",
+     "Różnica jest ciężka. Czas teraźniejszy opisuje postawę trwającą i czyni z drugiego członu porównanie do sposobu postępowania; aoryst stwierdza czyn już dokonany i czyni prośbę zależną od czegoś, co proszący ma za sobą. Wydawcy drukują aoryst, bo nikt nie miałby powodu wprowadzać lekcji trudniejszej, a świadectwo Didache pokazuje, że złagodzenie nastąpiło w użyciu liturgicznym bardzo wczesnie. Wymiana rzeczownika u Orygenesa jest harmonizacją do w. 14–15."
+    ],
+    [
+     13,
+     "ἀπὸ τοῦ πονηροῦ",
+     "dodatek",
+     "Po „od złego\" większość świadków dokłada doksologię ὅτι σοῦ ἐστιν ἡ βασιλεία καὶ ἡ δύναμις καὶ ἡ δόξα εἰς τοὺς αἰῶνας· ἀμήν (bo twoje jest królestwo i moc, i chwała na wieki, amen) — kodeksy L, W, Koridethi, 0233, rodzina f13, minuskuł 33, większość bizantyjska, część przekładów łacińskich i syryjskich, przekład sahidzki oraz Didache w postaci krótszej, bez członu o mocy. Samo ἀμήν ma minuskuł 17 i Wulgata klementyńska, a wersję trynitarną minuskuł 1253. Tekstu bez doksologii trzymają się Sinaiticus, Watykański, kodeks Bezy, Z, 0170, rodzina f1, przekłady łacińskie, średnioegipski, część bohairskich oraz Orygenes.",
+     "Doksologia jest dodatkiem liturgicznym i aparat sam wskazuje jej wzór: wyliczenie idzie za błogosławieństwem Dawida z 1 Krn 29,11–13. Jej kształt rośnie w świadkach — Didache ma dwa członiki, większość bizantyjska trzy, jeden minuskuł rozwija ją w formułę trynitarną — co jest przebiegiem typowym dla tekstu używanego w modlitwie. Stąd bierze się różnica praktyczna między Kościołami, bo przekłady oparte na tekście bizantyjskim mają doksologię jako część modlitwy."
+    ],
+    [
+     14,
+     "ὁ οὐράνιος",
+     "lekcja zastępcza",
+     "Zamiast „niebieski\" stoi ἐν τοῖς οὐρανοῖς (w niebiosach) u kodeksu Koridethi, w minuskule 700 i w rękopisach starołacińskich, a lekcja rozwinięta „niebieski występki wasze\" — u L, rodziny f13, lekcjonarza 844 i części przekładów. Aparat notuje też opuszczenie γάρ u pierwotnego kodeksu Bezy, L i kilku minuskułów.",
+     "Dwie pierwsze lekcje są harmonizacjami: pierwsza do Mateuszowej formuły z przyimkiem, druga do w. 15, gdzie „występki wasze\" stoją. Opuszczenie γάρ jest dla budowy perykopy istotniejsze niż zmiana przymiotnika, bo właśnie ten spójnik przyczepia wiersze 14–15 do piątej prośby; bez niego są zdaniem samodzielnym, a nie objaśnieniem jednej prośby."
+    ],
+    [
+     16,
+     "ὡς",
+     "lekcja zastępcza",
+     "Zamiast ὡς stoi ὥσπερ u kodeksów L, W, Koridethi, 0233, w rodzinie f13 i w minuskule 33 oraz w większości bizantyjskiej; ὡς mają Sinaiticus, Watykański, kodeks Bezy, Δ, rodzina f1, minuskuł 892 i dwa lekcjonarze.",
+     "Wymiana wyrównuje spójnik do w. 2 i w. 7, gdzie stoi ὥσπερ. Mateusz użył w trzech członach trzech różnych wprowadzeń porównania, a kopiści tę nierówność usuwali — ta sama praca, która w w. 5 zmieniała liczbę, a w w. 18 przymiotnik. Aparat notuje w tym wierszu także formę zwrotną zaimka u kodeksu Watykańskiego i dodanie ὅτι przed formułą o zapłacie."
+    ],
+    [
+     18,
+     "τῷ κρυφαίῳ",
+     "lekcja zastępcza",
+     "W obu miejscach wiersza τῷ κρυπτῷ (w ukryciu) mają kodeksy L, W, Koridethi, 0233, 0250, rodzina f13, minuskuł 33 i większość bizantyjska; pierwotny kodeks Bezy ma dwie różne formy obok siebie. Lekcję z κρυφαίῳ mają Sinaiticus, Watykański, kodeks Bezy po korekcie i rodzina f1.",
+     "Przymiotnik κρυφαῖος nie występuje w Nowym Testamencie poza tym wierszem, a zmiana wobec w. 4 i 6 jest synonimiczna i nic nie dodaje do znaczenia. Właśnie dlatego jest Mateuszowa: nikt nie miałby powodu wprowadzać wyrazu rzadszego w miejsce powtórzonego dwa razy wcześniej, a odwrotny kierunek zmiany jest w tej perykopie poświadczony wielokrotnie. Aparat notuje też dodanie ἐν τῷ φανερῷ (w jawności) i przestawienie szyku u kodeksu Watykańskiego."
+    ]
+   ],
+   "theme_links": [
+    [
+     "trzy uczynki i złamana symetria",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "trzy uczynki i złamana symetria",
+     [
+      "section",
+      "Struktura całości"
+     ]
+    ],
+    [
+     "Ojciec w ukryciu",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "Ojciec w ukryciu",
+     [
+      "block",
+      "w. 5–6"
+     ]
+    ],
+    [
+     "Ojciec w ukryciu",
+     [
+      "block",
+      "w. 16–18"
+     ]
+    ],
+    [
+     "Ojciec w ukryciu",
+     [
+      "section",
+      "Co znaczy, że Ojciec jest w ukryciu"
+     ]
+    ],
+    [
+     "Ojciec w ukryciu",
+     [
+      "section",
+      "Ojciec dziesięć razy w osiemnastu wierszach"
+     ]
+    ],
+    [
+     "obłudnik i jego widownia",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "obłudnik i jego widownia",
+     [
+      "block",
+      "w. 2–4"
+     ]
+    ],
+    [
+     "obłudnik i jego widownia",
+     [
+      "block",
+      "w. 5–6"
+     ]
+    ],
+    [
+     "obłudnik i jego widownia",
+     [
+      "section",
+      "Ten sam zwrot, raz nakazany, raz zakazany"
+     ]
+    ],
+    [
+     "Modlitwa Pańska: trzy prośby Jego, cztery nasze",
+     [
+      "block",
+      "w. 9–13"
+     ]
+    ],
+    [
+     "Modlitwa Pańska: trzy prośby Jego, cztery nasze",
+     [
+      "section",
+      "Siedem prośb i porządek celu"
+     ]
+    ],
+    [
+     "modlitwa w liczbie mnogiej za zamkniętymi drzwiami",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "modlitwa w liczbie mnogiej za zamkniętymi drzwiami",
+     [
+      "block",
+      "w. 9–13"
+     ]
+    ],
+    [
+     "modlitwa w liczbie mnogiej za zamkniętymi drzwiami",
+     [
+      "section",
+      "Modlitwa, w której nie ma pierwszej osoby liczby pojedynczej"
+     ]
+    ],
+    [
+     "modlitwa w liczbie mnogiej za zamkniętymi drzwiami",
+     [
+      "section",
+      "Zakończenie: intencja całości"
+     ]
+    ],
+    [
+     "długi i występki: dwa słowa o grzechu",
+     [
+      "block",
+      "w. 14–15"
+     ]
+    ],
+    [
+     "długi i występki: dwa słowa o grzechu",
+     [
+      "unit",
+      "w. 9–13",
+      7
+     ]
+    ],
+    [
+     "poganie jako druga miara Kazania",
+     [
+      "block",
+      "w. 7–8"
+     ]
+    ],
+    [
+     "poganie jako druga miara Kazania",
+     [
+      "section",
+      "Autor ludzki: kim jest i co chce przekazać"
+     ]
+    ],
+    [
+     "chleb ἐπιούσιος: słowo bez poświadczenia",
+     [
+      "unit",
+      "w. 9–13",
+      6
+     ]
+    ],
+    [
+     "chleb ἐπιούσιος: słowo bez poświadczenia",
+     [
+      "section",
+      "Supersubstantialis: jedno słowo i dwie tradycje"
+     ]
+    ],
+    [
+     "sprawiedliwość wedle Mateusza",
+     [
+      "block",
+      "w. 1"
+     ]
+    ],
+    [
+     "sprawiedliwość wedle Mateusza",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "Ojciec wasz w niebiosach",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "Ojciec wasz w niebiosach",
+     [
+      "unit",
+      "w. 9–13",
+      1
+     ]
+    ],
+    [
+     "zapłata i jej dwa adresy",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "zapłata i jej dwa adresy",
+     [
+      "unit",
+      "w. 2–4",
+      5
+     ]
+    ],
+    [
+     "zapłata i jej dwa adresy",
+     [
+      "unit",
+      "w. 2–4",
+      8
+     ]
+    ],
+    [
+     "zapłata i jej dwa adresy",
+     [
+      "section",
+      "Zapłata, która nie jest ceną"
+     ]
+    ],
+    [
+     "sól, światło i miasto: trzy obrazy jawności",
+     [
+      "unit",
+      "w. 1",
+      2
+     ]
+    ],
+    [
+     "królestwo niebios jako omowa",
+     [
+      "unit",
+      "w. 9–13",
+      3
+     ]
+    ],
+    [
+     "trzecia osoba i druga: zwrot Kazania",
+     [
+      "section",
+      "Struktura całości"
+     ]
+    ],
+    [
+     "formuły wypełnienia",
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ]
+    ]
+   ],
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     "ST I–II, q. 114, a. 1",
+     [
+      "section",
+      "Zapłata, która nie jest ceną"
+     ],
+     "Sprawiedliwość ścisła między Bogiem a człowiekiem nie zachodzi, bo nie ma wspólnej miary; zasługa jest możliwa tylko dlatego, że Bóg sam ustanowił porządek, w którym czyn dokonany z łaski zostaje przyjęty jako zasługujący. Zapłata z Mt 6,4.6.18 nie jest zatem ceną czynu, lecz skutkiem obietnicy — i właśnie dlatego może być odłożona.",
+     "Summa Theologiae"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "ST II–II, q. 132, a. 1",
+     [
+      "section",
+      "Zapłata, która nie jest ceną"
+     ],
+     "Pragnienie chwały nie jest złem samo w sobie; staje się wadą, gdy szukana chwała jest nieprawdziwa, gdy szuka się jej u tych, których sąd nic nie wart, albo gdy nie odnosi się jej do Boga jako celu. Trzeci sposób odpowiada dokładnie składni Mt 6,1, w której zdanie celowe kończy się na patrzących.",
+     "Summa Theologiae"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "ST II–II, q. 83, a. 2",
+     [
+      "section",
+      "Po co prosić Tego, który wie"
+     ],
+     "Modlitwy nie zanosimy po to, by odmienić Boży zamysł, lecz by otrzymać to, co Bóg postanowił dać przez modlitwę. Prośba należy więc do porządku przyczyn, który został postanowiony, a nie stoi wobec postanowienia na zewnątrz; wiedza Ojca o potrzebie z Mt 6,8 nie czyni jej zbędną, lecz możliwą.",
+     "Summa Theologiae"
+    ],
+    [
+     "św. Augustyn",
+     "Epist. 130 (ad Probam)",
+     [
+      "section",
+      "Po co prosić Tego, który wie"
+     ],
+     "Nakazano nam modlić się nie dlatego, żeby Bóg miał się czegoś dowiedzieć, lecz żeby w nas samych rosło pragnienie tego, co ma być dane. Odpowiedź Augustyna idzie od strony proszącego, podczas gdy Tomasz odpowiada od strony porządku przyczyn; obie zostawiają nietknięte zdanie z Mt 6,8.",
+     "Epistulae"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "ST II–II, q. 83, a. 9",
+     [
+      "section",
+      "Siedem prośb i porządek celu"
+     ],
+     "Modlitwa Pańska jest modlitwą najdoskonalszą, bo uczy nie tylko tego, o co prosić, lecz w jakiej kolejności pragnąć: najpierw o cel, potem o to, co do celu prowadzi. Podział na trzy prośby z zaimkiem σου i cztery z zaimkami pierwszej osoby liczby mnogiej jest zatem twierdzeniem o porządku dóbr.",
+     "Summa Theologiae"
+    ],
+    [
+     "św. Augustyn",
+     "De serm. Dom. II,11",
+     [
+      "section",
+      "Siedem prośb i porządek celu"
+     ],
+     "Przyporządkowanie siedmiu prośb siedmiu darom Ducha Świętego oraz błogosławieństwom. Jest to konstrukcja, nie odczytanie, i trzeba ją tak podawać; jej trwała zasługa polega na tym, że pierwsza dostrzegła w modlitwie uporządkowaną całość, a nie zbiór prośb.",
+     "De sermone Domini in monte"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "ST III, q. 86, a. 2; ST II–II, q. 24",
+     [
+      "section",
+      "Warunek, który nie jest ceną"
+     ],
+     "Odpuszczenie grzechu wymaga wlania łaski, a ta jest miłością. Kto odmawia odpuszczenia bratu, trwa w stanie, w którym miłości nie ma, więc przeszkoda jest po jego stronie. Warunek z Mt 6,15 nie wyznacza zatem ceny, lecz opisuje niezdolność.",
+     "Summa Theologiae"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "ST I, q. 8, a. 1–3; q. 14, a. 8",
+     [
+      "section",
+      "Co znaczy, że Ojciec jest w ukryciu"
+     ],
+     "Bóg nie jest w miejscu jak w naczyniu, lecz we wszystkich rzeczach przez istotę, obecność i moc; zna też rzeczy nie dlatego, że go poruszają, lecz jako ich przyczyna. Zwrot „Ojciec, który jest w ukryciu\" nie wskazuje więc położenia, a „widzi w ukryciu\" nie opisuje patrzenia na wzór ludzkiego.",
+     "Summa Theologiae"
+    ],
+    [
+     "Orygenes",
+     "De orat. 27",
+     [
+      "unit",
+      "w. 9–13",
+      6
+     ],
+     "Świadectwo, że przymiotnika ἐπιούσιος nie znalazł u żadnego pisarza greckiego ani w mowie potocznej, wraz z wnioskiem, że został utworzony przez tłumaczy, i z propozycją wyprowadzenia go od οὐσία (istota). Jest to najstarsze świadectwo o trudności tego wyrazu i najstarsza próba jej rozwiązania.",
+     "De oratione"
+    ],
+    [
+     "św. Cyprian z Kartaginy",
+     "De dom. orat. 8",
+     [
+      "section",
+      "Modlitwa, w której nie ma pierwszej osoby liczby pojedynczej"
+     ],
+     "Nie mówimy „Ojcze mój\", lecz „Ojcze nasz\", bo modlitwa nie jest sprawą jednego i nikt nie modli się tylko za siebie. Cyprian wyprowadza z liczby mnogiej jedność Kościoła i czyta zestawienie z nakazem o zamkniętych drzwiach bez znoszenia żadnej z dwóch liczb.",
+     "De dominica oratione"
+    ],
+    [
+     "Tertulian",
+     "De orat. 1–2",
+     [
+      "section",
+      "Przekazanie modlitwy i tradycja komory"
+     ],
+     "Najstarszy łaciński traktat o Modlitwie Pańskiej, otwierający linię komentarzy, do której należą dzieła Orygenesa i Cypriana. Przy tej perykopie ciężar komentarza patrystycznego leży w takich traktatach, nie w komentarzach ciągłych do Mateusza.",
+     "De oratione"
+    ],
+    [
+     "Jan Kasjan",
+     "Coll. IX–X",
+     [
+      "section",
+      "Przekazanie modlitwy i tradycja komory"
+     ],
+     "Wykład Modlitwy Pańskiej i modlitwy wewnętrznej, oparty w znacznej mierze na Mt 6,6. Z tego miejsca wyszła monastyczna wykładnia komory jako celi, a potem jako wnętrza człowieka; czytanie przenośne odpowiadało przy tym na trudność rzeczywistą, bo nie każdy dom miał izbę do zamknięcia.",
+     "Collationes patrum"
+    ],
+    [
+     "Sobór Trydencki",
+     "sesja VI (1547)",
+     [
+      "section",
+      "Jałmużna, zasługa i spór szesnastego wieku"
+     ],
+     "Dekret o usprawiedliwieniu utrzymuje zasługę, określając ją jako skutek łaski, a nie jako należność wobec Boga. Rozstrzygnięcie idzie w tę samą stronę co wcześniejszy wywód Tomasza i nie opiera się na tej perykopie, której teksty dowodowe o jałmużnie brano z Tobiasza i Syracha.",
+     "Decretum de iustificatione (sesja VI)"
+    ],
+    [
+     "Kościół katolicki",
+     "o czwartej prośbie",
+     [
+      "section",
+      "Supersubstantialis: jedno słowo i dwie tradycje"
+     ],
+     "Katechizm zestawia oba sensy czwartej prośby — chleb powszedni i chleb eucharystyczny — nie rozstrzygając między przekładem Hieronima u Mateusza i u Łukasza. Numery wymagają sprawdzenia; rzecz jest tu przywołana dlatego, że pokazuje trwanie obu linii wykładni.",
+     "Catechismus Catholicae Ecclesiae"
+    ],
+    [
+     "J. Jeremias",
+     "Abba",
+     [
+      "section",
+      "Po jakim języku modlono się w Galilei"
+     ],
+     "Próby odtworzenia aramejskiego brzmienia Modlitwy Pańskiej wraz z tezą o osobliwym charakterze zwrotu אַבָּא w ustach Jezusa. Odtworzenie jest hipotezą i bywa podawane jako tekst pierwotny; tekstem jest greka, którą mamy, a tezę o osobliwości zwrotu podważano w badaniach późniejszych.",
+     "Abba. Studien zur neutestamentlichen Theologie und Zeitgeschichte"
+    ],
+    [
+     "A. Paciorek",
+     "NKB NT I, ad Mt 6,1–18",
+     [
+      "section",
+      "Trzy uczynki, których Mateusz nie nazywa trójką"
+     ],
+     "Komentarz polski do tej perykopy wraz z omówieniem trójki uczynków i jej tła judaistycznego. Przywołany jako pozycja do zestawienia przy pracy publikacyjnej, obok U. Luza, W. D. Daviesa i D. C. Allisona oraz R. T. France'a.",
+     "Ewangelia według świętego Mateusza (Nowy Komentarz Biblijny)"
+    ]
+   ],
+   "revision_note": "2026-11-27: perykopa jedenasta bazy Mateusza (Mt 6,1–18), trzecia część Kazania na górze. Sekcja I w siedmiu blokach i czterdziestu pięciu jednostkach analizy; oś na jednym zwrocie — ἔμπροσθεν τῶν ἀνθρώπων (wobec ludzi) stoi w 5,16 jako nakaz i w 6,1 jako zakaz, a różnicę niesie wyłącznie zdanie celowe, które raz kończy się na Ojcu, raz na patrzących. Dodano 45 leksemów, 9 terminów semickich, 8 motywów, 7 dzieł, 2 księgi (Tb, Prz), 108 wystąpień leksemów, 54 odniesienia biblijne, 16 not aparatu, 5 głosów kateny i 16 cytatów. Status: w_opracowaniu. Loci patrystyczne, sigla lekcjonarza, sigla misznaickie i szczegóły archeologiczne wymagają weryfikacji przy źródłach."
+  }
+ ]
+}
