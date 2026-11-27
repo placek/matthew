@@ -81,6 +81,20 @@ gęstości dla sześćdziesięciu dwóch następnych, więc nie zaczynaj masowej
 produkcji przed jej domknięciem. Pierwszy plik danych musi wnieść także
 `meta` z kluczem `projekt` i `books` z wierszem Mateusza — patrz `SKILL.md`.
 
+**Perykopy pisze harmonogram w chmurze.** Repozytorium jest na GitHubie
+(`placek/matthew`) i dwie rutyny Claude Code commitują prosto na `master`:
+
+- `Mateusz — perykopa 1 (wzorzec)` — jednorazowa, pisze perykopę 1 i gaśnie;
+- `Mateusz — kolejna perykopa (co 6 h)` — cykliczna, bierze z tabeli
+  delimitacji w `README.md` pierwszą perykopę bez pliku danych, pisze ją
+  i wypycha. Gaśnie sama, gdy wszystkie 63 mają pliki. Startuje **wyłączona**
+  i włącza ją człowiek po zatwierdzeniu wzorca.
+
+Stąd dwie konsekwencje dla pracy lokalnej: **zrób `git pull` przed każdą
+sesją**, bo historia rośnie bez ciebie, i nie pisz perykopy, która może być
+właśnie w toku w chmurze — sprawdź najpierw, czego brakuje w `data/`.
+Rutyny widać na https://claude.ai/code/routines
+
 `status`: `szkic` → `w_opracowaniu` → `ukonczona` → `do_rewizji`.
 Perykopy pisane przez Claude'a dostają **`w_opracowaniu`** — nigdy
 `ukonczona`. Status `ukonczona` nadaje wyłącznie Paweł po weryfikacji
