@@ -1,0 +1,1905 @@
+{
+ "books": [
+  [
+   "Oz",
+   "Księga Ozeasza",
+   "ST",
+   34
+  ],
+  [
+   "Ap",
+   "Apokalipsa św. Jana",
+   "NT",
+   73
+  ]
+ ],
+ "verses": {
+  "chapter": 2,
+  "items": [
+   [
+    13,
+    "Ἀναχωρησάντων δὲ αὐτῶν ἰδοὺ ἄγγελος κυρίου φαίνεται κατʼ ὄναρ τῷ Ἰωσὴφ λέγων· ἐγερθεὶς παράλαβε τὸ παιδίον καὶ τὴν μητέρα αὐτοῦ καὶ φεῦγε εἰς Αἴγυπτον καὶ ἴσθι ἐκεῖ ἕως ἂν εἴπω σοι· μέλλει γὰρ Ἡρῴδης ζητεῖν τὸ παιδίον τοῦ ἀπολέσαι αὐτό.",
+    "Gdy zaś oni się usunęli, oto zwiastun Pana ukazuje się we śnie Józefowi, mówiąc: Wstawszy, weź dziecko i matkę jego i uciekaj do Egiptu, i bądź tam, dopóki ci nie powiem; ma bowiem Herod szukać dziecka, aby je zgubić."
+   ],
+   [
+    14,
+    "ὁ δὲ ἐγερθεὶς παρέλαβεν τὸ παιδίον καὶ τὴν μητέρα αὐτοῦ νυκτὸς καὶ ἀνεχώρησεν εἰς Αἴγυπτον,",
+    "On zaś, wstawszy, wziął dziecko i matkę jego nocą i usunął się do Egiptu,"
+   ],
+   [
+    15,
+    "καὶ ἦν ἐκεῖ ἕως τῆς τελευτῆς Ἡρῴδου· ἵνα πληρωθῇ τὸ ῥηθὲν ὑπὸ κυρίου διὰ τοῦ προφήτου λέγοντος· ἐξ Αἰγύπτου ἐκάλεσα τὸν υἱόν μου.",
+    "i był tam do śmierci Heroda — aby wypełniło się powiedziane przez Pana przez proroka, mówiącego: Z Egiptu wezwałem syna mego."
+   ],
+   [
+    16,
+    "Τότε Ἡρῴδης ἰδὼν ὅτι ἐνεπαίχθη ὑπὸ τῶν μάγων ἐθυμώθη λίαν, καὶ ἀποστείλας ἀνεῖλεν πάντας τοὺς παῖδας τοὺς ἐν Βηθλέεμ καὶ ἐν πᾶσι τοῖς ὁρίοις αὐτῆς ἀπὸ διετοῦς καὶ κατωτέρω, κατὰ τὸν χρόνον ὃν ἠκρίβωσεν παρὰ τῶν μάγων.",
+    "Wtedy Herod, widząc, że został wyszydzony przez magów, rozgniewał się bardzo i posławszy, zgładził wszystkich chłopców w Betlejem i na całym jego obszarze, od dwulatków i niżej, wedle czasu, o który dokładnie wypytał magów."
+   ],
+   [
+    17,
+    "τότε ἐπληρώθη τὸ ῥηθὲν διὰ Ἰερεμίου τοῦ προφήτου λέγοντος·",
+    "Wtedy wypełniło się powiedziane przez Jeremiasza proroka, mówiącego:"
+   ],
+   [
+    18,
+    "φωνὴ ἐν Ῥαμὰ ἠκούσθη, κλαυθμὸς καὶ ὀδυρμὸς πολύς· Ῥαχὴλ κλαίουσα τὰ τέκνα αὐτῆς, καὶ οὐκ ἤθελεν παρακληθῆναι, ὅτι οὐκ εἰσίν.",
+    "Głos w Rama został usłyszany, płacz i lament wielki: Rachel opłakująca dzieci swoje, i nie chciała zostać pocieszona, bo ich nie ma."
+   ],
+   [
+    19,
+    "Τελευτήσαντος δὲ τοῦ Ἡρῴδου ἰδοὺ ἄγγελος κυρίου φαίνεται κατʼ ὄναρ τῷ Ἰωσὴφ ἐν Αἰγύπτῳ",
+    "Gdy zaś Herod umarł, oto zwiastun Pana ukazuje się we śnie Józefowi w Egipcie,"
+   ],
+   [
+    20,
+    "λέγων· ἐγερθεὶς παράλαβε τὸ παιδίον καὶ τὴν μητέρα αὐτοῦ καὶ πορεύου εἰς γῆν Ἰσραήλ· τεθνήκασιν γὰρ οἱ ζητοῦντες τὴν ψυχὴν τοῦ παιδίου.",
+    "mówiąc: Wstawszy, weź dziecko i matkę jego i idź do ziemi Izraela; pomarli bowiem ci, którzy szukali życia dziecka."
+   ],
+   [
+    21,
+    "ὁ δὲ ἐγερθεὶς παρέλαβεν τὸ παιδίον καὶ τὴν μητέρα αὐτοῦ καὶ εἰσῆλθεν εἰς γῆν Ἰσραήλ.",
+    "On zaś, wstawszy, wziął dziecko i matkę jego i wszedł do ziemi Izraela."
+   ],
+   [
+    22,
+    "Ἀκούσας δὲ ὅτι Ἀρχέλαος βασιλεύει τῆς Ἰουδαίας ἀντὶ τοῦ πατρὸς αὐτοῦ Ἡρῴδου ἐφοβήθη ἐκεῖ ἀπελθεῖν· χρηματισθεὶς δὲ κατʼ ὄναρ ἀνεχώρησεν εἰς τὰ μέρη τῆς Γαλιλαίας,",
+    "Usłyszawszy zaś, że Archelaos króluje nad Judeą w miejsce ojca swego Heroda, zląkł się tam iść; otrzymawszy zaś wyrocznię we śnie, usunął się w strony Galilei,"
+   ],
+   [
+    23,
+    "καὶ ἐλθὼν κατῴκησεν εἰς πόλιν λεγομένην Ναζαρέτ· ὅπως πληρωθῇ τὸ ῥηθὲν διὰ τῶν προφητῶν ὅτι Ναζωραῖος κληθήσεται.",
+    "i przyszedłszy, zamieszkał w mieście zwanym Nazaret — aby wypełniło się powiedziane przez proroków, że Nazarejczykiem będzie nazwany."
+   ]
+  ]
+ },
+ "lexemes": [
+  [
+   "ἄγγελος",
+   "angelos",
+   "rzeczownik",
+   "zwiastun, posłaniec — u Mateusza dwadzieścia razy; w rozdziałach 1–2 zawsze ἄγγελος κυρίου (zwiastun Pana), bez imienia i bez opisu postaci"
+  ],
+  [
+   "φαίνω",
+   "phaino",
+   "czasownik",
+   "świecić, w medium ukazywać się — o objawieniu sennym w 1,20; 2,13.19; o gwieździe w 2,7; o pozorze pobożności w 6,5.16; 23,27–28"
+  ],
+  [
+   "ἐγείρω",
+   "egeiro",
+   "czasownik",
+   "podnosić, budzić; w stronie biernej wstawać — czasownik posłuszeństwa Józefa (1,24; 2,13.14.20.21) i czasownik zmartwychwstania (16,21; 17,23; 20,19; 27,52.63–64; 28,6–7)"
+  ],
+  [
+   "φεύγω",
+   "pheugo",
+   "czasownik",
+   "uciekać — u Mateusza siedem razy; w 2,13 rozkaz dany Józefowi, w 10,23 reguła dla posłanych, w 24,16 nakaz na czas ostateczny, w 26,56 czyn uczniów w Getsemani"
+  ],
+  [
+   "Αἴγυπτος",
+   "Aigyptos",
+   "rzeczownik",
+   "Egipt — u Mateusza cztery razy i wszystkie w tej perykopie (2,13.14.15.19); w Piśmie zarazem dom niewoli i najbliższe schronienie poza zasięgiem władzy judzkiej"
+  ],
+  [
+   "ἀπόλλυμι",
+   "apollymi",
+   "czasownik",
+   "gubić, niszczyć, tracić — zamiar Heroda w 2,13; postanowienie faryzeuszów w 12,14 i arcykapłanów w 27,20; o duszy i życiu w 10,39; 16,25"
+  ],
+  [
+   "τελευτή",
+   "teleute",
+   "rzeczownik",
+   "koniec, zgon — w Nowym Testamencie tylko w 2,15; czasownik τελευτάω (umierać, dokonać) u Mateusza cztery razy, w tym o Herodzie w 2,19"
+  ],
+  [
+   "ἐμπαίζω",
+   "empaizo",
+   "czasownik",
+   "wyszydzić, zrobić z kogoś głupca — w 2,16 o Herodzie oszukanym przez magów, dalej wyłącznie o męce (20,19; 27,29.31.41)"
+  ],
+  [
+   "θυμόω",
+   "thymoo",
+   "czasownik",
+   "wpaść w gniew — w całym Nowym Testamencie tylko w 2,16; rzeczownik θυμός (gniew zapalczywy) oznacza u Septuaginty i u Pawła wybuch, nie postanowienie"
+  ],
+  [
+   "ἀναιρέω",
+   "anaireo",
+   "czasownik",
+   "usunąć, zgładzić — u Mateusza tylko w 2,16; w Dziejach dziewiętnaście razy i niemal zawsze o zabiciu z wyroku albo z postanowienia władzy"
+  ],
+  [
+   "παῖς",
+   "pais",
+   "rzeczownik",
+   "chłopiec; sługa — w 2,16 w rodzaju męskim o zabitych dzieciach; w 8,6.13 o słudze setnika; w 12,18 o Słudze z Izajasza"
+  ],
+  [
+   "ὅριον",
+   "horion",
+   "rzeczownik",
+   "granica, w liczbie mnogiej obszar przygraniczny — u Mateusza sześć razy, zawsze w liczbie mnogiej i zawsze o okolicy miasta albo krainy (2,16; 4,13; 8,34; 15,22.39; 19,1)"
+  ],
+  [
+   "διετής",
+   "dietes",
+   "przymiotnik",
+   "dwuletni — w Nowym Testamencie tylko w 2,16; w papirusach spisowych wiek dziecka podawany tą formą jest wiekiem ukończonym"
+  ],
+  [
+   "κλαυθμός",
+   "klauthmos",
+   "rzeczownik",
+   "płacz, zawodzenie — u Mateusza siedem razy; po 2,18 już tylko w formule ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων (płacz i zgrzytanie zębów) o losie odrzuconych (8,12; 13,42.50; 22,13; 24,51; 25,30)"
+  ],
+  [
+   "ὀδυρμός",
+   "odyrmos",
+   "rzeczownik",
+   "jęk, lament — w Nowym Testamencie dwa razy, w 2,18 i w 2 Kor 7,7; słowo z języka żałoby, nie z języka skargi"
+  ],
+  [
+   "παρακαλέω",
+   "parakaleo",
+   "czasownik",
+   "wzywać do siebie, zachęcać, pocieszać — u Mateusza trzy razy; w 2,18 i w 5,4 o pocieszeniu płaczących, w 8,5 o prośbie setnika"
+  ],
+  [
+   "θνῄσκω",
+   "thnesko",
+   "czasownik",
+   "umierać; w perfectum być umarłym — forma τεθνήκασιν w 2,20 jest jedynym perfectum tego czasownika u Mateusza i przenosi do tekstu brzmienie Wj 4,19"
+  ],
+  [
+   "ψυχή",
+   "psyche",
+   "rzeczownik",
+   "życie, tchnienie życia, dusza — u Mateusza szesnaście razy; w 2,20 w zwrocie ζητεῖν τὴν ψυχήν (szukać życia), czyli czyhać na życie, a nie w znaczeniu duszy nieśmiertelnej"
+  ],
+  [
+   "φοβέομαι",
+   "phobeomai",
+   "czasownik",
+   "bać się — u Mateusza osiemnaście razy; w 1,20 i 28,5.10 w zakazie μὴ φοβηθῇς (nie bój się), w 2,22 o lęku Józefa przed Archelaosem, w 10,26–31 o tym, kogo bać się należy"
+  ],
+  [
+   "κατοικέω",
+   "katoikeo",
+   "czasownik",
+   "osiąść, zamieszkać na stałe — u Mateusza cztery razy; w 2,23 i 4,13 o osiedleniu się rodziny i Jezusa, w 12,45 o duchach wracających do domu, w 23,21 o Bogu mieszkającym w świątyni"
+  ],
+  [
+   "μέρος",
+   "meros",
+   "rzeczownik",
+   "część; w liczbie mnogiej strony, okolice — w 2,22 i 15,21; 16,13 o obszarze bez wytyczonej granicy, czyli o krainie widzianej z zewnątrz"
+  ],
+  [
+   "Ναζωραῖος",
+   "Nazoraios",
+   "rzeczownik",
+   "Nazarejczyk — forma przymiotnikowa od nazwy Nazaretu, u Mateusza dwa razy (2,23; 26,71), u Marka nigdy, bo ten ma Ναζαρηνός; w Dz 24,5 nazwa stronnictwa chrześcijan"
+  ],
+  [
+   "γῆ",
+   "ge",
+   "rzeczownik",
+   "ziemia, kraj — u Mateusza czterdzieści trzy razy; wyrażenie γῆ Ἰσραήλ (ziemia Izraela) z 2,20.21 w całym Nowym Testamencie nie pada nigdzie więcej"
+  ]
+ ],
+ "semitic": [
+  [
+   "מִצְרַיִם",
+   "Micrajim",
+   "hbr",
+   "Egipt — forma podwójna, zapewne o Górnym i Dolnym Egipcie; w Pięcioksięgu miejsce zniewolenia, w prorokach ostrzeżenie przed zawieraniem przymierzy, a w praktyce najbliższa ziemia poza władzą Jerozolimy"
+  ],
+  [
+   "בְּנִי",
+   "beni",
+   "hbr",
+   "syn mój — forma pojedyncza z Oz 11,1; Septuaginta ma w tym miejscu liczbę mnogą (τὰ τέκνα αὐτοῦ, dzieci jego) i trzecią osobę, więc Mateusz nie mógł wziąć swego cytatu z greki"
+  ],
+  [
+   "רָמָה",
+   "Rama",
+   "hbr",
+   "wyżyna, wzniesienie; zarazem nazwa miasta w Beniaminie, około ośmiu kilometrów na północ od Jerozolimy — punkt zbiorczy dla uprowadzanych do Babilonu (Jr 40,1)"
+  ],
+  [
+   "הִנָּחֵם",
+   "hinnachem",
+   "hbr",
+   "dać się pocieszyć — forma bierno-zwrotna rdzenia נחם z Jr 31,15; Mateuszowe παρακληθῆναι (zostać pocieszoną) idzie za nią, a Septuaginta ma w tym miejscu παύσασθαι (przestać)"
+  ],
+  [
+   "רָחֵל",
+   "Rachel",
+   "hbr",
+   "owca — imię żony Jakuba, matki Józefa i Beniamina, zmarłej przy porodzie w drodze do Efraty (Rdz 35,16–20); w Jr 31,15 płaczka za uprowadzonym potomstwem"
+  ],
+  [
+   "נֵצֶר",
+   "necer",
+   "hbr",
+   "pęd, odrośl — słowo z Iz 11,1 o gałązce z pnia Jessego; spółgłoski נ-צ-ר stoją u podstawy nazwy Nazaretu i są jedynym mostem między tytułem Ναζωραῖος a tekstem proroka"
+  ],
+  [
+   "נָזִיר",
+   "nazir",
+   "hbr",
+   "poświęcony, odłączony — nazirejczyk; w Sdz 13,5.7 o Samsonie, mającym być נְזִיר אֱלֹהִים (poświęconym Bogu) od łona matki; Septuaginta w kodeksie aleksandryjskim ma tam ναζιραῖος"
+  ],
+  [
+   "נְצֶרֶת",
+   "Necaret",
+   "hbr",
+   "Nazaret — zapis nazwy w hebrajskiej inskrypcji z Cezarei Nadmorskiej, wymieniającej miejsca osiedlenia rodów kapłańskich po roku 70; pierwsze poświadczenie nazwy poza Nowym Testamentem"
+  ],
+  [
+   "נוֹצְרִים",
+   "nocrim",
+   "hbr",
+   "nazarejczycy — określenie chrześcijan w hebrajskim i w literaturze rabinicznej, do dziś zwyczajna nazwa chrześcijan w hebrajskim i w arabskim (naṣārā); wyrasta z tych samych spółgłosek co nazwa Nazaretu"
+  ]
+ ],
+ "lexeme_semitic": [
+  [
+   "Αἴγυπτος",
+   "Micrajim",
+   "Grecka Αἴγυπτος oddaje hebrajskie מִצְרַיִם (Micrajim, Egipt) wszędzie w Septuagincie. W Oz 11,1 wyrażenie מִמִּצְרַיִם (z Egiptu) odnosi się do wyjścia narodu; Mateusz zachowuje przyimek i rzeczownik, a zmienia tylko to, kogo dotyczy wezwanie."
+  ],
+  [
+   "παρακαλέω",
+   "hinnachem",
+   "οὐκ ἤθελεν παρακληθῆναι (nie chciała zostać pocieszona) odpowiada hebrajskiemu מֵאֲנָה לְהִנָּחֵם (wzbraniała się dać pocieszyć) z Jr 31,15. Septuaginta ma w tym miejscu οὐκ ἤθελεν παύσασθαι (nie chciała przestać), więc Mateuszowy czasownik idzie za hebrajskim, nie za greckim przekładem — i dopiero przy tym brzmieniu da się usłyszeć pociechę obiecaną w wersecie następnym."
+  ],
+  [
+   "Ναζωραῖος",
+   "necer",
+   "Ναζωραῖος z 2,23 najlepiej tłumaczy się przez נֵצֶר (necer, pęd) z Iz 11,1: hebrajskie צ przechodzi w greckie ζ, a samogłoska ω w drugiej sylabie odpowiada formie nazwy miejscowej poświadczonej jako Ναζωρά. Przy tym odczytaniu formuła wypełnienia nie cytuje zdania, lecz jedno słowo proroka — i stąd liczba mnoga „przez proroków\"."
+  ],
+  [
+   "Ναζωραῖος",
+   "nazir",
+   "Druga możliwość wiąże Ναζωραῖος z נָזִיר (nazir, poświęcony) z Sdz 13,5.7, gdzie Septuaginta aleksandryjska ma ναζιραῖος. Fonetycznie jest ona słabsza, a rzeczowo kłóci się z tym, że Jezus pije wino (11,19); starożytni jednak ją znali i stąd pochodzi patrystyczna lektura Nazaretu jako miejsca poświęcenia."
+  ],
+  [
+   "γῆ",
+   "Necaret",
+   "γῆ Ἰσραήλ (ziemia Izraela) z 2,20.21 jest greckim odpowiednikiem אֶרֶץ יִשְׂרָאֵל, wyrażenia, które w literaturze rabinicznej oznacza kraj jako przedmiot obietnicy, nie jako jednostkę administracyjną. Nazaret, zapisany w inskrypcji z Cezarei jako נְצֶרֶת (Necaret), leżał w tej ziemi, lecz pod inną władzą niż Judea — i to rozróżnienie niesie ostatni wiersz perykopy."
+  ]
+ ],
+ "occurrences": [
+  [
+   "ἀναχωρέω",
+   13,
+   "Ἀναχωρησάντων"
+  ],
+  [
+   "ἄγγελος",
+   13,
+   "ἄγγελος"
+  ],
+  [
+   "φαίνω",
+   13,
+   "φαίνεται"
+  ],
+  [
+   "ὄναρ",
+   13,
+   "ὄναρ"
+  ],
+  [
+   "ἐγείρω",
+   13,
+   "ἐγερθεὶς"
+  ],
+  [
+   "παραλαμβάνω",
+   13,
+   "παράλαβε"
+  ],
+  [
+   "παιδίον",
+   13,
+   "παιδίον"
+  ],
+  [
+   "φεύγω",
+   13,
+   "φεῦγε"
+  ],
+  [
+   "Αἴγυπτος",
+   13,
+   "Αἴγυπτον"
+  ],
+  [
+   "ἀπόλλυμι",
+   13,
+   "ἀπολέσαι"
+  ],
+  [
+   "ἀναχωρέω",
+   14,
+   "ἀνεχώρησεν"
+  ],
+  [
+   "τελευτή",
+   15,
+   "τελευτῆς"
+  ],
+  [
+   "πληρόω",
+   15,
+   "πληρωθῇ"
+  ],
+  [
+   "καλέω",
+   15,
+   "ἐκάλεσα"
+  ],
+  [
+   "υἱός",
+   15,
+   "υἱόν"
+  ],
+  [
+   "ἐμπαίζω",
+   16,
+   "ἐνεπαίχθη"
+  ],
+  [
+   "μάγος",
+   16,
+   "μάγων"
+  ],
+  [
+   "θυμόω",
+   16,
+   "ἐθυμώθη"
+  ],
+  [
+   "ἀναιρέω",
+   16,
+   "ἀνεῖλεν"
+  ],
+  [
+   "παῖς",
+   16,
+   "παῖδας"
+  ],
+  [
+   "ὅριον",
+   16,
+   "ὁρίοις"
+  ],
+  [
+   "διετής",
+   16,
+   "διετοῦς"
+  ],
+  [
+   "ἀκριβόω",
+   16,
+   "ἠκρίβωσεν"
+  ],
+  [
+   "πληρόω",
+   17,
+   "ἐπληρώθη"
+  ],
+  [
+   "κλαυθμός",
+   18,
+   "κλαυθμὸς"
+  ],
+  [
+   "ὀδυρμός",
+   18,
+   "ὀδυρμὸς"
+  ],
+  [
+   "παρακαλέω",
+   18,
+   "παρακληθῆναι"
+  ],
+  [
+   "ἄγγελος",
+   19,
+   "ἄγγελος"
+  ],
+  [
+   "φαίνω",
+   19,
+   "φαίνεται"
+  ],
+  [
+   "ὄναρ",
+   19,
+   "ὄναρ"
+  ],
+  [
+   "ἐγείρω",
+   20,
+   "ἐγερθεὶς"
+  ],
+  [
+   "παραλαμβάνω",
+   20,
+   "παράλαβε"
+  ],
+  [
+   "γῆ",
+   20,
+   "γῆν"
+  ],
+  [
+   "θνῄσκω",
+   20,
+   "τεθνήκασιν"
+  ],
+  [
+   "ψυχή",
+   20,
+   "ψυχὴν"
+  ],
+  [
+   "γῆ",
+   21,
+   "γῆν"
+  ],
+  [
+   "βασιλεύς",
+   22,
+   "βασιλεύει"
+  ],
+  [
+   "φοβέομαι",
+   22,
+   "ἐφοβήθη"
+  ],
+  [
+   "χρηματίζω",
+   22,
+   "χρηματισθεὶς"
+  ],
+  [
+   "ὄναρ",
+   22,
+   "ὄναρ"
+  ],
+  [
+   "ἀναχωρέω",
+   22,
+   "ἀνεχώρησεν"
+  ],
+  [
+   "μέρος",
+   22,
+   "μέρη"
+  ],
+  [
+   "κατοικέω",
+   23,
+   "κατῴκησεν"
+  ],
+  [
+   "πληρόω",
+   23,
+   "πληρωθῇ"
+  ],
+  [
+   "Ναζωραῖος",
+   23,
+   "Ναζωραῖος"
+  ],
+  [
+   "καλέω",
+   23,
+   "κληθήσεται"
+  ]
+ ],
+ "works": [
+  [
+   "św. Augustyn",
+   "Sermones",
+   "Mowy",
+   "IV/V",
+   "patrystyka"
+  ],
+  [
+   "Prudencjusz",
+   "Liber Cathemerinon",
+   "Hymny na codzienne godziny",
+   "IV/V",
+   "patrystyka"
+  ],
+  [
+   "św. Epifaniusz z Salaminy",
+   "Panarion",
+   "Panarion, czyli Apteczka przeciw herezjom",
+   "IV",
+   "patrystyka"
+  ],
+  [
+   "św. Hieronim",
+   "Liber interpretationis hebraicorum nominum",
+   "Księga objaśnień imion hebrajskich",
+   "IV",
+   "patrystyka"
+  ],
+  [
+   "R. E. Brown",
+   "The Birth of the Messiah",
+   null,
+   "XX",
+   "wspolczesna"
+  ]
+ ],
+ "themes": [
+  [
+   "nowy Mojżesz i powtórzone wyjście",
+   "Mateusz buduje dzieciństwo Jezusa z materiału Księgi Wyjścia, i robi to nie przez cytaty, lecz przez układ zdarzeń. Król boi się narodzonego i zabija chłopców (2,16 wobec Wj 1,15–22); dziecko, które ma wyzwolić, uchodzi (2,14 wobec Wj 2,15); po śmierci prześladowcy przychodzi rozkaz powrotu, podany słowami Wj 4,19 niemal bez zmiany (2,20); droga wiedzie przez Egipt, wodę i pustynię, bo za chrztem w Jordanie idzie czterdzieści dni kuszenia (3,13–4,11 wobec Wj 14 i Lb 14), a potem góra i prawo (5,1). Różnica jest jednak zasadnicza i trzeba ją trzymać: u Mateusza Jezus nie jest drugim Mojżeszem obok pierwszego, lecz tym, kto przechodzi drogę całego narodu — z Egiptu wezwany jest syn, nie prawodawca. Motyw wraca przy przemienieniu, gdzie Mojżesz stoi obok Jezusa i głos z obłoku każe słuchać nie jego (17,1–8), i w pięciu mowach, których układ przypomina Pięcioksiąg, choć żadna z nich nie jest Torą powtórzoną."
+  ],
+  [
+   "wypełnienie przez zbrodnię",
+   "Mateusz wprowadza cytaty Starego Testamentu dwiema różnymi formułami, a różnica jest teologiczna. Dziewięć razy pisze ἵνα πληρωθῇ albo ὅπως πληρωθῇ (aby wypełniło się, 1,22; 2,15; 2,23; 4,14; 8,17; 12,17; 13,35; 21,4; 26,56) — spójnik celowy odnosi zdarzenie do zamysłu Bożego. Dwa razy pisze τότε ἐπληρώθη (wtedy wypełniło się, 2,17 i 27,9) — i oba te razy chodzi o cudzą zbrodnię: o wymordowanie dzieci w Betlejem i o trzydzieści srebrników wydanych za Jezusa. Przy zbrodni Mateusz nie mówi, że stała się, aby słowo się spełniło; mówi, że wtedy słowo się spełniło. Nie ma w tym przypadku: aparat krytyczny pokazuje, że kopiści czuli lukę i próbowali ją zapełnić, dopisując w 2,17 ὑπὸ κυρίου (przez Pana) wedle wzoru 1,22 i 2,15. Tekst krytyczny tego nie ma. Pismo spełnia się także tam, gdzie człowiek działa przeciw Bogu, ale Mateusz nie czyni z tego Bożego polecenia."
+  ],
+  [
+   "Nazaret i tytuł Nazarejczyka",
+   "Ostatnie słowo rozdziału drugiego, Ναζωραῖος (Nazarejczyk), jest jedynym Mateuszowym cytatem bez tekstu: formuła wskazuje na proroków w liczbie mnogiej i nie podaje żadnego zdania, którego by w Piśmie nie było. Najmocniejsza odpowiedź idzie przez נֵצֶר (necer, pęd) z Iz 11,1 i przez wschodnią obojętność judaizmu wobec tej wioski — nazwy Nazaretu nie ma ani w Starym Testamencie, ani u Flawiusza, ani w Talmudzie. Tytuł wraca w scenie zaparcia się Piotra (26,71), w ustach służącej, która nie zna imienia oskarżonego, lecz zna jego pochodzenie, i w Dz 24,5 jako nazwa stronnictwa. Mateusz zamyka tym słowem łuk rozpoczęty rodowodem: dziecko z linii Dawida, urodzone w mieście Dawida, będzie nazywane po nazwie wioski, której nie zna żadne proroctwo."
+  ],
+  [
+   "usunięcie się przed przemocą",
+   "ἀναχωρέω (usunąć się, odejść na bok) pada u Mateusza dziesięć razy — w całej pozostałej literaturze Nowego Testamentu łącznie cztery — i niemal zawsze opisuje wycofanie się przed groźbą. Magowie usuwają się inną drogą (2,12), Józef usuwa się do Egiptu i z Judei do Galilei (2,14.22), Jezus usuwa się po uwięzieniu Chrzciciela (4,12), po postanowieniu faryzeuszów, że go zgładzą (12,15), po śmierci Chrzciciela (14,13) i po sporze o tradycję starszych (15,21). Za każdym razem usunięcie się otwiera coś nowego: Galileę pogan, uzdrowienia tłumów, nasycenie pięciu tysięcy, wiarę Kananejki. Mateusz nie czyni z tego ani cnoty roztropności, ani lęku; pokazuje natomiast, że droga Ewangelii idzie w stronę, w którą przemoc wypycha, dopóki nie nadejdzie godzina, w której Jezus przestanie się usuwać i wejdzie do Jerozolimy."
+  ],
+  [
+   "Józef: posłuszeństwo bez słowa",
+   "Józef nie wypowiada w całej Ewangelii ani jednego zdania. Mateusz daje mu cztery sny i cztery wykonania, a wykonania opisuje tymi samymi czasownikami, którymi padł rozkaz: ἐγερθεὶς παράλαβε (wstawszy, weź) — ἐγερθεὶς παρέλαβεν (wstawszy, wziął), raz w 1,24, dwa razy w rozdziale drugim. Jedyne, co Mateusz dokłada od siebie, to okoliczności: nocą (2,14) i że się zląkł (2,22). Posłuszeństwo nie jest więc u niego stanem duszy, lecz powtórzeniem czasownika, i dlatego da się je sprawdzić. Ten sam wzór wraca w scenach wezwania uczniów, gdzie po rozkazie następuje czasownik wykonania bez żadnego zdania pośredniego (4,20.22; 9,9), i w ostatnim zdaniu księgi, gdzie uczniowie nie odpowiadają na nakaz misyjny ani słowem."
+  ]
+ ],
+ "pericopes": [
+  {
+   "pericope": {
+    "cs": 2,
+    "vs": 13,
+    "ce": 2,
+    "ve": 23,
+    "title": "Ucieczka do Egiptu, rzeź niewiniątek i Nazaret",
+    "motto": "Ex Aegypto vocavi filium meum (z Egiptu wezwałem syna mego)",
+    "status": "w_opracowaniu",
+    "position": 4
+   },
+   "intro": "Jedenaście wierszy i trzy formuły wypełnienia — w żadnej innej perykopie tej Ewangelii nie stoją one tak gęsto, i w żadnej innej nie różnią się od siebie tak wyraźnie. Pierwsza mówi ἵνα πληρωθῇ (aby wypełniło się) o ucieczce, którą Bóg nakazał (w. 15). Druga mówi τότε ἐπληρώθη (wtedy wypełniło się) o rzezi, której nie nakazał nikt poza Herodem (w. 17). Trzecia mówi ὅπως πληρωθῇ (aby wypełniło się) i powołuje się na proroków w liczbie mnogiej, nie podając zdania, które w którejkolwiek księdze stoi (w. 23). Trzy razy to samo słowo πληρόω i trzy różne stosunki do źródła: pierwszy cytat idzie za tekstem hebrajskim przeciw Septuagincie, drugi przenosi płacz nad deportacją na zabijanie dzieci, trzeci nie cytuje niczego. Pod tym Mateusz prowadzi opowiadanie zbudowane z powtórzeń: dwa objawienia zapisane identycznie, trzecie bez słów, trzy razy ten sam rozkaz „wstawszy, weź dziecko i matkę jego\" i trzy razy to samo wykonanie, opisane tymi samymi czasownikami. Józef nie mówi w tej perykopie ani słowa i nie odpowiada na żadne z trzech poleceń. Czterokrotnie natomiast wraca czasownik ἀναχωρέω (usunąć się) — magowie, Egipt, Galilea — i to on, nie ucieczka, jest słowem, którym ta Ewangelia opisze później drogę samego Jezusa.",
+   "blocks": [
+    {
+     "cs": 2,
+     "vs": 13,
+     "ce": 2,
+     "ve": 13,
+     "label": "w. 13",
+     "greek": "Ἀναχωρησάντων δὲ αὐτῶν ἰδοὺ ἄγγελος κυρίου φαίνεται κατʼ ὄναρ τῷ Ἰωσὴφ λέγων· ἐγερθεὶς παράλαβε τὸ παιδίον καὶ τὴν μητέρα αὐτοῦ καὶ φεῦγε εἰς Αἴγυπτον καὶ ἴσθι ἐκεῖ ἕως ἂν εἴπω σοι· μέλλει γὰρ Ἡρῴδης ζητεῖν τὸ παιδίον τοῦ ἀπολέσαι αὐτό.",
+     "transl": "Gdy zaś oni się usunęli, oto zwiastun Pana ukazuje się we śnie Józefowi, mówiąc: Wstawszy, weź dziecko i matkę jego i uciekaj do Egiptu, i bądź tam, dopóki ci nie powiem; ma bowiem Herod szukać dziecka, aby je zgubić.",
+     "units": [
+      [
+       "Ἀναχωρησάντων δὲ αὐτῶν",
+       "gdy zaś oni się usunęli",
+       "Genetivus absolutus w aoryście: czynność magów jest zamknięta, zanim zacznie się nowa. Mateusz zszywa perykopy czasownikiem, nie spójnikiem — ἀνεχώρησαν z 2,12 wraca tu jako imiesłów i za chwilę padnie po raz trzeci o Józefie (2,14), a w. 22 doda czwarty. ἀναχωρέω (usunąć się, odejść na bok) jest u Mateusza słowem redakcyjnym pierwszej wielkości: dziesięć wystąpień wobec czterech w całej reszcie Nowego Testamentu, i niemal zawsze o wycofaniu się przed niebezpieczeństwem (4,12; 12,15; 14,13; 15,21). Czasownik nie znaczy ucieczki — na ucieczkę jest φεύγω, i ono padnie w tym samym wierszu. ἀναχωρέω to ruch wymijający, zejście z drogi, na której ktoś stoi. Rozdział drugi ma cztery takie zejścia i żadnego starcia."
+      ],
+      [
+       "ἰδοὺ ἄγγελος κυρίου φαίνεται κατʼ ὄναρ",
+       "oto zwiastun Pana ukazuje się we śnie",
+       "Czas teraźniejszy w opowiadaniu o przeszłości — praesens historicum, u Mateusza rzadkie i prawie zawsze w scenach objawienia. W 1,20 ten sam zwiastun ἐφάνη (ukazał się) w aoryście; tutaj i w w. 19 stoi φαίνεται, i aparat pokazuje, że kopiści tego nie znieśli: kodeks Watykański wyrównuje oba miejsca do 1,20 przez κατ᾽ ὄναρ ἐφάνη. Lekcja trudniejsza jest pierwotna, a różnica nie jest ozdobą. Dwa pozostałe sny rozdziału (2,12.22) opisane są czasownikiem χρηματίζω (otrzymać wyrocznię) w stronie biernej, bez żadnej postaci; tu postać jest, i to ta sama co w rozdziale pierwszym. ἄγγελος κυρίου bez rodzajnika odpowiada hebrajskiemu מַלְאַךְ יְהוָה (malak JHWH, posłaniec Pana) — określeniu, które w Pięcioksięgu bywa nie do odróżnienia od samego Boga. Mateusz nie podaje ani imienia, ani wyglądu; podaje tylko, co zostało powiedziane, i tym różni się od Łukasza, u którego Gabriel ma imię, a Maria pyta."
+      ],
+      [
+       "ἐγερθεὶς παράλαβε τὸ παιδίον καὶ τὴν μητέρα αὐτοῦ",
+       "wstawszy, weź dziecko i matkę jego",
+       "Imiesłów bierny ἐγερθείς znaczy tu po prostu wstanie ze snu, ale czasownik jest ten sam, którym Mateusz mówi o powstaniu z martwych (16,21; 17,23; 27,52.63; 28,6). Rozkaz powtarza słowo w słowo polecenie z 1,20 — παράλαβε (weź), od παραλαμβάνω, czasownika przyjęcia pod opiekę, nie zabrania siłą. Wtedy przedmiotem była τὴν γυναῖκά σου (żonę twoją), teraz jest τὸ παιδίον καὶ τὴν μητέρα αὐτοῦ (dziecko i matka jego), i ta różnica waży. Zaimek αὐτοῦ wiąże matkę z dzieckiem, nie z Józefem; Józef dostaje opiekę nad obojgiem, lecz prawo do żadnego z nich nie zostaje mu w tym wierszu przypisane. Formuła wraca w rozdziale cztery razy (2,13.14.20.21) i zawsze w tym samym porządku, nigdy odwróconym."
+      ],
+      [
+       "φεῦγε εἰς Αἴγυπτον",
+       "uciekaj do Egiptu",
+       "Dopiero tu pada ucieczka — tryb rozkazujący czasu teraźniejszego, czyli nakaz czynności, która ma trwać. Egipt jest w Piśmie kierunkiem dwuznacznym i Mateusz tej dwuznaczności nie usuwa. Z jednej strony to dom niewoli i miejsce, dokąd prorocy zabraniali chodzić po pomoc: Jeremiasz całą resztkę po upadku Jerozolimy ostrzega przed zejściem do Egiptu i przeklina je (Jr 42,13–22), a kiedy go nie posłuchali, poszedł z nimi. Z drugiej strony to najbliższa ziemia poza zasięgiem władzy judzkiej, i korzystali z tego uchodźcy polityczni: Jeroboam uciekł tam przed Salomonem (1 Krl 11,40), a prorok Uriasz przed Jojakimem — i został wydany i zabity (Jr 26,20–23). Rodzina idzie więc drogą, którą prorocy odradzali, i to z Bożego rozkazu; wyjście z Egiptu będzie dopiero w w. 21. Odległość z Betlejem do granicy Pelusium to około stu trzydziestu kilometrów starym szlakiem nadmorskim, czyli kilka dni drogi z osłem."
+      ],
+      [
+       "ἴσθι ἐκεῖ ἕως ἂν εἴπω σοι",
+       "bądź tam, dopóki ci nie powiem",
+       "Tryb rozkazujący czasownika εἰμί (być) jest w grece formą rzadką i Mateusz używa go pięć razy; tutaj znaczy nie „zamieszkaj\", lecz „pozostawaj\". Spójnik ἕως ἄν z koniunktiwem zostawia termin nieokreślony: posłuszeństwo nie dostaje daty końcowej, a jedyną wskazówką co do długości pobytu jest w. 15 — do śmierci Heroda. Ten nieoznaczony czas jest u Mateusza osobnym chwytem: tak samo nieokreślone ἕως ἄν rozstrzyga o trwaniu wierności w 5,18 (dopóki nie przeminie niebo i ziemia) i w 16,28, a w 24,36 o godzinie, której nie zna nikt. Rozkaz dany Józefowi jest więc rozkazem mieszkania w cudzym kraju bez wiedzy, jak długo."
+      ],
+      [
+       "μέλλει γὰρ Ἡρῴδης ζητεῖν τὸ παιδίον",
+       "ma bowiem Herod szukać dziecka",
+       "μέλλει z bezokolicznikiem oznacza zamiar już podjęty, a nie przypuszczenie. Objawienie uprzedza więc czyn Heroda, lecz nie uprzedza samej rzezi — zapowiedź dotyczy jednego dziecka, nie wszystkich. Czasownik ζητέω (szukać) jest tu wzięty z ust magów: oni szukali, żeby się pokłonić (2,2), on szuka, żeby zabić, a w w. 20 pojawi się wyrażenie ζητεῖν τὴν ψυχήν (szukać życia), czyli czyhać na życie. Mateusz prowadzi ten czasownik przez całą księgę: Herod szuka dziecka, arcykapłani szukają sposobu, by pochwycić Jezusa (26,16.59), a na końcu kobiety przy grobie usłyszą, że szukają ukrzyżowanego, którego tam nie ma (28,5)."
+      ],
+      [
+       "τοῦ ἀπολέσαι αὐτό",
+       "aby je zgubić",
+       "Bezokolicznik z rodzajnikiem w dopełniaczu, konstrukcja celowa znana z Septuaginty i u Mateusza nieczęsta. Czasownik ἀπόλλυμι (gubić, niszczyć) wraca potem w dwóch postanowieniach: faryzeusze naradzają się, ὅπως αὐτὸν ἀπολέσωσιν (aby go zgubić, 12,14), a arcykapłani namawiają tłum, by żądał śmierci (27,20). Zamiar Heroda i wyrok Sanhedrynu Mateusz nazywa tym samym słowem i żadnego z nich nie nazywa inaczej. Zaimek αὐτό stoi w rodzaju nijakim, bo παιδίον jest nijakie: przez cały ten rozdział o Jezusie mówi się „ono\", także gdy mowa o zabiciu. Rodzaj gramatyczny nie jest teologią, ale skutek ma — podmiot zdania nie jest w nim nikim, kto mógłby się obronić."
+      ]
+     ]
+    },
+    {
+     "cs": 2,
+     "vs": 14,
+     "ce": 2,
+     "ve": 15,
+     "label": "w. 14–15",
+     "greek": "ὁ δὲ ἐγερθεὶς παρέλαβεν τὸ παιδίον καὶ τὴν μητέρα αὐτοῦ νυκτὸς καὶ ἀνεχώρησεν εἰς Αἴγυπτον, καὶ ἦν ἐκεῖ ἕως τῆς τελευτῆς Ἡρῴδου· ἵνα πληρωθῇ τὸ ῥηθὲν ὑπὸ κυρίου διὰ τοῦ προφήτου λέγοντος· ἐξ Αἰγύπτου ἐκάλεσα τὸν υἱόν μου.",
+     "transl": "On zaś, wstawszy, wziął dziecko i matkę jego nocą i usunął się do Egiptu, i był tam do śmierci Heroda — aby wypełniło się powiedziane przez Pana przez proroka, mówiącego: Z Egiptu wezwałem syna mego.",
+     "units": [
+      [
+       "ὁ δὲ ἐγερθεὶς παρέλαβεν",
+       "on zaś, wstawszy, wziął",
+       "Wykonanie jest zapisem rozkazu w czasie przeszłym: imiesłów ten sam, czasownik ten sam, przedmiot ten sam. Tak samo zbudowane było posłuszeństwo w 1,24, gdzie ἐγερθεὶς ὁ Ἰωσὴφ ... παρέλαβεν odpowiadało poleceniu z 1,20. Mateusz nie podaje ani namysłu, ani zgody, ani pytania; podaje powtórzony czasownik, i to jest cała jego charakterystyka Józefa. W całej Ewangelii Józef nie wypowiada ani jednego słowa — w rozdziale pierwszym rozważał (1,20: ἐνθυμηθέντος), tutaj nie rozważa już nic."
+      ],
+      [
+       "νυκτός",
+       "nocą",
+       "Dopełniacz czasu, jedyne określenie okoliczności w całej scenie. Mateusz dokłada je od siebie, bo rozkaz o nim nie mówił; sens jest praktyczny — wyjście nocą to wyjście niewidziane. Noc jest u tego ewangelisty czasem rzeczy ukrytych i rozstrzygających: nocą przychodzą sny (1,20; 2,12.13.19.22), nocą wszyscy się rozproszą (26,31.34), nocą uczniowie mają czuwać (24,43; 25,6), a straż u grobu dostanie polecenie mówić, że to nocą wykradziono ciało (28,13). Przy wyjściu z Egiptu w Księdze Wyjścia noc jest porą ocalenia i porą wymarszu (Wj 12,29–31.42); rodzina idzie tą samą porą w stronę przeciwną."
+      ],
+      [
+       "ἀνεχώρησεν εἰς Αἴγυπτον",
+       "usunął się do Egiptu",
+       "Rozkaz mówił φεῦγε (uciekaj), a wykonanie zapisane jest słowem ἀνεχώρησεν (usunął się) — to jedyne miejsce, w którym Mateusz nie powtarza czasownika rozkazu. Podstawienie jest celowe: ucieczka to stan tego, kto ucieka, usunięcie się to ruch widziany z zewnątrz, i tylko to drugie da się powiedzieć o kimś, kto słucha polecenia. Egipt miał wówczas największą diasporę żydowską świata — Filon szacuje liczbę Żydów w Egipcie na milion, a Aleksandria miała własne dzielnice żydowskie, synagogi i tłumaczenie Prawa na grecki. W Leontopolis stała od drugiego wieku przed Chrystusem świątynia Oniadów. Uciekinier z Judei nie szedł więc w obcość, lecz do najbliższego miejsca, gdzie można było żyć po żydowsku bez Heroda."
+      ],
+      [
+       "καὶ ἦν ἐκεῖ ἕως τῆς τελευτῆς Ἡρῴδου",
+       "i był tam do śmierci Heroda",
+       "Imperfectum ἦν rozciąga pobyt na nieokreślony czas i jest jedyną wiadomością o latach, których Mateusz nie opowiada. Rzeczownik τελευτή (koniec, zgon) w całym Nowym Testamencie pada tylko tutaj; jest to słowo urzędowe i łagodne, zupełnie inne niż czasownik ἀνεῖλεν (zgładził) z w. 16. Herod umarł w 4 r. przed Chrystusem w Jerychu, po chorobie, której objawy Flawiusz opisuje szczegółowo (*Ant.* XVII,168–192), a pięć dni wcześniej kazał zabić swego syna Antypatra. Ponieważ Łukasz posyła rodzinę z Betlejem przez Jerozolimę wprost do Nazaretu (Łk 2,39), długość pobytu w Egipcie jest u Mateusza nie do pogodzenia z chronologią Łukasza — i żaden z dwóch nie podaje liczby, która pozwoliłaby je uzgodnić."
+      ],
+      [
+       "ἵνα πληρωθῇ τὸ ῥηθὲν ὑπὸ κυρίου διὰ τοῦ προφήτου",
+       "aby wypełniło się powiedziane przez Pana przez proroka",
+       "Formuła wypełnienia w swej pełnej postaci, z dwoma przyimkami: ὑπὸ κυρίου wskazuje sprawcę, διὰ τοῦ προφήτου narzędzie. Mateusz używa tej podwójnej konstrukcji dwa razy — w 1,22 i tutaj — i tylko w rozdziałach o dzieciństwie; dalej zostaje samo διά. Rozróżnienie jest dokładnie tym, co scholastyka nazwie *causa principalis* (przyczyna główna) i *causa instrumentalis* (przyczyna narzędziowa), i Mateusz stawia je w greckich przyimkach dwanaście wieków przed traktatem o natchnieniu. Prorok zostaje tu przy tym nienazwany, choć cytat pochodzi od Ozeasza. Starożytni kopiści próbowali luki domknąć: syryjski rękopis sinajski dopisuje τοῦ στόματος Ἠσαΐου (usta Izajasza) — i trafia w niewłaściwego proroka."
+      ],
+      [
+       "ἐξ Αἰγύπτου ἐκάλεσα τὸν υἱόν μου",
+       "z Egiptu wezwałem syna mego",
+       "Oz 11,1, i jest to miejsce rozstrzygające dla pytania, z jakiego tekstu Mateusz pracował. Hebrajski ma וּמִמִּצְרַיִם קָרָאתִי לִבְנִי (a z Egiptu wezwałem syna mego) — pierwsza osoba, liczba pojedyncza. Septuaginta ma ἐξ Αἰγύπτου μετεκάλεσα τὰ τέκνα αὐτοῦ (z Egiptu wezwałem dzieci jego) — trzecia osoba i liczba mnoga. Mateusz idzie za hebrajskim i dlatego może odnieść zdanie do jednej osoby; z grecką wersją ten cytat byłby nieużyteczny. U Ozeasza synem jest Izrael wyprowadzony z niewoli, a werset następny mówi o jego odstępstwie — prorok wspomina wyjście, by wyrzucać niewierność. Mateusz nie zmienia sensu pierwotnego, lecz stwierdza, że ten jeden przechodzi drogę całego narodu: czasownik καλέω (wzywać, nazywać) prowadzi przy tym przez oba rozdziały dzieciństwa, od nadania imienia Jezus (1,21.25) aż po ostatnie słowo rozdziału (2,23)."
+      ]
+     ]
+    },
+    {
+     "cs": 2,
+     "vs": 16,
+     "ce": 2,
+     "ve": 16,
+     "label": "w. 16",
+     "greek": "Τότε Ἡρῴδης ἰδὼν ὅτι ἐνεπαίχθη ὑπὸ τῶν μάγων ἐθυμώθη λίαν, καὶ ἀποστείλας ἀνεῖλεν πάντας τοὺς παῖδας τοὺς ἐν Βηθλέεμ καὶ ἐν πᾶσι τοῖς ὁρίοις αὐτῆς ἀπὸ διετοῦς καὶ κατωτέρω, κατὰ τὸν χρόνον ὃν ἠκρίβωσεν παρὰ τῶν μάγων.",
+     "transl": "Wtedy Herod, widząc, że został wyszydzony przez magów, rozgniewał się bardzo i posławszy, zgładził wszystkich chłopców w Betlejem i na całym jego obszarze, od dwulatków i niżej, wedle czasu, o który dokładnie wypytał magów.",
+     "units": [
+      [
+       "ἰδὼν ὅτι ἐνεπαίχθη ὑπὸ τῶν μάγων",
+       "widząc, że został wyszydzony przez magów",
+       "ἐμπαίζω znaczy zrobić z kogoś głupca, a nie tylko oszukać; w grece hellenistycznej jest to słowo z pogranicza drwiny i zniewagi. Mateusz używa go pięć razy i cztery pozostałe dotyczą męki: Syn Człowieczy zostanie wydany poganom εἰς τὸ ἐμπαῖξαι (na wyszydzenie, 20,19), żołnierze szydzą z niego w purpurze (27,29.31), a arcykapłani pod krzyżem (27,41). Pierwszym wyszydzonym u Mateusza jest więc Herod, a wyszydzenie to jedyna rzecz, która w tej perykopie łączy go z przyszłą ofiarą. Strona bierna i przyimek ὑπό wskazują sprawcę świadomie: Herod nie został zawiedziony przez okoliczności, lecz ograny przez ludzi, których sam wysłał."
+      ],
+      [
+       "ἐθυμώθη λίαν",
+       "rozgniewał się bardzo",
+       "Czasownik θυμόω nie pada w całym Nowym Testamencie ani razu więcej. Pochodzi od θυμός, gniewu, który jest wybuchem, a nie postanowieniem — Septuaginta oddaje nim hebrajskie חָרָה אַף (zapłonął gniew). Przysłówek λίαν (bardzo) Mateusz stawia jeszcze trzy razy, zawsze przy rzeczach skrajnych (4,8; 8,28; 27,14). Cały motyw zbrodni streszcza się w tym jednym czasowniku i nie ma w nim ani polityki, ani rachunku: Herod nie oblicza zagrożenia, lecz reaguje na obrazę. To rozróżnienie będzie przedmiotem sekcji o sprawczości, bo gniew jest namiętnością, a namiętność nie jest przyczyną, która by cokolwiek usprawiedliwiała."
+      ],
+      [
+       "ἀποστείλας ἀνεῖλεν",
+       "posławszy, zgładził",
+       "Król zabija przez wysłanie — tego właśnie trybu domaga się czasownik ἀναιρέω, który u Mateusza pada tylko tutaj, a w Dziejach dziewiętnaście razy i niemal zawsze o śmierci z wyroku albo z postanowienia władzy. Mateusz nie pisze ἀπέκτεινεν (zabił), choć tego słowa używa gdzie indziej trzynaście razy; ἀναιρέω jest słowem urzędowym, zabiciem jako czynnością administracyjną. Imiesłów ἀποστείλας dokłada do tego dystans: rozkaz wychodzi z pałacu, ręce są cudze, a w tekście nie pojawia się ani jeden wykonawca. Ten sam czasownik ἀποστέλλω Mateusz zastosuje do posłania uczniów (10,5.16) i do posłania sług po owoce winnicy, których właściciel winnicy zabija (21,34–36) — tam jednak posłańcy giną, a nie zabijają."
+      ],
+      [
+       "πάντας τοὺς παῖδας τοὺς ἐν Βηθλέεμ καὶ ἐν πᾶσι τοῖς ὁρίοις αὐτῆς",
+       "wszystkich chłopców w Betlejem i na całym jego obszarze",
+       "παῖς w rodzaju męskim i liczbie mnogiej znaczy chłopców, nie dzieci w ogóle: Mateusz zmienia tu słowo, którym przez cały rozdział mówił o Jezusie (παιδίον, nijakie), i tym samym odsyła do Wj 1,16.22, gdzie faraon każe zabijać synów hebrajskich, a córki zostawiać. ὅρια w liczbie mnogiej oznacza nie granicę, lecz okolicę podległą miastu — pola, przysiółki, pastwiska. Co do liczby zabitych: Betlejem miało w pierwszym wieku najwyżej około tysiąca mieszkańców, więc chłopców poniżej dwóch lat mogło być około dwudziestu, z okolicą może kilkudziesięciu. Liczby czternastu tysięcy z bizantyjskiego synaksarionu i stu czterdziestu czterech tysięcy z późniejszej pobożności zachodniej są liczbami liturgicznymi, wziętymi z Ap 14,1–5, nie historycznymi. Rzezi nie poświadcza żadne źródło poza Mateuszem — ani Flawiusz, który wylicza okrucieństwa Heroda szczegółowo i bez osłon, ani nikt inny. Trzeba to powiedzieć wprost: wydarzenie jest wiarygodne jako czyn tego króla i nieudokumentowane jako fakt."
+      ],
+      [
+       "ἀπὸ διετοῦς καὶ κατωτέρω",
+       "od dwulatków i niżej",
+       "διετής (dwuletni) nie pada w Nowym Testamencie nigdzie więcej; w dokumentach spisowych z Egiptu podany tą formą wiek jest wiekiem ukończonym, więc zakres obejmuje dzieci do trzeciego roku. Przysłówek κατωτέρω (niżej) jest stopniem wyższym i odnosi się do wieku jak do skali — mniej lat, nie mniej wzrostu. Granica nie została wymyślona: wynika z czasu, o który Herod wypytał magów, i zarazem zdradza, jak długo szła ich droga. Kodeks Bezy ma w tym miejscu διετίας καὶ κάτω (od dwulecia i w dół), czytając rzeczownik abstrakcyjny tam, gdzie tekst krytyczny ma przymiotnik o dziecku — zmiana drobna, ale przenosząca miarę z osoby na czas."
+      ],
+      [
+       "κατὰ τὸν χρόνον ὃν ἠκρίβωσεν παρὰ τῶν μάγων",
+       "wedle czasu, o który dokładnie wypytał magów",
+       "ἀκριβόω (dowiedzieć się dokładnie) wraca z 2,7, gdzie Herod wypytywał potajemnie; ten czasownik i cała scena potajemnej narady zostały opowiedziane wcześniej właśnie po to, by teraz dało się wyliczyć zakres rzezi. Mateusz pokazuje więc, że zbrodnia ma metodę i że jej miarą jest informacja, nie podejrzenie. Jest w tym zarazem pierwsza u tego ewangelisty wiadomość o wieku Jezusa w chwili pokłonu magów: skoro Herod liczy do dwóch lat, gwiazda ukazała się nie w nocy narodzenia, a magowie nie przyszli do żłobu. Kalendarzowe zestawienie Narodzenia z Objawieniem Pańskim i z dniem Niewinnych w jednym tygodniu stycznia jest porządkiem liturgicznym, nie chronologią tekstu."
+      ]
+     ]
+    },
+    {
+     "cs": 2,
+     "vs": 17,
+     "ce": 2,
+     "ve": 18,
+     "label": "w. 17–18",
+     "greek": "τότε ἐπληρώθη τὸ ῥηθὲν διὰ Ἰερεμίου τοῦ προφήτου λέγοντος· φωνὴ ἐν Ῥαμὰ ἠκούσθη, κλαυθμὸς καὶ ὀδυρμὸς πολύς· Ῥαχὴλ κλαίουσα τὰ τέκνα αὐτῆς, καὶ οὐκ ἤθελεν παρακληθῆναι, ὅτι οὐκ εἰσίν.",
+     "transl": "Wtedy wypełniło się powiedziane przez Jeremiasza proroka, mówiącego: Głos w Rama został usłyszany, płacz i lament wielki: Rachel opłakująca dzieci swoje, i nie chciała zostać pocieszona, bo ich nie ma.",
+     "units": [
+      [
+       "τότε ἐπληρώθη",
+       "wtedy wypełniło się",
+       "To najważniejsze dwa słowa perykopy i najłatwiej je przeczytać obok. Mateusz ma dziewięć formuł wypełnienia ze spójnikiem celowym — ἵνα albo ὅπως πληρωθῇ (aby wypełniło się) — i tylko dwie z przysłówkiem τότε: tę i 27,9, przy trzydziestu srebrnikach wydanych za Jezusa. Oba razy chodzi o cudzą zbrodnię i oba razy Mateusz odmawia powiedzenia, że stała się w jakimś celu. Przy ucieczce do Egiptu, trzy wiersze wyżej, napisał ἵνα; przy rzezi pisze τότε. Znaczy to, że Pismo spełnia się także w czynie przeciwnym Bogu, lecz nie przez Boże polecenie. Nie jest to przypadek gramatyczny: kodeks Bezy i stara łacina dopisują w tym wierszu ὑπὸ κυρίου (przez Pana) wedle wzoru 1,22 i 2,15, co pokazuje, że kopiści czuli lukę i chcieli ją zapełnić. Tekst krytyczny jej nie zapełnia."
+      ],
+      [
+       "διὰ Ἰερεμίου τοῦ προφήτου",
+       "przez Jeremiasza proroka",
+       "Mateusz nazywa proroka po imieniu rzadko: Izajasza sześć razy, Daniela raz (24,15), Jeremiasza trzy razy — tutaj, w 16,14, gdzie ludzie biorą Jezusa za Jeremiasza, i w 27,9, przy drugim τότε ἐπληρώθη. Oba miejsca cytujące Jeremiasza są więc miejscami zbrodni, a 27,9 przypisuje mu zdanie, które stoi u Zachariasza. Zestawienie nie jest ozdobne: Jeremiasz jest u Mateusza prorokiem katastrofy i prorokiem odrzuconym przez własnych, tym, który płakał nad miastem i którego mowa o nowym przymierzu stoi dokładnie w rozdziale, z którego pochodzi obecny cytat (Jr 31,31–34). Tuż po wierszu o Racheli."
+      ],
+      [
+       "φωνὴ ἐν Ῥαμὰ ἠκούσθη",
+       "głos w Rama został usłyszany",
+       "Jr 31,15. Hebrajskie בְּרָמָה można czytać jako nazwę miasta albo jako „na wyżynie\", i starożytni przekładali oba sposoby; Mateusz trzyma nazwę. Rama leżała w Beniaminie, około ośmiu kilometrów na północ od Jerozolimy, czyli po przeciwnej stronie miasta niż Betlejem, i była punktem zbiorczym dla uprowadzanych do Babilonu: tam Nebuzaradan przetrzymywał jeńców i tam uwolnił Jeremiasza (Jr 40,1). U proroka płacz dotyczy więc deportacji, a nie zabijania dzieci. Mateusz przenosi go o sto kilkadziesiąt kilometrów i o sześć wieków, i robi to bez żadnego wyjaśnienia; samo zdanie o matce płaczącej po dzieciach, których nie ma, jest tym, co obu wydarzeniom wspólne."
+      ],
+      [
+       "Ῥαχὴλ κλαίουσα τὰ τέκνα αὐτῆς",
+       "Rachel opłakująca dzieci swoje",
+       "Rachel płacze u Jeremiasza jako matka Efraima, czyli Królestwa Północnego, bo jej synem był Józef. Przeniesienie jej płaczu do Betlejem ma jednak oparcie w Piśmie: Rdz 35,16–20 i 48,7 kładą jej grób w drodze do Efraty, a Efrata jest w Mi 5,1 drugą nazwą Betlejem. Inna tradycja biblijna umieszcza ten grób w Beniaminie, przy Selsach (1 Sm 10,2), a więc blisko Ramy — i te dwie lokalizacje nigdy nie zostały uzgodnione. Mateusz pisze dla czytelnika, który zna wersję z Księgi Rodzaju: płaczka leży pod Betlejem i słyszy to, co się dzieje nad jej grobem. Rzeczownik τέκνα (dzieci) jest przy tym inny niż παῖδας z w. 16 i inny niż παιδίον o Jezusie; jest to słowo pokrewieństwa, nie wieku."
+      ],
+      [
+       "οὐκ ἤθελεν παρακληθῆναι, ὅτι οὐκ εἰσίν",
+       "nie chciała zostać pocieszona, bo ich nie ma",
+       "Septuaginta ma tu οὐκ ἤθελεν παύσασθαι (nie chciała przestać), hebrajski מֵאֲנָה לְהִנָּחֵם (wzbraniała się dać pocieszyć). Mateusz idzie za hebrajskim, podobnie jak w cytacie z Ozeasza, i wybór ten jest rozstrzygający, bo czasownik pocieszenia wiąże ten wiersz z błogosławieństwem płaczących, którzy παρακληθήσονται (zostaną pocieszeni, 5,4). Aparat notuje przy tym, że kopiści przerabiali Mateusza na Septuagintę: wiele rękopisów dopisuje θρῆνος καί (żałobna pieśń i) wedle Jr 38,15 greckiego. Co ważniejsze, cytat kończy się tam, gdzie u proroka pociecha się zaczyna: dwa następne wiersze Jeremiasza obiecują matce zapłatę za trud i powrót dzieci z ziemi wroga (Jr 31,16–17). Mateusz ich nie przytacza, a jedyną pociechą, jaką podaje, jest to, że jedno dziecko wróci z ziemi wroga w w. 21."
+      ]
+     ]
+    },
+    {
+     "cs": 2,
+     "vs": 19,
+     "ce": 2,
+     "ve": 21,
+     "label": "w. 19–21",
+     "greek": "Τελευτήσαντος δὲ τοῦ Ἡρῴδου ἰδοὺ ἄγγελος κυρίου φαίνεται κατʼ ὄναρ τῷ Ἰωσὴφ ἐν Αἰγύπτῳ λέγων· ἐγερθεὶς παράλαβε τὸ παιδίον καὶ τὴν μητέρα αὐτοῦ καὶ πορεύου εἰς γῆν Ἰσραήλ· τεθνήκασιν γὰρ οἱ ζητοῦντες τὴν ψυχὴν τοῦ παιδίου. ὁ δὲ ἐγερθεὶς παρέλαβεν τὸ παιδίον καὶ τὴν μητέρα αὐτοῦ καὶ εἰσῆλθεν εἰς γῆν Ἰσραήλ.",
+     "transl": "Gdy zaś Herod umarł, oto zwiastun Pana ukazuje się we śnie Józefowi w Egipcie, mówiąc: Wstawszy, weź dziecko i matkę jego i idź do ziemi Izraela; pomarli bowiem ci, którzy szukali życia dziecka. On zaś, wstawszy, wziął dziecko i matkę jego i wszedł do ziemi Izraela.",
+     "units": [
+      [
+       "Τελευτήσαντος δὲ τοῦ Ἡρῴδου",
+       "gdy zaś Herod umarł",
+       "Znowu genetivus absolutus w aoryście, tak jak przy odejściu magów w w. 13 — Mateusz tym samym chwytem zaczyna obie połowy perykopy. Herod Wielki umarł w Jerychu w 4 r. przed Chrystusem, po trzydziestu trzech latach panowania; Flawiusz opisuje jego ostatnią chorobę szczegółowo i podaje, że pięć dni przed śmiercią kazał zabić syna Antypatra, trzeciego ze swoich synów straconych na jego rozkaz (*Ant.* XVII,168–192; *Bell.* I,656–665). Makrobiusz przechował powiedzenie Augusta, że lepiej być świnią Heroda niż jego synem (*Saturnalia* II,4,11), ale wiąże je błędnie z rzezią w Betlejem, pisząc o niej pięć wieków po zdarzeniu i najpewniej już z lektury chrześcijańskiej. Dane te wymagają sprawdzenia przy źródłach."
+      ],
+      [
+       "ἄγγελος κυρίου φαίνεται κατʼ ὄναρ τῷ Ἰωσὴφ ἐν Αἰγύπτῳ",
+       "zwiastun Pana ukazuje się we śnie Józefowi w Egipcie",
+       "Zdanie powtórzone z w. 13 litera po literze, z jednym dodatkiem: ἐν Αἰγύπτῳ. Powtórzenie jest tu budową, nie niedbalstwem — perykopa stoi na dwóch identycznie zapisanych objawieniach i na trzecim, zapisanym inaczej (w. 22). Kopiści przestawiali to miejsce równie chętnie jak w. 13, i tym razem rękopisy C, L, W, 0233 i 33 dają κατ᾽ ὄναρ φαίνεται, a tekst krytyczny opiera się na ℵ, B, D, Z i 0250. Przyimek ἐν z nazwą kraju domyka zarazem pobyt: do tej pory Egipt stał w biernku jako kierunek (2,13.14), teraz w miejscowniku jako miejsce zamieszkania, a w następnym zdaniu zniknie zupełnie."
+      ],
+      [
+       "πορεύου εἰς γῆν Ἰσραήλ",
+       "idź do ziemi Izraela",
+       "Rozkaz nie mówi ani o Judei, ani o Betlejem, ani o Nazarecie, lecz o γῆ Ἰσραήλ — wyrażeniu, którego w całym Nowym Testamencie nie ma nigdzie więcej. Odpowiada ono hebrajskiemu אֶרֶץ יִשְׂרָאֵל, czyli krajowi jako przedmiotowi obietnicy, a nie prowincji rzymskiej; jest nazwą teologiczną, nie administracyjną, i właśnie dlatego nie rozstrzyga, gdzie rodzina ma zamieszkać. Ta nierozstrzygalność będzie treścią w. 22. Tryb rozkazujący medium πορεύου (idź) jest przy tym u Mateusza słowem posłania: tak Jezus odsyła uzdrowionych (8,13; 9,6) i tak zacznie się nakaz misyjny — πορευθέντες μαθητεύσατε (idąc, czyńcie uczniami, 28,19)."
+      ],
+      [
+       "τεθνήκασιν γὰρ οἱ ζητοῦντες τὴν ψυχὴν τοῦ παιδίου",
+       "pomarli bowiem ci, którzy szukali życia dziecka",
+       "Zdanie jest niemal dosłownym przytoczeniem Wj 4,19, gdzie Pan mówi do Mojżesza w Midianie: τεθνήκασιν γὰρ πάντες οἱ ζητοῦντές σου τὴν ψυχήν (pomarli bowiem wszyscy, którzy czyhali na twoje życie). Mateusz nie oznacza tego cytatu żadną formułą i nie musi — zdradza go liczba mnoga. Umarł jeden człowiek, Herod, a zwiastun mówi o wielu, bo tak stało w Księdze Wyjścia; gdyby ewangelista pisał od siebie, napisałby liczbę pojedynczą. To jedno z najmocniejszych świadectw, że cała ta perykopa jest komponowana na wzór opowiadania o Mojżeszu. Perfectum τεθνήκασιν (są umarli) jest przy tym jedynym u Mateusza i oznacza stan, nie czynność: niebezpieczeństwo nie ustąpiło, lecz przestało istnieć. Zwrot ζητεῖν τὴν ψυχήν (szukać życia) jest semityzmem oddającym בִּקֵּשׁ אֶת־הַנֶּפֶשׁ, czyli czyhanie na życie."
+      ],
+      [
+       "ὁ δὲ ἐγερθεὶς παρέλαβεν ... εἰσῆλθεν εἰς γῆν Ἰσραήλ",
+       "on zaś, wstawszy, wziął ... wszedł do ziemi Izraela",
+       "Posłuszeństwo znów jest przepisanym rozkazem, lecz z jedną zmianą: rozkaz mówił πορεύου (idź), wykonanie mówi εἰσῆλθεν (wszedł). εἰσέρχομαι z nazwą kraju jest w Septuagincie słowem wejścia do Ziemi Obiecanej — tak mówi się o pokoleniach przekraczających Jordan (Lb 14,24.30; Pwt 4,1). Lekcja ta jest zarazem najtrudniejsza i najlepiej poświadczona: ℵ, B i C mają εἰσῆλθεν, podczas gdy większość rękopisów upraszcza do ἦλθεν (przyszedł), a tradycja saidzka i Euzebiusz mają ἐπανῆλθεν (powrócił). Każda z poprawek odbiera zdaniu to, co ma ono najcenniejszego: nie jest to powrót do domu, lecz wejście do ziemi, i dopiero w następnym wierszu okaże się, że wejść do niej można tylko bokiem."
+      ]
+     ]
+    },
+    {
+     "cs": 2,
+     "vs": 22,
+     "ce": 2,
+     "ve": 23,
+     "label": "w. 22–23",
+     "greek": "Ἀκούσας δὲ ὅτι Ἀρχέλαος βασιλεύει τῆς Ἰουδαίας ἀντὶ τοῦ πατρὸς αὐτοῦ Ἡρῴδου ἐφοβήθη ἐκεῖ ἀπελθεῖν· χρηματισθεὶς δὲ κατʼ ὄναρ ἀνεχώρησεν εἰς τὰ μέρη τῆς Γαλιλαίας, καὶ ἐλθὼν κατῴκησεν εἰς πόλιν λεγομένην Ναζαρέτ· ὅπως πληρωθῇ τὸ ῥηθὲν διὰ τῶν προφητῶν ὅτι Ναζωραῖος κληθήσεται.",
+     "transl": "Usłyszawszy zaś, że Archelaos króluje nad Judeą w miejsce ojca swego Heroda, zląkł się tam iść; otrzymawszy zaś wyrocznię we śnie, usunął się w strony Galilei, i przyszedłszy, zamieszkał w mieście zwanym Nazaret — aby wypełniło się powiedziane przez proroków, że Nazarejczykiem będzie nazwany.",
+     "units": [
+      [
+       "Ἀρχέλαος βασιλεύει τῆς Ἰουδαίας",
+       "Archelaos króluje nad Judeą",
+       "Mateusz pisze βασιλεύει (króluje), a tytułu króla Archelaos nigdy nie otrzymał: po śmierci ojca pojechał do Rzymu po zatwierdzenie testamentu i August przyznał mu Judeę, Samarię i Idumeę tylko z godnością etnarchy, odkładając koronę do czasu, gdy okaże się jej godny (Flawiusz, *Ant.* XVII,317–320). Nie okazał się — na początku panowania kazał wojsku stłumić zamieszki w świątyni podczas Paschy, co kosztowało kilka tysięcy zabitych, a w 6 r. po Chrystusie został po skargach Judejczyków i Samarytan złożony z urzędu i wygnany do Vienne w Galii; Judea przeszła pod zarząd prefektów rzymskich. Czasownik Mateusza jest więc nieścisły w prawie i dokładny w potocznej mowie — ludzie nazywali go królem jak ojca. Z trzech synów, którzy podzielili dziedzictwo, Archelaos miał najgorszą opinię, i to tłumaczy decyzję z następnego zdania."
+      ],
+      [
+       "ἐφοβήθη ἐκεῖ ἀπελθεῖν",
+       "zląkł się tam iść",
+       "Jedyne zdanie całej Ewangelii, które mówi o uczuciu Józefa — i mówi o lęku. W rozdziale pierwszym zwiastun zakazał mu się bać (1,20: μὴ φοβηθῇς), tu Mateusz stwierdza bez komentarza, że się zląkł, i nie czyni z tego winy. Lęk jest u niego zresztą reakcją uczniów na burzę (8,26), na chodzenie po wodzie (14,30) i na przemienienie (17,6), a słowa „nie bójcie się\" padną ostatni raz przy pustym grobie (28,5.10). Rzeczowo lęk Józefa jest trafny: Archelaos rządził tą częścią kraju, w której leży Betlejem, i rządził gorzej od ojca. Mateusz pokazuje przy tym człowieka, który już trzykrotnie usłuchał objawienia i który teraz najpierw słucha wiadomości politycznej — kolejność ta jest celowa, bo wyrocznia przychodzi dopiero po jego decyzji."
+      ],
+      [
+       "χρηματισθεὶς δὲ κατʼ ὄναρ",
+       "otrzymawszy zaś wyrocznię we śnie",
+       "Trzeci sen perykopy zapisany jest inaczej niż dwa pierwsze: nie ma zwiastuna, nie ma słów i nie ma treści — jest tylko imiesłów bierny czasownika χρηματίζω (otrzymać pouczenie, dostać wyrocznię), tego samego, którym opisano ostrzeżenie magów w 2,12. Słowo jest techniczne i pogańskie: w inskrypcjach greckich znaczy odpowiedź wyroczni daną pytającemu w świątyni. Mateusz używa go dokładnie tam, gdzie Bóg kieruje kimś bez pośrednictwa postaci, i tym samym stawia obok siebie trzy sposoby nocnego objawienia: zwiastun ze słowami (w. 13.19), wyrocznia bez słów (w. 12.22) i — w 27,19 — sen żony Piłata, o którym nie wiadomo nawet, kto go zesłał. Strona bierna zostawia sprawcę niewymienionego we wszystkich trzech."
+      ],
+      [
+       "ἀνεχώρησεν εἰς τὰ μέρη τῆς Γαλιλαίας",
+       "usunął się w strony Galilei",
+       "Czwarte i ostatnie ἀναχωρέω rozdziału. Galilea była za Heroda Antypasa osobną tetrarchią, więc wyjazd tam oznaczał zmianę władcy, a nie tylko miejsca; τὰ μέρη (strony, okolice) to przy tym nazwa obszaru widzianego z zewnątrz, bez wytyczonej granicy — tak samo Mateusz mówi o stronach Tyru i Sydonu (15,21) i o stronach Cezarei Filipowej (16,13). Na tym samym czasowniku zbuduje później początek działalności publicznej: po uwięzieniu Chrzciciela Jezus ἀνεχώρησεν εἰς τὴν Γαλιλαίαν (usunął się do Galilei, 4,12), i tam padnie cytat o Galilei pogan i o świetle dla siedzących w ciemności (4,15–16). Droga wymuszona lękiem w rozdziale drugim staje się w rozdziale czwartym drogą Ewangelii."
+      ],
+      [
+       "κατῴκησεν εἰς πόλιν λεγομένην Ναζαρέτ",
+       "zamieszkał w mieście zwanym Nazaret",
+       "κατοικέω oznacza osiedlenie się na stałe, w odróżnieniu od παροικέω, czyli przebywania jako obcy. Mateusz powtórzy ten czasownik w 4,13 o przeniesieniu się Jezusa do Kafarnaum i tam również doda cytat. Słowo πόλις (miasto) jest tu uprzejmością: Nazaret był wioską, w pierwszym wieku liczącą zapewne od dwustu do czterystu mieszkańców, rolniczą, z grobami kutymi w skale, prasami do oliwy i cysternami, bez murów i bez budowli publicznych. Nazwy nie zna ani Stary Testament, ani Flawiusz, który wylicza czterdzieści pięć miejscowości Galilei, ani literatura rabiniczna. Pierwsze poświadczenie poza Nowym Testamentem to hebrajska inskrypcja z Cezarei Nadmorskiej, wymieniająca נְצֶרֶת (Necaret) wśród miejsc osiedlenia rodów kapłańskich po roku 70; datuje się ją na trzeci albo czwarty wiek. Mateusz zapisuje nazwę Ναζαρέτ, lecz rękopisy wahają się między Ναζαρέθ i Ναζαρά, a tę ostatnią formę ma papirus 𝔓70 z trzeciego wieku i Euzebiusz. Datowanie inskrypcji wymaga sprawdzenia przy źródłach."
+      ],
+      [
+       "ὅπως πληρωθῇ τὸ ῥηθὲν διὰ τῶν προφητῶν",
+       "aby wypełniło się powiedziane przez proroków",
+       "Trzecia formuła perykopy i trzecia inna: spójnik celowy, ale nie ἵνα, lecz ὅπως — jedyne takie miejsce w formułach Mateusza — a prorocy stoją w liczbie mnogiej, czego nie ma nigdzie więcej. Liczba mnoga jest przy tym zapewne zapowiedzią kłopotu: żadna księga Pisma nie zawiera zdania, które zaraz nastąpi. Dziesięć Mateuszowych formuł wypełnienia cytuje tekst; ta jedna wskazuje na temat rozłożony po wielu księgach. Dlatego nie należy szukać zaginionego proroctwa — należy czytać, co właściwie zostało w tej formule obiecane: nie zdanie, lecz imię."
+      ],
+      [
+       "ὅτι Ναζωραῖος κληθήσεται",
+       "że Nazarejczykiem będzie nazwany",
+       "Grecka forma Ναζωραῖος nie wywodzi się gładko z nazwy Ναζαρέτ: trudność sprawia samogłoska ω, której w nazwie miejscowej nie ma, chyba że przyjąć formę Ναζωρά, poświadczoną u Euzebiusza. Stąd dwie drogi wykładni. Pierwsza prowadzi do נֵצֶר (necer, pęd) z Iz 11,1, gdzie zapowiedziano odrośl z pnia Jessego — hebrajskie צ regularnie przechodzi w greckie ζ, zbieżność spółgłosek jest dokładna, a treść wiąże się z chrystologią królewską rodowodu; tę drogę wybiera większość komentatorów i ona najlepiej tłumaczy liczbę mnogą „proroków\", bo motyw pędu, korzenia i gałęzi wraca u Izajasza, Jeremiasza i Zachariasza. Druga prowadzi do נָזִיר (nazir, poświęcony) z Sdz 13,5.7, gdzie o Samsonie powiedziano, że będzie poświęcony Bogu od łona matki; fonetycznie jest słabsza, a rzeczowo kłóci się z zarzutem, że Jezus pije wino (11,19). Trzecia możliwość nie wymaga etymologii wcale: Nazaret był miejscem bez znaczenia, a „Nazarejczyk\" było przezwiskiem — i wtedy formuła wskazuje na proroctwa o Mesjaszu wzgardzonym. Czasownik κληθήσεται (będzie nazwany) domyka przy tym rozdziały o dzieciństwie tym samym słowem, którym się zaczęły: w 1,21 i 1,23 nakazano, jak dziecko nazwać, a tu podano, jak je będą nazywać ludzie. Jedno imię jest dane z nieba, drugie przylgnie z wioski."
+      ]
+     ]
+    }
+   ],
+   "struktura": "Perykopa jest zbudowana z dwóch połów, odbitych jedna w drugiej, i z zawieszonego między nimi wiersza o zbrodni.\n\nKażda z połów zaczyna się genetivem absolutnym, który zamyka poprzednie zdarzenie: „gdy zaś oni się usunęli\" (w. 13) i „gdy zaś Herod umarł\" (w. 19). Potem w obu stoi dokładnie to samo zdanie o zwiastunie ukazującym się we śnie, potem ten sam rozkaz „wstawszy, weź dziecko i matkę jego\", a po nim ten sam zapis posłuszeństwa: „on zaś, wstawszy, wziął dziecko i matkę jego\". Różnią się kierunkiem i uzasadnieniem. Pierwszy rozkaz uzasadnia się przyszłością („ma bowiem Herod szukać\"), drugi przeszłością („pomarli bowiem ci, którzy szukali\"); pierwszy prowadzi do Egiptu, drugi z Egiptu. Obie połowy domyka formuła wypełnienia: w. 15 cytatem z Ozeasza, w. 23 zdaniem bez źródła.\n\nMiędzy nimi stoją w. 16–18, jedyna część perykopy, w której nie ma ani objawienia, ani Józefa, ani dziecka. Jest Herod, jest gniew i jest wiek graniczny obliczony z informacji zdobytej w 2,7. Formuła wypełnienia stoi i tutaj, lecz w innej gramatyce.\n\nTrzecia, krótsza zmiana kierunku przychodzi dopiero po powrocie (w. 22) i nie ma własnego objawienia z postacią: Józef najpierw słyszy wiadomość o Archelaosie, potem się lęka, a wyrocznia przychodzi po jego decyzji i tylko ją potwierdza. Perykopa ma więc cztery ruchy — do Egiptu, z Egiptu, w strony Galilei i wreszcie osiedlenie w Nazarecie — i każdy z nich zostawia po sobie nazwę miejsca, z której rozdział drugi jest zrobiony: Betlejem, Egipt, Rama, Nazaret.",
+   "sections": [
+    {
+     "type": "kontekst",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
+     "body": "Perykopa opowiada o rzeczach, których historyk może sprawdzić cztery, i o jednej, której sprawdzić nie może. Sprawdzalne są: śmierć Heroda i sposób podziału jego państwa, charakter rządów Archelaosa, obecność wielkiej diaspory żydowskiej w Egipcie i stan Nazaretu w pierwszym wieku. Niesprawdzalna jest sama rzeź w Betlejem. Rozdzielenie tych dwóch rzeczy należy do rzetelności, nie do krytyki wiary.",
+     "children": [
+      [
+       "Herod, jego śmierć i podział państwa",
+       "Herod, zwany Wielkim, rządził jako król sprzymierzony z Rzymem od 37 r. przed Chrystusem i umarł w Jerychu w 4 r. przed Chrystusem. Flawiusz, jedyne obszerne źródło o jego panowaniu, podaje, że w ostatnich latach kazał zabić żonę Mariamme, jej matkę, dwóch synów z jej rodu — Aleksandra i Arystobula — a pięć dni przed własną śmiercią trzeciego syna, Antypatra (*Ant.* XVII,182–187). Testament zmieniał trzykrotnie. Tej biografii nie trzeba naciągać, by uznać za możliwe zabicie kilkudziesięciu dzieci w wiosce ośmiu kilometrów od Jerozolimy; nie trzeba jej też naciągać, by wiedzieć, że w skali jego rządów zdarzenie takie nie musiało trafić do żadnego rocznika.\n\nPo śmierci króla August podzielił państwo między trzech synów: Archelaos dostał Judeę, Samarię i Idumeę z tytułem etnarchy, Herod Antypas Galileę i Pereę jako tetrarcha, Filip krainy na północ i wschód od Jeziora Galilejskiego. Podział ten jest tłem dwóch ostatnich wierszy perykopy: Betlejem i Nazaret znalazły się pod dwiema różnymi władzami, i to jest cała treść lęku Józefa."
+      ],
+      [
+       "Archelaos i dlaczego Judea była niebezpieczna",
+       "Archelaos panował dziesięć lat i zaczął je masakrą. Jeszcze przed wyjazdem do Rzymu po zatwierdzenie testamentu, podczas Paschy, wysłał wojsko przeciw tłumowi domagającemu się rozliczenia za ludzi straconych przez jego ojca; Flawiusz podaje liczbę około trzech tysięcy zabitych na terenie świątyni (*Ant.* XVII,213–218; *Bell.* II,8–13). W Rzymie poselstwo judejskie prosiło Augusta, by nie dawał mu władzy wcale i by kraj włączono do Syrii — z tego właśnie poselstwa bierze się realia przypowieści o człowieku szlachetnego rodu, który jedzie w daleki kraj po królestwo, a jego właśni obywatele posyłają za nim wysłanników, żeby nie panował (Łk 19,12–14). W 6 r. po Chrystusie August go złożył z urzędu po skargach Judejczyków i Samarytan i wygnał do Vienne w Galii. Judea przeszła pod prefektów rzymskich, a spis Kwiryniusza z tego właśnie roku stał się powodem rozruchów Judy Galilejczyka. Liczby Flawiusza wymagają sprawdzenia przy źródłach."
+      ],
+      [
+       "Egipt jako najbliższe schronienie",
+       "W pierwszym wieku Egipt był krajem o największej diasporze żydowskiej świata. Filon Aleksandryjski podaje, że Żydów w Egipcie jest około miliona, z czego znaczna część w Aleksandrii, gdzie dwie z pięciu dzielnic miasta były żydowskie; stamtąd pochodzi Septuaginta, tam działała żydowska filozofia pisana po grecku, a w Leontopolis stała od czasów Oniasza IV, czyli od około 160 r. przed Chrystusem, świątynia żydowska, zamknięta przez Rzymian dopiero w 73 r. po Chrystusie. Dla uciekającego z Judei Egipt był więc kierunkiem oczywistym: granica leżała kilka dni drogi szlakiem nadmorskim, a za granicą czekała gmina mówiąca tym samym językiem kultu.\n\nTrzeba przy tym widzieć, że prorocy odradzali tę drogę stanowczo. Jeremiasz zabraniał resztce po upadku Jerozolimy chodzić do Egiptu i zapowiadał jej tam śmierć (Jr 42,13–22), a historia Uriasza, który uciekł tam przed Jojakimem i został wydany i zabity, pokazuje, że schronienie nie było pewne (Jr 26,20–23). Mateusz nie łagodzi tej dwuznaczności; jego Egipt jest zarazem domem niewoli z Księgi Wyjścia i najbliższym miejscem, gdzie Herod nie rządził."
+      ],
+      [
+       "Rama, grób Racheli i dwie tradycje",
+       "Rama w Beniaminie leżała około ośmiu kilometrów na północ od Jerozolimy, przy drodze na północ, i była w 586 r. przed Chrystusem punktem zbiorczym dla uprowadzanych do Babilonu — tam Nebuzaradan segregował jeńców i tam zwolnił Jeremiasza (Jr 40,1). Płacz Racheli u Jeremiasza dotyczy więc deportacji, a sama Rachel jest w tym kontekście matką Efraima, czyli Królestwa Północnego, bo jej synem był Józef.\n\nLokalizacja jej grobu jest w Piśmie dwoista i nigdy nie została uzgodniona. Rdz 35,16–20 i 48,7 kładą go w drodze do Efraty, którą Mi 5,1 utożsamia z Betlejem; 1 Sm 10,2 kładzie go przy Selsach, w granicach Beniamina, czyli w okolicy Ramy. Dzisiejszy Grób Racheli przy wjeździe do Betlejem opiera się na pierwszej tradycji i poświadczony jest od czwartego wieku. Mateusz pisze dla czytelnika, który zna wersję z Księgi Rodzaju, i to pozwala mu przenieść lament z północnej Ramy nad Betlejem bez jednego słowa wyjaśnienia."
+      ],
+      [
+       "Nazaret: co wiadomo z wykopalisk",
+       "Nazaret był w pierwszym wieku wioską rolniczą w dolinie na skraju wyżyny galilejskiej, oddaloną o około sześć kilometrów od Seforis, wówczas największego miasta Galilei i jej ówczesnej stolicy. Wykopaliska pod bazyliką Zwiastowania i w jej otoczeniu dały cysterny, silosy na zboże, prasy do oliwy i wina, groby kute w skale oraz ceramikę od okresu hellenistycznego; nie dały ani murów, ani budynków publicznych, ani inskrypcji. Szacunki liczby mieszkańców wahają się od dwustu do czterystu. Groby wewnątrz dzisiejszego obszaru miasta wyznaczają zresztą granice wioski, bo prawo czystości kazało chować poza osadą.\n\nNazwy nie wymienia ani jedna księga Starego Testamentu, nie wymienia jej Flawiusz, który wylicza czterdzieści pięć miejscowości Galilei, nie wymienia literatura rabiniczna. Pierwsze poświadczenie poza Nowym Testamentem to hebrajska inskrypcja z Cezarei Nadmorskiej, odkryta w 1962 r., wymieniająca נְצֶרֶת (Necaret) na liście miejsc, w których osiedliły się po roku 70 rody kapłańskie; datowana jest na trzeci albo czwarty wiek. To milczenie źródeł jest tłem pytania z J 1,46, czy z Nazaretu może być coś dobrego, i tłem tytułu z w. 23. Datowania i dane z wykopalisk wymagają sprawdzenia przy źródłach."
+      ],
+      [
+       "Sny jako droga objawienia",
+       "W judaizmie Drugiej Świątyni sen nie był drogą objawienia równorzędną z proroctwem, lecz ustępującą mu i wymagającą ostrożności: Pwt 13,2–6 nakazuje sprawdzać tego, kto przychodzi ze snem, a Syr 34,1–8 ostrzega przed polaganiem na snach. Zarazem jednak sen jest w Piśmie drogą, którą Bóg mówi do pogan — do faraona, do Nebukadnezara, do Abimeleka — i drogą, którą mówi do patriarchy Józefa, jedynego człowieka Starego Testamentu żyjącego ze snów i w Egipcie. Mateusz daje Józefowi cztery sny i wszystkie w rozdziałach o dzieciństwie; piąty sen tej Ewangelii dostanie żona Piłata (27,19), poganka, i ten jeden nie przyniesie żadnego skutku.\n\nSłownictwo idzie za tym rozróżnieniem. Dwa razy mamy ἄγγελος κυρίου (zwiastun Pana), czyli hebrajskie מַלְאַךְ יְהוָה; dwa razy χρηματίζω (otrzymać wyrocznię), słowo z języka wyroczni greckich, znane z inskrypcji świątynnych. Mateusz nie zrównuje tych dwóch sposobów i nie wyjaśnia różnicy; po prostu zapisuje je odmiennie."
+      ]
+     ]
+    },
+    {
+     "type": "teologia",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "body": "Rzeź dzieci wymaga od teologii czegoś lepszego niż milczenie i czegoś ostrożniejszego niż wyjaśnienie, a scholastyka miała na to narzędzia rozłożone po trzech odległych traktatach: nauce o sensach Pisma, nauce o opatrzności działającej przez przyczyny drugie i nauce o zasłudze otrzymanej. Mateusz używa ich wszystkich naraz i żadnego nie nazywa. Poniżej cztery kwestie w kolejności, w jakiej je stawia tekst, a nie podręcznik.",
+     "children": [
+      [
+       "Jak zdanie o narodzie może mówić o jednym",
+       "Tomasz rozstrzyga rzecz regułą, która wygląda na techniczną, a jest teologiczna: sens duchowy Pisma opiera się na sensie literalnym i bez niego nie istnieje (*ST* I, q. 1, a. 10). Oznacza to, że Oz 11,1 musi najpierw znaczyć wyjście Izraela z Egiptu — i znaczy — bo inaczej nie ma na czym oprzeć odniesienia do Chrystusa. Mateusz nie podmienia więc przedmiotu zdania; stwierdza, że ten, o kim mówi, przechodzi drogę całego narodu, a nie obok niej. Scholastyka nazywa to odniesieniem *capitis ad corpus* (głowy do ciała): to, co powiedziano o ciele, mówi się o głowie nie przez przeniesienie, lecz przez zawarcie.\n\nZ tej reguły wynika zarazem granica. Jeśli sens duchowy wyrasta z literalnego, to nie każde zdanie Pisma ma taki sens i nie wolno go dorabiać dowolnie — figura musi mieć w tekście oparcie, a nie tylko podobieństwo. Dlatego Mateuszowe odniesienie Ozeasza do Jezusa jest mocne (oba zdania mówią o synu wezwanym z Egiptu), a dorabianie proroctw do w. 23 byłoby słabe; sam ewangelista zresztą tego nie robi i powołuje się na proroków w liczbie mnogiej."
+      ],
+      [
+       "Dlaczego ostrzeżenie, a nie przeszkoda",
+       "Bóg w tej perykopie nie powstrzymuje Heroda: ostrzega Józefa. Tomasz tłumaczy ten porządek przez naturę opatrzności, która rządzi rzeczami wedle ich własnego sposobu bycia, a nie wbrew niemu — przyczyna pierwsza działa przez przyczyny drugie i w stworzeniach wolnych działa przez wolność, nie zamiast niej (*ST* I, q. 22, a. 3; q. 83, a. 1). Zapobiegnięcie zbrodni Heroda wymagałoby zniesienia jego wolności, czyli zniesienia tego, co w nim najbardziej jest obrazem Boga; ostrzeżenie Józefa wymaga tylko podania mu wiadomości, którą on przyjmuje aktem własnym.\n\nDrugi krok tej samej odpowiedzi dotyczy zła. Zło nie jest u Tomasza rzeczą ani naturą, lecz brakiem dobra należnego — *privatio boni debiti* (brak dobra powinnego, *ST* I, q. 48, a. 1.3) — i dlatego nie ma własnej przyczyny sprawczej, a tylko przyczynę przez brak. Gniew Heroda nie jest więc źródłem, z którego coś wypływa; jest wypadnięciem rozumu z rządzenia namiętnością, a rzeź jest tego wypadnięcia skutkiem. Bóg zła nie czyni i nie chce, lecz dopuszcza — a dopuszcza, bo potrafi z niego wyprowadzić dobro większe niż to, które zostało zniszczone (*ST* I, q. 2, a. 3 ad 1; q. 48, a. 2 ad 3). Mateusz tego wprost nie mówi; mówi natomiast gramatyką, pisząc o rzezi τότε (wtedy), a nie ἵνα (aby)."
+      ],
+      [
+       "Męczeństwo bez aktu woli",
+       "Dzieci z Betlejem nie wybrały niczego i nie wiedziały o niczym, a tradycja nazywa je męczennikami od najdawniejszych świadectw liturgicznych. Tomasz podejmuje ten kłopot wprost: męczeństwo jest aktem męstwa, a akt wymaga woli — jak więc może być męczennikiem dziecko. Odpowiada przez rozróżnienie zasługi własnej i zasługi otrzymanej: w Niewinnych cierpienie jest ich, lecz akt, który to cierpienie czyni świadectwem, należy do Chrystusa, dla którego zginęły, zanim mogły o Nim wiedzieć (*ST* II–II, q. 124, a. 1, ad 1). Stąd powtarzana w średniowieczu formuła, że wyznały Go nie mową, lecz śmiercią.\n\nDrugim narzędziem jest *baptismus sanguinis* (chrzest krwi): przelanie krwi za Chrystusa sprawia skutek chrztu bez obmycia wodą, a w dzieciach sprawia go bez ich wiary, przez wiarę Kościoła i przez samego Ducha (*ST* III, q. 66, a. 11–12). Ten właśnie przypadek jest w scholastyce miejscem klasycznym dla całej nauki o zastąpieniu sakramentu przez męczeństwo. Loci wymagają sprawdzenia przy źródłach."
+      ],
+      [
+       "Ucieczka i prawdziwość człowieczeństwa",
+       "Pozostaje pytanie, które starożytni stawiali częściej niż dzisiejsi: dlaczego Wszechmocny ucieka. Odpowiedź scholastyczna idzie dwiema drogami. Pierwsza dotyczy prawdziwości wcielenia: jeśli Chrystus przyjął naturę ludzką w całości, to przyjął i jej bezbronność, a dziecko bezbronne jest po prostu wtedy, gdy nie jest chronione cudem. Druga dotyczy porządku czasu. Męka jest u Mateusza dobrowolna i ma swoją godzinę, trzykrotnie zapowiedzianą (16,21; 17,22–23; 20,18–19); dopóki ta godzina nie przyszła, usunięcie się nie jest ucieczką od krzyża, lecz zachowaniem go na właściwy moment. Dlatego ten sam Jezus, który w rozdziale drugim zostaje wyniesiony z kraju nocą, w rozdziale dwudziestym szóstym zabroni wyciągać miecz i powie, że mógłby poprosić Ojca o dwanaście legionów zwiastunów, a nie poprosi (26,53)."
+      ]
+     ]
+    },
+    {
+     "type": "autor_ludzki",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
+     "body": "Cała ta perykopa nie ma paraleli ani u Marka, ani u Łukasza, ani w żadnym znanym źródle. Jest Mateuszowa w całości, i to daje rzadką okazję: można zobaczyć, z czego ten ewangelista buduje opowiadanie, kiedy nie ma przed sobą tekstu do przeredagowania. Buduje z trzech rzeczy — z Księgi Wyjścia, z formuł wypełnienia i z powtórzonego zdania.",
+     "children": [
+      [
+       "Problem, który ten rozdział rozwiązuje",
+       "Mateusz ma kłopot dwuczęściowy i rozdział drugi jest na niego odpowiedzią. Mesjasz ma wyjść z Betlejem, bo tak mówi prorok, a Jezusa wszyscy znają jako człowieka z Nazaretu — przezwisko to nosi w scenie na dziedzińcu arcykapłana (26,71) i pod nim będzie znane jego stronnictwo (Dz 24,5). Trzeba więc powiedzieć i jedno, i drugie: że urodził się tam, gdzie powinien, i że mieszkał tam, gdzie go znają. Rozdział drugi robi to czterema nazwami miejsc, z których każda dostaje swoje zdanie Pisma, a o Nazarecie zdanie podaje się bez księgi.\n\nTaka jest teza, którą Krister Stendahl nazwał pytaniem *quis et unde* — kto i skąd. Rozdział pierwszy odpowiadał na pierwsze pytanie rodowodem, drugi odpowiada na drugie trasą. To, co z zewnątrz wygląda na kłopot biograficzny, Mateusz zamienia w dowód: samo przemieszczenie dziecka z Betlejem do Nazaretu zostaje przedstawione jako rzecz zapowiedziana, a nie jako wyłom w zapowiedzi."
+      ],
+      [
+       "Mojżesz, i to w wersji haggadycznej",
+       "Wzorem opowiadania jest początek Księgi Wyjścia, ale nie tylko on. Król, który boi się narodzonego i zabija chłopców, dziecko ocalone, ucieczka wyzwoliciela do obcego kraju, śmierć prześladowcy, rozkaz powrotu podany słowami Wj 4,19 — to materiał biblijny. Obok niego działa jednak także materiał pozabiblijny: żydowska legenda o Mojżeszu, którą zna już Flawiusz, opowiada, że egipski pisarz święty ostrzegł faraona o narodzeniu przyszłego wybawcy Hebrajczyków i że dopiero to ostrzeżenie wywołało rozkaz zabijania, a ojciec Mojżesza Amram otrzymał we śnie zapowiedź ocalenia syna (*Ant.* II,205–216). W Mateuszu arcykapłani i uczeni w Piśmie odgrywają rolę owego pisarza (2,4–6), a Józef rolę Amrama. Ewangelista nie cytuje tych podań i nie musiał ich znać z książki — były obiegowe.\n\nGranicy tej typologii Mateusz jednak nie przekracza i to jest w niej najciekawsze. Jezus nie jest u niego drugim Mojżeszem: z Egiptu wezwany jest syn, nie prawodawca, a kiedy Mojżesz pojawi się przy nim na górze przemienienia, głos z obłoku każe słuchać nie jego (17,5). Typologia służy do pokazania, że ten jeden przeszedł drogę narodu, a nie do nadania mu urzędu, który już był."
+      ],
+      [
+       "Trzy formuły i jedna gramatyka",
+       "Najwyraźniejszy ślad redakcji jest w spójnikach. Mateusz miał do dyspozycji jedną formułę i używa jej dwunastokrotnie w całej Ewangelii; w tej perykopie trzykrotnie zmienia jej gramatykę i każda zmiana coś znaczy. ἵνα przy ucieczce (w. 15) wiąże zdarzenie z Bożym zamysłem. τότε przy rzezi (w. 17) stwierdza tylko zbieżność czasu, i jest to jedno z dwóch takich miejsc w księdze — drugie dotyczy trzydziestu srebrników (27,9). ὅπως w. 23, jedyne w formułach, i prorocy w liczbie mnogiej, też jedyni, oznaczają cytat, którego nie ma.\n\nKto chce zobaczyć, że ewangelista pracuje nad tymi szwami świadomie, niech spojrzy na aparat krytyczny. Kopiści poprawiali właśnie tutaj: dopisywali w w. 17 „przez Pana\", by zbrodnia dostała Bożego sprawcę jak ucieczka; dopisywali w w. 15 imię Izajasza, bo prorok został nienazwany; przerabiali cytat z w. 18 na brzmienie Septuaginty. Każda z tych poprawek wygładza coś, co Mateusz zostawił nierównym."
+      ],
+      [
+       "Józef jako postać redakcyjna",
+       "Józef jest u Mateusza zbudowany z czasowników i z niczego więcej. Nie ma ani jednej kwestii, nie ma opisu, nie ma rodowodu wewnętrznego poza wzmianką, że jest synem Dawida (1,20). Dostaje rozkaz i wykonuje go słowami rozkazu — trzy razy w tej perykopie, raz w poprzedniej. To nie jest ubóstwo charakterystyki, lecz jej rodzaj: posłuszeństwo pokazane jako powtórzenie, a nie jako przeżycie. Mateusz dokłada do tego dwa szczegóły, których rozkaz nie zawierał: że wyszli nocą (w. 14) i że Józef się zląkł (w. 22). Pierwszy mówi, jak się słucha, kiedy się nie zwleka; drugi, że można słuchać i bać się jednocześnie.\n\nPotem Józef znika z Ewangelii zupełnie. W 13,55 ludzie z Nazaretu nazwą Jezusa synem cieśli, nie wymieniając imienia, i to wszystko, co Mateusz o nim jeszcze powie."
+      ]
+     ]
+    },
+    {
+     "type": "autor_bozy",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
+     "body": "Bóg nie przeszkadza w tej perykopie ani razu. Mówi nocą, jednemu człowiekowi, i mówi wyłącznie o najbliższym kroku — nie wstrzymuje gniewu króla, nie ratuje innych dzieci, nie tłumaczy się i nie pociesza. Kroki, które nakazuje, prowadzą zresztą dokładnie tam, gdzie rodzina znalazłaby się także z samego strachu.",
+     "children": [
+      [
+       "Ostrzeżenie zamiast cudu",
+       "Ocalenie w tej perykopie nie jest cudowne. Nie ma zaślepienia żołnierzy, nie ma otwartej ziemi, nie ma zamkniętych ust prześladowcy — jest wiadomość podana w porę i człowiek, który o niej nie powiedział nikomu i wyszedł w nocy. Bóg działa więc tak, jak działałby ktoś, kto ma dobrych informatorów, i gdyby Mateusz nie napisał, że to był zwiastun Pana, cała scena dałaby się opowiedzieć bez odniesienia do nieba.\n\nTo jest w niej trwale niepokojące i trwale pouczające. Objawienie nie usuwa niebezpieczeństwa; przesuwa tylko tego, kto ma być ocalony. Dwadzieścia parę rodzin w Betlejem nie dostało żadnego snu, a jedenaście wierszy dalej Mateusz zapisze wyrok, że szukający życia dziecka pomarli — jakby odwołanie zagrożenia przyszło za późno dla wszystkich poza jednym. Ewangelia nie wyjaśnia tej nierówności w rozdziale drugim i nie wyjaśni jej nigdzie; powie natomiast, że ten jeden ocalony umrze za wszystkich (20,28), i to jest jej jedyna odpowiedź."
+      ],
+      [
+       "Słowo spełnione w czynie przeciwnym Bogu",
+       "Najgłębsza rzecz tej perykopy stoi w jednym przysłówku. Pismo spełnia się w rzezi — Mateusz to stwierdza — a jednak rzeź nie dzieje się „aby\" się spełniło. τότε nie jest zdaniem celowym i nie przypisuje Bogu zamiaru. Oznacza, że słowo Boże obejmuje także to, czego Bóg nie chciał, i że obejmuje je jako płacz, nie jako plan: cytat, który Mateusz wybiera, nie jest wyrokiem ani wyjaśnieniem, lecz lamentem matki, która nie daje się pocieszyć.\n\nPociecha u Jeremiasza stoi w wierszu następnym i Mateusz jej nie przytacza. Jest w tym milczeniu rzetelność, której trzeba się tu nauczyć: nad dziećmi z Betlejem Ewangelia nie wypowiada niczego, co by ich śmierć tłumaczyło. Zostawia płacz nieskończony, a jedyną rzecz, która temu płaczowi odpowiada, pokazuje czynem — jedno dziecko wraca z ziemi wroga, dokładnie tak, jak Jeremiasz w nieprzytoczonym wierszu obiecał (Jr 31,16–17)."
+      ],
+      [
+       "Posłuszeństwo, które nie zna celu",
+       "Każdy z trzech rozkazów podaje ruch i nie podaje więcej. „Bądź tam, dopóki ci nie powiem\" — bez terminu. „Idź do ziemi Izraela\" — bez adresu. Trzeci rozkaz nie ma nawet treści, bo jest wyrocznią bez słów. Józef nie dowiaduje się, po co to wszystko, dowiaduje się tylko, co teraz, i nie pyta ani razu. Wiedzę o sensie ma tutaj wyłącznie czytelnik, i to dzięki trzem formułom wypełnienia, których żadna z osób opowiadania nie usłyszała.\n\nRozdzielenie jest celowe i powtórzy się w całej Ewangelii. Kto wykonuje, nie widzi całości; kto czyta, widzi ją, lecz nie wykonuje. Dlatego pierwsze słowa, jakie Jezus powie o uczniach, będą o czynieniu, a nie o rozumieniu (7,21), a ostatnie zdanie księgi nie wyjaśnia niczego — nakazuje iść."
+      ],
+      [
+       "Trzy sposoby, w jaki Bóg kieruje",
+       "Perykopa stawia obok siebie trzy drogi prowadzenia. Pierwsza: zwiastun ze słowami, dwukrotnie, w scenach rozstrzygających o życiu (w. 13.19). Druga: wyrocznia bez treści, która potwierdza decyzję już podjętą przez lęk (w. 22). Trzecia, o której tekst milczy, a która tę perykopę w rzeczywistości napędza: zwyczajna wiadomość polityczna, że na tronie Judei zasiadł syn gorszy od ojca. Józef dowiaduje się o Archelaosie tak, jak dowiadywali się wszyscy — z tego, co ludzie mówili — i to jest jedyna rzecz w całym rozdziale, której nie podaje mu nikt z nieba.\n\nKolejność jest przy tym nieprzypadkowa: najpierw usłyszał, potem się zląkł, potem otrzymał wyrocznię. Boże prowadzenie nie zastępuje tu ani informacji, ani lęku, ani rozsądku; przychodzi po nich i nadaje im kierunek. Mateusz nie czyni z Józefa człowieka, który czeka na znak, zamiast myśleć."
+      ]
+     ]
+    },
+    {
+     "type": "odniesienia",
+     "title": "Sieć odniesień biblijnych",
+     "body": "Trzy cytaty tej perykopy są oznaczone formułami, a czwarty — najdokładniejszy ze wszystkich — nie jest oznaczony wcale: rozkaz powrotu w w. 20 jest przytoczeniem Wj 4,19 i rozpoznaje się go po liczbie mnogiej, która w Mateuszowym zdaniu nie ma sensu. Poniżej te odniesienia, które rozstrzygają o lekturze: dwa cytaty idące za tekstem hebrajskim przeciw Septuagincie, tło dla trzeciego cytatu bez tekstu, Księga Wyjścia jako wzór całości, dwie drogi do Egiptu znane prorokom i miejsca wewnątrz samej Ewangelii, w których wraca słownictwo tej perykopy.",
+     "children": [
+      [
+       "Oz 11,1 → w. 14–15",
+       "Cytat dosłowny, lecz z tekstu hebrajskiego, nie z Septuaginty. Hebrajski ma pojedynczego syna i pierwszą osobę („wezwałem syna mego\"), grecki przekład liczbę mnogą i trzecią osobę („wezwałem dzieci jego\") — i tylko wersja hebrajska pozwala odnieść zdanie do jednej osoby. U Ozeasza synem jest Izrael wyprowadzony z niewoli, a werset drugi tego samego rozdziału mówi o jego odstępstwie; prorok wspomina wyjście, żeby wyrzucać niewierność. Mateusz nie podmienia tematu, lecz stwierdza, że ten jeden przechodzi drogę całego narodu — i dlatego Egipt, z którego następuje wezwanie, musi być w jego opowiadaniu rzeczywisty."
+      ],
+      [
+       "Wj 4,19 → w. 19–21",
+       "Cytat najdokładniejszy i nieoznaczony. Pan mówi do Mojżesza w Midianie: „pomarli bowiem wszyscy, którzy czyhali na twoje życie\". Mateusz zmienia tylko adresata — życie dziecka zamiast twoje — a zachowuje liczbę mnogą, choć umarł jeden Herod. Właśnie ta niezgodność liczby jest dowodem przytoczenia: ewangelista nie dostosował źródła do faktu, a przez to pokazał, z czego buduje."
+      ],
+      [
+       "Jr 31,15 → w. 17–18",
+       "Cytat z formułą, znów bliższy hebrajskiemu niż greckiemu: „nie chciała zostać pocieszona\" idzie za מֵאֲנָה לְהִנָּחֵם, podczas gdy Septuaginta ma „nie chciała przestać\". U proroka Rachel płacze nad deportacją do Babilonu, a Rama jest punktem zbiorczym dla jeńców. Przeniesienie jej lamentu nad Betlejem opiera się na tradycji z Rdz 35,19, kładącej jej grób w drodze do Efraty."
+      ],
+      [
+       "Jr 31,16–17 → w. 17–18",
+       "Tło nieprzytoczone, a rozstrzygające. Dwa wiersze po cytowanym Jeremiasz obiecuje płaczącej matce zapłatę za trud i powrót dzieci z ziemi wroga. Mateusz urywa cytat przed pociechą, lecz w w. 21 pokazuje jedno dziecko wracające z ziemi wroga. Czytelnik znający proroka słyszy w tym odpowiedź, której tekst nie wypowiada."
+      ],
+      [
+       "Jr 40,1 → w. 17–18",
+       "Tło topograficzne. W Ramie Nebuzaradan trzymał jeńców przeznaczonych do uprowadzenia i tam zwolnił Jeremiasza z kajdan. Rama jest więc w Piśmie miejscem rozstania z krajem, a nie miejscem bitwy czy rzezi; to dlatego u proroka płacz jest płaczem po żywych, którzy odeszli, a u Mateusza staje się płaczem po umarłych."
+      ],
+      [
+       "Rdz 35,16–20 → w. 17–18",
+       "Tło dla przeniesienia lamentu. Rachel umiera przy porodzie Beniamina w drodze do Efraty i tam zostaje pogrzebana; Rdz 48,7 powtarza tę lokalizację. Mi 5,1 utożsamia Efratę z Betlejem, a zatem w tradycji, z której Mateusz korzysta, grób płaczącej matki leży nad miejscem rzezi."
+      ],
+      [
+       "1 Sm 10,2 → w. 17–18",
+       "Tradycja rozbieżna, którą trzeba podać. Samuel wskazuje Saulowi grób Racheli przy Selsach, na terytorium Beniamina, czyli w okolicy Ramy. Dwie lokalizacje grobu nigdy nie zostały w Piśmie uzgodnione, a Mateusz posługuje się tą, która służy Betlejem."
+      ],
+      [
+       "Wj 1,15–22 → w. 16",
+       "Typologia najwyraźniejsza w perykopie. Faraon, który boi się rosnącego ludu, każe zabijać chłopców hebrajskich, a córki zostawiać; Mateusz zmienia w w. 16 słowo z παιδίον na παῖδας właśnie w tym punkcie, mówiąc o chłopcach. Figurą jest faraon, wypełnieniem Herod — i to wypełnienie jest wypełnieniem zła, nie obietnicy."
+      ],
+      [
+       "Wj 2,15 → w. 13",
+       "Paralela ucieczki. Mojżesz, któremu grozi śmierć z ręki faraona, ucieka do Midianu i tam przebywa aż do śmierci prześladowcy. Układ zdarzeń — zagrożenie, ucieczka za granicę, śmierć króla, rozkaz powrotu — jest u Mateusza ten sam, a rozkaz powrotu dodatkowo cytuje Wj 4,19."
+      ],
+      [
+       "Wj 12,29–42 → w. 14",
+       "Paralela odwrócona. W Egipcie ginie pierworodny każdej rodziny i tej samej nocy Izrael wychodzi; tutaj giną dzieci w Betlejem, a nocą wychodzi jedno dziecko — i wychodzi do Egiptu, nie z niego. Kierunek jest przeciwny, pora ta sama."
+      ],
+      [
+       "1 Krl 11,40 → w. 13",
+       "Paralela polityczna. Jeroboam, zagrożony przez Salomona, uchodzi do Egiptu i wraca po śmierci króla. Egipt jest w tym miejscu dokładnie tym, czym jest u Mateusza: najbliższym schronieniem poza zasięgiem władzy jerozolimskiej, a nie symbolem."
+      ],
+      [
+       "Jr 26,20–23 → w. 13",
+       "Paralela ostrzegająca. Prorok Uriasz ucieka przed Jojakimem do Egiptu, zostaje tam wyśledzony, wydany i zabity. Schronienie, do którego idzie Józef, nie było więc pewne, a Mateusz nie twierdzi, że było — twierdzi tylko, że zostało wskazane."
+      ],
+      [
+       "Jr 42,13–22 → w. 13",
+       "Kontrast. Jeremiasz zabrania resztce po upadku Jerozolimy chodzić do Egiptu i zapowiada jej tam zgubę. Ta sama droga, której prorok zabronił, zostaje w Mt 2,13 nakazana — i to jest jedna z rzeczy, które w tej perykopie najmocniej odsłaniają, że Mateusz nie układa prostych odpowiedniości."
+      ],
+      [
+       "Iz 11,1 → w. 22–23",
+       "Aluzja najmocniejsza przy tytule Nazarejczyka. Prorok zapowiada pęd (נֵצֶר, necer) z pnia Jessego i gałąź z jego korzeni; spółgłoski tego słowa leżą u podstawy nazwy Nazaretu, a treść łączy się z chrystologią królewską rodowodu. Motyw pędu, korzenia i gałęzi wraca u Jeremiasza i Zachariasza, co tłumaczy liczbę mnogą „przez proroków\"."
+      ],
+      [
+       "Sdz 13,5 → w. 22–23",
+       "Aluzja druga, słabsza fonetycznie. O Samsonie powiedziano, że będzie נְזִיר אֱלֹהִים (poświęconym Bogu) od łona matki, a Septuaginta aleksandryjska ma tam ναζιραῖος. Zbieżność z Ναζωραῖος jest uchwytna i starożytni ją znali, lecz Jezus u Mateusza wina nie unika (11,19), więc nazireatu ta formuła nie zapowiada."
+      ],
+      [
+       "Ps 2,1–2 → w. 16",
+       "Aluzja tematyczna. Królowie ziemi zbierają się przeciw Panu i przeciw Jego Pomazańcowi — i to jest jedyny tekst Pisma, który z góry opisuje sytuację rozdziału drugiego jako całość. W Dz 4,25–27 pierwotny Kościół zastosuje ten psalm do Heroda i Piłata; Mateusz psalmu nie cytuje, lecz ustawia scenę po jego myśli."
+      ],
+      [
+       "Mt 1,20.24 → w. 13",
+       "Rozwinięcie wewnątrz Ewangelii. Pierwszy sen Józefa ma dokładnie tę samą budowę: zwiastun Pana, rozkaz „weź\", wykonanie powtarzające czasownik rozkazu. Rozdziały o dzieciństwie są więc zbudowane na czterech powtórzeniach jednej scenki, a nie na następstwie różnych zdarzeń."
+      ],
+      [
+       "Mt 12,14 → w. 13",
+       "Rozwinięcie przez czasownik. Faryzeusze naradzają się, „aby go zgubić\" (ὅπως αὐτὸν ἀπολέσωσιν) — tym samym słowem, którym w w. 13 nazwano zamiar Heroda; w 27,20 arcykapłani namówią tłum do tego samego. Pierwsze postanowienie śmierci w tej księdze pada w rozdziale drugim, a nie w dwudziestym szóstym."
+      ],
+      [
+       "Mt 27,9 → w. 17–18",
+       "Paralela gramatyczna, jedyna w całej księdze. τότε ἐπληρώθη (wtedy wypełniło się) pada u Mateusza dwa razy: tutaj i przy trzydziestu srebrnikach oddanych za pole garncarza. Oba razy chodzi o zbrodnię, oba razy Mateusz nie pisze „aby\", i oba razy cytat przypisany jest Jeremiaszowi — choć zdanie z 27,9 stoi u Zachariasza."
+      ],
+      [
+       "Mt 4,12–16 → w. 22–23",
+       "Rozwinięcie przez to samo słowo i tę samą drogę. Po uwięzieniu Chrzciciela Jezus „usunął się do Galilei\" i osiadł w Kafarnaum, a Mateusz dodaje cytat o Galilei pogan i o świetle dla siedzących w ciemności. Czwarte ἀναχωρέω rozdziału drugiego i to z rozdziału czwartego są jednym ruchem, rozciągniętym na trzydzieści lat."
+      ],
+      [
+       "Mt 13,53–58 → w. 22–23",
+       "Tło dla ceny, jaką kosztuje Nazaret. W swojej ojczyźnie Jezus zostanie odrzucony przez ludzi, którzy znają jego matkę, braci i zawód ojca, i tam nie uczyni wielu znaków z powodu ich niedowiarstwa. Wioska, w której rodzina znalazła bezpieczeństwo, jest zarazem jedynym miejscem w Ewangelii, gdzie moc Jezusa zostaje opisana jako powściągnięta."
+      ],
+      [
+       "Mt 26,71 → w. 22–23",
+       "Rozwinięcie przez tytuł. Na dziedzińcu arcykapłana służąca mówi o Jezusie „Nazarejczyk\", nie znając jego imienia; tytuł z w. 23 wraca więc w scenie zaparcia się Piotra i w ustach kogoś, kto o Jezusie nic nie wie poza tym, skąd jest. W Dz 24,5 tą samą nazwą określone będzie stronnictwo chrześcijan."
+      ],
+      [
+       "Ap 12,1–6 → całość",
+       "Paralela późniejsza. Smok staje przed rodzącą niewiastą, by pożreć jej dziecko, gdy się urodzi; dziecko zostaje porwane do Boga, a niewiasta uchodzi na pustynię, gdzie ma miejsce przygotowane. Apokalipsa czyta tę scenę jako starcie kosmiczne, Mateusz jako zdarzenie polityczne i trzy sny; powiązanie dwóch lektur weszło do ikonografii i do liturgii dnia Niewinnych."
+      ],
+      [
+       "Łk 2,39 → całość",
+       "Paralela rozbieżna, którą trzeba wymienić. U Łukasza rodzina po wypełnieniu obrzędów w świątyni wraca wprost do Nazaretu i o Egipcie nie ma w jego opowiadaniu ani słowa. Dwie relacje o dzieciństwie są w tym punkcie niezależne i nie da się ich uzgodnić bez chronologii, której żadna z nich nie podaje."
+      ]
+     ]
+    },
+    {
+     "type": "recepcja",
+     "title": "Znaczenie w historii i liturgii Kościoła",
+     "body": null,
+     "children": [
+      [
+       "Historia dogmatu: męczennicy, którzy nic nie wybrali",
+       "Perykopa weszła do teologii przez jedno pytanie: w jakim sensie zabite dzieci są męczennikami. Liturgicznie rzecz była rozstrzygnięta wcześniej niż teoretycznie — dzień Niewinnych należy do najstarszych wspomnień kalendarza i jest poświadczony na Zachodzie w czwartym wieku, a kazania Augustyna na ten dzień zakładają kult już ustalony. Dopiero potem przyszło uzasadnienie. Dwie trudności były oczywiste: dzieci nie wyznały wiary i nie były ochrzczone.\n\nOdpowiedź na pierwszą dał Zachód formułą, że wyznały Chrystusa nie mową, lecz śmiercią; myśl tę rozwijają kazania Augustyna i hymny Prudencjusza, a scholastyka ujęła ją przez rozróżnienie zasługi własnej i zasługi otrzymanej (św. Tomasz, *ST* II–II, q. 124, a. 1, ad 1). Odpowiedź na drugą dał pojęciem chrztu krwi: przelanie krwi za Chrystusa sprawia skutek chrztu bez wody, a w dzieciach sprawia go bez ich wiary (*ST* III, q. 66, a. 11–12). Przypadek Niewinnych stał się przez to miejscem klasycznym dla całej nauki o zastąpieniu sakramentu przez męczeństwo, a później argumentem w sporach o losy dzieci umierających bez chrztu.\n\nDruga linia recepcji dogmatycznej wiąże się z ucieczką. Ci, którzy przeczyli prawdziwemu człowieczeństwu Chrystusa, mieli z tą perykopą kłopot niemały: nie da się dobrze opowiedzieć ucieczki kogoś, kto tylko pozornie miał ciało. Ojcowie wykorzystywali to wprost — dziecko, które trzeba wynosić nocą, nie jest zjawą. Loci patrystyczne i scholastyczne wymagają sprawdzenia przy źródłach."
+      ],
+      [
+       "Liturgia",
+       "W rycie rzymskim perykopa rozdzielona jest na dwa dni i podział ten idzie dokładnie po szwie, który Mateusz zaznaczył gramatyką. W święto Świętych Młodzianków, męczenników, 28 grudnia, Ewangelią jest Mt 2,13–18, czyli ucieczka wraz z rzezią i płaczem Racheli. W święto Świętej Rodziny, obchodzone w niedzielę w oktawie Narodzenia, Ewangelią roku A jest Mt 2,13–15.19–23 — ta sama perykopa z wyjętą rzezią. Zachód czyta ją więc dwa razy w ciągu jednego tygodnia: raz jako historię zabitych dzieci, raz jako historię rodziny, która ocalała, i w drugim z tych czytań opuszcza trzy wiersze. Lata B i C Świętej Rodziny mają czytania z Łukasza, a kiedy w danym roku między 25 grudnia a 1 stycznia nie wypada niedziela, święto przenosi się na 30 grudnia.\n\nHymnem Młodzianków w tradycji łacińskiej jest *Salvete flores martyrum* (witajcie, kwiaty męczenników) Prudencjusza, wyjęte z hymnu na Objawienie Pańskie z *Cathemerinon* XII; obraz dzieci jako kwiatów zerwanych przez mróz, zanim zdążyły owocować, przeszedł z niego do całej zachodniej poezji o tym dniu. Szaty w tym święcie są czerwone, lecz nie ma w nim radości pełnej — dawne rubryki zakazywały *Gloria* i *Alleluja*, gdy dzień wypadał w dni powszednie, i ta powściągliwość jest jednym z nielicznych miejsc, gdzie kalendarz oddaje różnicę między męczeństwem wybranym a niewybranym. Z późnej recepcji ludowej należy tu angielska pieśń *Coventry Carol* z szesnastowiecznego misterium, kołysanka śpiewana przez matki z Betlejem.\n\nWschód rozkłada to inaczej, i tę różnicę trzeba podać wprost. W rycie bizantyjskim cała perykopa, Mt 2,13–23, czytana jest w Niedzielę po Narodzeniu Chrystusa — tej samej, w której wspomina się Józefa Oblubieńca, króla Dawida i Jakuba, brata Pańskiego. Wschód trzyma więc razem to, co Zachód rozdzielił na dwa dni, i wiąże perykopę z postacią Józefa, a nie z zabitymi dziećmi. Święte Dzieci z Betlejem mają na Wschodzie własne wspomnienie 29 grudnia, a synaksarion mówi o czternastu tysiącach zabitych — liczba ta jest liturgiczna, nie historyczna, i prawdopodobnie wzięta z Ap 14,1–5. Tradycja syryjska podaje liczby jeszcze wyższe. Osobno stoi ryt koptyjski, dla którego ucieczka do Egiptu jest świętem własnym: Wejście Pana do Egiptu obchodzi się 24 paszons, czyli 1 czerwca, a trasa, którą rodzina miała przejść — Matarija pod Kairem, Deir al-Muharraq w Górnym Egipcie i kilkanaście innych miejsc — jest do dziś szlakiem pielgrzymkowym Kościoła koptyjskiego; w 2017 r. uznano go oficjalnie za drogę pielgrzymią. Sigla Lekcjonarza rzymskiego, zakresy perykop, rubryki typikonu bizantyjskiego, brzmienia hymnów i daty kalendarza koptyjskiego wymagają sprawdzenia w księgach przed publikacją."
+      ],
+      [
+       "Ikonografia i to, czego w tekście nie ma",
+       "Ucieczka do Egiptu jest jednym z nielicznych wątków dzieciństwa, które sztuka opracowała osobno i w dwóch odmianach. Pierwsza, wschodnia, pokazuje Józefa prowadzącego osła i młodego człowieka idącego obok — bywa to utożsamiane z Jakubem, bratem Pańskim, który w bizantyjskim kalendarzu jest wspominany w niedzielę tej perykopy. Osła w tekście Mateusza nie ma. Druga, zachodnia, dodaje scenę odpoczynku w drodze, nieznaną Ewangelii i wziętą z *Ewangelii Pseudo-Mateusza*: stamtąd pochodzi palma schylająca się z owocami i stamtąd pochodzi motyw padających bożków egipskich, dopasowany następnie do Iz 19,1. Rzeź niewiniątek sztuka traktuje przeciwnie — jako okazję do pokazania przemocy bez osłon; od mozaik rzymskich przez Giotta w kaplicy Scrovegnich, przez Bruegela starszego, który przeniósł ją we flamandzką wioskę pod śniegiem i ubrał żołnierzy w zbroje hiszpańskie, aż po Rubensa. Obraz Bruegela jest przy tym świadectwem recepcji politycznej: współcześni rozpoznawali w nim nie Betlejem, lecz represje w Niderlandach.\n\nZ tekstu nie wynika natomiast ani liczba zabitych, ani wiek Jezusa w chwili ucieczki, ani że szli sami. Nie wynika też z niego nic o Egipcie poza nazwą kraju — wszystkie miejsca szlaku koptyjskiego są tradycją miejscową, nie wiadomością ewangelisty. Atrybucje, datowania obrazów i materiał apokryficzny wymagają weryfikacji przy źródłach."
+      ]
+     ]
+    },
+    {
+     "type": "patrystyka",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
+     "body": "Z czterech komentarzy ciągłych do Mateusza przy tej perykopie dostępne są trzy. Grecki komentarz Orygenesa zachował się dopiero od księgi dziesiątej, czyli od Mt 13,36, a łacińska *Series veteris interpretationis* zaczyna się jeszcze później; rozdziału drugiego Orygenes w tym dziele nie komentuje i nie należy mu przypisywać tekstu, którego nie ma. Pozostają Chryzostom, Hieronim i Hilary, a obok nich kazania Augustyna na dzień Niewinnych, bez których nie da się opowiedzieć, jak ta perykopa weszła do myśli Kościoła. Cztery głosy poniżej mają cztery różne przedmioty: Chryzostom pyta, dlaczego ratunek nie był cudem; Hieronim bierze się za cytat z Ozeasza i za tekst hebrajski; Augustyn za śmierć dzieci, które nie mogły nic wyznać; Hilary czyta całą trasę jako zapowiedź przejścia zbawienia do pogan.",
+     "children": []
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "body": "Kopiści poprawiali w tej perykopie jedno miejsce szczególnie chętnie: dopisywali w wierszu o rzezi słowa „przez Pana\", których Mateusz nie napisał. Poprawka jest drobna i zdradza wszystko. Przy ucieczce ewangelista napisał, że stała się, aby wypełniło się Pismo; przy wymordowaniu dzieci napisał tylko, że wtedy Pismo się wypełniło, i sprawcy nie podał. Gdyby kopiści mieli rację, Ewangelia mówiłaby, że dzieci w Betlejem umarły, aby spełniło się proroctwo. Tekst krytyczny tego nie mówi — i ta różnica jednego spójnika jest w tych jedenastu wierszach rzeczą najważniejszą. Po jednej jej stronie stoi syn wezwany z Egiptu, zdanie wzięte z hebrajskiego przeciw greckiemu przekładowi, bo tylko po hebrajsku ten syn jest jeden. Po drugiej imię wzięte od wioski, której nie zna żadne proroctwo, podparte prorokami w liczbie mnogiej i cytatem, którego nie ma.\n\nPismo spełniło się tam jako płacz. Mateusz wybrał na tę chwilę nie wyrok i nie wyjaśnienie, lecz zdanie o matce, która nie daje się pocieszyć, i urwał je przed wierszem, w którym Jeremiasz obiecuje, że dzieci wrócą z ziemi wroga. Obietnicy tej nie przytoczył ani razu. Pokazał ją natomiast: dwa wiersze dalej jedno dziecko wraca z ziemi wroga, i jest to jedyna pociecha, jaką cała perykopa podaje. Jedno na dwadzieścia albo trzydzieści.\n\nReszta jest ruchem. Cztery razy ktoś się usuwa, trzy razy ktoś słucha w nocy, raz się boi i raz nie mówi nic, bo Józef w tej Ewangelii nie wypowiada żadnego zdania. Droga, którą przechodzi, jest drogą narodu odtworzoną przez jedną rodzinę — do Egiptu, z Egiptu, przez lęk w stronę, w którą wypycha przemoc — a na jej końcu nie stoi ani Jerozolima, ani Betlejem, lecz wioska bez przeszłości, o sześciu kilometrach od stolicy Galilei i o niczym w Piśmie. Od jej nazwy weźmie się tytuł, pod którym służąca w pałacu arcykapłana rozpozna oskarżonego, i nazwa, pod którą pójdą jego uczniowie. Rodowód zaczynał się od Abrahama i Dawida; rozdział drugi kończy się nazwiskiem z Nazaretu.",
+     "children": []
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "body": "*Tekst grecki wedle wydania krytycznego Nestle-Aland, pobrany z `db.sqlite` (księga 470) wraz z Wulgatą klementyńską, morfologią MorphGNT i aparatem; znaki aparatu (`⸆`, `⸂`, `⸃`, `⸉`, `⸊`, `⸀`) usunięte z zapisu perykopy, grecka zapisana w formie złożonej. Przekład polski jest roboczy, własny i celowo dosłowny; przekład międzywierszowy Popowskiego-Wojciechowskiego z `db.sqlite` posłużył wyłącznie do kontroli interlinii. Dziesięć not tekstualnych odpowiada dziesięciu wpisom aparatu dla Mt 2,13–23 i nie wychodzi poza nie.*\n\n*Treści patrystyczne pisane z pamięci, parafrazami, bez dostępu do źródeł. Loci wedle standardowej numeracji i do weryfikacji: numeracja homilii Chryzostoma do Mt 2,13–23, miejsce w komentarzu Hieronima, locus Hilarego podany bez sygnatury rozdziałowej, bo numeracji jego komentarza do Mt 2 nie podaję z pamięci, kazania Augustyna na dzień Niewinnych oraz brzmienie formuły o wyznaniu śmiercią, a nie mową. Do sprawdzenia także: liczby i loci Flawiusza (Ant. XVII,168–192.213–218.317–320; Ant. II,205–216), szacunek Filona dotyczący liczby Żydów w Egipcie, datowanie i treść inskrypcji z Cezarei Nadmorskiej, dane z wykopalisk w Nazarecie, sigla Lekcjonarza rzymskiego dla 28 grudnia i święta Świętej Rodziny, rubryki typikonu bizantyjskiego dla Niedzieli po Narodzeniu i dla 29 grudnia, data i stan szlaku koptyjskiego oraz loci Tomasza (ST I, q. 1, a. 10; q. 22, a. 3; q. 48, a. 1–3; II–II, q. 124, a. 1, ad 1; III, q. 66, a. 11–12).*\n\n*Granica perykopy wzięta z tabeli delimitacji w `README.md` (wiersz 4, Mt 2,13–23) i nieruszona. Uwaga do tej delimitacji: podział rzymski rozcina ten zakres na 2,13–18 i 2,19–23, a Mateuszowa gramatyka istotnie stawia szew po w. 18. Zakres jedenastowierszowy pozostaje jednak lepszy, bo tylko w nim widać trzy formuły wypełnienia obok siebie, a to one są osią perykopy; przesuwać granicy nie ma potrzeby.*",
+     "children": []
+    }
+   ],
+   "refs": [
+    [
+     [
+      "unit",
+      "w. 14–15",
+      5
+     ],
+     "Oz",
+     11,
+     1,
+     11,
+     1,
+     "Oz 11,1",
+     "cytat",
+     "Cytat dosłowny z tekstu hebrajskiego, nie z Septuaginty: hebrajski ma syna w liczbie pojedynczej i pierwszą osobę, grecki przekład dzieci w liczbie mnogiej i trzecią osobę. Tylko wersja hebrajska pozwala odnieść zdanie do jednej osoby."
+    ],
+    [
+     [
+      "unit",
+      "w. 14–15",
+      5
+     ],
+     "Oz",
+     11,
+     2,
+     11,
+     2,
+     "Oz 11,2",
+     "tlo",
+     "Werset następny u proroka mówi o odstępstwie wezwanego syna: Ozeasz wspomina wyjście, żeby wyrzucać niewierność. Mateusz nie usuwa tego kontekstu, lecz stwierdza, że ten jeden przechodzi drogę narodu bez jego niewierności."
+    ],
+    [
+     [
+      "unit",
+      "w. 19–21",
+      3
+     ],
+     "Wj",
+     4,
+     19,
+     4,
+     19,
+     "Wj 4,19",
+     "cytat",
+     "Przytoczenie nieoznaczone i najdokładniejsze w perykopie: Pan mówi do Mojżesza w Midianie, że pomarli wszyscy czyhający na jego życie. Mateusz zmienia tylko adresata, a zachowuje liczbę mnogą, choć umarł jeden Herod — i ta niezgodność liczby jest dowodem cytatu."
+    ],
+    [
+     [
+      "unit",
+      "w. 16",
+      3
+     ],
+     "Wj",
+     1,
+     15,
+     1,
+     22,
+     "Wj 1,15–22",
+     "typologia",
+     "Figurą jest faraon, który z lęku przed rosnącym ludem każe zabijać chłopców hebrajskich, a córki zostawiać; wypełnieniem Herod. Mateusz podkreśla odpowiedniość zmianą słowa: dzieci nazywa tu παῖδας, w rodzaju męskim, choć o Jezusie mówi w całym rozdziale παιδίον."
+    ],
+    [
+     [
+      "unit",
+      "w. 13",
+      3
+     ],
+     "Wj",
+     2,
+     15,
+     2,
+     15,
+     "Wj 2,15",
+     "paralela",
+     "Mojżesz, któremu grozi śmierć z ręki faraona, uchodzi do Midianu i przebywa tam do śmierci prześladowcy. Układ zdarzeń jest u Mateusza ten sam: zagrożenie, ucieczka za granicę, śmierć króla, rozkaz powrotu."
+    ],
+    [
+     [
+      "unit",
+      "w. 14–15",
+      1
+     ],
+     "Wj",
+     12,
+     29,
+     12,
+     42,
+     "Wj 12,29–42",
+     "kontrast",
+     "W Egipcie giną pierworodni i tej samej nocy Izrael wychodzi. Tutaj giną dzieci w Betlejem, a nocą wychodzi jedno dziecko — i wychodzi do Egiptu, nie z niego. Pora ta sama, kierunek przeciwny."
+    ],
+    [
+     [
+      "unit",
+      "w. 17–18",
+      2
+     ],
+     "Jr",
+     31,
+     15,
+     31,
+     15,
+     "Jr 31,15",
+     "cytat",
+     "Cytat z formułą, znów bliższy hebrajskiemu: „nie chciała zostać pocieszona\" idzie za מֵאֲנָה לְהִנָּחֵם, podczas gdy Septuaginta ma „nie chciała przestać\". U proroka Rachel płacze nad uprowadzeniem do Babilonu."
+    ],
+    [
+     [
+      "unit",
+      "w. 17–18",
+      4
+     ],
+     "Jr",
+     31,
+     16,
+     31,
+     17,
+     "Jr 31,16–17",
+     "rozwiniecie",
+     "Tło nieprzytoczone i rozstrzygające: dwa wiersze po cytowanym prorok obiecuje płaczącej matce zapłatę za trud i powrót dzieci z ziemi wroga. Mateusz urywa cytat przed pociechą, a pokazuje ją czynem w w. 21."
+    ],
+    [
+     [
+      "unit",
+      "w. 17–18",
+      2
+     ],
+     "Jr",
+     40,
+     1,
+     40,
+     1,
+     "Jr 40,1",
+     "tlo",
+     "W Ramie Nebuzaradan trzymał jeńców przeznaczonych do uprowadzenia i tam zwolnił Jeremiasza z kajdan. Rama jest więc w Piśmie miejscem rozstania z krajem, nie miejscem rzezi."
+    ],
+    [
+     [
+      "unit",
+      "w. 17–18",
+      3
+     ],
+     "Rdz",
+     35,
+     16,
+     35,
+     20,
+     "Rdz 35,16–20",
+     "tlo",
+     "Rachel umiera przy porodzie Beniamina w drodze do Efraty i tam zostaje pogrzebana; Rdz 48,7 powtarza tę lokalizację, a Mi 5,1 utożsamia Efratę z Betlejem. Na tej tradycji opiera się przeniesienie lamentu nad miejsce rzezi."
+    ],
+    [
+     [
+      "unit",
+      "w. 17–18",
+      3
+     ],
+     "1 Sm",
+     10,
+     2,
+     10,
+     2,
+     "1 Sm 10,2",
+     "kontrast",
+     "Samuel wskazuje Saulowi grób Racheli przy Selsach, w granicach Beniamina, czyli w okolicy Ramy. Dwie lokalizacje grobu nigdy nie zostały w Piśmie uzgodnione, a Mateusz posługuje się tą, która służy Betlejem."
+    ],
+    [
+     [
+      "unit",
+      "w. 17–18",
+      1
+     ],
+     "Jr",
+     31,
+     31,
+     31,
+     34,
+     "Jr 31,31–34",
+     "tlo",
+     "Mowa o nowym przymierzu stoi w tym samym rozdziale Jeremiasza, z którego pochodzi lament Racheli, i kilkanaście wierszy po nim. Mateusz cytuje rozdział o pocieszeniu w jego jednym miejscu rozpaczliwym."
+    ],
+    [
+     [
+      "unit",
+      "w. 13",
+      3
+     ],
+     "1 Krl",
+     11,
+     40,
+     11,
+     40,
+     "1 Krl 11,40",
+     "paralela",
+     "Jeroboam, zagrożony przez Salomona, uchodzi do Egiptu i wraca po śmierci króla. Egipt jest tu dokładnie tym, czym u Mateusza: najbliższym schronieniem poza zasięgiem władzy jerozolimskiej."
+    ],
+    [
+     [
+      "unit",
+      "w. 13",
+      3
+     ],
+     "Jr",
+     26,
+     20,
+     26,
+     23,
+     "Jr 26,20–23",
+     "paralela",
+     "Prorok Uriasz ucieka przed Jojakimem do Egiptu, zostaje tam wyśledzony, wydany i zabity. Schronienie, do którego idzie Józef, nie było pewne — Mateusz twierdzi tylko, że zostało wskazane."
+    ],
+    [
+     [
+      "unit",
+      "w. 13",
+      3
+     ],
+     "Jr",
+     42,
+     13,
+     42,
+     22,
+     "Jr 42,13–22",
+     "kontrast",
+     "Jeremiasz zabrania resztce po upadku Jerozolimy chodzić do Egiptu i zapowiada jej tam zgubę. Ta sama droga, której prorok zabronił, zostaje w Mt 2,13 nakazana."
+    ],
+    [
+     [
+      "unit",
+      "w. 22–23",
+      6
+     ],
+     "Iz",
+     11,
+     1,
+     11,
+     1,
+     "Iz 11,1",
+     "aluzja",
+     "Najmocniejsze oparcie dla tytułu Nazarejczyka: prorok zapowiada נֵצֶר (necer, pęd) z pnia Jessego, a spółgłoski tego słowa leżą u podstawy nazwy Nazaretu. Treść wiąże się przy tym z chrystologią królewską rodowodu."
+    ],
+    [
+     [
+      "unit",
+      "w. 22–23",
+      6
+     ],
+     "Sdz",
+     13,
+     5,
+     13,
+     7,
+     "Sdz 13,5.7",
+     "aluzja",
+     "Druga możliwość, słabsza fonetycznie: o Samsonie powiedziano, że będzie נְזִיר אֱלֹהִים (poświęconym Bogu) od łona matki, a Septuaginta aleksandryjska ma tam ναζιραῖος. Jezus u Mateusza wina jednak nie unika (11,19)."
+    ],
+    [
+     [
+      "unit",
+      "w. 16",
+      1
+     ],
+     "Ps",
+     2,
+     1,
+     2,
+     2,
+     "Ps 2,1–2",
+     "aluzja",
+     "Królowie ziemi zbierają się przeciw Panu i przeciw Jego Pomazańcowi — jedyny tekst Pisma opisujący z góry sytuację całego rozdziału drugiego. Mateusz psalmu nie cytuje, lecz ustawia scenę po jego myśli."
+    ],
+    [
+     [
+      "unit",
+      "w. 13",
+      2
+     ],
+     "Mt",
+     1,
+     20,
+     1,
+     24,
+     "Mt 1,20.24",
+     "paralela",
+     "Pierwszy sen Józefa ma dokładnie tę samą budowę: zwiastun Pana, rozkaz „weź\", wykonanie powtarzające czasownik rozkazu. Rozdziały o dzieciństwie stoją na czterech powtórzeniach jednej scenki."
+    ],
+    [
+     [
+      "unit",
+      "w. 13",
+      6
+     ],
+     "Mt",
+     12,
+     14,
+     12,
+     14,
+     "Mt 12,14",
+     "rozwiniecie",
+     "Faryzeusze naradzają się, „aby go zgubić\" (ὅπως αὐτὸν ἀπολέσωσιν) — tym samym czasownikiem, którym nazwano zamiar Heroda; w 27,20 arcykapłani namówią do tego tłum. Pierwsze postanowienie śmierci pada w rozdziale drugim."
+    ],
+    [
+     [
+      "unit",
+      "w. 17–18",
+      0
+     ],
+     "Mt",
+     27,
+     9,
+     27,
+     10,
+     "Mt 27,9–10",
+     "paralela",
+     "Jedyna paralela gramatyczna w całej księdze: τότε ἐπληρώθη pada u Mateusza dwa razy — tutaj i przy trzydziestu srebrnikach oddanych za pole garncarza. Oba razy chodzi o zbrodnię i oba razy cytat przypisany jest Jeremiaszowi."
+    ],
+    [
+     [
+      "unit",
+      "w. 22–23",
+      3
+     ],
+     "Mt",
+     4,
+     12,
+     4,
+     16,
+     "Mt 4,12–16",
+     "rozwiniecie",
+     "Po uwięzieniu Chrzciciela Jezus „usunął się do Galilei\" tym samym czasownikiem i osiadł w Kafarnaum tym samym κατοικέω, a Mateusz dodaje cytat o Galilei pogan i o świetle dla siedzących w ciemności."
+    ],
+    [
+     [
+      "unit",
+      "w. 22–23",
+      4
+     ],
+     "Mt",
+     13,
+     53,
+     13,
+     58,
+     "Mt 13,53–58",
+     "tlo",
+     "W swojej ojczyźnie Jezus zostanie odrzucony przez ludzi, którzy znają jego matkę, braci i zawód ojca, i tam nie uczyni wielu znaków z powodu ich niedowiarstwa. Nazaret jest jedynym miejscem Ewangelii, w którym jego moc opisano jako powściągniętą."
+    ],
+    [
+     [
+      "unit",
+      "w. 22–23",
+      6
+     ],
+     "Mt",
+     26,
+     71,
+     26,
+     71,
+     "Mt 26,71",
+     "rozwiniecie",
+     "Na dziedzińcu arcykapłana służąca mówi o Jezusie „Nazarejczyk\", nie znając jego imienia. Tytuł z w. 23 wraca w scenie zaparcia się Piotra i w ustach kogoś, kto wie o nim tylko tyle, skąd jest."
+    ],
+    [
+     [
+      "unit",
+      "w. 22–23",
+      6
+     ],
+     "Dz",
+     24,
+     5,
+     24,
+     5,
+     "Dz 24,5",
+     "rozwiniecie",
+     "Tertullus przed Feliksem nazywa Pawła przywódcą „stronnictwa nazarejczyków\" — τῶν Ναζωραίων αἱρέσεως. Tytuł z 2,23 staje się nazwą grupy, a w hebrajskim נוֹצְרִים (nocrim) pozostał zwyczajną nazwą chrześcijan do dziś."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ap",
+     12,
+     1,
+     12,
+     6,
+     "Ap 12,1–6",
+     "paralela",
+     "Smok staje przed rodzącą niewiastą, by pożreć jej dziecko, a niewiasta uchodzi na pustynię, gdzie ma miejsce przygotowane. Apokalipsa czyta tę scenę jako starcie kosmiczne, Mateusz jako sprawę polityczną i trzy sny; połączenie obu lektur weszło do ikonografii i do liturgii dnia Niewinnych."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Łk",
+     2,
+     39,
+     2,
+     39,
+     "Łk 2,39",
+     "kontrast",
+     "U Łukasza rodzina po wypełnieniu obrzędów w świątyni wraca wprost do Nazaretu i o Egipcie nie ma w jego relacji ani słowa. Obie opowieści o dzieciństwie są w tym punkcie niezależne i nie da się ich uzgodnić bez chronologii, której żadna nie podaje."
+    ],
+    [
+     [
+      "unit",
+      "w. 19–21",
+      2
+     ],
+     "Lb",
+     14,
+     24,
+     14,
+     30,
+     "Lb 14,24.30",
+     "aluzja",
+     "εἰσέρχομαι z nazwą kraju jest w Septuagincie słowem wejścia do Ziemi Obiecanej: tak mówi się o tych, którzy wejdą, i o tych, którzy nie wejdą. Mateusz pisze w w. 21 nie o powrocie, lecz o wejściu, i lekcja ta jest najlepiej poświadczona."
+    ]
+   ],
+   "patristic": [
+    [
+     "w. 13",
+     "św. Jan Chryzostom",
+     "Homiliae in Matthaeum",
+     "Hom. in Mt. 8",
+     "Chryzostom zaczyna od zarzutu, który stawiali mu słuchacze: skoro Bóg mógł zabić Heroda albo odjąć mu władzę, dlaczego kazał dziecku uciekać. Odpowiada, że tak postępuje Bóg z wszystkimi swoimi i że ucieczka jest pierwszą lekcją dla tych, których czeka prześladowanie — gdyby ratunek przychodził zawsze cudem, nikt z późniejszych wyznawców nie miałby wzoru do naśladowania, bo cudu naśladować się nie da. Ucieczka jest więc pokazana jako rzecz dozwolona, a nie jako brak ufności, i Chryzostom wyciąga stąd regułę praktyczną: nie czekaj na znak tam, gdzie wystarczy wyjść. Drugi jego akcent dotyczy Józefa. Kaznodziei imponuje, że ten człowiek nie pyta o nic — ani po co Egipt, ani na jak długo, ani dlaczego Bóg nie urządził tego inaczej — i że rusza w nocy. Przy końcu Chryzostom zestawia pałac z drogą: ten, który ma władzę nad wszystkim, jest wynoszony w ramionach cieśli, a ten, kto ma w rękach wojsko, boi się dziecka."
+    ],
+    [
+     "w. 14–15",
+     "św. Hieronim",
+     "Commentariorum in Matthaeum libri IV",
+     "In Mt. I ad 2,15",
+     "Hieronim jako jedyny z łacińskich komentatorów Mateusza pracuje przy tekście hebrajskim i dlatego zauważa to, czego inni nie mogli zauważyć: cytat z Ozeasza nie zgadza się z Septuagintą, a zgadza się z hebrajskim, i ewangelista musiał czytać po hebrajsku albo korzystać z kogoś, kto czytał. Nie udaje przy tym, że problem odniesienia nie istnieje. U proroka synem wezwanym z Egiptu jest Izrael — Hieronim to przyznaje i rozwiązuje przez stosunek głowy do ciała: co powiedziano o ludzie, mówi się o Tym, w którym lud się zawiera, bo inaczej żadne proroctwo o Izraelu nie mogłoby być proroctwem o Chrystusie. Drugi jego akcent dotyczy Egiptu i jest u niego stale obecny: kraj, który był domem niewoli, staje się schronieniem, a ten, kto wyprowadził lud z Egiptu, sam musi tam zejść — odwrócenie, w którym Hieronim widzi regułę Bożego postępowania, a nie wyjątek."
+    ],
+    [
+     "w. 16",
+     "św. Augustyn",
+     "Sermones",
+     "Serm. in Natali Innocentium",
+     "Augustyn mówi o dzieciach z Betlejem w kazaniach na ich dzień i zajmuje się jedną trudnością: jak nazwać męczennikami tych, którzy nie wiedzieli, za kogo umierają. Odpowiada, że wyznały Chrystusa nie mową, lecz śmiercią, i że wiek, który nie pozwalał im mówić, nie przeszkodził im świadczyć — bo świadectwo jest tu w tym, co się z nimi stało, nie w tym, co zrobiły. Stąd obraz, który u niego wraca: te dzieci są pierwszymi kwiatami Kościoła, zerwanymi przez mróz prześladowania przed czasem owocowania. Drugi akcent dotyczy Heroda, i jest ostry: okrucieństwo, które miało zniszczyć Króla, posłużyło do ozdobienia Jego dworu; kto nienawidził, nieświadomie służył. Augustyn nie czyni z tego wyjaśnienia śmierci dzieci i nie powiada, że musiały umrzeć — powiada tylko, co z ich śmierci Bóg uczynił. Brzmienie formuły o wyznaniu śmiercią, a nie mową, wymaga sprawdzenia przy źródłach."
+    ],
+    [
+     "w. 22–23",
+     "św. Hilary z Poitiers",
+     "Commentarius in Matthaeum",
+     "In Mt. 1",
+     "Hilary czyta cały rozdział drugi figuralnie i czyta go jako dzieje zbawienia w skrócie. Dziecko wypchnięte z Judei przez króla Judei jest u niego Chrystusem odrzuconym przez swoich i przyjętym przez pogan; Egipt, czyli naród, który Prawo trzymało z dala, przyjmuje Tego, którego własny kraj chciał zabić, i dlatego powrót nie prowadzi już do Judei. Wejście do Galilei ma u Hilarego znaczenie dokładne: tam mieszkają ludzie mieszani i tam Ewangelia ruszy, bo Judea w rozdziale drugim swoją szansę już miała i wybrała Archelaosa. Nazaret wykłada przez etymologię — miasto pędu, czyli miasto odrośli z korzenia Jessego — i w tym punkcie zgadza się z łacińską tradycją objaśniania imion hebrajskich, do której Hieronim dołoży osobny słownik. Lektura jest u Hilarego konsekwentnie alegoryczna i to jej granica: o Archelaosie i o tym, co działo się w Judei po roku 4 przed Chrystusem, nie dowiemy się od niego niczego."
+    ]
+   ],
+   "textual": [
+    [
+     13,
+     "φαίνεται κατʼ ὄναρ",
+     "szyk wyrazów i czas gramatyczny",
+     "Tekst krytyczny: φαίνεται κατ᾽ ὄναρ (ℵ, D, większość). Przestawienie κατ᾽ ὄναρ φαίνεται: C, K, 33, 700, 892 i nieliczne inne. Kodeks Watykański (B) wraz z tradycją saidzką i środkowoegipską: κατ᾽ ὄναρ ἐφάνη, czyli aoryst zamiast czasu teraźniejszego.",
+     "Lekcja tekstu krytycznego jest trudniejsza i dlatego pierwotna: praesens historicum w opowiadaniu o przeszłości kopista naturalnie wygładza, nie wprowadza. Wariant kodeksu B jest wyrównaniem do 1,20, gdzie stoi ἐφάνη, i to samo wyrównanie wraca w w. 19 — dwa niezależne miejsca poprawione w ten sam sposób wskazują na zabieg redakcyjny skryby, nie na archetyp."
+    ],
+    [
+     13,
+     "αὐτῶν",
+     "dodatek",
+     "Kodeks Watykański (B) dopisuje po αὐτῶν wyrażenie εἰς τὴν χώραν αὐτῶν (do swojego kraju), wzięte z 2,12. Żaden inny ważny świadek dodatku nie ma.",
+     "Dopisek jest harmonizacją wewnętrzną: genetivus absolutus w w. 13 odsyła do odejścia magów z w. 12, a skryba uzupełnił kierunek, który Mateusz pozostawił domyślny. Lekcja odrzucona, lecz pokazuje, że starożytny czytelnik szwu między perykopami nie przeoczył."
+    ],
+    [
+     15,
+     "διὰ τοῦ προφήτου",
+     "dodatek — imię proroka",
+     "Syryjski rękopis sinajski (sy-s) dopisuje τοῦ στόματος Ἠσαΐου (usta Izajasza). Pozostali świadkowie mają proroka nienazwanego.",
+     "Dodatek jest wtórny i zarazem pouczający: tłumacz albo kopista czuł brak imienia i wstawił proroka, którego Mateusz cytuje najczęściej — a cytat pochodzi od Ozeasza. Mateusz zostawia tu anonim zapewne dlatego, że sama formuła ὑπὸ κυρίου διὰ τοῦ προφήτου kładzie nacisk na sprawcę, nie na pośrednika."
+    ],
+    [
+     16,
+     "ἀπὸ διετοῦς καὶ κατωτέρω",
+     "wariant lekcji",
+     "Kodeks Bezy w pierwotnej ręce (D*): διετίας καὶ κάτω (od dwulecia i w dół). Pozostali świadkowie: διετοῦς καὶ κατωτέρω.",
+     "Wariant zamienia przymiotnik o dziecku na rzeczownik abstrakcyjny o czasie i upraszcza stopień wyższy przysłówka. Lekcja odrzucona; przesuwa jednak miarę z osoby na okres, a to zmienia sens zdania o tyle, że zakres rzezi przestaje być określony wiekiem zabijanych."
+    ],
+    [
+     17,
+     "τὸ ῥηθὲν",
+     "dodatek — sprawca wypełnienia",
+     "Kodeks Bezy (D) i starołaciński kodeks z Aureus (aur) dopisują ὑπὸ κυρίου (przez Pana). Pozostali świadkowie dodatku nie mają.",
+     "Najważniejsza nota tekstualna tej perykopy. Dopisek wyrównuje w. 17 do formuł z 1,22 i 2,15, a tym samym czyni Pana sprawcą tego, co się wypełniło przy rzezi. Mateusz tego nie napisał i w ogóle przy zbrodniach pisze τότε ἐπληρώθη bez wskazania sprawcy (tu i w 27,9). Lekcja odrzucona, lecz pokazuje, że różnicę między ἵνα i τότε starożytni odczuwali jako lukę — i że próbowali ją domknąć w stronę, której tekst krytyczny nie potwierdza."
+    ],
+    [
+     18,
+     "κλαυθμὸς καὶ ὀδυρμὸς πολύς",
+     "harmonizacja z Septuagintą",
+     "Dodatek θρῆνος καί (żałobna pieśń i) przed κλαυθμός: C, D, L, W, 0233, f13, 33, większość bizantyjska i trzy wersje syryjskie. Tekst krytyczny bez dodatku: ℵ, B, Z, 0250, f1, lekcjonarz 2211, tradycja łacińska, syryjska peszitta, koptyjska — oraz Justyn Męczennik.",
+     "Dodatek pochodzi z Jr 38,15 w Septuagincie, gdzie stoi θρήνου καὶ κλαυθμοῦ καὶ ὀδυρμοῦ, i jest klasycznym przykładem wyrównywania Mateusza do tekstu greckiego Starego Testamentu. Lekcja krótsza jest pierwotna i ma poparcie Justyna, czyli świadka z połowy drugiego wieku. Rzecz waży dla całej perykopy: pierwotny Mateusz stoi tu bliżej hebrajskiego niż Septuaginty, a kopiści systematycznie przesuwali go w stronę greki."
+    ],
+    [
+     19,
+     "φαίνεται κατʼ ὄναρ",
+     "szyk wyrazów",
+     "Przestawienie na κατ᾽ ὄναρ φαίνεται: C, L, W, 0233, 33 i większość bizantyjska. Tekst krytyczny: ℵ, B, D, Z, 0250, f1.13, lekcjonarz 2211.",
+     "To samo przestawienie co w w. 13 i w tej samej grupie rękopisów — co potwierdza, że chodzi o nawyk redakcyjny, nie o dwa niezależne warianty. Tekst krytyczny zachowuje w obu wierszach identyczne brzmienie, a identyczność jest w tej perykopie środkiem kompozycyjnym: dwa objawienia mają być zapisane tak samo."
+    ],
+    [
+     21,
+     "εἰσῆλθεν",
+     "wariant lekcji",
+     "Tekst krytyczny: εἰσῆλθεν (wszedł) — ℵ, B, C i nieliczne inne, poparte częściowo tradycją bohairską. ἦλθεν (przyszedł): D, L, W, 0233, 0250, f1.13, 33 i większość bizantyjska. ἐπανῆλθεν (powrócił): tradycja saidzka i Euzebiusz.",
+     "Lekcja tekstu krytycznego jest najmocniej poświadczona i zarazem najbardziej znacząca: εἰσέρχομαι z nazwą kraju to w Septuagincie słowo wejścia do Ziemi Obiecanej. Oba warianty osłabiają je w tym samym kierunku — ku zwykłemu przybyciu albo wprost ku powrotowi do domu — i oba zacierają to, że Mateusz opisuje wejście, a nie powrót."
+    ],
+    [
+     22,
+     "τοῦ πατρὸς αὐτοῦ Ἡρῴδου",
+     "szyk wyrazów",
+     "Przestawienie na Ἡρῴδου τοῦ πατρὸς αὐτοῦ (Heroda, ojca swego): C3, D, L, 0233, 0250, f1.13, 33, większość bizantyjska, cała tradycja łacińska, Euzebiusz. Tekst krytyczny: ℵ, B, C*, W.",
+     "Różnica dotyczy wyłącznie kolejności i nie zmienia sensu; warto ją odnotować, bo wariant przestawiony stoi za brzmieniem Wulgaty (*pro Herode patre suo*), a więc za całą zachodnią tradycją czytania tego wiersza."
+    ],
+    [
+     23,
+     "Ναζαρέτ",
+     "wariant pisowni nazwy",
+     "Tekst krytyczny: Ναζαρέτ — ℵ, B, D, L, 33, 700, 892, 1241, 1424, lekcjonarz 2211 i część rękopisów bizantyjskich. Ναζαρέθ: C, K, N, W, Γ, (Δ), 0233 w lekcji marginalnej, 0250, f1.13, 565, część bizantyjskich, tradycja łacińska i koptyjska. Ναζαρά: papirus 𝔓70 (lekcja prawdopodobna) i Euzebiusz.",
+     "Trzy formy nazwy są poświadczone i żadna nie da się wyprowadzić z pozostałych przez zwykły błąd. Rzecz ma znaczenie dla etymologii tytułu Ναζωραῖος: forma Ναζαρά, którą ma najstarszy świadek tego miejsca i którą zna Euzebiusz w *Onomasticonie*, ułatwia wyprowadzenie tytułu z nazwy miejscowej, bo tłumaczy samogłoskę drugiej sylaby. Ocena lekcji i datowanie 𝔓70 wymagają sprawdzenia przy źródłach."
+    ]
+   ],
+   "theme_links": [
+    [
+     "nowy Mojżesz i powtórzone wyjście",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "nowy Mojżesz i powtórzone wyjście",
+     [
+      "block",
+      "w. 16"
+     ]
+    ],
+    [
+     "nowy Mojżesz i powtórzone wyjście",
+     [
+      "unit",
+      "w. 19–21",
+      3
+     ]
+    ],
+    [
+     "nowy Mojżesz i powtórzone wyjście",
+     [
+      "section",
+      "Autor ludzki: kim jest i co chce przekazać"
+     ]
+    ],
+    [
+     "wypełnienie przez zbrodnię",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "wypełnienie przez zbrodnię",
+     [
+      "block",
+      "w. 17–18"
+     ]
+    ],
+    [
+     "wypełnienie przez zbrodnię",
+     [
+      "unit",
+      "w. 17–18",
+      0
+     ]
+    ],
+    [
+     "wypełnienie przez zbrodnię",
+     [
+      "section",
+      "Autor Boży: co Duch Święty chce przekazać"
+     ]
+    ],
+    [
+     "formuły wypełnienia",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "formuły wypełnienia",
+     [
+      "block",
+      "w. 14–15"
+     ]
+    ],
+    [
+     "formuły wypełnienia",
+     [
+      "unit",
+      "w. 22–23",
+      5
+     ]
+    ],
+    [
+     "Nazaret i tytuł Nazarejczyka",
+     [
+      "block",
+      "w. 22–23"
+     ]
+    ],
+    [
+     "Nazaret i tytuł Nazarejczyka",
+     [
+      "unit",
+      "w. 22–23",
+      6
+     ]
+    ],
+    [
+     "Nazaret i tytuł Nazarejczyka",
+     [
+      "section",
+      "Nazaret: co wiadomo z wykopalisk"
+     ]
+    ],
+    [
+     "usunięcie się przed przemocą",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "usunięcie się przed przemocą",
+     [
+      "unit",
+      "w. 13",
+      0
+     ]
+    ],
+    [
+     "usunięcie się przed przemocą",
+     [
+      "unit",
+      "w. 22–23",
+      3
+     ]
+    ],
+    [
+     "Józef: posłuszeństwo bez słowa",
+     [
+      "block",
+      "w. 13"
+     ]
+    ],
+    [
+     "Józef: posłuszeństwo bez słowa",
+     [
+      "unit",
+      "w. 14–15",
+      0
+     ]
+    ],
+    [
+     "Józef: posłuszeństwo bez słowa",
+     [
+      "section",
+      "Józef jako postać redakcyjna"
+     ]
+    ],
+    [
+     "sny i objawienie nocne u Mateusza",
+     [
+      "unit",
+      "w. 13",
+      1
+     ]
+    ],
+    [
+     "sny i objawienie nocne u Mateusza",
+     [
+      "unit",
+      "w. 22–23",
+      2
+     ]
+    ],
+    [
+     "sny i objawienie nocne u Mateusza",
+     [
+      "section",
+      "Sny jako droga objawienia"
+     ]
+    ],
+    [
+     "Syn Dawida i chrystologia królewska",
+     [
+      "unit",
+      "w. 22–23",
+      6
+     ]
+    ],
+    [
+     "z nami Bóg: obecność od 1,23 do 28,20",
+     [
+      "section",
+      "Zakończenie: intencja całości"
+     ]
+    ]
+   ],
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     "ST I, q. 1, a. 10; q. 22, a. 3; q. 48, a. 1–3; II–II, q. 124, a. 1, ad 1; III, q. 66, a. 11–12",
+     [
+      "section",
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Reguła, że sens duchowy Pisma opiera się na literalnym; opatrzność rządząca rzeczami wedle ich własnego sposobu bycia i działanie przyczyny pierwszej przez przyczyny drugie; zło jako brak dobra powinnego i bez własnej przyczyny sprawczej; męczeństwo Niewinnych jako akt odniesiony do Chrystusa, nie do ich woli; chrzest krwi zastępujący sakrament u tych, którzy nie mogli uwierzyć.",
+     "Summa Theologiae"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "Super Mt., cap. II, lect. 3",
+     [
+      "section",
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Wykład Mt 2,13–23: dlaczego ucieczka, a nie cud; w jakim sensie zdanie Ozeasza o Izraelu mówi o Chrystusie; status dzieci zabitych w Betlejem.",
+     "Super Evangelium S. Matthaei lectura"
+    ],
+    [
+     "Józef Flawiusz",
+     "Ant. XVII,168–192.213–218.317–320; Bell. I,656–665; II,8–13",
+     [
+      "section",
+      "Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Ostatnia choroba i śmierć Heroda w Jerychu; stracenie Antypatra pięć dni przed śmiercią ojca; masakra w świątyni na początku rządów Archelaosa; podział państwa przez Augusta i odmowa tytułu królewskiego. Liczby i loci wymagają sprawdzenia przy źródłach.",
+     "Antiquitates Iudaicae"
+    ],
+    [
+     "Józef Flawiusz",
+     "Ant. II,205–216",
+     [
+      "section",
+      "Autor ludzki: kim jest i co chce przekazać"
+     ],
+     "Żydowska legenda o narodzeniu Mojżesza: ostrzeżenie dane faraonowi przez egipskiego pisarza świętego i senne widzenie Amrama o ocaleniu syna — materiał, na którym Mateusz buduje role arcykapłanów i Józefa.",
+     "Antiquitates Iudaicae"
+    ],
+    [
+     "K. Stendahl",
+     "Quis et Unde?",
+     [
+      "section",
+      "Autor ludzki: kim jest i co chce przekazać"
+     ],
+     "Teza, że rozdziały 1–2 odpowiadają na dwa pytania — kto i skąd — a rozdział drugi jest zbudowany z nazw miejsc, każda z własnym zdaniem Pisma, po to, by uzgodnić pochodzenie z Betlejem z przezwiskiem z Nazaretu.",
+     "Quis et Unde? An Analysis of Mt 1–2"
+    ],
+    [
+     "R. E. Brown",
+     "The Birth of the Messiah, cz. II",
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Analiza trzech formuł wypełnienia rozdziału drugiego, ich stosunku do tekstu hebrajskiego i greckiego oraz przegląd rozwiązań dla cytatu bez źródła w 2,23.",
+     "The Birth of the Messiah"
+    ],
+    [
+     "Prudencjusz",
+     "Cath. XII,125–132",
+     [
+      "section",
+      "Liturgia"
+     ],
+     "Hymn *Salvete flores martyrum* (witajcie, kwiaty męczenników), wyjęty z hymnu na Objawienie Pańskie i od wieków śpiewany w dniu Świętych Młodzianków; źródło obrazu dzieci jako kwiatów zerwanych przed owocowaniem. Brzmienie i numeracja wierszy wymagają sprawdzenia przy źródłach.",
+     "Liber Cathemerinon"
+    ],
+    [
+     "św. Epifaniusz z Salaminy",
+     "Panarion 29",
+     [
+      "unit",
+      "w. 22–23",
+      6
+     ],
+     "Opis stronnictwa nazarejczyków i świadectwo, że nazwa Ναζωραῖος funkcjonowała jako określenie grupy, nie tylko jako wskazanie pochodzenia — tło dla Dz 24,5 i dla hebrajskiego נוֹצְרִים.",
+     "Panarion"
+    ],
+    [
+     "św. Hieronim",
+     "Interpr. hebr. nom., s.v. Nazareth",
+     [
+      "unit",
+      "w. 22–23",
+      6
+     ],
+     "Objaśnienie nazwy Nazaret jako „kwiat\" albo „odrośl\", wyprowadzone z נֵצֶר (necer, pęd) — wykładnia, którą zna już Hilary i która stoi za całą łacińską lekturą Mt 2,23 przez Iz 11,1.",
+     "Liber interpretationis hebraicorum nominum"
+    ],
+    [
+     "Euzebiusz z Cezarei",
+     "Hist. eccl. I,8",
+     [
+      "unit",
+      "w. 19–21",
+      0
+     ],
+     "Opowiadanie o końcu Heroda, przejęte od Flawiusza i zestawione przez Euzebiusza wprost z rzezią w Betlejem jako kara za nią — najstarsze świadectwo chrześcijańskiego czytania śmierci króla jako wyroku.",
+     "Historia ecclesiastica"
+    ]
+   ],
+   "revision_note": "2026-11-27: perykopa czwarta bazy Mateusza (Mt 2,13–23). Sekcja I w sześciu blokach i trzydziestu sześciu jednostkach analizy; oś na trzech formułach wypełnienia, które różnią się gramatyką i stosunkiem do źródła — ἵνα przy nakazanej ucieczce (w. 15, cytat z Oz 11,1 za tekstem hebrajskim przeciw Septuagincie), τότε przy rzezi (w. 17, jedno z dwóch takich miejsc w księdze obok 27,9), ὅπως wraz z prorokami w liczbie mnogiej przy tytule Nazarejczyka (w. 23, cytat bez tekstu). Osobno wykazane nieoznaczone przytoczenie Wj 4,19 w w. 20, rozpoznawalne po liczbie mnogiej, oraz urwanie cytatu z Jr 31,15 przed pociechą z Jr 31,16–17. Sekcje II–VII z podsekcjami, katena czterogłosowa (Chryzostom, Hieronim, Augustyn, Hilary) z notą o tym, że komentarz Orygenesa do tego rozdziału nie istnieje. Dziesięć not tekstualnych wedle dziesięciu wpisów aparatu, w tym dopisek ὑπὸ κυρίου w w. 17 i harmonizacja w. 18 do Septuaginty. Dwadzieścia trzy nowe leksemy, dziewięć terminów hebrajskich, pięć nowych motywów, dwadzieścia osiem odniesień biblijnych, dwie nowe księgi (Oz, Ap). Status w_opracowaniu; loci patrystyczne, loci Tomasza, dane Flawiusza i Filona, datowanie inskrypcji z Cezarei oraz sigla i rubryki liturgiczne obu tradycji wymagają weryfikacji przy źródłach."
+  }
+ ]
+}

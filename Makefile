@@ -26,7 +26,7 @@ TYP     = egzegeza.typ
 PDF     = egzegeza.pdf
 SOURCES = tools/egzegeza_mateusza_build.py data/schema.sql \
           data/wprowadzenie.json data/rodowod.json data/narodzenie.json \
-          data/magowie.json
+          data/magowie.json data/egipt.json
 BUILD   = tools/egzegeza_mateusza_build.py
 APP     = browser/app.py
 EXPORT  = tools/export_pericope.py
