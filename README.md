@@ -4,7 +4,7 @@ Baza `egzegeza_mateusza.sqlite` przechowuje pełną egzegezę perykopa po
 perykopie. Zakres docelowy: **cała Ewangelia, Mt 1,1–28,20**, w sześćdziesięciu
 trzech perykopach. Stan dziś: maszyneria stoi, delimitacja jest zatwierdzona,
 **Wprowadzenie napisane** (7 sekcji, 21 podsekcji), opracowanych jest
-**sześć pierwszych perykop** (Mt 1,1–3,17, wszystkie w statusie `w_opracowaniu`).
+**siedem pierwszych perykop** (Mt 1,1–4,16, wszystkie w statusie `w_opracowaniu`).
 Źródło samego tekstu (`db.sqlite`) jest kompletne.
 
 Repozytorium powstało na wzór `../john` wedle procedury z `NOWA_KSIEGA.md`.
@@ -248,7 +248,7 @@ Kolumna „Status" wypełnia się dopiero wraz z plikiem danych.
 | 4 | Mt 2,13–23 | Ucieczka do Egiptu, rzeź niewiniątek i Nazaret | `egipt.json` | w_opracowaniu |
 | 5 | Mt 3,1–12 | Jan Chrzciciel na pustyni | `chrzciciel.json` | w_opracowaniu |
 | 6 | Mt 3,13–17 | Chrzest Jezusa | `chrzest.json` | w_opracowaniu |
-| 7 | Mt 4,1–16 | Kuszenie na pustyni i powrót do Galilei | `kuszenie.json` | — |
+| 7 | Mt 4,1–16 | Kuszenie na pustyni i powrót do Galilei | `kuszenie.json` | w_opracowaniu |
 
 ### Głoszenie Królestwa (Mt 4,17–16,20)
 
