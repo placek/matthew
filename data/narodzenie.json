@@ -1,0 +1,1412 @@
+{
+ "books": [
+  [
+   "Lb",
+   "Księga Liczb",
+   "ST",
+   4
+  ],
+  [
+   "Sdz",
+   "Księga Sędziów",
+   "ST",
+   7
+  ],
+  [
+   "Ps",
+   "Księga Psalmów",
+   "ST",
+   21
+  ],
+  [
+   "J",
+   "Ewangelia według św. Jana",
+   "NT",
+   50
+  ]
+ ],
+ "verses": {
+  "chapter": 1,
+  "items": [
+   [
+    18,
+    "Τοῦ δὲ Ἰησοῦ Χριστοῦ ἡ γένεσις οὕτως ἦν. μνηστευθείσης τῆς μητρὸς αὐτοῦ Μαρίας τῷ Ἰωσήφ, πρὶν ἢ συνελθεῖν αὐτοὺς εὑρέθη ἐν γαστρὶ ἔχουσα ἐκ πνεύματος ἁγίου.",
+    "Jezusa zaś Chrystusa narodzenie takie było. Gdy matka jego Maria została zaręczona Józefowi, zanim się zeszli, znalazła się mającą w łonie z Ducha Świętego."
+   ],
+   [
+    19,
+    "Ἰωσὴφ δὲ ὁ ἀνὴρ αὐτῆς, δίκαιος ὢν καὶ μὴ θέλων αὐτὴν δειγματίσαι, ἐβουλήθη λάθρᾳ ἀπολῦσαι αὐτήν.",
+    "Józef zaś, mąż jej, będąc sprawiedliwy i nie chcąc jej wystawić na widok, postanowił oddalić ją potajemnie."
+   ],
+   [
+    20,
+    "ταῦτα δὲ αὐτοῦ ἐνθυμηθέντος ἰδοὺ ἄγγελος κυρίου κατʼ ὄναρ ἐφάνη αὐτῷ λέγων· Ἰωσὴφ υἱὸς Δαυίδ, μὴ φοβηθῇς παραλαβεῖν Μαρίαν τὴν γυναῖκά σου· τὸ γὰρ ἐν αὐτῇ γεννηθὲν ἐκ πνεύματός ἐστιν ἁγίου.",
+    "Gdy zaś on to rozważył, oto anioł Pana ukazał mu się we śnie, mówiąc: Józefie, synu Dawida, nie bój się przyjąć Marii, żony twojej; to bowiem, co w niej zostało zrodzone, jest z Ducha Świętego."
+   ],
+   [
+    21,
+    "τέξεται δὲ υἱόν, καὶ καλέσεις τὸ ὄνομα αὐτοῦ Ἰησοῦν· αὐτὸς γὰρ σώσει τὸν λαὸν αὐτοῦ ἀπὸ τῶν ἁμαρτιῶν αὐτῶν.",
+    "Urodzi zaś syna i nazwiesz imię jego Jezus, on bowiem zbawi lud swój od grzechów ich."
+   ],
+   [
+    22,
+    "τοῦτο δὲ ὅλον γέγονεν ἵνα πληρωθῇ τὸ ῥηθὲν ὑπὸ κυρίου διὰ τοῦ προφήτου λέγοντος·",
+    "To zaś wszystko stało się, aby wypełniło się powiedziane przez Pana przez proroka, mówiącego:"
+   ],
+   [
+    23,
+    "ἰδοὺ ἡ παρθένος ἐν γαστρὶ ἕξει καὶ τέξεται υἱόν, καὶ καλέσουσιν τὸ ὄνομα αὐτοῦ Ἐμμανουήλ, ὅ ἐστιν μεθερμηνευόμενον μεθʼ ἡμῶν ὁ θεός.",
+    "Oto dziewica będzie mieć w łonie i urodzi syna, i nazwą imię jego Emmanuel, co jest tłumaczone: z nami Bóg."
+   ],
+   [
+    24,
+    "ἐγερθεὶς δὲ ὁ Ἰωσὴφ ἀπὸ τοῦ ὕπνου ἐποίησεν ὡς προσέταξεν αὐτῷ ὁ ἄγγελος κυρίου καὶ παρέλαβεν τὴν γυναῖκα αὐτοῦ,",
+    "Zbudziwszy się zaś, Józef uczynił, jak nakazał mu anioł Pana, i przyjął żonę swoją,"
+   ],
+   [
+    25,
+    "καὶ οὐκ ἐγίνωσκεν αὐτὴν ἕως οὗ ἔτεκεν υἱόν· καὶ ἐκάλεσεν τὸ ὄνομα αὐτοῦ Ἰησοῦν.",
+    "i nie poznawał jej, aż urodziła syna; i nazwał imię jego Jezus."
+   ]
+  ]
+ },
+ "lexemes": [
+  [
+   "μνηστεύω",
+   "mnesteuo",
+   "czasownik",
+   "zaręczać — w stronie biernej o kobiecie oddanej mężowi pierwszym, prawnie wiążącym aktem małżeństwa; u Mateusza raz, w 1,18"
+  ],
+  [
+   "δίκαιος",
+   "dikaios",
+   "przymiotnik",
+   "sprawiedliwy — u Mateusza siedemnaście razy, pierwszy o Józefie (1,19), ostatni o Jezusie w ustach żony Piłata (27,19)"
+  ],
+  [
+   "ἀπολύω",
+   "apolyo",
+   "czasownik",
+   "odprawiać, oddalać — termin techniczny rozwodu (1,19; 5,31–32; 19,3–9), ten sam, którym Piłat „wypuszcza\" Barabasza (27,15–26)"
+  ],
+  [
+   "ὄναρ",
+   "onar",
+   "rzeczownik",
+   "sen jako miejsce objawienia — wyłącznie w wyrażeniu κατʼ ὄναρ (we śnie), sześć razy u Mateusza i nigdzie więcej w Nowym Testamencie"
+  ],
+  [
+   "πνεῦμα",
+   "pneuma",
+   "rzeczownik",
+   "duch, tchnienie — w 1,18.20 bez rodzajnika, o mocy stwórczej; gramatyka trzech osób pojawi się dopiero w 28,19"
+  ],
+  [
+   "παραλαμβάνω",
+   "paralambano",
+   "czasownik",
+   "brać do siebie, przyjmować — o sprowadzeniu żony do domu (1,20.24) i o zabraniu Dziecięcia do Egiptu (2,13–14.20–21)"
+  ],
+  [
+   "σῴζω",
+   "sozo",
+   "czasownik",
+   "ratować, zbawiać — w 1,21 wykład imienia Jezus; przedmiotem ocalenia są grzechy, nie wrogowie"
+  ],
+  [
+   "ἁμαρτία",
+   "hamartia",
+   "rzeczownik",
+   "grzech — w 1,21 i 26,28 jedyne dwa miejsca, w których Mateusz wiąże dzieło Jezusa wprost z odpuszczeniem grzechów"
+  ],
+  [
+   "πληρόω",
+   "pleroo",
+   "czasownik",
+   "wypełniać, dopełniać miary — czasownik Mateuszowych formuł wypełnienia, szesnaście razy, pierwszy w 1,22"
+  ],
+  [
+   "παρθένος",
+   "parthenos",
+   "rzeczownik",
+   "dziewica — w 1,23 za LXX Iz 7,14 w miejsce hebrajskiego עַלְמָה (alma); u Mateusza jeszcze tylko o dziesięciu pannach (25,1.7.11)"
+  ],
+  [
+   "Ἐμμανουήλ",
+   "Emmanouel",
+   "rzeczownik",
+   "Emmanuel — transkrypcja hebrajskiego עִמָּנוּ אֵל (immanu El, z nami Bóg); jedyne wystąpienie, zaraz przetłumaczone"
+  ],
+  [
+   "μεθερμηνεύω",
+   "methermeneuo",
+   "czasownik",
+   "przekładać, tłumaczyć — u Mateusza raz, przy imieniu Emmanuel; sygnał, że odbiorca greckiego tekstu hebrajskiego już nie rozumie"
+  ],
+  [
+   "καλέω",
+   "kaleo",
+   "czasownik",
+   "nazywać, wołać — w 1,21.23.25 trzy razy o nadaniu imienia: rozkaz w drugiej osobie, proroctwo w trzeciej liczby mnogiej, wykonanie w aoryście"
+  ]
+ ],
+ "semitic": [
+  [
+   "עַלְמָה",
+   "alma",
+   "hbr",
+   "młoda kobieta w wieku zamążpójścia — termin Iz 7,14, nieokreślający dziewictwa wprost; LXX oddaje go przez παρθένος"
+  ],
+  [
+   "בְּתוּלָה",
+   "betula",
+   "hbr",
+   "dziewica — właściwy hebrajski termin na dziewictwo, którego Iz 7,14 nie używa"
+  ],
+  [
+   "עִמָּנוּ אֵל",
+   "immanu El",
+   "hbr",
+   "z nami Bóg — imię dziecka ze znaku dla Achaza (Iz 7,14) i okrzyk z Iz 8,8.10"
+  ],
+  [
+   "קִדּוּשִׁין",
+   "kidduszin",
+   "hbr",
+   "zaślubiny — pierwszy, prawnie wiążący stopień małżeństwa, po którym kobieta jest już żoną, choć mieszka jeszcze u ojca"
+  ],
+  [
+   "נִשּׂוּאִין",
+   "nissuin",
+   "hbr",
+   "wprowadzenie panny młodej do domu męża — drugi stopień małżeństwa, grecki odpowiednik συνελθεῖν w 1,18"
+  ],
+  [
+   "גֵּט",
+   "get",
+   "hbr",
+   "list rozwodowy — dokument, bez którego nie można rozwiązać zaślubin; prawne tło czasownika ἀπολῦσαι w 1,19"
+  ]
+ ],
+ "lexeme_semitic": [
+  [
+   "παρθένος",
+   "alma",
+   "LXX oddaje עַלְמָה (alma) z Iz 7,14 przez παρθένος, zawężając termin szerszy do dziewictwa; właściwym hebrajskim słowem na dziewicę jest בְּתוּלָה (betula), którego Izajasz w tym miejscu nie użył."
+  ],
+  [
+   "Ἐμμανουήλ",
+   "immanu El",
+   "Ἐμμανουήλ jest transkrypcją, nie przekładem: Mateusz zapisuje hebrajskie עִמָּנוּ אֵל (immanu El) greckimi literami, a potem tłumaczy je osobnym zdaniem."
+  ],
+  [
+   "μνηστεύω",
+   "kidduszin",
+   "μνηστευθείσης (zostawszy zaręczoną) odpowiada stanowi po קִדּוּשִׁין (kidduszin): kobieta jest już żoną w sensie prawnym, a jej niewierność liczy się jako cudzołóstwo."
+  ],
+  [
+   "ἀπολύω",
+   "get",
+   "ἀπολῦσαι (oddalić) zakłada גֵּט (get): zaręczyn nie można porzucić milczeniem, trzeba je rozwiązać dokumentem."
+  ]
+ ],
+ "occurrences": [
+  [
+   "γένεσις",
+   18,
+   "γένεσις"
+  ],
+  [
+   "μνηστεύω",
+   18,
+   "μνηστευθείσης"
+  ],
+  [
+   "πνεῦμα",
+   18,
+   "πνεύματος"
+  ],
+  [
+   "ἀνήρ",
+   19,
+   "ἀνήρ"
+  ],
+  [
+   "δίκαιος",
+   19,
+   "δίκαιος"
+  ],
+  [
+   "ἀπολύω",
+   19,
+   "ἀπολῦσαι"
+  ],
+  [
+   "ὄναρ",
+   20,
+   "ὄναρ"
+  ],
+  [
+   "υἱός",
+   20,
+   "υἱός"
+  ],
+  [
+   "παραλαμβάνω",
+   20,
+   "παραλαβεῖν"
+  ],
+  [
+   "γεννάω",
+   20,
+   "γεννηθέν"
+  ],
+  [
+   "καλέω",
+   21,
+   "καλέσεις"
+  ],
+  [
+   "σῴζω",
+   21,
+   "σώσει"
+  ],
+  [
+   "ἁμαρτία",
+   21,
+   "ἁμαρτιῶν"
+  ],
+  [
+   "πληρόω",
+   22,
+   "πληρωθῇ"
+  ],
+  [
+   "παρθένος",
+   23,
+   "παρθένος"
+  ],
+  [
+   "καλέω",
+   23,
+   "καλέσουσιν"
+  ],
+  [
+   "Ἐμμανουήλ",
+   23,
+   "Ἐμμανουήλ"
+  ],
+  [
+   "μεθερμηνεύω",
+   23,
+   "μεθερμηνευόμενον"
+  ],
+  [
+   "παραλαμβάνω",
+   24,
+   "παρέλαβεν"
+  ],
+  [
+   "καλέω",
+   25,
+   "ἐκάλεσεν"
+  ]
+ ],
+ "works": [
+  [
+   "św. Chromacjusz z Akwilei",
+   "Tractatus in Matthaeum",
+   "Traktaty na Ewangelię Mateusza",
+   "IV/V",
+   "patrystyka"
+  ],
+  [
+   "św. Hieronim",
+   "Adversus Helvidium de perpetua virginitate beatae Mariae",
+   "Przeciw Helwidiuszowi o wieczystym dziewictwie błogosławionej Maryi",
+   "IV",
+   "patrystyka"
+  ],
+  [
+   "św. Justyn Męczennik",
+   "Dialogus cum Tryphone",
+   "Dialog z Żydem Tryfonem",
+   "II",
+   "patrystyka"
+  ],
+  [
+   "św. Ireneusz z Lyonu",
+   "Adversus haereses",
+   "Przeciw herezjom",
+   "II",
+   "patrystyka"
+  ],
+  [
+   "Orygenes",
+   "Contra Celsum",
+   "Przeciw Celsusowi",
+   "III",
+   "patrystyka"
+  ],
+  [
+   "Jan Paweł II",
+   "Redemptoris Custos",
+   "Opiekun Zbawiciela",
+   "XX",
+   "magisterium"
+  ]
+ ],
+ "themes": [
+  [
+   "dziewicze poczęcie i działanie Ducha",
+   "Dwukrotne ἐκ πνεύματος ἁγίου (z Ducha Świętego) w 1,18.20 podaje sprawcę strony biernej z 1,16. Rodzajnika nie ma: Duch jest w tych zdaniach mocą stwórczą, nie stroną w zrodzeniu, i dopiero formuła chrzcielna 28,19 nada mu miejsce w wyliczeniu trzech. Motyw wraca przy chrzcie (3,16), w sporze o bluźnierstwo przeciw Duchowi (12,28–32) i w 22,43."
+  ],
+  [
+   "sny i objawienie nocne u Mateusza",
+   "Wyrażenie κατʼ ὄναρ (we śnie) stoi w Nowym Testamencie tylko u Mateusza i tylko sześć razy: pięć w rozdziałach pierwszym i drugim (1,20; 2,12.13.19.22), raz w opowiadaniu o Męce, gdy żona Piłata przestrzega męża (27,19). Objawienie nocne jest u Mateusza drogą, którą Bóg kieruje ludźmi niemówiącymi w narracji — Józefem i poganką."
+  ],
+  [
+   "sprawiedliwość wedle Mateusza",
+   "δίκαιος (sprawiedliwy) i δικαιοσύνη (sprawiedliwość) są u Mateusza słowami programowymi, a pierwszy przypadek sprawiedliwości w tej Ewangelii polega na niewykonaniu przysługującego prawa (1,19). Od tego miejsca prowadzi droga do sprawiedliwości większej od faryzejskiej (5,20), do głodu i pragnienia sprawiedliwości (5,6) i do dziwnej odpowiedzi Jezusa Chrzcicielowi, że tak wypada wypełnić wszelką sprawiedliwość (3,15)."
+  ],
+  [
+   "z nami Bóg: obecność od 1,23 do 28,20",
+   "Imię Ἐμμανουήλ, przetłumaczone μεθʼ ἡμῶν ὁ θεός (z nami Bóg, 1,23), nie zostaje w Ewangelii ani raz użyte jako wołacz. Wypełnia się jako zdanie o obecności i wraca dwa razy: w obietnicy, że gdzie dwaj albo trzej zebrani, tam Jezus jest wśród nich (18,20), oraz w ostatnim wierszu księgi — ἐγὼ μεθʼ ὑμῶν εἰμι (ja z wami jestem, 28,20). Trzy zdania obejmują całą Ewangelię jak klamra."
+  ]
+ ],
+ "pericopes": [
+  {
+   "pericope": {
+    "cs": 1,
+    "vs": 18,
+    "ce": 1,
+    "ve": 25,
+    "title": "Narodzenie Jezusa i imię Emmanuel",
+    "motto": "Nobiscum Deus (z nami Bóg)",
+    "status": "w_opracowaniu",
+    "position": 2
+   },
+   "intro": "Rodowód skończył się czasownikiem w stronie biernej i nie podał sprawcy: ἐγεννήθη Ἰησοῦς (został zrodzony Jezus, 1,16). Osiem wersetów, które następują, robią dwie rzeczy — nazywają tego sprawcę i przekazują prawo, którego zrodzenie nie przekazało. Sprawcą jest Duch Święty, dwukrotnie, bez rodzajnika (w. 18.20). Prawo przechodzi przez słowo: anioł każe Józefowi nadać imię, Józef imię nadaje, a przez nadanie imienia syn Marii staje się synem Dawida w porządku, w którym rodowód ma moc. Cała perykopa jest zbudowana na jednym czasowniku — καλέω (nazywać) pada trzy razy, za każdym razem w innej osobie i w innym czasie: καλέσεις (nazwiesz) jako rozkaz dla Józefa, καλέσουσιν (nazwą) w proroctwie, ἐκάλεσεν (nazwał) jako wykonanie. Dwa imiona zostają przy tym wymienione, lecz tylko jedno zostaje nadane. Jezus — to imię Józef wypowiada w ostatnim słowie perykopy. Emmanuel — tego imienia nikt w tej Ewangelii nie woła ani razu; wypełni się ono nie jako wołacz, lecz jako ostatnie zdanie księgi.",
+   "blocks": [
+    {
+     "cs": 1,
+     "vs": 18,
+     "ce": 1,
+     "ve": 18,
+     "label": "w. 18",
+     "greek": "Τοῦ δὲ Ἰησοῦ Χριστοῦ ἡ γένεσις οὕτως ἦν. μνηστευθείσης τῆς μητρὸς αὐτοῦ Μαρίας τῷ Ἰωσήφ, πρὶν ἢ συνελθεῖν αὐτοὺς εὑρέθη ἐν γαστρὶ ἔχουσα ἐκ πνεύματος ἁγίου.",
+     "transl": "Jezusa zaś Chrystusa narodzenie takie było. Gdy matka jego Maria została zaręczona Józefowi, zanim się zeszli, znalazła się mającą w łonie z Ducha Świętego.",
+     "units": [
+      [
+       "ἡ γένεσις οὕτως ἦν",
+       "narodzenie takie było",
+       "Mateusz powtarza słowo z nagłówka całej księgi. βίβλος γενέσεως (księga narodzenia) otwierało 1,1; tutaj γένεσις wraca z rodzajnikiem i z czasownikiem w imperfectum — ἦν (było) — jako zapowiedź opowiadania, a nie tytuł. Powtórzenie jest szwem: to samo słowo zamyka rejestr i otwiera narrację. Rodzajnik przy Ἰησοῦ Χριστοῦ stoi na początku zdania w dopełniaczu (τοῦ δὲ Ἰησοῦ Χριστοῦ), co w grece wysuwa posiadacza przed rzecz posiadaną i daje wagę imieniu. Aparat pokazuje, że kopiści czytali to zdanie jako nowy początek: lekcja γέννησις (narodzenie jako akt urodzenia) zamiast γένεσις (pochodzenie, powstanie) stoi w L, f¹³, 33 i tekście większościowym, u Ireneusza i Orygenesa. Różnica jest jednoliterowa i rozstrzyga o gatunku — czy zdanie wciąż mówi o pochodzeniu, czy już o połogu. Wulgata ma *generatio*, czyli zachowuje szersze znaczenie. Kierunek poprawki jest czytelny: od słowa archiwalnego do słowa potocznego."
+      ],
+      [
+       "μνηστευθείσης ... πρὶν ἢ συνελθεῖν αὐτούς",
+       "gdy została zaręczona ... zanim się zeszli",
+       "Dopełniacz absolutny z imiesłowem aorystu strony biernej: μνηστευθείσης (zostawszy zaręczoną) orzeka o Marii jako o stronie, którą się oddaje, nie jako o stronie, która wybiera. Konstrukcja opisuje stan prawny po pierwszym stopniu małżeństwa żydowskiego — קִדּוּשִׁין (kidduszin), zaślubinach, po których kobieta jest już żoną, choć mieszka jeszcze w domu ojca. Drugi stopień, נִשּׂוּאִין (nissuin), czyli wprowadzenie do domu męża, Mateusz nazywa po grecku συνελθεῖν (zejść się) — czasownik, który w tym kontekście obejmuje i zamieszkanie, i współżycie. Dlatego w w. 19 Józef jest już ἀνήρ (mąż), a w w. 20 Maria już γυνή (żona): tekst nie myli się w terminologii, lecz precyzyjnie opisuje stan pośredni, dla którego polszczyzna nie ma jednego słowa. Cała dalsza akcja wisi na tej precyzji — gdyby chodziło o narzeczeństwo w nowoczesnym sensie, nie trzeba by rozwodu."
+      ],
+      [
+       "εὑρέθη ἐν γαστρὶ ἔχουσα",
+       "znalazła się mającą w łonie",
+       "Aoryst strony biernej εὑρέθη (została znaleziona) bez podanego sprawcy. Nikt nie jest nazwany jako ten, kto odkrył; grecka bezosobowość pozostawia scenę bez oskarżyciela i bez świadka, choć w realiach wsi galilejskiej odkrycie było publiczne z konieczności. Wyrażenie ἐν γαστρὶ ἔχειν (mieć w łonie) jest idiomem greckiej Biblii na ciążę i stoi dokładnie w tej postaci w LXX Iz 7,14 — ἡ παρθένος ἐν γαστρὶ ἕξει — które Mateusz zacytuje pięć wersetów dalej. Zbieżność nie jest przypadkowa: narracja opisuje fakt słowami proroctwa, zanim proroctwo przytoczy. Imiesłów ἔχουσα w mianowniku zgadza się z podmiotem εὑρέθη, więc po polsku dosłownie wychodzi „znalazła się mającą\" — zgrzyt składniowy, który warto zachować, bo oddaje bierność dwukrotną: Maria jest i znaleziona, i brzemienna nie ze swojej inicjatywy."
+      ],
+      [
+       "ἐκ πνεύματος ἁγίου",
+       "z Ducha Świętego",
+       "Przyimek ἐκ z dopełniaczem — ten sam, którym rodowód wprowadził cztery kobiety: ἐκ τῆς Θαμάρ (z Tamar), ἐκ τῆς Ῥαχάβ (z Rachab), ἐκ τῆς Ῥούθ (z Rut), ἐκ τῆς τοῦ Οὐρίου (z tej, która była żoną Uriasza). Formuła, którą Mateusz zapisywał nieregularne macierzyństwa, służy teraz do zapisania pochodzenia Jezusa; piąte ἐκ nie wskazuje jednak kobiety, lecz Boga. Rzeczownik stoi bez rodzajnika i dwa razy w tym samym kształcie (w. 18 i 20), raz z rozszczepieniem ἐκ πνεύματός ἐστιν ἁγίου (z Ducha jest Świętego). Brak rodzajnika ma wagę teologiczną: zdanie mówi o mocy stwórczej — רוּחַ (ruach) unoszącym się nad wodami (Rdz 1,2) — a nie o trzeciej osobie wyliczonej obok dwóch innych. Taka gramatyka wystąpi dopiero w 28,19. Ojcowie trzymali się tej różnicy z uporem: Duch jest sprawcą poczęcia, nie ojcem Poczętego, bo nie udziela swojej natury temu, kto się z Marii rodzi."
+      ]
+     ]
+    },
+    {
+     "cs": 1,
+     "vs": 19,
+     "ce": 1,
+     "ve": 19,
+     "label": "w. 19",
+     "greek": "Ἰωσὴφ δὲ ὁ ἀνὴρ αὐτῆς, δίκαιος ὢν καὶ μὴ θέλων αὐτὴν δειγματίσαι, ἐβουλήθη λάθρᾳ ἀπολῦσαι αὐτήν.",
+     "transl": "Józef zaś, mąż jej, będąc sprawiedliwy i nie chcąc jej wystawić na widok, postanowił oddalić ją potajemnie.",
+     "units": [
+      [
+       "δίκαιος ὢν καὶ μὴ θέλων",
+       "będąc sprawiedliwy i nie chcąc",
+       "Pierwsze δίκαιος (sprawiedliwy) w tej Ewangelii, i zarazem najtrudniejsze. Spójnik καί rozstrzyga o całym portrecie Józefa, a gramatyka nie rozstrzyga o spójniku. Jeśli καί jest przeciwstawne — sprawiedliwy, a jednak niechętny — to sprawiedliwość Józefa jest wiernością literze prawa, którą dopiero litość łamie. Jeśli καί jest wynikowe — sprawiedliwy, i dlatego niechętny — to prawo samo w swoim zamyśle nie żąda hańby, a Józef czyta je lepiej niż ci, którzy je stosują dosłownie. Druga lektura tłumaczy więcej: Mateusz nie zwykł chwalić sprawiedliwości, która ustępuje przed miłosierdziem, lecz konsekwentnie pokazuje sprawiedliwość, która miłosierdzie w sobie zawiera (9,13; 12,7; 23,23). Słowo wraca u niego siedemnaście razy, a ostatni raz pada o Jezusie — i to w ustach poganki, która też została pouczona κατʼ ὄναρ (we śnie): μηδὲν σοὶ καὶ τῷ δικαίῳ ἐκείνῳ (nic tobie i temu sprawiedliwemu, 27,19). Dwa słowa otwierające scenę Józefa spotykają się raz jeszcze, w jednym wierszu, u progu wyroku."
+      ],
+      [
+       "μὴ θέλων αὐτὴν δειγματίσαι",
+       "nie chcąc jej wystawić na widok",
+       "δειγματίζω (wystawiać na widok) jest słowem rzadkim i u Mateusza jedynym; poza tym miejscem Nowy Testament zna je raz (Kol 2,15), a greka przedchrześcijańska prawie go nie używa. Znaczy „pokazać publicznie\", z odcieniem wystawienia pod pozór. Aparat notuje tu lekcję παραδειγματίσαι w ℵ*, C, L, W, Θ, f¹³, 33 i tekście większościowym — czasownik mocniejszy i dobrze znany z LXX, gdzie oznacza pohańbienie przez publiczną egzekucję albo powieszenie zwłok (Lb 25,4), a w Hbr 6,6 wystawienie Chrystusa na urągania. Lekcja krótsza i rzadsza stoi w ℵ¹, B, Z i f¹, i to ona jest pierwotna. Podmiana jest typowa: kopista zastąpił słowo nieoswojone słowem z Biblii greckiej. Ale podmiana coś też zmienia merytorycznie — παραδειγματίζω zakłada proces i wyrok, δειγματίζω wystarcza samo rozgłoszenie. Józef, wedle tekstu krytycznego, nie uchyla się od kary; uchyla się od rozgłosu."
+      ],
+      [
+       "ἐβουλήθη λάθρᾳ ἀπολῦσαι αὐτήν",
+       "postanowił oddalić ją potajemnie",
+       "ἀπολύω jest terminem technicznym rozwodu, i Mateusz będzie go używał w tym znaczeniu w obu miejscach, gdzie mówi o rozwodzie wprost (5,31–32; 19,3–9). Zaręczyn nie można porzucić milczeniem: trzeba je rozwiązać dokumentem, גֵּט (get), który Pwt 24,1 zakłada, a prawo rabiniczne porządkuje. Przysłówek λάθρᾳ (potajemnie) określa więc nie brak dokumentu, lecz brak publicznego podania powodu — list rozwodowy wręczony przy dwóch świadkach zamiast sprawy przed sądem. Czasownik ἐβουλήθη (postanowił) jest aorystem strony biernej o znaczeniu czynnym i oznacza wolę po namyśle, nie pierwszy odruch. Józef zatem ma już gotową decyzję, kiedy przychodzi anioł; objawienie nie zapobiega wahaniu, lecz je odwraca. Ten sam czasownik ἀπολύω opisze potem Piłata, który chciał Jezusa wypuścić (27,15–26) — Mateusz zestawia dwóch mężczyzn mających władzę oddalić i rozstrzygających przeciwnie."
+      ]
+     ]
+    },
+    {
+     "cs": 1,
+     "vs": 20,
+     "ce": 1,
+     "ve": 21,
+     "label": "w. 20–21",
+     "greek": "ταῦτα δὲ αὐτοῦ ἐνθυμηθέντος ἰδοὺ ἄγγελος κυρίου κατʼ ὄναρ ἐφάνη αὐτῷ λέγων· Ἰωσὴφ υἱὸς Δαυίδ, μὴ φοβηθῇς παραλαβεῖν Μαρίαν τὴν γυναῖκά σου· τὸ γὰρ ἐν αὐτῇ γεννηθὲν ἐκ πνεύματός ἐστιν ἁγίου. τέξεται δὲ υἱόν, καὶ καλέσεις τὸ ὄνομα αὐτοῦ Ἰησοῦν· αὐτὸς γὰρ σώσει τὸν λαὸν αὐτοῦ ἀπὸ τῶν ἁμαρτιῶν αὐτῶν.",
+     "transl": "Gdy zaś on to rozważył, oto anioł Pana ukazał mu się we śnie, mówiąc: Józefie, synu Dawida, nie bój się przyjąć Marii, żony twojej; to bowiem, co w niej zostało zrodzone, jest z Ducha Świętego. Urodzi zaś syna i nazwiesz imię jego Jezus, on bowiem zbawi lud swój od grzechów ich.",
+     "units": [
+      [
+       "κατʼ ὄναρ ἐφάνη αὐτῷ",
+       "we śnie ukazał mu się",
+       "Wyrażenie κατʼ ὄναρ (we śnie) stoi w Nowym Testamencie wyłącznie u Mateusza i dokładnie sześć razy: 1,20; 2,12.13.19.22 oraz 27,19. Pięć pierwszych skupia się w opowiadaniu o dzieciństwie, szóste wraca u progu Męki, gdy żona Piłata przestrzega męża. Mateusz ma więc jeden, zamknięty kanał objawienia dla ludzi, którzy w jego narracji nic nie mówią — Józef nie wypowiada w całej Ewangelii ani jednego zdania, poganka wypowiada jedno. Czasownik ἐφάνη (ukazał się) jest aorystem strony biernej od φαίνω i w grece biblijnej należy do słownika pojawień Bożych; nie opisuje widzenia na jawie. Rzecz jest zarazem literacka: ojcem Józefa jest wedle 1,16 Jakub, Józef śni sny i przez sen wyprowadza rodzinę do Egiptu (2,13–15). Mateusz nie komentuje tej zbieżności z Rdz 37 i 40–41, ale ją układa — syn Jakuba, który śni i ratuje swoich w Egipcie, pojawia się w Piśmie po raz drugi."
+      ],
+      [
+       "Ἰωσὴφ υἱὸς Δαυίδ",
+       "Józefie, synu Dawida",
+       "Wołacz, i to jedyny taki w całej Ewangelii: tytuł ὁ υἱὸς Δαυίδ (Syn Dawida) nosi u Mateusza wyłącznie Jezus — woła nim dwóch niewidomych (9,27; 20,30–31), Kananejka (15,22) i tłum przy wjeździe (21,9.15) — a jeden raz, tutaj, zostaje skierowany do człowieka. Nie jest to grzeczność, lecz wskazanie podstawy prawnej dla polecenia, które zaraz padnie. Józef ma nadać imię dlatego, że jest synem Dawida; przez nadanie imienia przekaże synostwo Dawidowe temu, którego nie zrodził. Mianownik υἱός w funkcji wołacza jest zresztą w grece biblijnej regularny i prawdopodobnie semicki. Cała chrystologia królewska rodowodu wisi na tym jednym zwrocie: bez Józefa Jezus jest z Ducha, ale nie jest z Dawida."
+      ],
+      [
+       "μὴ φοβηθῇς παραλαβεῖν",
+       "nie bój się przyjąć",
+       "Zakaz wyrażony aorystem coniunctivi z μή — formuła, która zabrania czynności jako całości, nie przerywa czynności trwającej. Nie chodzi więc o „przestań się bać\", lecz o „nie podejmuj lęku\" w sprawie, która jest dopiero przed Józefem. παραλαμβάνω (brać do siebie) jest u Mateusza czasownikiem zabierania do swojego domu albo pod swoją opiekę: użyje go o Józefie dwa razy w tej perykopie (w. 20.24) i cztery razy w następnej o Dziecięciu i Matce (2,13–14.20–21), a jego ciemną odwrotnością będzie szatan, który παραλαμβάνει Jezusa na szczyt świątyni i na górę (4,5.8). Technicznie słowo oznacza tu dokonanie נִשּׂוּאִין (nissuin) — sprowadzenie żony do domu, czyli dokładnie to, czego Józef zaniechać postanowił. Polecenie nie prosi go o uznanie dziecka; prosi o dokończenie małżeństwa."
+      ],
+      [
+       "τὸ ἐν αὐτῇ γεννηθέν",
+       "to, co w niej zostało zrodzone",
+       "Imiesłów aorystu strony biernej w rodzaju nijakim, z rodzajnikiem — nie „ten, kto\", lecz „to, co\". Rodzaj nijaki idzie za gramatyką greckiego określenia dziecka przed urodzeniem i nie orzeka niczego o osobie; aoryst natomiast orzeka wiele, bo mówi o poczęciu jako akcie już dokonanym, nie o ciąży trwającej. Rdzeń jest ten sam, który trzydzieści dziewięć razy brzmiał w rodowodzie jako ἐγέννησεν (zrodził) i raz, w 1,16, jako ἐγεννήθη (został zrodzony). Tutaj γεννηθέν domyka tę gramatykę: strona bierna z 1,16 dostaje wreszcie dopełnienie sprawcy, ἐκ πνεύματος (z Ducha). Dwa teksty czyta się więc jako jedno zdanie rozciągnięte na pięć wersetów — rejestr podał skutek i zamilkł, anioł podaje przyczynę."
+      ],
+      [
+       "καλέσεις τὸ ὄνομα αὐτοῦ Ἰησοῦν· αὐτὸς γὰρ σώσει",
+       "nazwiesz imię jego Jezus, on bowiem zbawi",
+       "Futurum w funkcji rozkazu, w drugiej osobie liczby pojedynczej, z wyjaśnieniem etymologicznym wprowadzonym przez γάρ. Konstrukcja jest formułą zwiastowania ze Starego Testamentu: καλέσεις τὸ ὄνομα αὐτοῦ Ἰσμαήλ, ὅτι ἐπήκουσεν κύριος (nazwiesz imię jego Izmael, bo wysłuchał Pan, Rdz 16,11 LXX) ma ten sam szkielet — urodzi syna, nadasz imię, bo znaczy ono to, co Bóg uczyni. Imię Ἰησοῦς jest grecką postacią hebrajskiego יֵשׁוּעַ (Jeszua), skróconego יְהוֹשׁוּעַ (Jehoszua), „JHWH zbawia\", więc wykład idzie dokładnie za hebrajską etymologią, nie za greckim brzmieniem; grecki czytelnik słyszał tu tylko zbieżność σώσει (zbawi). Rzecz nie jest oczywista historycznie: imię było w judaizmie tego okresu bardzo częste, a Mateusz czyni z pospolitego imienia program. Przedmiot zbawienia zaskakuje najbardziej — ἀπὸ τῶν ἁμαρτιῶν αὐτῶν (od grzechów ich), nie od Rzymian. Psalmy Salomona 17 prosiły o króla, który oczyści Jerozolimę z obcych; anioł mówi o grzechach ludu własnego. Skalę tego przesunięcia mierzy się aparatem: starosyryjski przekład kuretoński zamienił λαὸν αὐτοῦ (lud jego) na κόσμον (świat), bo zawężenie do jednego ludu było dla niego trudniejsze niż rozszerzenie. Drugi raz i ostatni Mateusz powie o grzechach i Jezusie w tym samym zdaniu przy kielichu: εἰς ἄφεσιν ἁμαρτιῶν (na odpuszczenie grzechów, 26,28). Imię nadane na początku zostaje wyłożone w Wieczerniku."
+      ]
+     ]
+    },
+    {
+     "cs": 1,
+     "vs": 22,
+     "ce": 1,
+     "ve": 23,
+     "label": "w. 22–23",
+     "greek": "τοῦτο δὲ ὅλον γέγονεν ἵνα πληρωθῇ τὸ ῥηθὲν ὑπὸ κυρίου διὰ τοῦ προφήτου λέγοντος· ἰδοὺ ἡ παρθένος ἐν γαστρὶ ἕξει καὶ τέξεται υἱόν, καὶ καλέσουσιν τὸ ὄνομα αὐτοῦ Ἐμμανουήλ, ὅ ἐστιν μεθερμηνευόμενον μεθʼ ἡμῶν ὁ θεός.",
+     "transl": "To zaś wszystko stało się, aby wypełniło się powiedziane przez Pana przez proroka, mówiącego: Oto dziewica będzie mieć w łonie i urodzi syna, i nazwą imię jego Emmanuel, co jest tłumaczone: z nami Bóg.",
+     "units": [
+      [
+       "ἵνα πληρωθῇ τὸ ῥηθὲν ὑπὸ κυρίου διὰ τοῦ προφήτου",
+       "aby wypełniło się powiedziane przez Pana przez proroka",
+       "Pierwsza z Mateuszowych formuł wypełnienia i zarazem jedna z dwóch najpełniejszych w księdze. Składnia rozdziela dwie instancje różnymi przyimkami: ὑπὸ κυρίου (przez Pana) wskazuje mówiącego, διὰ τοῦ προφήτου (przez proroka) wskazuje narzędzie. Prorok jest więc u Mateusza kanałem, nie autorem, i dlatego imię proroka zwykle w formule nie pada — tu także nie pada, choć aparat notuje w D i części przekładów starołacińskich i syryjskich dopisane Ἠσαΐου (Izajasza), czyli uzupełnienie oczywiste dla czytelnika i obce samej formule. Czasownik πληρόω (wypełniać) pada u Mateusza szesnaście razy, pierwszy właśnie tutaj, i oznacza dopełnienie miary, nie samo potwierdzenie przewidywania. Perfectum γέγονεν (stało się) z ὅλον (wszystko) obejmuje przy tym nie jeden szczegół, lecz całość opowiadania z w. 18–21: wypełnia się nie pojedyncze słowo, lecz układ zdarzeń."
+      ],
+      [
+       "ἡ παρθένος",
+       "dziewica",
+       "Cytat idzie za LXX Iz 7,14 słowo w słowo i na tym słowie wisi cały ciężar. Hebrajski ma עַלְמָה (alma) — młodą kobietę w wieku zamążpójścia, bez orzekania o dziewictwie; terminem dla dziewictwa jest בְּתוּלָה (betula), którego Izajasz nie użył. Przekład grecki wybrał παρθένος (dziewica) na dwa stulecia przed narodzeniem Jezusa i bez żadnego interesu chrześcijańskiego, co jest w tym sporze argumentem rozstrzygającym o dobrej wierze obu stron. Spór wybuchł później: Akwila, Symmach i Teodocjon oddali עַלְמָה przez νεᾶνις (młoda kobieta), a Justyn w *Dialogu z Żydem Tryfonem* zarzucał żydowskim tłumaczom poprawianie tekstu, Ireneusz zaś odpowiadał wiekiem i powagą Siedemdziesięciu. W swoim własnym kontekście znak dany Achazowi podczas wojny syro-efraimskiej dotyczył dziecka, które urodzi się wkrótce i którego wiek odmierzy czas do klęski obu najeźdźców (Iz 7,16). Mateusz nie kasuje tego sensu; dokłada drugi, i robi to przez jedno słowo, którego sam nie zmienił."
+      ],
+      [
+       "καλέσουσιν",
+       "nazwą",
+       "Jedyna zmiana, jaką Mateusz wprowadza w cytacie — i dlatego najważniejsze słowo tej perykopy. LXX Iz 7,14 ma καλέσεις (nazwiesz), w drugiej osobie liczby pojedynczej, tak samo jak tekst hebrajski w jednej ze swoich lekcji; Mateusz stawia καλέσουσιν (nazwą), w trzeciej osobie liczby mnogiej, bez podanego podmiotu. Zabieg jest celowy i rozdziela dwa akty. Imię Jezus nadaje jeden człowiek i na rozkaz: καλέσεις z w. 21 spełnia się w ἐκάλεσεν z w. 25. Imię Emmanuel nadają „oni\" — nieokreśleni, w przyszłości, bez rozkazu — i w narracji Ewangelii nikt go nigdy nie wymawia. Proroctwo nie zapowiada więc czynności Józefa, lecz wyznanie tych, którzy przyjdą po nim. Aparat potwierdza kierunek, bo notuje w D, nielicznych rękopisach i u Orygenesa oraz Euzebiusza powrót do καλέσεις — wprost z odsyłaczem do Iz 7,14. Kopista wyrównywał cytat do źródła, a tym samym zacierał to, co ewangelista zmienił świadomie."
+      ],
+      [
+       "ὅ ἐστιν μεθερμηνευόμενον μεθʼ ἡμῶν ὁ θεός",
+       "co jest tłumaczone: z nami Bóg",
+       "Mateusz tłumaczy imię, czego LXX w Iz 7,14 nie robi — pozostawia Εμμανουηλ nieprzełożone. Sam przekład μεθʼ ἡμῶν ὁ θεός (z nami Bóg) brzmi natomiast dokładnie tak jak okrzyk z LXX Iz 8,8.10, więc glosa jest cytatem wziętym z dwóch rozdziałów dalej. Czasownik μεθερμηνεύω (przekładać) pada u Mateusza raz jedyny i mówi coś o adresacie: ten, dla kogo się tłumaczy hebrajskie imię, hebrajskiego już nie zna. Treść przekładu jest przy tym zdaniem, nie nazwą — po polsku i po grecku „z nami Bóg\" jest orzeczeniem o stanie rzeczy. Dlatego to imię może się wypełnić bez wołania. Wypełnia się trzy razy: tu jako zapowiedź, w 18,20 jako obietnica obecności wśród dwóch albo trzech zebranych, a w ostatnim wierszu księgi jako zapewnienie w pierwszej osobie — ἐγὼ μεθʼ ὑμῶν εἰμι (ja z wami jestem, 28,20). Pierwsze zdanie teologiczne Ewangelii i jej zdanie ostatnie są tym samym zdaniem, raz w trzeciej osobie, raz w pierwszej."
+      ]
+     ]
+    },
+    {
+     "cs": 1,
+     "vs": 24,
+     "ce": 1,
+     "ve": 25,
+     "label": "w. 24–25",
+     "greek": "ἐγερθεὶς δὲ ὁ Ἰωσὴφ ἀπὸ τοῦ ὕπνου ἐποίησεν ὡς προσέταξεν αὐτῷ ὁ ἄγγελος κυρίου καὶ παρέλαβεν τὴν γυναῖκα αὐτοῦ, καὶ οὐκ ἐγίνωσκεν αὐτὴν ἕως οὗ ἔτεκεν υἱόν· καὶ ἐκάλεσεν τὸ ὄνομα αὐτοῦ Ἰησοῦν.",
+     "transl": "Zbudziwszy się zaś, Józef uczynił, jak nakazał mu anioł Pana, i przyjął żonę swoją, i nie poznawał jej, aż urodziła syna; i nazwał imię jego Jezus.",
+     "units": [
+      [
+       "ἐποίησεν ὡς προσέταξεν αὐτῷ",
+       "uczynił, jak nakazał mu",
+       "Formuła posłuszeństwa, którą Mateusz powtórzy przy każdym kolejnym śnie Józefa (2,14.21) i która jest jedyną charakterystyką tej postaci w całej Ewangelii. Józef nie odpowiada aniołowi, nie pyta o znak i nie wypowiada w żadnym miejscu Nowego Testamentu ani jednego zdania; Mateusz opisuje go wyłącznie czasownikami wykonania. Różnica z Łukaszem jest tu ostra i chyba zamierzona po obu stronach: tam zwiastowanie idzie do Marii, która pyta „jakże się to stanie\" i odpowiada własnym słowem (Łk 1,34.38), tu idzie do Józefa, który wstaje i robi. Czasownik προστάσσω (nakazywać) należy do słownika rozporządzeń urzędowych, co utrzymuje całą scenę w rejestrze prawnym — anioł nie namawia, wydaje polecenie. Aparat notuje w tym wierszu wariant διεγερθείς (ocknąwszy się) w C³, D, L, W i tekście większościowym; złożenie z δια jest słowem bardziej potocznym i stanowi zwykłe uwyraźnienie."
+      ],
+      [
+       "παρέλαβεν τὴν γυναῖκα αὐτοῦ",
+       "przyjął żonę swoją",
+       "Wykonanie powtarza polecenie czasownik w czasownik: anioł powiedział παραλαβεῖν Μαρίαν τὴν γυναῖκά σου (przyjąć Marię, żonę twoją), Józef παρέλαβεν τὴν γυναῖκα αὐτοῦ (przyjął żonę swoją). Zmienia się tylko osoba zaimka i czas — i znika imię. Maria nie jest w tym zdaniu nazwana po imieniu, lecz przez relację, dokładnie tak, jak rodowód nazwał Batszebę przez męża (1,6). Prawnie zdanie znaczy, że נִשּׂוּאִין (nissuin) zostało dokonane i małżeństwo jest pełne; stan pośredni z w. 18 się domyka. Dalsza część perykopy orzeka, że pełne małżeństwo nie znaczy w tym jednym przypadku współżycia — i to zestawienie, nie samo przemilczenie, dało podstawę całej późniejszej refleksji o małżeństwie Józefa i Marii."
+      ],
+      [
+       "οὐκ ἐγίνωσκεν αὐτὴν ἕως οὗ",
+       "nie poznawał jej, aż",
+       "Imperfectum ἐγίνωσκεν (nie poznawał) opisuje stan trwający, nie akt jednorazowy, a czasownik γινώσκω w tym użyciu jest kalką hebrajskiego יָדַע (jada) z Rdz 4,1 — biblijnym określeniem współżycia. Zdanie samo w sobie nie mówi niczego o tym, co nastąpiło potem. Spójnik ἕως οὗ (aż) wyznacza w grece kres tego, co poprzedza, i nie orzeka o czasie po owym kresie; przykłady są u Mateusza i w LXX: Jezus jest z uczniami ἕως τῆς συντελείας τοῦ αἰῶνος (do końca świata, 28,20), a Mikal nie miała dziecka „aż do dnia swej śmierci\" (2 Sm 6,23), co nie zapowiada potomstwa pośmiertnego. Na tej właśnie gramatyce zbudował Hieronim odpowiedź Helwidiuszowi. Aparat pokazuje przy tym, jak niewygodne było to zdanie: starosyryjski przekład sinajski i kodeks k opuszczają cały członek od οὐκ do οὗ, a znaczna część tradycji — i wraz z nią Wulgata klementyńska — dopisuje z Łk 2,7 τὸν υἱὸν αὐτῆς τὸν πρωτότοκον (syna jej pierworodnego). Łaciński tekst, na którym opierał się spór zachodni, czytał więc *filium suum primogenitum*, czego tekst krytyczny nie ma."
+      ],
+      [
+       "ἐκάλεσεν τὸ ὄνομα αὐτοῦ Ἰησοῦν",
+       "nazwał imię jego Jezus",
+       "Aoryst, który wykonuje futurum z w. 21, i ostatnie słowo perykopy. Nadanie imienia jest w prawie żydowskim aktem ojca i właśnie przez ten akt — nie przez zrodzenie, którego nie było — Józef czyni Jezusa swoim synem, a więc synem Dawida i dziedzicem obietnicy z rodowodu. Rozdział pierwszy domyka się zatem dokładnie tam, gdzie się rozwiązał: 1,16 odmówiło Józefowi czasownika ἐγέννησεν (zrodził), 1,25 daje mu ἐκάλεσεν (nazwał). Prawo przechodzi przez słowo. Warto przy tym zauważyć, co się nie dzieje: imienia Emmanuel nikt nie nadaje, bo καλέσουσιν (nazwą) z w. 23 nie dotyczy Józefa. Jedno imię zostaje wpisane w akta, drugie zostawione Kościołowi."
+      ]
+     ]
+    }
+   ],
+   "struktura": "Perykopa jest zbudowana jak akt prawny z wtrąconym objawieniem: stan faktyczny, zamiar strony, interwencja, wykonanie.\n\nStan faktyczny podaje w. 18 — zaręczyny dokonane, wprowadzenie do domu jeszcze nie, ciąża stwierdzona, sprawca nazwany. Zamiar strony podaje w. 19, a jest to zamiar uchylenia skutków przez rozwód potajemny. Interwencja zajmuje w. 20–21 i ma postać polecenia w dwóch członach: nie bój się przyjąć, oraz nazwiesz imię. Wykonanie zajmuje w. 24–25 i powtarza oba człony w tej samej kolejności: przyjął żonę, nazwał imię. Formuła wypełnienia z w. 22–23 nie należy do tego ciągu i rozsadza go — jest komentarzem ewangelisty wtrąconym między polecenie a jego wykonanie, przez co tekst mówi dwoma głosami: aniołem do Józefa i Mateuszem do czytelnika.\n\nPo wierzchu tej budowy biegnie szew czasownika καλέω (nazywać), trzykrotny i za każdym razem inny gramatycznie. καλέσεις (nazwiesz, w. 21) — druga osoba, futurum, rozkaz. καλέσουσιν (nazwą, w. 23) — trzecia osoba liczby mnogiej, futurum, proroctwo. ἐκάλεσεν (nazwał, w. 25) — trzecia osoba, aoryst, wykonanie. Dwa z trzech czasowników odnoszą się do imienia Jezus i domykają się na sobie; środkowy odnosi się do imienia Emmanuel i zostaje otwarty.\n\nTrzecią warstwą są klamry z rodowodem i z końcem księgi. γένεσις z w. 18 wraca ze słowa z 1,1; ἐκ πνεύματος ἁγίου podaje sprawcę strony biernej z 1,16; wołacz „synu Dawida\" przenosi tytuł z 1,1 na Józefa na czas jednego polecenia; μεθʼ ἡμῶν ὁ θεός z w. 23 wraca w 28,20 jako ἐγὼ μεθʼ ὑμῶν εἰμι. Perykopa zamyka więc rozdział pierwszy i zarazem otwiera klamrę, którą zamknie dopiero ostatni wiersz Ewangelii.",
+   "sections": [
+    {
+     "type": "kontekst",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
+     "body": "Osiem wersetów opisuje sytuację prawną, a nie uczuciową, i bez znajomości prawa małżeńskiego judaizmu Drugiej Świątyni nie da się jej odczytać. Trzy rzeczy trzeba znać: dwustopniowość małżeństwa, konsekwencje niewierności zaręczonej i tryb rozwiązania zaręczyn.",
+     "children": [
+      [
+       "Dwa stopnie małżeństwa",
+       "Małżeństwo żydowskie tego okresu zawierało się w dwóch aktach rozdzielonych zwykle rokiem. Pierwszym były קִדּוּשִׁין (kidduszin), zaślubiny, zwane też אֵרוּסִין (erusin): umowa przy świadkach, przekazanie wiana i spisanie kontraktu, po których kobieta jest już żoną — Miszna nazywa ją אֲרוּסָה (arusa) — choć mieszka nadal w domu ojca. Drugim było נִשּׂוּאִין (nissuin), wprowadzenie do domu męża wraz z weselem, i dopiero wtedy zaczynało się wspólne życie. Dokładnie ten stan pośredni opisuje w. 18: μνηστευθείσης (zostawszy zaręczoną) odnosi się do pierwszego aktu, πρὶν ἢ συνελθεῖν αὐτούς (zanim się zeszli) do niedokonanego drugiego. Stąd terminologia, która bez tego rozróżnienia wygląda na niekonsekwencję: Józef jest ἀνήρ (mąż) już w w. 19, Maria jest γυνή (żona) już w w. 20, a przyjęcie jej do domu dokonuje się dopiero w w. 24. Miszna przechowuje przy tym wiadomość o różnicy obyczaju między Judeą a Galileą w kwestii tego, co wolno narzeczonym przed weselem (Ketubot 1,5); sigla rabiniczne wymagają sprawdzenia przy źródłach."
+      ],
+      [
+       "Ciężar zarzutu i wysokość stawki",
+       "Ponieważ zaręczona jest żoną, jej niewierność liczy się jako cudzołóstwo, nie jako nierząd — i prawo przewiduje za nią śmierć przez ukamienowanie u bram miasta (Pwt 22,23–24). Czy wyrok ten był w I wieku wykonywany, jest sporne: rzymska administracja ograniczała ius gladii, a Miszna obudowuje sprawy śmiertelne tyloma wymogami dowodowymi, że czyni je niemal niewykonalnymi. Ryzyko realne było jednak inne i pewniejsze od wyroku: utrata czci, dożywotnia zależność i status dziecka. Potomek ze związku zakazanego to מַמְזֵר (mamzer), obciążony trwałym ograniczeniem prawa do małżeństwa w Izraelu (por. Pwt 23,3). Milczenie Józefa chroniłoby więc nie tylko Marię, lecz i dziecko — i właśnie dlatego scena, w której Józef daje dziecku imię, jest aktem o skutkach cywilnych, a nie gestem czułości."
+      ],
+      [
+       "Rozwód potajemny",
+       "Zaręczyn nie rozwiązuje się odstąpieniem od zamiaru: potrzebny jest גֵּט (get), list rozwodowy, którego podstawę daje Pwt 24,1, a tryb porządkuje prawo rabiniczne. Sens przysłówka λάθρᾳ (potajemnie) w w. 19 jest zatem techniczny — chodzi o wręczenie dokumentu przy dwóch świadkach, bez wniesienia sprawy i bez ogłoszenia przyczyny, a nie o rozstanie bez formalności. Prawo dopuszczało rozwód bez podania powodu, co w tym jednym przypadku działało na korzyść oskarżonej. Józef nie szuka więc luki w prawie, lecz wybiera z dwóch dostępnych dróg tę, która nie wymaga rozgłosu. Szczegóły procedury get wedle traktatu Gittin wymagają sprawdzenia przy źródłach."
+      ],
+      [
+       "Sen jako droga objawienia",
+       "Objawienie przez sen było w świecie semickim i hellenistycznym kanałem uznanym, lecz ocenianym nierówno. Pismo zna sny prorocze (Rdz 28,12; 37,5–11; Dn 2) i zarazem ostrzega przed prorokami, którzy sny opowiadają (Jr 23,25–32; Pwt 13,2–6). Józef Flawiusz przypisuje snom rolę w swoich własnych decyzjach, a hellenistyczne świątynie leczyły przez sen wyroczny. Mateusz korzysta z tego kanału sześć razy i żadnego z tych snów nie opatruje usprawiedliwieniem — co znaczy, że dla jego odbiorcy sen od Boga nie wymagał obrony. Zarazem dobiera go osobliwie: wszystkie sny tej Ewangelii dostają ludzie bez głosu w narracji, Józef i żona Piłata, nigdy Jezus i nigdy uczniowie."
+      ],
+      [
+       "Spór o pochodzenie po roku 70",
+       "Mateusz pisze w środowisku, w którym legitymacja Jezusa była podważana, a zarzut nieprawego pochodzenia krążył. Orygenes przechowuje w *Contra Celsum* relację Celsusa, powtarzającego żydowskie twierdzenie, że Jezus urodził się ze związku Marii z żołnierzem o imieniu Panthera; literatura rabiniczna zna wzmianki o „Jeszu ben Pandera\". Datowanie tych tradycji jest późne i niepewne, więc nie wolno z nich robić tła bezpośredniego — wolno jednak zauważyć, że Mateusz nie omija kwestii, lecz zapisuje nieregularność i podaje jej przyczynę, zamiast przemilczeć jedno i drugie. Ta sama strategia rządziła czterema kobietami rodowodu. Atrybucje i sigla rabiniczne w tym akapicie wymagają weryfikacji przy źródłach."
+      ],
+      [
+       "Iz 7,14 w swoim własnym czasie",
+       "Znak dla Achaza należy do wojny syro-efraimskiej, około 734–732 przed Chrystusem, gdy Damaszek i Samaria naciskały na Judę, a król szukał ratunku w sojuszu z Asyrią. Izajasz oferuje znak, Achaz odmawia go przyjąć, i znak zostaje dany mimo odmowy: młoda kobieta urodzi syna, a zanim chłopiec odróżni dobro od zła, obaj najeźdźcy przestaną zagrażać (Iz 7,16). Znak jest więc w swoim kontekście zegarem, nie zapowiedzią odległą, a adresatem jest „dom Dawida\" (Iz 7,13) — i to ostatnie Mateusz wykorzystuje, bo jego perykopa mówi właśnie do syna Dawida. Tożsamość dziecka Izajaszowego pozostaje w samej Księdze nierozstrzygnięta; najczęściej wskazuje się na Ezechiasza albo na syna proroka z Iz 8,3. Imię עִמָּנוּ אֵל (immanu El) wraca zresztą w Iz 8,8 i 8,10 już nie jako imię, lecz jako okrzyk — i stamtąd Mateusz bierze swoją glosę."
+      ]
+     ]
+    },
+    {
+     "type": "teologia",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "body": "Perykopa stawia trzy pytania, na które scholastyka odpowiadała osobnymi kwestiami: czym jest sprawcza rola Ducha w poczęciu, czym jest małżeństwo bez współżycia i czym jest sprawiedliwość, która nie wykonuje prawa. Tomasz komentuje to miejsce w *Super Mt.*, cap. I, a rozstrzygnięcia systematyczne daje w trzeciej części *Sumy*.",
+     "children": [
+      [
+       "Duch Święty jako przyczyna sprawcza, nie rodząca",
+       "Formuła ἐκ πνεύματος ἁγίου (z Ducha Świętego) wygląda jak wskazanie ojca i nią nie jest — a różnica trzyma się na pojęciu zrodzenia. Zrodzenie wymaga, by rodzący udzielił rodzonemu swojej natury; Duch Święty naturę Boską posiada, lecz człowieczeństwu Chrystusa jej nie udziela, bo człowieczeństwo to jest prawdziwie ludzkie i pochodzi w całości z materii wziętej z Marii. Dlatego Tomasz odmawia nazwania Ducha ojcem Chrystusa i nazywa Jego działanie przyczynowaniem sprawczym — Duch działa jako przyczyna czynna, Maria jako przyczyna materialna, a skutkiem jest natura ludzka pełna, nie mieszana (*Summa Theologiae* III, q. 32, a. 2–3). Z tego wynika granica dla obrazowości: poczęcie dziewicze nie jest wersją mitu o bogu i śmiertelniczce, bo tam bóstwo udziela nasienia, a tu nie udziela niczego poza działaniem. Grecki tekst pilnuje tej granicy gramatyką, zostawiając πνεῦμα bez rodzajnika."
+      ],
+      [
+       "Małżeństwo prawdziwe bez dopełnienia",
+       "Scena stawia problem, który prawo kanoniczne nazwie *matrimonium ratum non consummatum* (małżeństwo zawarte, nie dopełnione), i rozstrzyga go na korzyść prawdziwości więzi. Tomasz argumentuje, że małżeństwo Józefa i Marii było prawdziwe, bo istotą małżeństwa jest nierozdzielne przymierze zgody, a nie akt cielesny, oraz że miało trzy dobra małżeństwa: potomstwo, wierność i nierozerwalność — potomstwo zaś nie przez zrodzenie z obojga, lecz przez wspólne przyjęcie i wychowanie (*Summa Theologiae* III, q. 29, a. 2). Stąd płynie wniosek ważny dla całej perykopy: ojcostwo Józefa nie jest fikcją prawną dopuszczoną z konieczności, lecz realną relacją o innej podstawie. Podstawą jest węzeł małżeński i akt przyjęcia, a nie zrodzenie — i właśnie dlatego akt nadania imienia w w. 25 ma moc przenoszenia dziedzictwa Dawidowego."
+      ],
+      [
+       "Sprawiedliwość i słuszność",
+       "Spójnik καί z w. 19 jest problemem filologicznym, ale rozwiązanie ma postać etyczną i podał je Arystoteles, a uściślił Tomasz. Prawo stanowione formułuje się w zdaniach ogólnych, więc w przypadkach jednostkowych bywa, że litera przeczy zamysłowi prawodawcy; cnota, która to koryguje, to ἐπιείκεια (słuszność, życzliwa wyrozumiałość), i Tomasz zalicza ją nie do odstępstw od sprawiedliwości, lecz do jej części — jest sprawiedliwością wyższą, bo sięga celu prawa, a nie jego brzmienia (*Summa Theologiae* II–II, q. 120, a. 1–2). Przy tym rozstrzygnięciu καί jest wynikowe: Józef nie chce hańby, ponieważ jest sprawiedliwy, a nie wbrew temu. Mateusz ustawia więc pierwszy przykład sprawiedliwości w swojej Ewangelii dokładnie tam, gdzie będzie ona potem wymagana — w akcie, który przekracza wymiar należny (5,20.38–42), a nie w akcie, który go odmierza."
+      ],
+      [
+       "Imię, działanie i istota",
+       "Dwa imiona orzekają o dwóch różnych rzeczach, a różnica ta ma w scholastyce ścisłą postać. Ἰησοῦς nazywa działanie — σώσει (zbawi) — i należy do porządku, w którym poznajemy rzecz przez jej skutki; Ἐμμανουήλ nazywa stan rzeczy, obecność Boga, i należy do porządku istnienia. Ponieważ *operatio sequitur esse* (działanie idzie za istnieniem), kolejność nadania nie jest przypadkowa: imię skutku zostaje nadane i wpisane w akta, imię istoty zostaje tylko wypowiedziane i pozostaje do wyznania. Tomasz zauważa przy tym, że imiona Chrystusa nadane z objawienia nie są konwencjami, lecz znakami rzeczy, bo nadał je Ten, kto zna rzecz w jej przyczynie (*Summa Theologiae* III, q. 37, a. 2). Stąd też nazwanie jest u Mateusza czynnością skuteczną, nie opisową — Józef, nadając imię, nie opisuje syna, lecz go sobie przysposabia."
+      ]
+     ]
+    },
+    {
+     "type": "autor_ludzki",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
+     "body": "Mateusz miał do opowiedzenia scenę, której nie dało się opowiedzieć bez ujawnienia kłopotu: matka Mesjasza była brzemienna przed weselem. Można było o tym zamilczeć — Marek i Jan milczą — albo opowiedzieć z punktu widzenia matki, jak Łukasz. Mateusz wybiera trzecią drogę i opowiada z punktu widzenia mężczyzny, który o niczym nie wie, musi zdecydować i decyduje źle, dopóki nie zostanie pouczony.\n\nWybór ten jest redakcyjnie samodzielny. U Marka opowiadania o dzieciństwie nie ma wcale, a Łukaszowe jest niezależne i w szczegółach rozbieżne: tam zwiastowanie idzie do Marii na jawie, tu do Józefa we śnie; tam dom jest w Nazarecie, a Betlejem wynika ze spisu, tu rodzina mieszka w Betlejem i do Nazaretu trafia dopiero po powrocie z Egiptu; tam Maria mówi, tu milczy. Zbieżności są przy tym twarde i istotne — imiona, dziewicze poczęcie z Ducha, Betlejem, Dawidowe pochodzenie przez Józefa, nakaz nadania imienia Jezus — więc oba opowiadania wychodzą z jednej tradycji, a różnią się doborem bohatera i drogą objawienia.\n\nKompozycyjnie perykopa jest odpowiedzią na pytanie, które sam Mateusz postawił jedenaście wersetów wcześniej. Rodowód dowiódł prawa do tronu i w ostatnim ogniwie prawa nie przekazał, bo czasownik stanął w stronie biernej. Perykopa podaje sprawcę tej strony biernej i opisuje czynność, przez którą prawo przechodzi mimo wszystko: nadanie imienia. Rozdział pierwszy jest przez to jedną konstrukcją, nie dwiema — genealogią z dowodem i aktem przysposobienia.\n\nDalej idzie szablon, który Mateusz zastosuje czterokrotnie w rozdziale drugim: sen, polecenie, wykonanie, formuła wypełnienia. Pierwsze wystąpienie jest tutaj i ono ustala rytm. Formuły wypełnienia w rozdziałach 1–2 jest pięć (1,22–23; 2,5–6; 2,15; 2,17–18; 2,23), a wszystkie poza jedną odnoszą się do geografii — Betlejem, Egipt, Rama, Nazaret. Pierwsza odnosi się do imienia, i to ona wyznacza, czego ta seria dowodzi: nie tego, że Jezus był w odpowiednich miejscach, lecz tego, kim jest.\n\nPostać Józefa jest wreszcie u Mateusza narzędziem polemicznym. Pisząc po roku 70 do wspólnoty, która spiera się o to, kto jest prawowitym Izraelem, Mateusz pokazuje mężczyznę przestrzegającego Prawa, który w imię Prawa chce zrezygnować z własnego prawa, a potem na słowo Boga robi rzecz z punktu widzenia obyczaju niewytłumaczalną: bierze do domu kobietę brzemienną nie z niego. Sprawiedliwy w tej Ewangelii będzie odtąd zawsze ten, kto słucha objawienia przeciw oczywistości — od Józefa po Piotra wyznającego w Cezarei.",
+     "children": []
+    },
+    {
+     "type": "autor_bozy",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
+     "body": "Bóg wchodzi w tę scenę trzykrotnie i za każdym razem inaczej: jako sprawca poczęcia, jako głos w śnie i jako przedmiot wyznania w imieniu Emmanuel. Żadne z tych wejść nie znosi ludzkiej decyzji — poczęcie jest przed Józefem, głos przychodzi do śpiącego, wyznanie zostaje odłożone na przyszłość i oddane innym.",
+     "children": [
+      [
+       "Zgoda, o którą trzeba było poprosić",
+       "Bóg działa w tej perykopie bez pozwolenia tylko raz, przy poczęciu. Wszystko dalsze przechodzi przez przyzwolenie człowieka, który mógł odmówić — i to nie formalnie, bo odmowa Józefa była przygotowana, uzasadniona Prawem i już postanowiona. Objawienie nie unieważnia jego zamiaru mocą, lecz podaje mu brakującą informację i zostawia decyzję. Cała sprawa dziedzictwa Dawidowego wisi więc na tym, że obudzony człowiek wstał i zrobił, co mu powiedziano. Łukasz pokaże tę samą proporcję w zgodzie Marii; Mateusz pokazuje ją w posłuszeństwie milczącym, które nie ma nawet własnego zdania do wypowiedzenia."
+      ],
+      [
+       "Zbawienie określone, zanim cokolwiek się stało",
+       "Przed pierwszym cudem, pierwszym kazaniem i pierwszym uczniem zostaje powiedziane, co ten człowiek zrobi: σώσει τὸν λαὸν αὐτοῦ ἀπὸ τῶν ἁμαρτιῶν αὐτῶν (zbawi lud swój od grzechów ich). Definicja jest zawężająca i rozczarowująca wobec oczekiwań, które Ewangelia zaraz pokaże — tłumy będą chciały uzdrowień, uczniowie tronów, Jerozolima wyzwolenia. Żadne z tych pragnień nie zostaje tu obiecane. Duch Święty podaje w pierwszym rozdziale miarę, wedle której czytelnik ma oceniać wszystko dalsze, i ta miara jest jedna: odpuszczenie grzechów. Dlatego sprzeciw wobec Jezusa wybuchnie najgwałtowniej nie przy cudach, lecz wtedy, gdy odpuści grzechy paralitykowi (9,2–3)."
+      ],
+      [
+       "Obecność zamiast wyjaśnienia",
+       "Imię Emmanuel nie tłumaczy niczego — nie mówi, dlaczego dziecko rodzi się w ten sposób, ani co z tego wynika dla Izraela. Mówi, gdzie jest Bóg. Jest to odpowiedź innego rodzaju niż pytanie, jakie rozdział pierwszy zadał, a przy tym jedyna, którą Ewangelia będzie powtarzać do samego końca. Znak dany Achazowi działał tak samo: król pytał o ratunek wojskowy, a dostał dziecko i imię. Mateusz zachowuje tę nieproporcjonalność i czyni z niej regułę — obietnicą nie jest wyjaśnienie historii, lecz bycie w niej obecnym."
+      ],
+      [
+       "Dwa imiona i dwa porządki",
+       "Rozdział pierwszy kończy się tym, że jedno z dwóch imion zostaje nadane, a drugie nie. Jezus jest imieniem wpisanym w akta rodzinne przez człowieka, który miał do tego prawo; Emmanuel jest imieniem, które „oni\" nadadzą — bez wskazania kto, kiedy i na jakiej podstawie. Ta asymetria jest teologiczna. Pierwsze imię należy do porządku, w którym Bóg działa przez prawo, rodowód i decyzję Józefa; drugie do porządku, w którym rozpoznanie przychodzi później i nie daje się nakazać. Dlatego pierwsze imię słyszymy w w. 25, a drugie dopiero wtedy, gdy Kościół zacznie je wymawiać — i dlatego ostatnie słowa Ewangelii nie są tytułem, lecz zdaniem o obecności."
+      ]
+     ]
+    },
+    {
+     "type": "odniesienia",
+     "title": "Sieć odniesień biblijnych",
+     "body": "Perykopa ma jeden cytat wyraźny i opatrzony formułą, a wokół niego sieć odwołań, z których żadne nie jest oznaczone. Poniżej te, które rozstrzygają o sensie: proroctwo i jego kontekst, prawo małżeńskie stojące za słownictwem, schemat zwiastowania i klamry wiążące ten rozdział z końcem księgi.",
+     "children": [
+      [
+       "Iz 7,14 → w. 23",
+       "Jedyny cytat formalny, wprowadzony pełną formułą wypełnienia. Mateusz idzie za LXX dosłownie — razem z παρθένος (dziewica) w miejscu hebrajskiego עַלְמָה (alma) — i zmienia jedno słowo: καλέσεις (nazwiesz) na καλέσουσιν (nazwą). Zmiana rozdziela nadanie imienia Jezus, które wykonuje Józef, od wyznania imienia Emmanuel, które należy do nieokreślonych „onych\". Odpowiedź na pytanie, za którym tekstem idzie ten cytat, jest więc podwójna: za greckim w brzmieniu, za własnym zamysłem w jednym czasowniku. Aparat notuje w D i u Orygenesa powrót do καλέσεις, czyli poprawkę w stronę źródła — dowód, że zmiana była dostrzegana."
+      ],
+      [
+       "Iz 8,8.10 → w. 23",
+       "Przekład μεθʼ ἡμῶν ὁ θεός (z nami Bóg) nie pochodzi z Iz 7,14, gdzie LXX zostawia imię nieprzełożone, lecz z dwóch miejsc dwa rozdziały dalej, gdzie to samo wyrażenie brzmi jako okrzyk wobec najazdu. Mateusz łączy więc imię z jego późniejszym echem i tym samym wybiera znaczenie: nie „Bóg jest po naszej stronie\" w sensie wojennym, lecz obecność jako taka. Dobór jest tym wymowniejszy, że Iz 8,8 brzmi w swoim kontekście niemal groźnie."
+      ],
+      [
+       "Iz 7,13.16; Iz 9,5–6 → w. 22–23",
+       "Kontekst znaku i jego dalszy ciąg. Adresatem proroctwa jest „dom Dawida\" (Iz 7,13), czyli dokładnie ten, do kogo anioł mówi w w. 20; kres znaku wyznacza wiek dziecka (Iz 7,16), więc w pierwotnym sensie chodzi o najbliższe lata. Dwa rozdziały dalej dziecko dostaje serię imion królewskich (Iz 9,5–6), a Mateusz z całej tej serii bierze tylko imię z rozdziału siódmego — to, które mówi o obecności, nie o władzy."
+      ],
+      [
+       "Rdz 16,11; Sdz 13,3–5 → w. 20–21",
+       "Schemat zwiastowania. Rdz 16,11 LXX ma formułę niemal identyczną ze zdaniem anioła: urodzisz syna, nazwiesz imię jego Izmael, bo Pan wysłuchał — zapowiedź, imię, etymologiczne uzasadnienie. Sdz 13,3–5 powtarza ten sam układ przy narodzeniu Samsona, dokładając zakaz rytualny. Mateusz pisze więc scenę gatunkowo rozpoznawalną, a odstępstwo od wzoru jest jedno i zasadnicze: zwiastowanie idzie nie do matki ani do rodziców, lecz do mężczyzny, który ojcem nie jest."
+      ],
+      [
+       "Rdz 37,5–11; 40–41; Rdz 4,1 → w. 20.25",
+       "Dwa echa z Księgi Rodzaju, oba niewypowiedziane. Pierwsze jest postaciowe: Józef, syn Jakuba (Mt 1,16), otrzymuje objawienie we śnie i przez posłuszeństwo temu objawieniu wyprowadza rodzinę do Egiptu (2,13–15) — tak jak Józef, syn Jakuba, który śnił sny i w Egipcie ocalił swoich. Drugie jest leksykalne: γινώσκω w w. 25 jest kalką יָדַע (jada) z Rdz 4,1, biblijnego określenia współżycia. Mateusz nie wskazuje żadnej z tych paraleli; obie są czytelne dla kogoś, kto zna Pismo po grecku."
+      ],
+      [
+       "Pwt 22,23–24; Pwt 24,1 → w. 19",
+       "Prawne tło decyzji Józefa. Pierwszy tekst podaje, co grozi zaręczonej oskarżonej o niewierność — kamienowanie u bram, bo zaręczona jest żoną. Drugi daje podstawę listu rozwodowego, bez którego zaręczyn nie można rozwiązać. Oba razem wyznaczają pole wyboru Józefa: proces albo גֵּט (get) bez podania przyczyny. To, co w polskim przekładzie brzmi jak dylemat moralny, jest w tekście wyborem między dwiema procedurami."
+      ],
+      [
+       "Ps 130,8 → w. 21",
+       "Werbalne tło wykładu imienia. Psalm obiecuje, że Pan odkupi Izraela od wszystkich jego nieprawości — λυτρώσεται τὸν Ἰσραὴλ ἐκ πασῶν τῶν ἀνομιῶν αὐτοῦ w LXX (Ps 129,8). Układ jest ten sam co w w. 21: podmiotem Bóg, przedmiotem lud, a tym, od czego się ratuje, wina, nie wróg. Anioł przypisuje więc dziecku czynność, którą Psałterz przypisuje samemu Bogu — i robi to, nie nazywając go Bogiem."
+      ],
+      [
+       "Mt 1,16; Mt 2,13.19.22 → całość",
+       "Klamry wewnątrz rozdziałów pierwszego i drugiego. Strona bierna ἐγεννήθη (został zrodzony) z 1,16 dostaje sprawcę w 1,18.20; wołacz „synu Dawida\" przenosi na jedno polecenie tytuł z 1,1; trzy dalsze sny Józefa powtarzają schemat z 1,20 wraz z formułą posłuszeństwa, a czasownik παραλαμβάνω (brać do siebie) przechodzi z żony na Dziecię i Matkę. Perykopa nie jest więc epizodem, lecz pierwszym ogniwem cyklu."
+      ],
+      [
+       "Mt 18,20; Mt 28,20; Mt 26,28 → w. 21.23",
+       "Trzy miejsca, w których oba imiona dostają wypełnienie. Obietnica obecności wśród dwóch albo trzech zebranych (18,20) i zapewnienie ἐγὼ μεθʼ ὑμῶν εἰμι (ja z wami jestem, 28,20) wypełniają imię Emmanuel, nie wymawiając go; słowo o kielichu wylanym εἰς ἄφεσιν ἁμαρτιῶν (na odpuszczenie grzechów, 26,28) wypełnia wykład imienia Jezus z w. 21. Ewangelia domyka więc rozdział pierwszy w dwóch różnych miejscach — jedno imię przy Wieczerzy, drugie w ostatnim wierszu."
+      ],
+      [
+       "Łk 1,26–38; Łk 2,7 → całość",
+       "Paralela i jej granica. Łukasz opowiada zwiastowanie na jawie i do Marii, która pyta i odpowiada; Mateusz we śnie i do Józefa, który milczy i wykonuje. Zbieżne są imiona, Betlejem, poczęcie z Ducha i nakaz nadania imienia Jezus, więc tradycja jest wspólna, a kompozycja osobna. Łk 2,7 ma ponadto znaczenie tekstualne: stamtąd pochodzi dopisek τὸν υἱὸν αὐτῆς τὸν πρωτότοκον (syna jej pierworodnego), który znaczna część tradycji rękopiśmiennej i Wulgata klementyńska wstawiają do Mt 1,25."
+      ],
+      [
+       "Rz 1,3–4; Ga 4,4 → w. 20–21",
+       "Najstarsze sformułowania tej samej treści bez opowiadania. Rz 1,3–4 wiąże pochodzenie z nasienia Dawida wedle ciała z ustanowieniem Synem Bożym wedle Ducha, czyli obejmuje dokładnie dwa porządki, które Mateusz rozdziela na rodowód i tę perykopę. Ga 4,4 streszcza całość w jednym zdaniu o posłaniu Syna, zrodzonego z niewiasty, poddanego Prawu. Żaden z tych tekstów nie wspomina Józefa, co pokazuje, że opowiadanie o nim nie było dla pierwotnego wyznania konieczne — a Mateusz uznał je za konieczne dla swojego."
+      ]
+     ]
+    },
+    {
+     "type": "recepcja",
+     "title": "Znaczenie w historii i liturgii Kościoła",
+     "body": null,
+     "children": [
+      [
+       "Historia dogmatu: dziewictwo i dwa zarzuty",
+       "Osiem wersetów Mateusza obsługiwało przez cztery wieki dwa fronty naraz. Z jednej strony stali ci, którzy odrzucali dziewicze poczęcie — ebionici czytający rodowód bez wyłomu z 1,16 i widzący w Jezusie syna Józefa, a poza Kościołem Celsus, powtarzający wedle relacji Orygenesa żydowskie twierdzenie o żołnierzu Pantherze. Z drugiej strony stali ci, którzy ciało Chrystusa uważali za pozorne, i wobec nich argumentem był ten sam tekst: dziecko zostaje poczęte w łonie, nosi się je, rodzi i nazywa. Spór o samo brzmienie Iz 7,14 wybuchł najwcześniej i najgwałtowniej: Justyn w *Dialogu z Żydem Tryfonem* broni lekcji παρθένος przeciw νεᾶνις Akwili, Symmacha i Teodocjona, a Ireneusz w *Adversus haereses* III,21 powołuje się na wiek i powagę przekładu Siedemdziesięciu, powstałego przed sporem. Osobny i późniejszy jest spór o w. 25: Helwidiusz wyciągnął z ἕως οὗ (aż) i z łacińskiego *primogenitum* wniosek o dalszym potomstwie, a Hieronim odpowiedział mu około 383 roku pismem *Adversus Helvidium*, wykazując na przykładach biblijnych, że „aż\" nie orzeka o czasie po wyznaczonym kresie. Formuła ἀειπάρθενος (zawsze dziewica) wejdzie do orzeczeń soborowych w szóstym wieku, a synod lateraneński 649 roku poda ją w postaci rozwiniętej; daty i brzmienia kanonów wymagają sprawdzenia przy źródłach. Materiał apokryficzny — wiek Józefa, jego wcześniejsze małżeństwo, imiona rodziców Marii — pochodzi z *Protoewangelii Jakuba* i nie ma oparcia w tekście kanonicznym, choć przeszedł do ikonografii i kaznodziejstwa."
+      ],
+      [
+       "Liturgia",
+       "W rycie rzymskim perykopa pracuje w czterech miejscach, za każdym razem inaczej pociętych. W czwartą niedzielę Adwentu roku A Ewangelią jest Mt 1,18–24, czyli opowiadanie bez ostatniego wiersza — odczytanie adwentowe kończy się na przyjęciu żony, a nie na nadaniu imienia. 18 grudnia, w dniu wielkich antyfon, czyta się ten sam fragment w dzień powszedni. W Mszy Wigilii Narodzenia Pańskiego wieczorem 24 grudnia Ewangelią jest Mt 1,18–25 albo, w formie dłuższej, Mt 1,1–25 wraz z rodowodem. W uroczystość świętego Józefa 19 marca perykopa wraca w postaci złożonej z dwóch odcinków, z pominięciem wiersza o nadaniu imienia i z Łk 2,41–51 jako lekcją alternatywną. Do tego dochodzi antyfona *O Emmanuel* z 23 grudnia, ostatnia z siedmiu wielkich antyfon, zbudowana wprost na Iz 7,14 i na tej perykopie, oraz hymn *Veni, veni Emmanuel*, który te antyfony streszcza.\n\nWschód rozkłada to inaczej i nie ma odpowiednika marcowej uroczystości. W rycie bizantyjskim Józef Oblubieniec wspominany jest w Niedzielę po Narodzeniu Pańskim, razem z królem Dawidem i Jakubem, bratem Pańskim — czyli nie w osobnym święcie wiosennym, lecz wewnątrz cyklu Bożego Narodzenia, i to w towarzystwie, które podkreśla jego rolę w rodowodzie. Mt 1,18–25 wchodzi też w Wielkie Godziny Narodzenia, czytane w wigilię święta. Różnica obu tradycji jest zatem rzeczowa, nie kalendarzowa: Zachód wyodrębnił Józefa jako patrona i dał mu własną uroczystość, Wschód trzyma go przy osobach rodowodu. Sigla Lekcjonarza rzymskiego, zakres perykop dnia oraz rubryki typikonu wymagają sprawdzenia w księgach przed publikacją."
+      ],
+      [
+       "Sen Józefa w ikonografii i duchowości",
+       "Scena z w. 20 wytworzyła własny typ obrazowy, odrębny od Zwiastowania: śpiący mężczyzna, zwykle z głową na dłoni, i anioł nachylony nad nim. Na Zachodzie typ ten ma swoje najznamienitsze opracowania w malarstwie siedemnastego wieku, u Georgesa de La Tour i w kręgu Rembrandta, gdzie światło świecy albo lampy czyni ze snu wydarzenie. Sztuka bizantyjska umieszcza Józefa inaczej i ciekawiej: w kanonicznej ikonie Narodzenia siedzi on z boku, odwrócony, w postawie zwątpienia, a przed nim stoi postać pasterza, czytana w tradycji jako kusiciel podsuwający mu właśnie myśl z w. 19. Perykopa jest więc jedynym miejscem Pisma, z którego wyrosło przedstawienie wątpiącego sprawiedliwego wewnątrz obrazu samego Narodzenia. Duchowość zachodnia podjęła tę postać późno i instytucjonalnie: Leon XIII poświęcił jej encyklikę *Quamquam pluries* w 1889 roku, Jan XXIII wprowadził imię Józefa do Kanonu rzymskiego w 1962 roku, Jan Paweł II wydał adhortację *Redemptoris Custos* w 1989 roku, a w 2013 roku imię to zostało dopisane do pozostałych modlitw eucharystycznych. Atrybucje dzieł, daty i szczegóły ikonograficzne wymagają weryfikacji przy źródłach."
+      ]
+     ]
+    },
+    {
+     "type": "patrystyka",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
+     "body": "Tradycja czyta tę perykopę nierówno. Do w. 18–21 komentarzy jest wiele i wszystkie krążą wokół jednego pytania — dlaczego Bóg dopuścił zwątpienie Józefa, zamiast je uprzedzić. Cały późniejszy ciężar sporu spadł natomiast na w. 25, i to nie w komentarzach do Mateusza, lecz w polemice: właściwym locus odpowiedzi Hieronima jest osobne pismo przeciw Helwidiuszowi, nie jego komentarz do Ewangelii, więc kto chce znać dowód, a nie jego streszczenie, musi sięgnąć tam. Poniżej Chryzostom o kolejności zdarzeń, Chromacjusz o zakresie imienia Jezus, Hilary o Emmanuelu jako orzeczeniu o dwóch naturach i Hieronim o spójniku „aż\".",
+     "children": []
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "body": "Józef nie mówi w tej perykopie ani słowa. Wszystko, co robi, da się wyliczyć czasownikami w trzeciej osobie: rozważył, postanowił, zbudził się, uczynił, przyjął, nie poznawał, nazwał. Ostatni z tych czasowników jest tym, na którym stoi rozdział pierwszy. Rodowód odmówił Józefowi słowa ἐγέννησεν (zrodził) i zostawił w jego miejsce stronę bierną; tutaj Józef dostaje ἐκάλεσεν (nazwał) — i to wystarcza, bo w prawie, którym rodowód operuje, ojcem czyni nadanie imienia, nie zrodzenie. Dziedzictwo Dawidowe przechodzi więc na Jezusa przez akt mowy, a nie ciała, i przechodzi dlatego, że obudzony człowiek postąpił wbrew własnej rozsądnej decyzji.\n\nDrugie imię idzie inną drogą i Mateusz tę drogę rozdziela gramatyką. Jezus zostaje nadany na rozkaz, w drugiej osobie, i wykonany w aoryście. Emmanuel zostaje zapowiedziany w trzeciej osobie liczby mnogiej — καλέσουσιν (nazwą) — i nie wykonany przez nikogo w całej księdze. Zmiana wobec LXX jest jednym słowem i rozstrzyga o adresacie proroctwa: nie Józef ma wyznać, kim jest to dziecko, lecz ci, którzy przyjdą po nim. Dlatego imię Emmanuel nie pada w Ewangelii drugi raz jako nazwa. Pada jako zdanie, i to trzykrotnie: zapowiedziane w 1,23, obiecane w 18,20, wypowiedziane w pierwszej osobie w 28,20.\n\nMiędzy tymi dwoma imionami stoi definicja, którą łatwo przeoczyć, bo zajmuje pół wiersza. Zbawienie zostaje tu określone, zanim w Ewangelii stanie się cokolwiek: od grzechów, i to od grzechów ludu własnego. Żadnego słowa o Rzymie, o tronie, o oczyszczeniu Jerozolimy z obcych, czego oczekiwała pobożność tej epoki i o co proszą Psalmy Salomona. Miara jest podana na początku i to wedle niej trzeba będzie oceniać wszystkie rozczarowania, jakie Ewangelia przyniesie tym, którzy szli za Jezusem po coś innego.\n\nZostaje sprawiedliwość Józefa, od której wszystko się zaczęło. Pierwszy człowiek nazwany w tej Ewangelii sprawiedliwym jest kimś, kto postanowił nie skorzystać z prawa, które mu przysługiwało, a potem porzucił i to postanowienie, bo usłyszał inne polecenie. Słowo δίκαιος wróci siedemnaście razy i ostatni raz padnie w ustach poganki, ostrzeżonej — jak Józef — we śnie, o człowieku, którego jej mąż wydaje na śmierć. Dwa słowa, które otwierają historię Józefa, spotykają się więc raz jeszcze w jednym wierszu, u progu wyroku, i nikt ich tam już nie posłucha.",
+     "children": []
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "body": "*Tekst grecki wedle wydania krytycznego Nestle-Aland, pobrany z `db.sqlite` (księga 470) wraz z Wulgatą klementyńską, morfologią MorphGNT i aparatem; znaki aparatu usunięte z zapisu perykopy. Przekład polski jest roboczy, własny i celowo dosłowny — nie pochodzi z żadnego wydania objętego prawem autorskim; przekład międzywierszowy z `db.sqlite` posłużył wyłącznie jako materiał kontrolny. Transkrypcje hebrajskie uproszczone. Liczby wystąpień słów u Mateusza (ὄναρ sześć razy, δίκαιος siedemnaście, πληρόω szesnaście, παρθένος cztery, μεθερμηνεύω raz, μνηστεύω raz, δειγματίζω raz, ἀπολύω dziewiętnaście, παραλαμβάνω szesnaście) policzone w tabeli `words` po numerach Stronga. Noty tekstualne opierają się na trzynastu wpisach aparatu dla Mt 1,18–25 w tabeli `commentaries`; świadków podano wedle tych wpisów.*\n\n*Loci patrystyczne — numery homilii Chryzostoma, traktatów Chromacjusza, rozdziały Hilarego i miejsca u Hieronima, Justyna, Ireneusza i Orygenesa — podano wedle standardowej numeracji i przed publikacją wymagają sprawdzenia przy źródłach (Źródła Myśli Teologicznej, PSP, Migne). To samo dotyczy sigliów Lekcjonarza rzymskiego i zakresu perykop dnia, rubryk typikonu bizantyjskiego, dat i atrybucji dzieł malarskich, lokalizacji tekstów rabinicznych (Ketubot 1,5, Gittin) oraz brzmienia i datowania orzeczeń o dziewictwie Maryi (Konstantynopol II, synod lateraneński 649). Przy pracy publikacyjnej warto zestawić analizę z komentarzami: U. Luz, W. D. Davies – D. C. Allison (ICC), R. T. France (NICNT), a po polsku A. Paciorek (NKB NT I); do spraw prawa małżeńskiego osobno z opracowaniami judaizmu Drugiej Świątyni.*",
+     "children": []
+    }
+   ],
+   "refs": [
+    [
+     [
+      "pericope"
+     ],
+     "Iz",
+     7,
+     10,
+     7,
+     17,
+     "Iz 7,10–17",
+     "cytat",
+     "znak dla Achaza podczas wojny syro-efraimskiej — źródło cytatu z w. 23 i jego pierwotny kontekst: adresatem jest „dom Dawida\", a miarą czasu wiek dziecka"
+    ],
+    [
+     [
+      "unit",
+      "w. 22–23",
+      1
+     ],
+     "Iz",
+     7,
+     14,
+     7,
+     14,
+     "Iz 7,14",
+     "cytat",
+     "ἡ παρθένος ἐν γαστρὶ ἕξει za LXX, w miejscu hebrajskiego עַלְמָה (alma); właściwy termin dziewictwa בְּתוּלָה (betula) nie występuje"
+    ],
+    [
+     [
+      "unit",
+      "w. 22–23",
+      2
+     ],
+     "Iz",
+     7,
+     14,
+     7,
+     14,
+     "Iz 7,14",
+     "rozwiniecie",
+     "LXX ma καλέσεις (nazwiesz), Mateusz καλέσουσιν (nazwą) — jedyna zmiana w cytacie i zarazem rozdzielenie dwóch aktów nazwania"
+    ],
+    [
+     [
+      "unit",
+      "w. 22–23",
+      3
+     ],
+     "Iz",
+     8,
+     8,
+     8,
+     10,
+     "Iz 8,8.10",
+     "aluzja",
+     "μεθʼ ἡμῶν ὁ θεός (z nami Bóg) — źródło glosy, której LXX nie ma w Iz 7,14; tam okrzyk wobec najazdu, nie imię"
+    ],
+    [
+     [
+      "unit",
+      "w. 22–23",
+      0
+     ],
+     "Iz",
+     9,
+     5,
+     9,
+     6,
+     "Iz 9,5–6",
+     "tlo",
+     "seria imion królewskich dziecka — Mateusz bierze z Izajasza wyłącznie imię mówiące o obecności, nie o władzy"
+    ],
+    [
+     [
+      "unit",
+      "w. 20–21",
+      4
+     ],
+     "Rdz",
+     16,
+     11,
+     16,
+     11,
+     "Rdz 16,11",
+     "paralela",
+     "καλέσεις τὸ ὄνομα αὐτοῦ Ἰσμαήλ, ὅτι ἐπήκουσεν κύριος — ten sam szkielet zwiastowania: zapowiedź, imię, etymologiczne uzasadnienie"
+    ],
+    [
+     [
+      "unit",
+      "w. 20–21",
+      4
+     ],
+     "Sdz",
+     13,
+     3,
+     13,
+     5,
+     "Sdz 13,3–5",
+     "paralela",
+     "zwiastowanie narodzenia Samsona wedle tego samego wzoru gatunkowego, z zakazem rytualnym w miejsce wykładu imienia"
+    ],
+    [
+     [
+      "unit",
+      "w. 20–21",
+      0
+     ],
+     "Rdz",
+     37,
+     5,
+     37,
+     11,
+     "Rdz 37,5–11",
+     "typologia",
+     "figura: Józef, syn Jakuba, otrzymuje objawienie we śnie; wypełnienie: Józef, syn Jakuba (Mt 1,16), śni i przez sen wyprowadza rodzinę do Egiptu"
+    ],
+    [
+     [
+      "unit",
+      "w. 20–21",
+      0
+     ],
+     "Rdz",
+     41,
+     1,
+     41,
+     45,
+     "Rdz 41,1–45",
+     "typologia",
+     "sny w Egipcie i ocalenie rodziny przez ich posłuchanie — drugi członek tej samej figury"
+    ],
+    [
+     [
+      "unit",
+      "w. 24–25",
+      2
+     ],
+     "Rdz",
+     4,
+     1,
+     4,
+     1,
+     "Rdz 4,1",
+     "tlo",
+     "γινώσκω jako kalka hebrajskiego יָדַע (jada) — biblijne określenie współżycia, bez którego w. 25 jest nieczytelny"
+    ],
+    [
+     [
+      "unit",
+      "w. 19",
+      0
+     ],
+     "Pwt",
+     22,
+     23,
+     22,
+     27,
+     "Pwt 22,23–27",
+     "tlo",
+     "prawo o zaręczonej oskarżonej o niewierność: ponieważ jest już żoną, czyn liczy się jako cudzołóstwo, z karą kamienowania u bram"
+    ],
+    [
+     [
+      "unit",
+      "w. 19",
+      2
+     ],
+     "Pwt",
+     24,
+     1,
+     24,
+     4,
+     "Pwt 24,1–4",
+     "tlo",
+     "podstawa listu rozwodowego — גֵּט (get); bez dokumentu zaręczyn nie można rozwiązać, więc λάθρᾳ dotyczy trybu, nie formy"
+    ],
+    [
+     [
+      "unit",
+      "w. 18",
+      1
+     ],
+     "Pwt",
+     20,
+     7,
+     20,
+     7,
+     "Pwt 20,7",
+     "tlo",
+     "zaręczony, który jeszcze nie wziął żony, zwolniony z wojny — świadectwo prawne rozdzielności dwóch stopni małżeństwa"
+    ],
+    [
+     [
+      "unit",
+      "w. 19",
+      1
+     ],
+     "Lb",
+     25,
+     4,
+     25,
+     4,
+     "Lb 25,4",
+     "tlo",
+     "παραδειγματίζω w LXX o publicznym pohańbieniu skazanych — słownikowe tło wariantu παραδειγματίσαι z aparatu"
+    ],
+    [
+     [
+      "unit",
+      "w. 20–21",
+      4
+     ],
+     "Ps",
+     130,
+     8,
+     130,
+     8,
+     "Ps 130,8",
+     "aluzja",
+     "Pan odkupi Izraela od wszystkich jego nieprawości (Ps 129,8 LXX) — ten sam układ: lud jako przedmiot, wina jako to, od czego się ratuje"
+    ],
+    [
+     [
+      "unit",
+      "w. 18",
+      3
+     ],
+     "Rdz",
+     1,
+     2,
+     1,
+     2,
+     "Rdz 1,2",
+     "aluzja",
+     "רוּחַ (ruach) unoszący się nad wodami — Duch jako moc stwórcza, co tłumaczy brak rodzajnika przy πνεῦμα w w. 18.20"
+    ],
+    [
+     [
+      "unit",
+      "w. 18",
+      0
+     ],
+     "Mt",
+     1,
+     1,
+     1,
+     1,
+     "Mt 1,1",
+     "rozwiniecie",
+     "βίβλος γενέσεως — to samo słowo γένεσις wraca tu z rodzajnikiem i czasownikiem, jako szew między rejestrem i narracją"
+    ],
+    [
+     [
+      "unit",
+      "w. 20–21",
+      3
+     ],
+     "Mt",
+     1,
+     16,
+     1,
+     16,
+     "Mt 1,16",
+     "rozwiniecie",
+     "ἐγεννήθη (został zrodzony) bez sprawcy — strona bierna rodowodu dostaje tu dopełnienie ἐκ πνεύματος (z Ducha)"
+    ],
+    [
+     [
+      "unit",
+      "w. 20–21",
+      1
+     ],
+     "Mt",
+     1,
+     1,
+     1,
+     1,
+     "Mt 1,1",
+     "rozwiniecie",
+     "υἱοῦ Δαυίδ z nagłówka zostaje na czas jednego polecenia skierowane do Józefa — jedyny raz, gdy tytuł nosi w tej Ewangelii człowiek inny niż Jezus"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mt",
+     2,
+     13,
+     2,
+     23,
+     "Mt 2,13–23",
+     "rozwiniecie",
+     "trzy dalsze sny Józefa z tą samą formułą posłuszeństwa; παραλαμβάνω przechodzi z żony na Dziecię i Matkę"
+    ],
+    [
+     [
+      "unit",
+      "w. 20–21",
+      0
+     ],
+     "Mt",
+     27,
+     19,
+     27,
+     19,
+     "Mt 27,19",
+     "paralela",
+     "szóste i ostatnie κατʼ ὄναρ u Mateusza, a zarazem ostatnie δίκαιος — oba słowa otwierające scenę Józefa spotykają się w jednym wierszu"
+    ],
+    [
+     [
+      "unit",
+      "w. 19",
+      0
+     ],
+     "Mt",
+     5,
+     17,
+     5,
+     20,
+     "Mt 5,17–20",
+     "rozwiniecie",
+     "sprawiedliwość większa od faryzejskiej — program, którego pierwszym przykładem jest sprawiedliwość nieegzekwująca prawa w 1,19"
+    ],
+    [
+     [
+      "unit",
+      "w. 20–21",
+      4
+     ],
+     "Mt",
+     26,
+     28,
+     26,
+     28,
+     "Mt 26,28",
+     "rozwiniecie",
+     "εἰς ἄφεσιν ἁμαρτιῶν (na odpuszczenie grzechów) — drugie i ostatnie miejsce, gdzie Mateusz wiąże dzieło Jezusa z grzechem wprost"
+    ],
+    [
+     [
+      "unit",
+      "w. 22–23",
+      3
+     ],
+     "Mt",
+     18,
+     20,
+     18,
+     20,
+     "Mt 18,20",
+     "rozwiniecie",
+     "obietnica obecności wśród dwóch albo trzech zebranych — środkowy członek klamry imienia Emmanuel"
+    ],
+    [
+     [
+      "unit",
+      "w. 22–23",
+      3
+     ],
+     "Mt",
+     28,
+     20,
+     28,
+     20,
+     "Mt 28,20",
+     "rozwiniecie",
+     "ἐγὼ μεθʼ ὑμῶν εἰμι (ja z wami jestem) — to samo zdanie co w 1,23, przeniesione z trzeciej osoby w pierwszą; klamra całej księgi"
+    ],
+    [
+     [
+      "unit",
+      "w. 19",
+      2
+     ],
+     "Mt",
+     5,
+     31,
+     5,
+     32,
+     "Mt 5,31–32",
+     "rozwiniecie",
+     "ἀπολύω jako termin rozwodu w nauczaniu Jezusa — to samo słowo, którym Józef nazwał swój zamiar"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Łk",
+     1,
+     26,
+     1,
+     38,
+     "Łk 1,26–38",
+     "paralela",
+     "zwiastowanie na jawie i do Marii, która pyta i odpowiada — ta sama tradycja, inny bohater i inna droga objawienia"
+    ],
+    [
+     [
+      "unit",
+      "w. 24–25",
+      2
+     ],
+     "Łk",
+     2,
+     7,
+     2,
+     7,
+     "Łk 2,7",
+     "paralela",
+     "τὸν πρωτότοκον (pierworodnego) — źródło dopisku, który tradycja rękopiśmienna i Wulgata klementyńska wstawiają do Mt 1,25"
+    ],
+    [
+     [
+      "unit",
+      "w. 20–21",
+      3
+     ],
+     "Rz",
+     1,
+     3,
+     1,
+     4,
+     "Rz 1,3–4",
+     "paralela",
+     "z nasienia Dawida wedle ciała i ustanowiony Synem Bożym wedle Ducha — dwa porządki, które Mateusz rozdziela na rodowód i tę perykopę"
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ga",
+     4,
+     4,
+     4,
+     5,
+     "Ga 4,4–5",
+     "paralela",
+     "zrodzony z niewiasty, poddany Prawu — najkrótsze streszczenie tej samej treści, bez Józefa i bez opowiadania"
+    ],
+    [
+     [
+      "unit",
+      "w. 24–25",
+      3
+     ],
+     "J",
+     1,
+     45,
+     1,
+     45,
+     "J 1,45",
+     "paralela",
+     "Jezus, syn Józefa, z Nazaretu — ojcostwo prawne ustanowione przez nadanie imienia działa w obiegu potocznym jak każde inne"
+    ],
+    [
+     [
+      "unit",
+      "w. 24–25",
+      2
+     ],
+     "2 Sm",
+     6,
+     23,
+     6,
+     23,
+     "2 Sm 6,23",
+     "paralela",
+     "Mikal nie miała dziecka „aż do dnia swej śmierci\" — przykład, na którym widać, że ἕως οὗ nie orzeka o czasie po wyznaczonym kresie"
+    ]
+   ],
+   "patristic": [
+    [
+     "w. 18",
+     "św. Jan Chryzostom",
+     "Homiliae in Matthaeum",
+     "Hom. in Mt. 4",
+     "Chryzostom stawia pytanie o kolejność zdarzeń: dlaczego anioł nie uprzedził Józefa, zanim ten się dowiedział i zwątpił. Odpowiada, że Bóg pozwolił mu najpierw stanąć wobec faktu, bo inaczej trudniej byłoby uwierzyć temu, co zostanie powiedziane — człowiek przekonany dowodem własnych oczu przyjmuje wyjaśnienie inaczej niż ten, kto z góry je usłyszał. Z tej samej racji wyprowadza cel zaręczyn: Maria miała męża, który będzie jej świadkiem i obrońcą, a nie samą opinią ludzką za plecami. Kaznodzieja dodaje uwagę o Józefie jako o pierwszym, który musiał uwierzyć bez znaku zewnętrznego — i w tym stawia go wyżej niż Zachariasza, który znaku żądał i otrzymał go jako karę."
+    ],
+    [
+     "w. 20–21",
+     "św. Chromacjusz z Akwilei",
+     "Tractatus in Matthaeum",
+     "Tract. in Mt. 2",
+     "Jezus znaczy dla Chromacjusza *Salvator* (Zbawiciel), a tekst sam podaje, od czego ten Zbawiciel ocala — od grzechów, nie od wrogów. Zbawienie zostaje więc w pierwszym rozdziale Ewangelii nazwane po imieniu i zawężone, zanim ktokolwiek zacznie je sobie wyobrażać; kto oczekuje czegoś innego, oczekuje nie tego, co obiecano. Uwagę o „ludzie swoim\" rozciąga biskup Akwilei na tych, którzy ludem staną się przez wiarę, bo ocalenie od grzechu nie ma granicy narodowej tam, gdzie grzech jej nie ma. Przy Duchu Świętym zaznacza krótko to, czego tradycja pilnowała zawsze: Duch jest sprawcą poczęcia, nie ojcem Poczętego."
+    ],
+    [
+     "w. 22–23",
+     "św. Hilary z Poitiers",
+     "Commentarius in Matthaeum",
+     "In Mt. 2",
+     "Hilary czyta imię Emmanuel jako zdanie o dwóch naturach i stąd bierze argument przeciw tym, którzy odmawiali Synowi prawdziwego bóstwa. Imię nie mówi, że Bóg jest blisko ani że pomaga; mówi, że jest z nami — a to znaczy, że jeden i ten sam jest Bogiem i jest z ludźmi jako człowiek. Dziewicze poczęcie jest dla niego warunkiem tego zdania: gdyby dziecko pochodziło z nasienia męża, byłoby z nami, ale nie byłoby Bogiem, a gdyby nie urodziło się z kobiety, byłoby Bogiem, lecz nie z nami. Proroctwo o dziewicy i przekład imienia stanowią więc w jego lekturze jedno twierdzenie, rozpisane na dwa wiersze."
+    ],
+    [
+     "w. 24–25",
+     "św. Hieronim",
+     "Adversus Helvidium de perpetua virginitate beatae Mariae",
+     "Adv. Helv. 5–8",
+     "Hieronim odpowiada na dowód z gramatyki dowodem z gramatyki. Helwidiusz wyciągał z „nie poznawał jej, aż urodziła\" wniosek, że po urodzeniu poznawał, a z „pierworodnego\" — że byli następni. Hieronim pokazuje na przykładach biblijnych, że spójnik „aż\" wyznacza kres tego, co poprzedza, i o czasie po tym kresie nie orzeka niczego; przytacza miejsca, w których taki wniosek byłby wprost niemożliwy. Przy „pierworodnym\" rozróżnia pierworodnego od jedynego i wskazuje, że Prawo wiąże z pierworództwem obowiązek wykupu, nie istnienie rodzeństwa. Ton pisma jest ostry, bo spór szedł o cześć Maryi, lecz argumentacja jest filologiczna — i w tym miejscu, nie w jego komentarzu do Mateusza, leży właściwy locus tej odpowiedzi."
+    ]
+   ],
+   "textual": [
+    [
+     18,
+     "ἡ γένεσις",
+     "wariant lekcji",
+     "Tekst krytyczny czyta γένεσις (pochodzenie, powstanie). Lekcję γέννησις (narodzenie jako akt urodzenia) mają L, rodzina f¹³, 33 i tekst większościowy, a także Ireneusz i Orygenes; za γένεσις stoją 𝔓¹, ℵ, B, C, P, W, Z, Δ, Θ, rodzina f¹, lekcjonarz 2211 oraz Euzebiusz.",
+     "Różnica jednej litery rozstrzyga o gatunku zdania i o zasięgu nagłówka z 1,1. γένεσις to słowo rodowodowe, które LXX stawia nad listami pochodzenia (Rdz 2,4; 5,1); γέννησις mówi o urodzeniu. Kopiści czytali więc 1,18 jako początek opowiadania o narodzeniu, nie jako ciąg nagłówka rejestru, i przesunęli słowo w stronę potoczniejszą. Lekcja trudniejsza jest pierwotna, a wraz z nią pozostaje otwarte pytanie, jak daleko sięga βίβλος γενέσεως z pierwszego wiersza. Wulgata z *generatio* zachowuje grecką dwuznaczność."
+    ],
+    [
+     18,
+     "Ἰησοῦ Χριστοῦ",
+     "szyk i opuszczenie",
+     "Tekst krytyczny czyta Ἰησοῦ Χριστοῦ. Kodeks Watykański (B) ma szyk odwrócony, Χριστοῦ Ἰησοῦ; kodeks W ma samo Ἰησοῦ; nieliczne rękopisy, cała tradycja łacińska oraz starosyryjskie przekłady sinajski i kuretoński mają samo Χριστοῦ, podobnie łaciński Ireneusz.",
+     "Rozsyp świadków w jednym miejscu jest tu wymowniejszy niż każda poszczególna lekcja. Para Ἰησοῦς Χριστός stoi u Mateusza tylko dwa razy — w 1,1 i tutaj — i jest formułą wyznaniową, nie jego zwykłym sposobem mówienia; dlatego w tym wierszu okazała się niestabilna, a świadkowie upraszczali ją w trzy różne strony. Lekcje krótsze są przy tym po łacinie i po syryjsku regularne, więc przekłady należy w tym miejscu liczyć ostrożnie. Dla sensu zdania wariant nie zmienia nic; dla historii tekstu pokazuje, jak formuła liturgiczna ściera się o narrację."
+    ],
+    [
+     19,
+     "δειγματίσαι",
+     "wariant lekcji",
+     "Tekst krytyczny czyta δειγματίσαι (wystawić na widok). Lekcję παραδειγματίσαι mają ℵ w obu korektach, C, L, W, Θ, rodzina f¹³, 33 i tekst większościowy oraz Euzebiusz; za krótszą formą stoją ℵ w pierwszej korekcie, B, Z i rodzina f¹.",
+     "Czasownik δειγματίζω jest rzadki, u Mateusza jedyny i poza Nowym Testamentem słabo poświadczony; παραδειγματίζω jest dobrze znane z LXX, gdzie oznacza pohańbienie przez publiczną egzekucję (Lb 25,4), i wraca w Hbr 6,6. Zastąpienie słowa nieoswojonego słowem biblijnym jest klasycznym kierunkiem konformacji, więc pierwszeństwo lekcji krótszej nie budzi wątpliwości. Wariant przesuwa jednak sens niebłaho: forma złożona zakłada proces i wyrok, prosta wystarcza sama rozgłosem. Wedle tekstu krytycznego Józef chce oszczędzić Marii nie kary, lecz publicznego pokazania."
+    ],
+    [
+     21,
+     "τὸν λαὸν αὐτοῦ",
+     "wariant lekcji",
+     "Tekst krytyczny czyta τὸν λαὸν αὐτοῦ (lud jego). Starosyryjski przekład kuretoński ma κόσμον (świat). Ten sam przekład wraz z sinajskim dodaje nadto σοι (tobie) po τέξεται — „urodzi zaś tobie syna\".",
+     "Oba warianty są świadectwem lektury, nie tekstu, i dlatego są cenne. Zamiana ludu na świat usuwa zawężenie, które w Ewangelii kierowanej do Żydów stało na początku, a które sam Mateusz zniesie dopiero w 28,19 — przekład syryjski uprzedza to zniesienie o dwadzieścia siedem rozdziałów. Dodane σοι przesuwa akcent na Józefa i czyni z obietnicy dar dla niego, co jest naturalnym odruchem czytelnika zdania adresowanego do mężczyzny, któremu właśnie powiedziano, że dziecko nie jest jego. Tekst krytyczny jest w obu miejscach trudniejszy i pierwotny."
+    ],
+    [
+     22,
+     "διὰ τοῦ προφήτου",
+     "dodatek",
+     "Tekst krytyczny czyta διὰ τοῦ προφήτου (przez proroka), bez imienia. Kodeks D, nieliczne rękopisy, przekłady starołacińskie, trzy przekłady syryjskie i część tradycji sahidzkiej oraz łaciński Ireneusz dopisują Ἠσαΐου (Izajasza). Osobno L i tekst większościowy wraz z Euzebiuszem dodają rodzajnik τοῦ przed κυρίου.",
+     "Dopisanie imienia proroka jest uzupełnieniem oczywistym i właśnie dlatego wtórnym: Mateusz w formułach wypełnienia zwykle imienia nie podaje, bo jego składnia rozdziela mówiącego, czyli Pana, od narzędzia, czyli proroka. Tam, gdzie imię pada — a pada u niego kilka razy — należy do tekstu; tutaj przyszło z zewnątrz, od kopisty, który wiedział, skąd cytat. Wariant rodzajnikowy przy κυρίου jest bez znaczenia dla sensu i należy do zwykłego wahania."
+    ],
+    [
+     23,
+     "καλέσουσιν",
+     "wariant lekcji",
+     "Tekst krytyczny czyta καλέσουσιν (nazwą), w trzeciej osobie liczby mnogiej. Lekcję καλέσεις (nazwiesz) mają kodeks D, nieliczne rękopisy i część tradycji bohairskiej, a także Orygenes i Euzebiusz; aparat zaznacza przy niej wprost odesłanie do Iz 7,14.",
+     "To najważniejszy wariant tej perykopy, bo dotyczy jedynego słowa, które Mateusz w cytacie zmienił. LXX Iz 7,14 ma καλέσεις, więc lekcja rękopisu D jest powrotem do źródła i poprawką oczywistą dla każdego, kto cytat znał — sam aparat kieruje tam czytelnika. Tekst krytyczny czyta trzecią osobę liczby mnogiej, a ta zmienia adresata proroctwa: nadanie imienia Jezus należy do Józefa i spełnia się w w. 25, wyznanie imienia Emmanuel należy do nieokreślonych „onych\" i w narracji Ewangelii nie spełnia się nigdy. Kopista, wyrównując cytat, zacierał zabieg redakcyjny — i to właśnie czyni jego lekcję wtórną, a zabieg pewnym."
+    ],
+    [
+     25,
+     "ἔτεκεν υἱόν",
+     "dodatek i opuszczenie",
+     "Tekst krytyczny czyta ἔτεκεν υἱόν (urodziła syna). Dopisek τὸν υἱὸν αὐτῆς τὸν πρωτότοκον (syna jej pierworodnego), wzięty z Łk 2,7, mają C, D, L, W, 087, tekst większościowy, część przekładów starołacińskich i Wulgata oraz syryjskie peszitta i harkleński; krótszy tekst mają ℵ, B, Z, 071, rodziny f¹ i f¹³, 33, przekłady starołacińskie, środkowoegipski i oba starosyryjskie. Niezależnie od tego kodeks k i starosyryjski sinajski opuszczają cały członek od οὐκ ἐγίνωσκεν do ἕως οὗ, a Kodeks Watykański w pierwszej ręce nie ma οὗ.",
+     "Jeden wiersz, trzy niezależne ingerencje, i wszystkie w tę samą stronę — ku usunięciu zgrzytu. Dopisek harmonizuje Mateusza z Łukaszem i jest wtórny wedle wszystkich kryteriów, lecz ma skutki daleko poza krytyką tekstu: Wulgata klementyńska, czytana na Zachodzie, ma w tym miejscu *filium suum primogenitum*, a więc właśnie tę lekcję, z której Helwidiusz wyprowadzał argument o dalszym potomstwie Maryi, i którą Hieronim musiał tłumaczyć osobno. Opuszczenie całego członka w k i w przekładzie sinajskim idzie drogą odwrotną i prostszą — usuwa zdanie, które kłopot sprawia. Tekst krytyczny zachowuje zdanie w jego pierwotnej szorstkości i tym samym zostawia pytanie o gramatykę ἕως οὗ otwarte dla egzegezy, a nie rozstrzygnięte przez kopistów."
+    ]
+   ],
+   "theme_links": [
+    [
+     "dziewicze poczęcie i działanie Ducha",
+     [
+      "block",
+      "w. 18"
+     ]
+    ],
+    [
+     "dziewicze poczęcie i działanie Ducha",
+     [
+      "block",
+      "w. 20–21"
+     ]
+    ],
+    [
+     "sprawiedliwość wedle Mateusza",
+     [
+      "block",
+      "w. 19"
+     ]
+    ],
+    [
+     "sny i objawienie nocne u Mateusza",
+     [
+      "block",
+      "w. 20–21"
+     ]
+    ],
+    [
+     "sny i objawienie nocne u Mateusza",
+     [
+      "block",
+      "w. 24–25"
+     ]
+    ],
+    [
+     "formuły wypełnienia",
+     [
+      "block",
+      "w. 22–23"
+     ]
+    ],
+    [
+     "imię Jezus i imię Emmanuel",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "z nami Bóg: obecność od 1,23 do 28,20",
+     [
+      "block",
+      "w. 22–23"
+     ]
+    ],
+    [
+     "z nami Bóg: obecność od 1,23 do 28,20",
+     [
+      "section",
+      "Zakończenie: intencja całości"
+     ]
+    ],
+    [
+     "Syn Dawida i chrystologia królewska",
+     [
+      "block",
+      "w. 20–21"
+     ]
+    ]
+   ],
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     "Super Mt., cap. I",
+     [
+      "section",
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Wykład 1,18–25: dlaczego zaręczyny poprzedziły poczęcie, w jakim sensie Józef jest mężem i ojcem oraz czego dowodzi zmiana osoby czasownika w cytacie z Izajasza.",
+     "Super Evangelium S. Matthaei lectura"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "ST III, q. 29, a. 2; q. 32, a. 2–3; q. 37, a. 2; II–II, q. 120",
+     [
+      "section",
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Prawdziwość małżeństwa bez dopełnienia, sprawcze a nie rodzące działanie Ducha Świętego, znaczeniowa moc imion nadanych z objawienia oraz słuszność jako część sprawiedliwości.",
+     "Summa Theologiae"
+    ],
+    [
+     "Orygenes",
+     "Contra Cels. I,28.32",
+     [
+      "section",
+      "Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Relacja zarzutu o nieprawym pochodzeniu Jezusa, przechowana w polemice z Celsusem; datowanie tradycji niepewne.",
+     "Contra Celsum"
+    ],
+    [
+     "św. Justyn Męczennik",
+     "Dial. 43; 66–68",
+     [
+      "section",
+      "Znaczenie w historii i liturgii Kościoła"
+     ],
+     "Najstarszy zachowany spór o brzmienie Iz 7,14: obrona lekcji παρθένος przeciw νεᾶνις późniejszych tłumaczy greckich.",
+     "Dialogus cum Tryphone"
+    ],
+    [
+     "św. Ireneusz z Lyonu",
+     "Adv. haer. III,21",
+     [
+      "section",
+      "Znaczenie w historii i liturgii Kościoła"
+     ],
+     "Argument z wieku i powagi przekładu Siedemdziesięciu, powstałego przed sporem chrześcijańsko-żydowskim o Iz 7,14.",
+     "Adversus haereses"
+    ],
+    [
+     "Jan Paweł II",
+     "Redemptoris Custos 1–3.17",
+     [
+      "section",
+      "Znaczenie w historii i liturgii Kościoła"
+     ],
+     "Współczesny wykład postaci Józefa oparty na Mt 1,18–25: ojcostwo przez przyjęcie i posłuszeństwo wiary.",
+     "Redemptoris Custos"
+    ]
+   ],
+   "revision_note": "2026-11-27: perykopa druga bazy Mateusza (Mt 1,18–25). Sekcja I w pięciu blokach i dwudziestu jednostkach analizy; oś na trzykrotnym καλέω — rozkaz w w. 21, proroctwo w w. 23, wykonanie w w. 25 — i na rozdzieleniu imienia nadanego od imienia zostawionego do wyznania. Sekcje II–VII z podsekcjami, katena w czterech głosach (Chryzostom, Chromacjusz, Hilary, Hieronim), siedem not tekstualnych wedle trzynastu wpisów aparatu, jedenaście grup odniesień. Loci patrystyczne, sigla lekcjonarza i orzeczenia o dziewictwie wymagają weryfikacji przy źródłach."
+  }
+ ]
+}
