@@ -1,0 +1,1987 @@
+{
+ "books": [
+  [
+   "2 P",
+   "Drugi List św. Piotra",
+   "NT",
+   68
+  ]
+ ],
+ "verses": {
+  "chapter": 3,
+  "items": [
+   [
+    13,
+    "Τότε παραγίνεται ὁ Ἰησοῦς ἀπὸ τῆς Γαλιλαίας ἐπὶ τὸν Ἰορδάνην πρὸς τὸν Ἰωάννην τοῦ βαπτισθῆναι ὑπʼ αὐτοῦ.",
+    "Wtedy przybywa Jezus z Galilei nad Jordan do Jana, aby zostać przez niego zanurzonym."
+   ],
+   [
+    14,
+    "ὁ δὲ Ἰωάννης διεκώλυεν αὐτὸν λέγων· ἐγὼ χρείαν ἔχω ὑπὸ σοῦ βαπτισθῆναι, καὶ σὺ ἔρχῃ πρός με;",
+    "Jan zaś powstrzymywał go, mówiąc: Ja mam potrzebę zostać zanurzonym przez ciebie, a ty przychodzisz do mnie?"
+   ],
+   [
+    15,
+    "ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν πρὸς αὐτόν· ἄφες ἄρτι, οὕτως γὰρ πρέπον ἐστὶν ἡμῖν πληρῶσαι πᾶσαν δικαιοσύνην. τότε ἀφίησιν αὐτόν.",
+    "Odpowiadając zaś, Jezus rzekł do niego: Dopuść teraz, tak bowiem przystoi nam wypełnić całą sprawiedliwość. Wtedy go dopuszcza."
+   ],
+   [
+    16,
+    "βαπτισθεὶς δὲ ὁ Ἰησοῦς εὐθὺς ἀνέβη ἀπὸ τοῦ ὕδατος· καὶ ἰδοὺ ἠνεῴχθησαν [αὐτῷ] οἱ οὐρανοί, καὶ εἶδεν [τὸ] πνεῦμα [τοῦ] θεοῦ καταβαῖνον ὡσεὶ περιστερὰν [καὶ] ἐρχόμενον ἐπʼ αὐτόν·",
+    "Zanurzony zaś Jezus zaraz wyszedł z wody; i oto otworzyły się [mu] niebiosa, i zobaczył Ducha Boga zstępującego jakby gołębicę [i] przychodzącego na niego."
+   ],
+   [
+    17,
+    "καὶ ἰδοὺ φωνὴ ἐκ τῶν οὐρανῶν λέγουσα· οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός, ἐν ᾧ εὐδόκησα.",
+    "I oto głos z niebios mówiący: Ten jest Syn mój umiłowany, w którym upodobałem."
+   ]
+  ]
+ },
+ "lexemes": [
+  [
+   "δικαιοσύνη",
+   "dikaiosyne",
+   "rzeczownik",
+   "sprawiedliwość — u Mateusza siedem wystąpień (3,15; 5,6.10.20; 6,1.33; 21,32) i w żadnym nie znaczy sprawiedliwości przypisanej, lecz postępowanie, którego Bóg żąda: można jej łaknąć, można za nią być prześladowanym, można ją przewyższyć i można ją odprawiać na pokaz"
+  ],
+  [
+   "πρέπω",
+   "prepo",
+   "czasownik",
+   "przystawać, być stosownym — forma πρέπον ἐστίν jest u Mateusza hapaksem (3,15) i stoi tam, gdzie mógł napisać δεῖ (trzeba); Wulgata oddaje ją przez decet, od którego scholastyka wzięła kategorię convenientia (stosowność)"
+  ],
+  [
+   "διακωλύω",
+   "diakolyo",
+   "czasownik",
+   "zabraniać, stawać na drodze — hapaks całego Nowego Testamentu (Mt 3,14); wzmocniony przedrostkiem δια- wobec zwykłego κωλύω, a w imperfectum opisuje próbę, nie skutek"
+  ],
+  [
+   "ἄρτι",
+   "arti",
+   "przysłówek",
+   "teraz, w tej chwili — u Mateusza siedem razy (3,15; 9,18; 11,12; 23,39; 26,29.53.64) i zawsze przeciwstawia bieżącą chwilę innej; w 3,15 odkłada porządek, którego domaga się Chrzciciel, zamiast go odrzucać"
+  ],
+  [
+   "ἀφίημι",
+   "afiemi",
+   "czasownik",
+   "zostawiać, dopuszczać, odpuszczać — u Mateusza czterdzieści siedem razy w trzech polach znaczeniowych: porzucenia (4,20.22), odpuszczenia grzechów (6,12.14) i przyzwolenia; w 3,15 stoi w tym trzecim, dwa razy w jednym wierszu, jako rozkaz i jako jego wykonanie"
+  ],
+  [
+   "ἀναβαίνω",
+   "anabaino",
+   "czasownik",
+   "wstępować, wychodzić w górę — dziewięć wystąpień u Mateusza, pierwsze o wyjściu z wody (3,16), drugie o wejściu na górę Kazania (5,1), ostatnie o drodze w górę do Jerozolimy (20,17.18)"
+  ],
+  [
+   "καταβαίνω",
+   "katabaino",
+   "czasownik",
+   "zstępować — jedenaście razy u Mateusza; w 3,16 w imiesłowie czasu teraźniejszego, przeciwstawionym aorystowi ἀνέβη, a w 27,40.42 w szyderstwie żądającym, by Syn Boży zstąpił z krzyża"
+  ],
+  [
+   "ἀνοίγω",
+   "anoigo",
+   "czasownik",
+   "otwierać — jedenaście razy u Mateusza, i trzy z nich stoją w strony biernej bez sprawcy: niebiosa nad Jordanem (3,16), usta Jezusa u progu Kazania (5,2) i groby po śmierci (27,52)"
+  ],
+  [
+   "περιστερά",
+   "peristera",
+   "rzeczownik",
+   "gołębica — u Mateusza trzy razy: porównanie Ducha (3,16), nakaz prostoty dla posłanych (10,16) i towar sprzedawany na dziedzińcu Świątyni (21,12); w Prawie ofiara ubogiego (Kpł 5,7; 12,8)"
+  ],
+  [
+   "ἀγαπητός",
+   "agapetos",
+   "przymiotnik",
+   "umiłowany — u Mateusza trzy wystąpienia i wszystkie w jednej rodzinie zdań: 3,17, przytoczenie Iz 42,1 w 12,18 i przemienienie w 17,5; w Septuagincie oddaje hebrajskie יָחִיד (jachid, jedyny), w szczególności o Izaaku prowadzonym na górę (Rdz 22,2.12.16)"
+  ],
+  [
+   "εὐδοκέω",
+   "eudokeo",
+   "czasownik",
+   "mieć upodobanie — trzy razy u Mateusza, w tych samych trzech miejscach co ἀγαπητός; aoryst εὐδόκησα nie wskazuje chwili w przeszłości, lecz oddaje hebrajski perfekt stanu"
+  ],
+  [
+   "χρεία",
+   "chreia",
+   "rzeczownik",
+   "potrzeba — sześć razy u Mateusza; zwrot χρείαν ἔχω (mam potrzebę) z w. 14 mówi o kierunku obrzędu, nie o godności mówiącego, bo o godności Chrzciciel powiedział trzy wiersze wcześniej słowem ἱκανός (3,11)"
+  ],
+  [
+   "ὡσεί",
+   "hosei",
+   "partykuła",
+   "jakby, niejako — trzy razy u Mateusza (3,16; 9,36; 14,21) i za każdym razem osłabia porównanie albo liczbę; w 3,16 nie rozstrzyga, czy porównanie dotyczy postaci Ducha, czy sposobu zstępowania"
+  ],
+  [
+   "ὕδωρ",
+   "hydor",
+   "rzeczownik",
+   "woda — u Mateusza siedem razy; w rozdziale trzecim stoi w opozycji, na której trzyma się cała mowa Chrzciciela: ja zanurzam ἐν ὕδατι (w wodzie), on ἐν πνεύματι (w Duchu, 3,11)"
+  ],
+  [
+   "Γαλιλαία",
+   "Galilaia",
+   "rzeczownik",
+   "Galilea — szesnaście razy u Mateusza, od schronienia dziecka (2,22) do góry ostatniej scenie (28,16); formuła wypełnienia nazywa ją Γαλιλαία τῶν ἐθνῶν (Galilea narodów, 4,15), więc przychodzący „z Galilei\" przychodzi z terenu, który własny cytat Mateusza określa jako pogański"
+  ],
+  [
+   "ἰδού",
+   "idou",
+   "partykuła",
+   "oto — sześćdziesiąt jeden razy u Mateusza, septuagintyzm oddający hebrajskie הִנֵּה (hinne); nie opisuje, lecz wskazuje, i wskazuje czytelnikowi, którego w scenie nie ma"
+  ]
+ ],
+ "semitic": [
+  [
+   "בַּת קוֹל",
+   "bat kol",
+   "hbr",
+   "córka głosu — rabiniczna nazwa głosu z nieba; sama nazwa znaczy pochodną, nie głos, a tradycja uważa ją za namiastkę proroctwa, które ustało wraz z ostatnimi prorokami"
+  ],
+  [
+   "יָחִיד",
+   "jachid",
+   "hbr",
+   "jedyny, jedyny syn — słowo z Rdz 22,2.12.16 o Izaaku; Septuaginta oddaje je przez ἀγαπητός (umiłowany), i stąd greckie słowo niesie zarazem jedyność i prowadzenie na ofiarę"
+  ],
+  [
+   "צְדָקָה",
+   "cedaka",
+   "hbr",
+   "sprawiedliwość — w Biblii hebrajskiej raczej postępowanie zgodne z przymierzem niż rozdzielanie należności; literatura rabiniczna zawęża słowo do jałmużny, co u Mateusza słychać w 6,1–4, gdzie δικαιοσύνη zapowiada rozdział o jałmużnie"
+  ],
+  [
+   "רוּחַ אֱלֹהִים",
+   "ruach Elohim",
+   "hbr",
+   "Duch Boga — wyrażenie z Rdz 1,2 o unoszeniu się nad wodami; greckie πνεῦμα θεοῦ z Mt 3,16 jest jego dokładnym odpowiednikiem i Mateuszowym wyborem wobec τὸ πνεῦμα Marka"
+  ],
+  [
+   "יוֹנָה",
+   "jona",
+   "hbr",
+   "gołębica — ptak Noego (Rdz 8,8–12), obraz umiłowanej z Pieśni nad pieśniami (2,14; 5,2) i w tradycji midraszowej obraz Izraela"
+  ],
+  [
+   "הִנֵּה",
+   "hinne",
+   "hbr",
+   "oto — partykuła wskazująca, którą Septuaginta oddaje przez ἰδού; u Mateusza jej grecki odpowiednik wprowadza w rozdziale trzecim dwa razy to, co przychodzi z góry"
+  ],
+  [
+   "רָצָה",
+   "raca",
+   "hbr",
+   "mieć upodobanie, przyjąć łaskawie — czasownik z Iz 42,1 (רָצְתָה נַפְשִׁי, racta nafszi, upodobała sobie dusza moja); hebrajski perfekt stanu wyjaśnia aoryst εὐδόκησα w Mt 3,17, który inaczej wskazywałby chwilę w przeszłości"
+  ]
+ ],
+ "lexeme_semitic": [
+  [
+   "ἀγαπητός",
+   "jachid",
+   "ἀγαπητός jest w Septuagincie regularnym odpowiednikiem יָחִיד (jachid, jedyny), a w Rdz 22 oddaje je trzy razy — przy nakazie, przy zatrzymaniu ręki i przy przysiędze. Grecki przymiotnik znaczy więcej niż hebrajski: zamiast liczby podaje stosunek. Zdanie z nieba ma zatem po grecku dwie treści, których hebrajskie słowo nie łączy: że Syn jest jedyny i że jest kochany, a miejsce, z którego to słowo pochodzi, mówi o ojcu prowadzącym syna na górę."
+  ],
+  [
+   "εὐδοκέω",
+   "raca",
+   "Aoryst εὐδόκησα nie daje się w polszczyźnie oddać czasem przeszłym bez przekłamania, bo nie wskazuje chwili, w której Bóg upodobał sobie Syna. Stoi za nim hebrajski perfekt stanu z Iz 42,1 — רָצְתָה נַפְשִׁי (racta nafszi) — oznaczający trwałe nastawienie, nie zdarzenie. Septuaginta tego miejsca nie ma w tym brzmieniu: tłumaczy je przez προσεδέξατο αὐτὸν ἡ ψυχή μου (przyjęła go dusza moja), więc Mateuszowe εὐδόκησα idzie bliżej hebrajskiego niż greckiego Izajasza."
+  ],
+  [
+   "πνεῦμα",
+   "ruach Elohim",
+   "Mateusz pisze w 3,16 πνεῦμα θεοῦ, gdzie Marek ma τὸ πνεῦμα, a Łukasz τὸ πνεῦμα τὸ ἅγιον. Wybrane wyrażenie jest dokładnym odpowiednikiem רוּחַ אֱלֹהִים (ruach Elohim) z Rdz 1,2 i wraca u niego jeszcze raz, w zdaniu o wyrzucaniu demonów (12,28). Tło pierwszej karty Pisma — Duch nad wodami — jest więc w tym wyborze słowa, a nie w żadnym komentarzu ewangelisty."
+  ],
+  [
+   "δικαιοσύνη",
+   "cedaka",
+   "Greckie δικαιοσύνη niesie u Mateusza ciężar hebrajskiej צְדָקָה (cedaka), czyli postępowania zgodnego z przymierzem, a nie arystotelesowskiego oddawania każdemu, co mu się należy. Różnica widać w 6,1–4, gdzie zapowiedź o δικαιοσύνη przechodzi natychmiast w naukę o jałmużnie, bo tak właśnie zawęziła to słowo literatura rabiniczna. Przy πᾶσαν δικαιοσύνην z 3,15 trzeba więc czytać całość tego, czego Bóg żąda, nie jedną cnotę."
+  ],
+  [
+   "ἰδού",
+   "hinne",
+   "ἰδού jest u Mateusza septuagintyzmem bez składni: nie rządzi przypadkiem, nie wiąże zdania i można je usunąć bez szkody dla gramatyki. Oddaje hebrajskie הִנֵּה (hinne), które w opowiadaniu biblijnym kieruje uwagę słuchacza, a nie opisuje świata. Dwa wystąpienia w w. 16 i 17 pokazują, komu partykuła służy: w scenie są dwaj ludzie i żaden z nich nie potrzebuje wskazania, więc wskazanie jest dla czytającego."
+  ]
+ ],
+ "occurrences": [
+  [
+   "παραγίνομαι",
+   13,
+   "παραγίνεται"
+  ],
+  [
+   "Γαλιλαία",
+   13,
+   "Γαλιλαίας"
+  ],
+  [
+   "Ἰορδάνης",
+   13,
+   "Ἰορδάνην"
+  ],
+  [
+   "βαπτίζω",
+   13,
+   "βαπτισθῆναι"
+  ],
+  [
+   "διακωλύω",
+   14,
+   "διεκώλυεν"
+  ],
+  [
+   "χρεία",
+   14,
+   "χρείαν"
+  ],
+  [
+   "ἀφίημι",
+   15,
+   "ἄφες"
+  ],
+  [
+   "ἄρτι",
+   15,
+   "ἄρτι"
+  ],
+  [
+   "πρέπω",
+   15,
+   "πρέπον"
+  ],
+  [
+   "πληρόω",
+   15,
+   "πληρῶσαι"
+  ],
+  [
+   "δικαιοσύνη",
+   15,
+   "δικαιοσύνην"
+  ],
+  [
+   "βαπτίζω",
+   16,
+   "βαπτισθείς"
+  ],
+  [
+   "ἀναβαίνω",
+   16,
+   "ἀνέβη"
+  ],
+  [
+   "ὕδωρ",
+   16,
+   "ὕδατος"
+  ],
+  [
+   "ἰδού",
+   16,
+   "ἰδού"
+  ],
+  [
+   "ἀνοίγω",
+   16,
+   "ἠνεῴχθησαν"
+  ],
+  [
+   "οὐρανός",
+   16,
+   "οὐρανοί"
+  ],
+  [
+   "πνεῦμα",
+   16,
+   "πνεῦμα"
+  ],
+  [
+   "καταβαίνω",
+   16,
+   "καταβαῖνον"
+  ],
+  [
+   "ὡσεί",
+   16,
+   "ὡσεί"
+  ],
+  [
+   "περιστερά",
+   16,
+   "περιστεράν"
+  ],
+  [
+   "φωνή",
+   17,
+   "φωνή"
+  ],
+  [
+   "οὐρανός",
+   17,
+   "οὐρανῶν"
+  ],
+  [
+   "υἱός",
+   17,
+   "υἱός"
+  ],
+  [
+   "ἀγαπητός",
+   17,
+   "ἀγαπητός"
+  ],
+  [
+   "εὐδοκέω",
+   17,
+   "εὐδόκησα"
+  ]
+ ],
+ "works": [
+  [
+   "św. Augustyn",
+   "De Trinitate",
+   "O Trójcy Świętej",
+   "IV–V",
+   "patrystyka"
+  ],
+  [
+   "Testamenty Dwunastu Patriarchów",
+   "Testamenta XII Patriarcharum",
+   "Testamenty Dwunastu Patriarchów",
+   "II w. przed Chr. – II w.",
+   "judaizm"
+  ],
+  [
+   "Talmud babiloński",
+   "Talmud Bawli",
+   "Talmud babiloński",
+   "III–VI",
+   "judaizm"
+  ],
+  [
+   "Tosefta",
+   "Tosefta",
+   "Tosefta",
+   "III",
+   "judaizm"
+  ],
+  [
+   "Qumran",
+   "Florilegium (4Q174)",
+   "Florilegium",
+   "I w. przed Chr.",
+   "judaizm"
+  ]
+ ],
+ "themes": [
+  [
+   "głos z niebios: Syn umiłowany",
+   "Ojciec przemawia u Mateusza dwa razy i dwa razy tym samym zdaniem: οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός, ἐν ᾧ εὐδόκησα (ten jest Syn mój umiłowany, w którym upodobałem, 3,17), a przy przemienieniu dokłada trzy słowa — ἀκούετε αὐτοῦ (słuchajcie go, 17,5). Pierwsze wystąpienie identyfikuje, drugie nakazuje. Zdanie jest złożone z trzech miejsc Pisma, z których żadne nie zostaje oznaczone: υἱός μου εἶ σύ z Ps 2,7, czyli formuła intronizacji królewskiej; ἀγαπητός, którym Septuaginta oddaje יָחִיד (jachid, jedyny) o Izaaku prowadzonym na górę (Rdz 22,2.12.16); oraz upodobanie i Duch położony na słudze z Iz 42,1. Że to ostatnie Mateusz uważał za rozstrzygające, pokazuje sam: dziewięć rozdziałów dalej przytacza Iz 42,1–4 najdłuższym cytatem swojej księgi i w przytoczeniu stawia ὁ ἀγαπητός μου, εὐδόκησεν oraz θήσω τὸ πνεῦμά μου ἐπʼ αὐτόν (12,18) — trzy wyrażenia z Mt 3,16–17 i w brzmieniu, którego grecki Izajasz nie ma. Mateuszowe οὗτός ἐστιν odróżnia to zdanie od Marka i Łukasza, którzy mają σὺ εἶ: u niego głos nie zwraca się do Syna, lecz oznajmia o nim komuś trzeciemu. Dalszy ciąg jest sporem o to jedno zdanie — diabeł powtarza je w trybie warunkowym (4,3.6), szydercy pod krzyżem dwa razy (27,40.43), a wyznaje je setnik, i wyznaje tym samym zaimkiem: ἀληθῶς θεοῦ υἱὸς ἦν οὗτος (27,54)."
+  ],
+  [
+   "teofania nad Jordanem i formuła chrzcielna",
+   "Rozróżnienie trzech, którego dogmatyka nie potrafiła sformułować przez trzy stulecia, scena nad Jordanem pokazuje w półtora wiersza: ktoś wychodzi z wody, Duch na niego zstępuje, głos z góry nazywa go Synem. Żadne zdanie tej sceny nie zostaje prawdziwe, jeśli dwa z tych trzech zlać w jedno. Mateusz nie dopisuje do tego komentarza i nie używa żadnego terminu; dopisuje natomiast klamrę na końcu księgi, gdzie uczniowie zostają posłani, by w obrzędzie czynić to, co tu stało się raz — βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνεύματος (zanurzając ich w imię Ojca i Syna, i Ducha Świętego, 28,19). Czasownik βαπτίζω stoi u Mateusza siedem razy: sześć w rozdziale trzecim i raz w 28,19, więc cała kariera tego słowa w księdze biegnie od Jordanu do góry w Galilei, a na obu końcach stoją trzy imiona. Wschód oparł na tej scenie całe święto: troparion Teofanii mówi, że w Jordanie objawił się pokłon Trójcy, i mówi to wcześniej, niż powiedziały to sformułowania soborowe."
+  ],
+  [
+   "pomazanie, którego Mateusz nie nazywa",
+   "Tytuł Χριστός (Pomazaniec) stoi w pierwszych dwóch rozdziałach pięć razy — 1,1.16.17.18 i 2,4 — a potem milknie do 11,2, czyli przez dziewięć rozdziałów. W tej luce leży jedyne miejsce, w którym Mateusz opisuje samo pomazanie: Duch Boga zstępuje i przychodzi ἐπʼ αὐτόν (na niego, 3,16). Przyimek jest ten sam, który stoi w Mateuszowym przytoczeniu Iz 42,1 — θήσω τὸ πνεῦμά μου ἐπʼ αὐτόν (położę Ducha mojego na niego, 12,18) — i w zapowiedzi Izajasza o różdżce z korzenia Jessego, na której spoczywa Duch (Iz 11,2), oraz w pierwszym zdaniu Iz 61,1, którego Mateusz nie cytuje nigdy. Scena nad Jordanem robi zatem to, co nazywa tytuł z pierwszego wiersza księgi, i robi to bez tytułu. Najstarsze przepowiadanie czytało ją właśnie tak: streszczenie Piotra w Dz 10,37–38 datuje pomazanie Duchem od chrztu, który głosił Jan. Wschodnia liturgia zachowała to rozumienie w nazwie obrzędu wody, Zachód w poświęceniu chrzcielnicy; sam Mateusz zostawia wniosek czytelnikowi i wraca do tytułu dopiero wtedy, gdy Chrzciciel przyśle pytanie z więzienia (11,2)."
+  ]
+ ],
+ "pericopes": [
+  {
+   "pericope": {
+    "cs": 3,
+    "vs": 13,
+    "ce": 3,
+    "ve": 17,
+    "title": "Chrzest Jezusa",
+    "motto": "Sic enim decet nos implere omnem iustitiam (tak bowiem przystoi nam wypełnić całą sprawiedliwość)",
+    "status": "w_opracowaniu",
+    "position": 6
+   },
+   "intro": "Pięć wierszy, a w nich dwa pierwsze razy: Jezus mówi tu pierwsze słowo w tej Ewangelii, a Ojciec pierwsze słowo własnym głosem. Oba zdania są krótkie i oba padają nad wodą. Scenę Mateusz dostał od Marka w trzech wierszach (Mk 1,9–11) i dołożył dwa, których nie ma nigdzie indziej — rozmowę, w której Chrzciciel odmawia, a Jezus odmowę odkłada jednym zdaniem: οὕτως γὰρ πρέπον ἐστὶν ἡμῖν πληρῶσαι πᾶσαν δικαιοσύνην (tak bowiem przystoi nam wypełnić całą sprawiedliwość). To zdanie jest kluczem do perykopy i do czterech następnych rozdziałów. Czasownik πληρόω (wypełniać) stał dotąd w tej księdze cztery razy, zawsze w ustach narratora i zawsze o Piśmie (1,22; 2,15; 2,17; 2,23); tutaj przechodzi do ust Jezusa, a jego dopełnieniem nie jest już τὸ ῥηθέν (powiedziane), lecz δικαιοσύνη (sprawiedliwość) — słowo, które u Mateusza pada siedem razy i tu pierwszy, a pięć razy stanie w Kazaniu na Górze. Dwa wiersze dalej mówi Ojciec i nie mówi niczego z tego, co Chrzciciel zapowiedział: ani o wiejadle, ani o ogniu, ani o siekierze, lecz o upodobaniu. A ponieważ Mateusz pisze οὗτός ἐστιν (ten jest), nie σὺ εἶ (ty jesteś) jak Marek i Łukasz, zdanie z nieba jest skierowane do kogoś trzeciego — i w scenie, w której trzeci jest tylko jeden, odpowiada ono na pytanie z w. 14.",
+   "blocks": [
+    {
+     "cs": 3,
+     "vs": 13,
+     "ce": 3,
+     "ve": 13,
+     "label": "w. 13",
+     "greek": "Τότε παραγίνεται ὁ Ἰησοῦς ἀπὸ τῆς Γαλιλαίας ἐπὶ τὸν Ἰορδάνην πρὸς τὸν Ἰωάννην τοῦ βαπτισθῆναι ὑπʼ αὐτοῦ.",
+     "transl": "Wtedy przybywa Jezus z Galilei nad Jordan do Jana, aby zostać przez niego zanurzonym.",
+     "units": [
+      [
+       "Τότε",
+       "wtedy",
+       "Partykuła, na której trzyma się narracja tej Ewangelii: dziewięćdziesiąt wystąpień, u pozostałych synoptyków rzadka. Nie datuje niczego i nie podaje odstępu — szereguje. Wiąże tu wprost z końcem mowy Chrzciciela: ostatnią rzeczą, jaka padła, było zdanie o Mocniejszym z wiejadłem, i właśnie po nim przychodzi Mocniejszy, żeby zostać zanurzonym. Dwa dalsze wystąpienia stoją tuż obok: τότε zamyka rozmowę w w. 15 i τότε otwiera kuszenie (4,1), a cztery wiersze dalej stoi ἀπὸ τότε (od tego czasu, 4,17), szew między częściami księgi. Trzy przysłówki i jedno wyrażenie prowadzą zatem opowiadanie od zapowiedzi przez chrzest do próby, nie podając ani jednej daty."
+      ],
+      [
+       "παραγίνεται ὁ Ἰησοῦς",
+       "przybywa Jezus",
+       "Ten sam czasownik i ten sam czas, w którym jedenaście wierszy wcześniej wszedł na scenę Jan (3,1). Trzecie i ostatnie wystąpienie u Mateusza: magowie (2,1), Chrzciciel (3,1), Jezus. Nikt więcej w tej księdze się nie „pojawia\", a zapowiedziany wchodzi słowem zapowiadającego. Praesens historicum stawia zdarzenie przed oczami; medium deponens znaczy raczej „być na miejscu\" niż „iść\". Marek pisze tu ἦλθεν Ἰησοῦς ἀπὸ Ναζαρὲτ (przyszedł Jezus z Nazaretu) i obywa się bez jednego i drugiego, a Wulgata z Mateuszowego czasownika robi venit (przyszedł), zacierając zarówno czas, jak i wybór słowa."
+      ],
+      [
+       "ἀπὸ τῆς Γαλιλαίας",
+       "z Galilei",
+       "Marek podaje wioskę, Mateusz krainę. Zamiana nie jest uproszczeniem: Γαλιλαία stoi u niego szesnaście razy i jest terenem całej działalności — od schronienia dziecka (2,22), przez pierwsze nauczanie (4,23), do góry, na której księga się kończy (28,16). Formuła wypełnienia, którą Mateusz dołoży cztery wiersze dalej, nazywa ją Γαλιλαία τῶν ἐθνῶν (Galilea narodów, 4,15, za Iz 8,23). Przychodzący „z Galilei\" przychodzi więc z terenu, o którym własny cytat tej Ewangelii mówi, że siedzi w ciemności. Z okolic Nazaretu nad dolny Jordan jest doliną około stu dwudziestu kilometrów; Mateusz o drodze nie mówi nic, mówi tylko, że została podjęta w jednym celu."
+      ],
+      [
+       "ἐπὶ τὸν Ἰορδάνην πρὸς τὸν Ἰωάννην",
+       "nad Jordan do Jana",
+       "Dwa przyimki i dwa cele: miejsce i człowiek. ἐπί z biernikiem stawia przybywającego nad rzeką, nie w niej — Marek ma εἰς τὸν Ἰορδάνην (w Jordan). πρός z biernikiem osoby nazywa drugim celem Jana: szło się do rzeki i do niego, a kto szedł do niego, zgadzał się na jego ocenę przychodzącego. Ἰορδάνης pada u Mateusza sześć razy, trzy z nich w tym rozdziale. Rzeka jest przy tym miejscem dwóch opowiadań, których Mateusz nie przywołuje: przez nią Izrael wszedł do ziemi pod wodzą Jehoszuy (Joz 3,14–17), i nad nią płaszcz oraz duch przeszły z Eliasza na Elizeusza (2 Krl 2,8–14). Jedenaście wierszy wcześniej Mateusz ubrał Jana jak Eliasza (3,4)."
+      ],
+      [
+       "τοῦ βαπτισθῆναι ὑπʼ αὐτοῦ",
+       "aby zostać przez niego zanurzonym",
+       "Bezokolicznik celowy z rodzajnikiem w dopełniaczu — konstrukcja septuagintalna, oddająca hebrajski bezokolicznik z przyimkiem ל. Mateusz podaje zamiar, i podanie zamiaru jest tu całym kłopotem: Marek ten sam fakt relacjonuje bez zdania celowego, a kto zapisuje cel, musi go obronić, co robią dwa następne wiersze. Strona bierna z ὑπό i dopełniaczem osoby jest w tej Ewangelii jedyna: nigdzie więcej Jezus nie jest gramatycznym przedmiotem obrzędu dokonywanego na nim przez człowieka. Dodatkowo βαπτίζω ma u Mateusza siedem wystąpień, sześć z nich w rozdziale trzecim i jedno w 28,19 — a z tych sześciu tylko tutaj i w w. 14 oraz 16 odnosi się do Jezusa."
+      ]
+     ]
+    },
+    {
+     "cs": 3,
+     "vs": 14,
+     "ce": 3,
+     "ve": 15,
+     "label": "w. 14–15",
+     "greek": "ὁ δὲ Ἰωάννης διεκώλυεν αὐτὸν λέγων· ἐγὼ χρείαν ἔχω ὑπὸ σοῦ βαπτισθῆναι, καὶ σὺ ἔρχῃ πρός με; ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν πρὸς αὐτόν· ἄφες ἄρτι, οὕτως γὰρ πρέπον ἐστὶν ἡμῖν πληρῶσαι πᾶσαν δικαιοσύνην. τότε ἀφίησιν αὐτόν.",
+     "transl": "Jan zaś powstrzymywał go, mówiąc: Ja mam potrzebę zostać zanurzonym przez ciebie, a ty przychodzisz do mnie? Odpowiadając zaś, Jezus rzekł do niego: Dopuść teraz, tak bowiem przystoi nam wypełnić całą sprawiedliwość. Wtedy go dopuszcza.",
+     "units": [
+      [
+       "διεκώλυεν",
+       "powstrzymywał",
+       "Imperfectum czasownika διακωλύω, który w całym Nowym Testamencie stoi tylko tutaj. Zwykłe κωλύω jest częste; przedrostek δια- wzmacnia i przesuwa znaczenie z „nie pozwalać\" na „zastawiać drogę\". Robotę teologiczną wykonuje jednak czas: imperfectum de conatu relacjonuje próbę, a nie jej wynik — powstrzymywał i nie powstrzymał. Mateusz nie napisał, co Jan nad wodą zrobił; napisał, czego próbował, i to jest wszystko, co w tej sprawie mówi. Wulgata ma prohibebat, równie dokładnie: czas przeszły niedokonany bez rozstrzygnięcia o skutku. Aparat notuje tu pominięcie imienia przez dwa najlepsze kodeksy — zob. noty tekstualne."
+      ],
+      [
+       "ἐγὼ χρείαν ἔχω ὑπὸ σοῦ βαπτισθῆναι",
+       "ja mam potrzebę zostać zanurzonym przez ciebie",
+       "Oba zaimki są wyrażone, choć grecki ich nie wymaga, i stoją chiastycznie wobec drugiej połowy zdania: ἐγώ – ὑπὸ σοῦ, a dalej σύ – πρός με. Zwrot χρείαν ἔχω mówi o potrzebie, nie o godności. O godności Chrzciciel wypowiedział się trzy wiersze wcześniej i użył wtedy innego słowa — οὐκ εἰμὶ ἱκανός (nie jestem wystarczający, 3,11); tutaj nie powtarza tego zdania, lecz stawia inne: obrzęd biegnie w przeciwnym kierunku, niż ten człowiek żąda. Bezokolicznik βαπτισθῆναι powtarza w. 13 słowo w słowo z odwróconym sprawcą. Wulgata przesuwa sens: ego a te debeo baptizari (ja przez ciebie powinienem być chrzczony) zamienia potrzebę na obowiązek i gubi to, o co idzie, bo idzie o kierunek, nie o powinność."
+      ],
+      [
+       "καὶ σὺ ἔρχῃ πρός με;",
+       "a ty przychodzisz do mnie?",
+       "καί wprowadza pytanie protestu — „a jednak ty\" — i jest to jedyne pytanie, jakie w tej Ewangelii ktoś zadaje Jezusowi, zanim ten cokolwiek powiedział. Czas teraźniejszy ἔρχῃ opisuje przybycie zwykłym czasownikiem, nie Mateuszowym παραγίνεται z w. 13: narrator widzi wejście na scenę, Jan widzi człowieka, który do niego podchodzi. Przy tym ἔρχομαι jest czasownikiem własnej przepowiedni Chrzciciela: ὁ ὀπίσω μου ἐρχόμενος (przychodzący za mną, 3,11). Jan używa więc o Jezusie imiesłowu, którym go zapowiadał, i cała jego obiekcja mieści się w różnicy między tym, co zapowiedział, a tym, co widzi."
+      ],
+      [
+       "ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν",
+       "odpowiadając zaś Jezus rzekł",
+       "Formuła podwójna, Mateuszowa i semicka: oddaje hebrajskie wajjaan wajjomer (odpowiedział i rzekł), w którym imiesłów nic nie dodaje do czasownika. Rutynowa jest składnia, nie miejsce. Są to pierwsze słowa Jezusa w tej Ewangelii — przed nimi stoi rodowód, dwa rozdziały dzieciństwa i dwanaście wierszy Chrzciciela, czyli siedemdziesiąt kilka wersetów milczenia — i kiedy wreszcie mówi, mówi o δικαιοσύνη. Aparat jest co do dopełnienia niepewny: πρὸς αὐτόν, αὐτῷ albo nic, przy czym dwa papirusy stoją po przeciwnych stronach (zob. noty tekstualne)."
+      ],
+      [
+       "ἄφες ἄρτι",
+       "dopuść teraz",
+       "Aoryst rozkazujący ἀφίημι bez dopełnienia — „zostaw, pozwól\" — i przysłówek, w którym mieści się cała odpowiedź. ἄρτι stoi u Mateusza siedem razy i zawsze przeciwstawia bieżącą chwilę innej (11,12; 23,39; 26,29.53.64). Tutaj przyznaje Chrzcicielowi rację co do porządku i odmawia mu racji co do godziny: układ, którego Jan się domaga, jest właściwy i nie jest układem tej chwili. Zdanie nie mówi, że Jan się myli. Czasownik ἀφίημι obsługuje u Mateusza trzy pola — porzucenia (4,20.22), odpuszczenia grzechów (6,12.14) i przyzwolenia — a tu stoi w trzecim, co w rozdziale o obrzędzie na odpuszczenie grzechów jest rozróżnieniem, którego polszczyzna jednym słowem nie utrzyma."
+      ],
+      [
+       "οὕτως γὰρ πρέπον ἐστὶν ἡμῖν",
+       "tak bowiem przystoi nam",
+       "πρέπον to imiesłów czasownika πρέπει użyty nieosobowo z celownikiem, hapaks u Mateusza. Wybór jest słyszalny, bo Mateusz ma na konieczność δεῖ (trzeba) i używa go o męce (16,21; 26,54) oraz o końcu (24,6) — tutaj go nie napisał. πρέπει należy do słownictwa tego, co komuś albo czemuś przystoi, i Wulgata trafia w to dokładnie: sic enim decet nos. Pierwsze zdanie Jezusa o własnym postępowaniu stawia je więc w rejestrze stosowności, nie przymusu, i na tym jednym imiesłowie scholastyka zbuduje swoje ujęcie całej sceny. Bardziej niż πρέπον zastanawia jednak ἡμῖν. Celownik jest w liczbie mnogiej i obejmuje Jana: wypełnienie sprawiedliwości jest wspólnym czynem zanurzanego i zanurzającego. Nigdzie więcej u Mateusza Jezus nie wpisuje nikogo razem z sobą do pierwszej osoby liczby mnogiej o czynieniu tego, czego Bóg żąda — najbliżej jest liczba mnoga Modlitwy Pańskiej, którą daje innym do mówienia, nie mówiąc jej z nimi (6,9)."
+      ],
+      [
+       "πληρῶσαι πᾶσαν δικαιοσύνην",
+       "wypełnić całą sprawiedliwość",
+       "Zawias perykopy. πληρόω stoi u Mateusza szesnaście razy; cztery wystąpienia przed tym są formułami wypełnienia narratora i wszystkie dotyczą Pisma (1,22; 2,15; 2,17; 2,23). To piąte i pierwsze w czyichkolwiek ustach, a jego dopełnieniem nie jest τὸ ῥηθέν (powiedziane), lecz δικαιοσύνη. Następny raz Jezus użyje tego czasownika o Prawie i Prorokach — οὐκ ἦλθον καταλῦσαι ἀλλὰ πληρῶσαι (nie przyszedłem rozwiązać, ale wypełnić, 5,17) — więc 3,15 stoi między formułami a Kazaniem i należy do jednego i drugiego. δικαιοσύνη pada siedem razy i to pierwszy; pięć dalszych jest w Kazaniu (5,6.10.20; 6,1.33), a ostatnie w 21,32. Znaczenie jest Mateuszowe, nie Pawłowe: nie sprawiedliwość komuś przypisana, lecz postępowanie, którego Bóg żąda, bo można jej łaknąć, można za nią być prześladowanym, można ją przewyższyć, odprawiać na pokaz i szukać. Rozstrzyga wystąpienie ostatnie: Jan „przyszedł drogą sprawiedliwości\" — ἦλθεν ἐν ὁδῷ δικαιοσύνης (21,32) — więc przyjęcie obrzędu Jana samo jest czynem δικαιοσύνη, a zdanie z w. 15 nie jest zagadką, lecz zakwalifikowaniem czynu. πᾶσαν przy rzeczowniku bez rodzajnika znaczy całość, nie wszelką odmianę: przymiotnik wyklucza resztę, a resztą, którą wyklucza, jest dokładnie to, co Jan chciał z tej sprawiedliwości wyjąć."
+      ],
+      [
+       "τότε ἀφίησιν αὐτόν",
+       "wtedy go dopuszcza",
+       "Praesens historicum wraca, a czasownik jest tym, który Jezus nakazał: rozkaz ἄφες staje się orzeczeniem ἀφίησιν. Mateusz zamyka rozmowę, odmieniając polecenie, i nikt inny w tej Ewangelii nie wykonuje polecenia Jezusa dokładnie tym słowem, którego Jezus użył. Drugie τότε odpowiada pierwszemu z w. 13, a między nimi leży cała rozmowa — klamra jest ciasna na trzy wiersze. Aparat notuje w tym miejscu dwa dodatki: syryjski dopisuje βαπτισθῆναι, a starołaciński kodeks z Vercelli całe zdanie o ogromnym świetle nad wodą (zob. noty tekstualne)."
+      ]
+     ]
+    },
+    {
+     "cs": 3,
+     "vs": 16,
+     "ce": 3,
+     "ve": 16,
+     "label": "w. 16",
+     "greek": "βαπτισθεὶς δὲ ὁ Ἰησοῦς εὐθὺς ἀνέβη ἀπὸ τοῦ ὕδατος· καὶ ἰδοὺ ἠνεῴχθησαν [αὐτῷ] οἱ οὐρανοί, καὶ εἶδεν [τὸ] πνεῦμα [τοῦ] θεοῦ καταβαῖνον ὡσεὶ περιστερὰν [καὶ] ἐρχόμενον ἐπʼ αὐτόν·",
+     "transl": "Zanurzony zaś Jezus zaraz wyszedł z wody; i oto otworzyły się [mu] niebiosa, i zobaczył Ducha Boga zstępującego jakby gołębicę [i] przychodzącego na niego.",
+     "units": [
+      [
+       "βαπτισθεὶς δὲ ὁ Ἰησοῦς",
+       "zanurzony zaś Jezus",
+       "Sam obrzęd jest imiesłowem. Mateusz i Marek stawiają go w formie podrzędnej i oddają orzeczenia temu, co nastąpiło potem: wyszedł, otworzyły się, zobaczył. Łukasz idzie dalej i zostawia z chrztu genetivus absolutus w zdaniu o modlitwie (Łk 3,21). Żaden ewangelista nie opowiada zanurzenia czasownikiem w formie osobowej, i to nie jest przypadek czterech redakcji: nie obrzęd jest tu przedmiotem opowiadania, lecz to, co się nad nim stało. Aoryst strony biernej, sprawca niewymieniony — imię Jana w tej perykopie już nie wróci, jego część skończyła się w poprzednim wierszu."
+      ],
+      [
+       "εὐθὺς ἀνέβη ἀπὸ τοῦ ὕδατος",
+       "zaraz wyszedł z wody",
+       "εὐθύς jest przysłówkiem Marka, a Mateusz zachowuje tu właśnie tę postać, choć sam pisze zwykle εὐθέως: na osiemnaście miejsc pięć ma εὐθύς, trzynaście εὐθέως. Kod morfologiczny źródła rozkłada ten wyraz jako przymiotnik w mianowniku liczby pojedynczej rodzaju męskiego, nie jako przysłówek — forma pozwala na jedno i drugie, i ta dwuznaczność jest stara, nie wprowadzona przez wydawcę. ἀνέβη ἀπό, nie Markowe ἐκ: od wody, nie z jej wnętrza. Czasownik wraca w 5,1 — ἀνέβη εἰς τὸ ὄρος (wszedł na górę) — więc drugie wstąpienie Jezusa w tej księdze jest tym, które otwiera Kazanie, a ostatnie prowadzi w górę do Jerozolimy (20,17–18). Aparat zna tu i przestawienie szyku, i pominięcie przysłówka (zob. noty tekstualne)."
+      ],
+      [
+       "καὶ ἰδού",
+       "i oto",
+       "Septuagintyzm oddający hebrajskie הִנֵּה (hinne), u Mateusza sześćdziesiąt jeden razy. Tutaj dwa razy w dwóch wierszach i oba razy o tym, co z góry: otwarte niebiosa i głos. Partykuła nie opisuje — wskazuje, i wskazuje komuś, kogo w scenie nie ma. Nad wodą stoją dwaj ludzie i żaden z nich nie potrzebuje, by mu pokazywano niebo nad jego głową; ἰδού jest zwrócone do czytającego i jest jedynym miejscem perykopy, w którym narrator zdradza, że pisze dla kogoś."
+      ],
+      [
+       "ἠνεῴχθησαν [αὐτῷ] οἱ οὐρανοί",
+       "otworzyły się [mu] niebiosa",
+       "Aoryst strony biernej bez sprawcy — passivum theologicum, którym ta Ewangelia nazywa Boga, nie nazywając go. Podwójne augmentum ἠνεῴχθησαν jest formą greki późnej. οὐρανοί stoi w liczbie mnogiej, jak w całym Mateuszowym βασιλεία τῶν οὐρανῶν i jak hebrajskie szamajim; Marek i Łukasz mają w tym miejscu liczbę pojedynczą. Marek pisze przy tym σχιζομένους τοὺς οὐρανούς (rozdzierane niebiosa), a Mateusz zamienia rozdzieranie na otwarcie. Czasownika Marka nie traci: zachowuje ἐσχίσθη dla zasłony przybytku w chwili śmierci (27,51), ale odmawia go Jordanowi. ἀνοίγω stoi u niego jedenaście razy, a trzy wystąpienia w stronie biernej bez sprawcy albo w imiesłowie warto widzieć razem: niebiosa tutaj, usta Jezusa u progu Kazania (ἀνοίξας τὸ στόμα αὐτοῦ, 5,2) i groby po konaniu (27,52). Nawiasowe αὐτῷ jest zaś głównym kłopotem perykopy, bo rozstrzyga, czy niebo otwiera się dla niego samego, czy po prostu się otwiera — i wydanie krytyczne tego nie rozstrzyga (zob. noty tekstualne)."
+      ],
+      [
+       "εἶδεν [τὸ] πνεῦμα [τοῦ] θεοῦ καταβαῖνον",
+       "zobaczył Ducha Boga zstępującego",
+       "Podmiotem εἶδεν jest Jezus. Mateusz nie mówi, że Jan cokolwiek zobaczył; mówi to czwarta Ewangelia i czyni z tego widzenia treść świadectwa Chrzciciela (J 1,32–34). Tutaj świadkiem tego, co się dzieje, jest ten, komu się dzieje, i cała scena ma na razie jednego obserwatora. Wyrażenie πνεῦμα θεοῦ jest Mateuszowe: Marek ma τὸ πνεῦμα, Łukasz τὸ πνεῦμα τὸ ἅγιον. Brzmi dokładnie jak רוּחַ אֱלֹהִים (ruach Elohim) z Rdz 1,2 o unoszeniu się nad wodami i wróci u niego raz, w zdaniu o wyrzucaniu demonów (12,28). Oba rodzajniki stoją w nawiasach, bo ich nie mają ℵ i B. καταβαῖνον jest imiesłowem czasu teraźniejszego przeciw aorystowi ἀνέβη: on wyszedł w górę raz, Duch zstępuje nieprzerwanie. Dwa ruchy krzyżują się nad wodą, a pion tego wiersza jest odwrotnością poziomu z w. 14, gdzie pytanie dotyczyło tego, kto do kogo idzie."
+      ],
+      [
+       "ὡσεὶ περιστερὰν [καὶ] ἐρχόμενον ἐπʼ αὐτόν",
+       "jakby gołębicę [i] przychodzącego na niego",
+       "ὡσεί, nie ὡς: trzy wystąpienia u Mateusza (3,16; 9,36; 14,21), i w dwóch pozostałych osłabia porównanie albo liczbę. Czego dotyczy tutaj, gramatyka nie rozstrzyga: περιστεράν jest biernikiem rodzaju żeńskiego i nie może się zgodzić z nijakim πνεῦμα, więc porównanie przylega do zstępowania, nie do Ducha — „zstępującego, jak zstępuje gołębica\" jest równie dostępne jak „w postaci gołębicy\". Łukasz zamyka tę kwestię w drugą stronę, dopisując σωματικῷ εἴδει (w postaci cielesnej, Łk 3,22); Mateusz zostawia ją otwartą, i spór Ojców o to, czy gołębica była zwierzęciem, wyrasta właśnie z tej powściągliwości. ἐρχόμενον podejmuje ἔρχῃ Jana z w. 14 i ὁ ἐρχόμενος z 3,11: w ośmiu wierszach jeden czasownik obsłużył przychodzącego za Chrzcicielem, człowieka podchodzącego do rzeki i Ducha przybywającego na niego. A ἐπʼ αὐτόν jest pomazaniem. Mateuszowe przytoczenie Iz 42,1 w 12,18 ma θήσω τὸ πνεῦμά μου ἐπʼ αὐτόν (położę Ducha mojego na niego) — ten sam przyimek i ten sam zaimek. Tytuł Χριστός (Pomazaniec) stał w pierwszych dwóch rozdziałach pięć razy i od 2,4 nie stanie aż do 11,2; pomazanie zostaje opisane tutaj, a słowa nie ma."
+      ]
+     ]
+    },
+    {
+     "cs": 3,
+     "vs": 17,
+     "ce": 3,
+     "ve": 17,
+     "label": "w. 17",
+     "greek": "καὶ ἰδοὺ φωνὴ ἐκ τῶν οὐρανῶν λέγουσα· οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός, ἐν ᾧ εὐδόκησα.",
+     "transl": "I oto głos z niebios mówiący: Ten jest Syn mój umiłowany, w którym upodobałem.",
+     "units": [
+      [
+       "καὶ ἰδοὺ φωνὴ ἐκ τῶν οὐρανῶν λέγουσα",
+       "i oto głos z niebios mówiący",
+       "Zdanie bez orzeczenia: rzeczownik i zgodny z nim imiesłów, bez żadnej formy osobowej czasownika mówienia. Po grecku jest to składnia uboga, po hebrajsku naturalna. Ta sama konstrukcja wraca przy przemienieniu, z jedną zamianą — φωνὴ ἐκ τῆς νεφέλης λέγουσα (głos z obłoku mówiący, 17,5). Liczba mnoga οὐρανῶν jest Mateuszowa i zgodna z w. 16; Marek i Łukasz mają tu pojedynczą. Tłem jest rabiniczna בַּת קוֹל (bat kol, córka głosu), czyli głos z nieba, który tradycja uważa za namiastkę proroctwa po śmierci ostatnich proroków. Sens porównania leży w różnicy: bat kol jest resztką i wydaje rozstrzygnięcia, a głos z w. 17 nie rozstrzyga niczego — nazywa osobę, czego bat kol w źródłach nie robi."
+      ],
+      [
+       "οὗτός ἐστιν",
+       "ten jest",
+       "Dwa słowa o największych skutkach w całej perykopie. Marek i Łukasz mają σὺ εἶ ὁ υἱός μου (ty jesteś Syn mój), czyli zwrot do adresata; Mateusz pisze trzecią osobę i zamienia zwrot w oznajmienie wygłoszone o Jezusie komuś innemu. Kim jest ten inny, nie podaje. Nad wodą postawił jedną osobę poza Jezusem, a ta osoba zadała przed chwilą pytanie (w. 14) — przy takim odczytaniu głos nie otwiera nowego tematu, lecz zamyka rozmowę, i robi to nie uzasadniając zdania Jezusa, ale potwierdzając mówiącego. Tekst zachodni przywraca zwrot bezpośredni: D, starołaciński kodeks a i syryjski starosyryjski czytają σὺ εἶ, a te same świadectwa dopisują πρὸς αὐτόν po λέγουσα — dwie lekcje w jednym wierszu, z których każda osobno jest harmonizacją do Marka, a razem wracają Mateuszowe obwieszczenie do Markowej scenie prywatnej. Sam zaimek wraca na drugim końcu księgi: ἀληθῶς θεοῦ υἱὸς ἦν οὗτος (prawdziwie Syn Boga był ten, 27,54), w ustach pogańskiego oficera pod krzyżem."
+      ],
+      [
+       "ὁ υἱός μου",
+       "Syn mój",
+       "Dwa razy z rodzajnikiem — ten Syn, nie „jakiś syn mój\". Za formułą stoi Ps 2,7, υἱός μου εἶ σύ (Syn mój jesteś ty), czyli intronizacja królewska, a za psalmem obietnica dana potomstwu Dawida w 2 Sm 7,14; Qumran czytał tę obietnicę mesjańsko (4Q174). Z psalmu nie zostaje jednak wzięta druga osoba, i właśnie drugą osobę ma lekcja zachodnia, co jest argumentem przeciw niej, bo jest lekcją łatwiejszą w dwóch kierunkach naraz. W tej Ewangelii „Syn mój\" padło przy tym już raz, w ustach narratora i z proroka: ἐξ Αἰγύπτου ἐκάλεσα τὸν υἱόν μου (z Egiptu wezwałem Syna mojego, 2,15, za Oz 11,1), gdzie synem u Ozeasza jest Izrael. Tytuł został więc przypisany Jezusowi dwa razy, najpierw przez lud, teraz bezpośrednio."
+      ],
+      [
+       "ὁ ἀγαπητός",
+       "umiłowany",
+       "Trzy wystąpienia u Mateusza i wszystkie w jednej rodzinie zdań: tutaj, w przytoczeniu Iz 42,1 w 12,18 i przy przemienieniu w 17,5. W Septuagincie ἀγαπητός oddaje hebrajskie יָחִיד (jachid, jedyny), i oddaje je w trzech miejscach Rdz 22, gdzie Izaak jest nazwany jedynym synem Abrahama na drodze pod górę (22,2.12.16). Słowo niesie zatem i jedyność, i prowadzenie na ofiarę, a księga, która Abrahama postawiła w pierwszym wierszu rodowodu i w ostrzeżeniu Chrzciciela (3,9), stawia je tu. Składniowo drugi rodzajnik coś znaczy: ὁ υἱός μου ὁ ἀγαπητός to dwa wyrażenia określone w apozycji, nie rzeczownik z epitetem — „Syn mój, ten umiłowany\"."
+      ],
+      [
+       "ἐν ᾧ εὐδόκησα",
+       "w którym upodobałem",
+       "εὐδοκέω z przyimkiem ἐν jest septuagintyzmem (Ps 149,4). Trudność jest w czasie: aoryst wskazywałby chwilę w przeszłości, a chwili, od której Bóg upodobał sobie Syna, zdanie nie może znaczyć. Oddaje on hebrajski perfekt stanu — Iz 42,1 ma רָצְתָה נַפְשִׁי (racta nafszi, upodobała sobie dusza moja) — więc czas jest semicki, a sens bezczasowy. Osobno stoi sprawa Septuaginty: grecki Izajasz ma w tym miejscu προσεδέξατο αὐτὸν ἡ ψυχή μου (przyjęła go dusza moja), a nie εὐδόκησα, i własne przytoczenie Mateusza w 12,18 też nie idzie za Septuagintą. Trzy wyrażenia głosu, które dają się sprawdzić w Izajaszu — ἀγαπητός, εὐδοκέω i Duch położony ἐπʼ αὐτόν — wracają wszystkie trzy w Mateuszowej wersji Iz 42,1–4, w brzmieniu, którego grecki Izajasz nie ma. Nie dowodzi to, którym tekstem ewangelista dysponował; dowodzi, że głos nad Jordanem czytał jako ten właśnie werset."
+      ],
+      [
+       "οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός, ἐν ᾧ εὐδόκησα",
+       "ten jest Syn mój umiłowany, w którym upodobałem",
+       "Całe zdanie jest krótsze niż każde ze swoich źródeł i złożone z trzech: król z Ps 2,7, sługa z Iz 42,1, syn jedyny z Rdz 22. Żadnego Mateusz nie cytuje, żadnego nie opatruje formułą wypełnienia, a wybiera z nich te wyrażenia, które stoją w więcej niż jednym miejscu. Które źródło uważał za główne, pokazuje później: w 12,18–21 przytacza Iz 42,1–4 najdłuższym cytatem swojej księgi i robi to, żeby wyjaśnić, dlaczego Jezus zakazuje mówić o sobie. To samo zdanie wraca w 17,5 słowo w słowo i z trzema słowami więcej — ἀκούετε αὐτοῦ (słuchajcie go). Ojciec odzywa się w tej Ewangelii dwa razy i dwa razy tak samo; drugi raz dokłada rozkaz, a między jednym a drugim leży wszystko, co Jezus w niej dotąd powiedział. Jedyne przytoczenie tych słów w listach Nowego Testamentu, 2 P 1,17, odnosi się do przemienienia, nie do chrztu."
+      ]
+     ]
+    }
+   ],
+   "struktura": "Pięć wierszy rozkłada się na trzy nierówne części: podejście (w. 13), rozmowa (w. 14–15), teofania (w. 16–17). U Marka części są dwie, bo rozmowy nie ma wcale, i ta różnica jest całą kompozycyjną decyzją Mateusza.\n\nSpina je powtórzone τότε. Pierwsze otwiera perykopę i wiąże ją z mową Chrzciciela, drugie zamyka rozmowę w połowie w. 15, trzecie stoi dwa wiersze dalej i otwiera kuszenie (4,1). Trzy wystąpienia w siedmiu wierszach prowadzą narrację od zapowiedzi przez chrzest do próby bez jednego oznaczenia czasu.\n\nW części środkowej gramatyka układa się chiastycznie: ἐγὼ … ὑπὸ σοῦ (ja … przez ciebie) w pierwszej połowie zdania Jana i σὺ … πρός με (ty … do mnie) w drugiej, czyli cztery zaimki, z których po grecku żaden nie jest konieczny. Odpowiedź Jezusa likwiduje tę opozycję jednym słowem — ἡμῖν (nam) — i to jedyna liczba mnoga, w której ktoś poza nim samym zostaje u Mateusza wpisany do wypełniania sprawiedliwości.\n\nCzasowniki ruchu dają drugą oś. Jezus przybywa (παραγίνεται, w. 13), Jan widzi go przychodzącego (ἔρχῃ, w. 14), Jezus wychodzi w górę z wody (ἀνέβη, w. 16), Duch zstępuje (καταβαῖνον) i przychodzi na niego (ἐρχόμενον, w. 16). Ruch poziomy dwóch pierwszych wierszy przechodzi w pionowy dwóch ostatnich, a jeden czasownik — przychodzić — obsługuje oba.\n\nTeofanię znaczą dwa καὶ ἰδού, oba o tym, co z góry. Mówiących jest troje i każdy mówi raz: Jan pyta, Jezus odpowiada, głos oznajmia. Na zdanie z nieba nikt w perykopie nie odpowiada; odpowiedzi udzieli diabeł w następnej scenie, powtarzając je w trybie warunkowym (4,3.6).\n\nKlamrą wewnętrzną jest jeden czasownik. ἄφες (dopuść) w pierwszej połowie w. 15 wraca jako ἀφίησιν (dopuszcza) w drugiej: rozkaz i jego wykonanie w jednym wierszu, w tej samej formie słownikowej. Poza tym miejscem nikt u Mateusza nie spełnia polecenia Jezusa słowem, którego Jezus użył.",
+   "sections": [
+    {
+     "type": "kontekst",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
+     "body": "Nad Jordanem nie wydarzyło się w tej scenie nic, czego by judaizm Drugiej Świątyni nie znał z własnego słownika: obmycie, otwarte niebo, gołębica, głos z góry. Znaczenie każdego z tych czterech ma w źródłach ustaloną postać, a kłopot perykopy polega na tym, że zostały zestawione nad kimś, kto wedle pierwszego z nich nie miał tam czego robić. Poniżej więc najpierw droga i rzeka, potem samo zgorszenie wraz z jego najstarszymi śladami, na końcu trzy pozostałe obrazy.",
+     "children": [
+      [
+       "Sto dwadzieścia kilometrów i dwie różne okolice",
+       "Z Galilei nad dolny Jordan idzie się przez dwa albo trzy dni. Droga doliną prowadzi od Jeziora Galilejskiego przez Bet Szean, nazywane wtedy Scytopolis, i omija Samarię; grzbietem przez Samarię jest krócej i w tym stuleciu niebezpieczniej. Rzeka na tym odcinku opada z około dwustu dziesięciu metrów poniżej poziomu morza do czterystu, a jej łożysko wije się tak, że bieg wody jest blisko trzy razy dłuższy od odległości w linii prostej. Dolina przy Jerychu nie jest pustynią, lecz zapadliną z gęstwiną i źródłami, i to tam stawia tradycja miejsce chrztu. Mateusz nie podaje z tego ani kilometra; podaje natomiast dwie rzeczy, których Marek nie ma — że przyszedł z Galilei, a nie z wioski, i że przyszedł w określonym celu. Z Galilei wyjdzie w tej Ewangelii po raz drugi dopiero w 19,1, na drogę, która kończy się w Jerozolimie. Dane topograficzne wymagają sprawdzenia."
+      ],
+      [
+       "Obrzęd dla grzeszników i kto go przyjmuje",
+       "Obrzęd Jana był εἰς μετάνοιαν (ku odmianie myślenia, 3,11), a o zanurzanych Mateusz napisał dziewięć wierszy wcześniej, że wyznawali swoje grzechy (3,6). O Jezusie tego nie pisze, i milczenie nie jest tu przypadkowe: dwa wiersze, których nie ma u nikogo innego, istnieją właśnie po to, żeby wniosek uprzedzić. Trudność jest najpierw historyczna, a dopiero potem teologiczna, bo przyjęcie obrzędu jest czynnością publiczną i nie da się jej po fakcie uzgodnić. Badania nowsze uznają chrzest Jezusa za jeden z najpewniejszych faktów jego życia dokładnie dlatego, że jest niewygodny: żadna wspólnota nie wymyśliłaby opowiadania, w którym jej założyciel poddaje się obrzędowi innego człowieka. Osobno waży szczegół, o którym decyduje halacha: w świecie, który znał kilkaset basenów rytualnych i codzienne obmycia, zanurzenie było czynnością własną i nie miało szafarza. Obrzęd Jana szafarza miał, a kto przyjmuje szafarza, przyjmuje jego ocenę przyjmującego. Właśnie to Chrzciciel odrzuca w w. 14, i odrzuca w pierwszej osobie."
+      ],
+      [
+       "Najstarsze ślady zgorszenia",
+       "Ślady tego zgorszenia są starsze od wszystkich znanych nam komentarzy. Hieronim zna fragment ewangelii używanej przez nazarejczyków, w którym matka i bracia namawiają Jezusa, by poszedł się ochrzcić, a on odpowiada pytaniem, w czym zgrzeszył, że miałby tam iść. Epifaniusz przytacza fragmenty ewangelii ebionitów, gdzie scena nad Jordanem zostaje przepisana, głos przemawia inaczej i pojawia się wielkie światło (Panarion 30,13). Justyn wspomina, że w Jordanie zapalił się ogień (Dial. 88). A starołaciński kodeks z Vercelli dopisuje po w. 15 całe zdanie o ogromnym świetle z wody, od którego zlękli się wszyscy obecni — zdanie, którego nie ma żaden świadek grecki. Cztery niezależne kanały drugiego i trzeciego wieku, grecki, łaciński, syryjski i apokryficzny, znają zatem przy tej scenie motyw światła, a żaden ewangelista go nie zapisał. Wschodnia nazwa święta, τὰ Φῶτα (Ta Fota, Światła), tego motywu nie porzuciła. Loci wymagają sprawdzenia przy źródłach."
+      ],
+      [
+       "Otwarte niebo jako formuła",
+       "Otwarte niebo jest w tej literaturze formułą, nie obrazem. U Ezechiela otwiera się nad widzącym i wprowadza powołanie: „Otworzyły się niebiosa i zobaczyłem widzenia Boże\" (Ez 1,1). U Izajasza jest przedmiotem żądania — oby rozdarł niebo i zstąpił (Iz 63,19) — i to żądanie Marek spełnia swoim σχίζω, a Mateusz od niego odchodzi. W piśmiennictwie apokaliptycznym tej epoki otwarcie nieba wprowadza widzenie, a w Testamentach Dwunastu Patriarchów otwiera się nad postacią mesjańską, na której spoczywa duch rozumienia (Test. Lewiego 18; Test. Judy 24). Różnica wobec perykopy jest jedna i rozstrzygająca: w tamtej literaturze niebo otwiera się dla widzącego, tutaj nad widzianym. I właśnie o tę różnicę idzie spór w nawiasowym αὐτῷ z w. 16, bo celownik przeniósłby scenę do gatunku widzeń. Sigla Testamentów wymagają sprawdzenia."
+      ],
+      [
+       "Gołębica w źródłach",
+       "Gołębica ma w tym świecie kilka ustalonych znaczeń i żadne nie jest oczywistym kandydatem na obraz Ducha. Ptak Noego wraca nad opadającą wodę sądu ze znakiem, że sąd się skończył (Rdz 8,8–12), i ten właśnie trop podjęli Ojcowie. Pieśń nad pieśniami nazywa umiłowaną gołębicą (2,14; 5,2), a tradycja midraszowa czyta gołębicę jako Izraela. Prawo czyni z niej ofiarę ubogiego, dopuszczoną tam, gdzie na owcę nie stać (Kpł 5,7; 12,8), i to jest ptak sprzedawany na dziedzińcu Świątyni — a Mateuszowe trzecie i ostatnie περιστερά stoi właśnie w zdaniu o wywróconych ławach sprzedawców gołębi (21,12). Najbliższa językowo paralela jest jednak rabiniczna i dotyczy Rdz 1,2: Duch Boży unoszący się nad wodami zostaje tam porównany do gołębicy unoszącej się nad pisklętami (Chagiga 15a). Zestawienie Ducha, wody i gołębicy jest więc obecne w tradycji żydowskiej niezależnie od użytku chrześcijańskiego, i to ono tłumaczy, dlaczego Mateusz porównania nie objaśnia. Locus rabiniczny wymaga sprawdzenia."
+      ],
+      [
+       "Córka głosu",
+       "Sama nazwa głosu z nieba jest w judaizmie rabinicznym zdrobnieniem: בַּת קוֹל (bat kol) znaczy córkę głosu, czyli rzecz pochodną. Tradycja wiąże jej pojawienie się z ustaniem proroctwa — gdy pomarli ostatni prorocy, Aggeusz, Zachariasz i Malachiasz, Duch Święty odszedł od Izraela i posługiwano się odtąd córką głosu (Tosefta, Sota 13,2 oraz miejsca talmudyczne). Ocena jest przy tym zastrzeżona, i to mocno: najsłynniejsze orzeczenie w tej materii odmawia głosowi z nieba prawa rozstrzygania kwestii Prawa, bo Tora nie jest w niebie (Bawa Mecija 59b). Na tym tle w w. 17 widać dwie rzeczy. Pierwsza: głos z nieba nie jest sam w sobie roszczeniem do przywróconego proroctwa, i Mateusz takiego roszczenia nie stawia. Druga: to, co głos robi, nie jest ani wyrokiem halachicznym, ani słowem prorockim o kimś — jest nazwaniem osoby, czego bat kol w źródłach nie czyni. Do tego wiersz poprzedni mówi o przyjściu Ducha, czyli o tym właśnie, czego brak córka głosu miała zastępować. Loci rabiniczne wymagają sprawdzenia."
+      ]
+     ]
+    },
+    {
+     "type": "teologia",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "body": "Jedno słowo tej perykopy jest terminem technicznym scholastyki, i nie przez przypadek przekładu. πρέπον ἐστίν (przystoi) Wulgata oddaje przez decet, a od decet pochodzi kategoria convenientia (stosowność), którą Tomasz posługuje się wszędzie tam, gdzie rzecz nie jest ani konieczna, ani obojętna. Na tym słowie stoi kwestia, jaką poświęcił chrztowi Chrystusa — osiem artykułów De baptizatione Christi (ST III, q. 39) — i jest to najdokładniejszy wykład tego tekstu, jaki scholastyka zostawiła. Trzy dalsze trudności dotyczą gołębicy, Ducha, który niczego nie dodaje, i tego, co znaczy słowo sprawiedliwość, gdy stoi przy niej πᾶσαν.",
+     "children": [
+      [
+       "Przystojność, nie konieczność",
+       "Metoda Tomasza w kwestiach o postępowaniu Chrystusa jest jednostajna: skoro czyn nie wynika z konieczności natury ani z nakazu, pytanie brzmi, czy jest conveniens, czyli czy przystaje do tego, kim działający jest, i do celu, do którego idzie. Kategoria nie jest estetyczna. Rzecz przystoi wtedy, gdy należy do porządku celów, więc stosowność jest trybem rozumności słabszym od konieczności i mocniejszym od samego dopuszczenia. Mateusz podaje to słowo sam, i podaje je przez to, czego nie napisał: ma δεῖ (trzeba) na konieczność i używa go o męce (16,21; 26,54) oraz o końcu (24,6), a tutaj go nie użył. Chrzest Chrystusa nie jest więc w tej Ewangelii koniecznością nałożoną na Syna, lecz czynem, którego racją jest przystojność — i dlatego obiekcja Chrzciciela nie zostaje odrzucona, tylko odłożona słowem ἄρτι (teraz). Racje stosowności Tomasz wylicza w czterech kierunkach: żeby zalecić chrzest Jana, żeby uświęcić wodę, żeby pokazać uniżenie i żeby otworzyć drogę tym, którzy mieli pójść za nim (ST III, q. 39, a. 1–2). Loci wymagają sprawdzenia."
+      ],
+      [
+       "Posłanie widzialne i gołębica, której nie przyjęto",
+       "Osoby Boskie są posyłane niewidzialnie przez łaskę i widzialnie przez znak, a rozróżnienie tych dwóch posłań Tomasz omawia osobno (ST I, q. 43, a. 7). Rozstrzygające jest odgraniczenie od Wcielenia: Syn przyjął naturę w jedność własnej osoby, Duch gołębicy nie przyjął. Augustyn wywodził to przeciw tym, którzy z gołębicy i z ognia Pięćdziesiątnicy wnosili o naturze Ducha albo o tożsamości znaku ze znaczonym (De Trinitate, ks. II). Wniosek dla egzegezy jest dokładny: ὡσεί (jakby) z w. 16 nosi ciężar dogmatyczny. Gdyby gołębica była naturą Ducha, partykuła Mateusza byłaby fałszem; ponieważ partykuła stoi, gołębica jest znakiem zrobionym do widzenia i nie jest tym, co oznacza. To samo obowiązuje głos: nikt nigdy nie twierdził, że Ojciec jest dźwiękiem, a głos i gołębica mają w tej scenie dokładnie tę samą rangę — dwa znaki widzialne dwóch osób, których widzialnymi nie są."
+      ],
+      [
+       "Duch, który niczego nie dodaje",
+       "Jeśli łaska Chrystusa jest pełna od pierwszej chwili zjednoczenia — a tak Tomasz rozstrzyga w traktacie o łasce głowy, gratia capitis (ST III, q. 7, a. 9–12; q. 34, a. 1) — to zstąpienie nad Jordanem nie może dać tego, co już jest. Odpowiedź jest zatem taka, że widzialne przyjście Ducha było dla objawienia, nie dla udzielenia, i że objawiało Jezusa nie jemu samemu, lecz innym. Tekst popiera to rozstrzygnięcie w sposób, którego scholastyka nie wykorzystała: Mateusz pisze εἶδεν (zobaczył) o Jezusie i nie mówi o Janie nic, więc w w. 16 objawienia wobec osoby trzeciej jeszcze nie ma, a osoba trzecia zostaje osiągnięta dopiero głosem z w. 17, i to przez οὗτός ἐστιν (ten jest). Rozróżnienie teologiczne i podmiot gramatyczny wskazują więc ten sam podział pracy między dwoma wierszami. Z tego wynika również, czym to zstąpienie nie jest. Gdyby Duch dawał tu coś, czego przedtem nie było, scena byłaby momentem, w którym ktoś staje się Chrystusem — i tak właśnie czytali ją w drugim wieku ci, przeciw którym pisał Ireneusz."
+      ],
+      [
+       "Cała sprawiedliwość i liczba mnoga, w jakiej stoi",
+       "Tomasz za Arystotelesem rozróżnia iustitia particularis (sprawiedliwość szczegółowa), cnotę kardynalną oddającą każdemu, co jego, od iustitia legalis albo generalis (sprawiedliwość prawna, powszechna), która jest całością cnoty w odniesieniu do prawa i do dobra wspólnego (ST II–II, q. 58, a. 5–7). πᾶσαν δικαιοσύνην należy do drugiej, a użycie słowa w dalszych rozdziałach to potwierdza: nikt nie łaknie jednej cnoty (5,6) i nic szczegółowego nie da się przewyższyć w sposób, jakiego żąda 5,20. Liczba mnoga ἡμῖν stawia potem pytanie, jak czyn jednego może być wypełnieniem należnym komuś drugiemu, a Tomasz odpowiada na nie formułą, którą stosuje do całej ekonomii zadośćczynienia: caput et membra sunt quasi una persona mystica (głowa i członki są jakby jedną osobą mistyczną, ST III, q. 48, a. 2). Przy takim czytaniu celownik nie jest ani uprzejmy, ani wynikający ze skromności — mówi, że czyn nad Jordanem dokonuje się w ciele. Granicę tego odczytania trzeba jednak powiedzieć: Mateuszowe ἡμῖν obejmuje Jana, a Jan do Kościoła nie należy, bo umiera, zanim Kościół zaczyna istnieć. Liczba mnoga w tekście jest więc węższa niż formuła i sięga co najwyżej dwóch ludzi stojących w wodzie. Loci wymagają sprawdzenia."
+      ]
+     ]
+    },
+    {
+     "type": "autor_ludzki",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
+     "body": "Markowy chrzest zajmuje trzy wiersze (Mk 1,9–11), Mateuszowy pięć, a dwa dołożone nie mają paraleli nigdzie — ani u synoptyków, ani w czwartej Ewangelii, ani w znanych apokryfach. Nie jest to jednak rozbudowanie: dołożone wiersze są najbardziej Mateuszowym miejscem całej perykopy, bo zrobione są z jego własnego słownika. πρέπον jest jego hapaksem, δικαιοσύνη jego słowem kluczowym, πληρόω jego czasownikiem redakcyjnym, a ἄφες i ἀφίησιν jego sposobem domykania scen powtórzeniem formy. Cokolwiek ewangelista tu zastał, zapisał to własnym językiem.\n\nPoprawek wobec Marka jest pięć i każda coś znaczy. ἀπὸ Ναζαρέτ ustępuje ἀπὸ τῆς Γαλιλαίας, więc przychodzący przychodzi z krainy, którą własna formuła wypełnienia nazwie Galileą narodów (4,15). εἰς τὸν Ἰορδάνην ustępuje ἐπὶ τὸν Ἰορδάνην, więc przybywa nad rzekę, a nie w nią. ἐκ τοῦ ὕδατος ustępuje ἀπὸ τοῦ ὕδατος. σχιζομένους τοὺς οὐρανούς (rozdzierane niebiosa) ustępuje ἠνεῴχθησαν (otworzyły się), a Markowe rozdzieranie Mateusz zachowuje na jedno miejsce w księdze, dla zasłony przybytku w chwili śmierci (27,51). I najważniejsza: σὺ εἶ (ty jesteś) ustępuje οὗτός ἐστιν (ten jest), czyli zwrot do adresata ustępuje obwieszczeniu o kimś. Do tego τὸ πνεῦμα staje się πνεῦμα θεοῦ, wyrażeniem z pierwszej karty Pisma.\n\nTę samą trudność trzech synoptyków i czwartej Ewangelii widać najlepiej w zestawieniu strategii. Marek relacjonuje fakt bez komentarza. Mateusz go nie usuwa, lecz podejmuje spór i kwalifikuje czyn. Łukasz usuwa Chrzciciela ze sceny dwukrotnie — najpierw chronologicznie, bo wcześniej donosi o jego uwięzieniu (Łk 3,19–20), potem gramatycznie, bo chrzest zostaje u niego genetivem absolutum w zdaniu o modlitwie (Łk 3,21). Czwarta Ewangelia samego chrztu nie opowiada wcale i zachowuje tylko świadectwo Jana o Duchu (J 1,32–34). Cztery ujęcia, a kierunek zmian jeden.\n\nKompozycyjnie perykopa zamyka przygotowanie. Część pierwszą księgi domknie formuła ἀπὸ τότε ἤρξατο ὁ Ἰησοῦς κηρύσσειν (od tego czasu zaczął Jezus głosić, 4,17), a tutaj Jezus mówi pierwszy raz i mówi o sprawiedliwości. Dwa rozdziały dalej wejdzie na górę i w jego mowie δικαιοσύνη stanie pięć razy. Chrzest jest więc u Mateusza prologiem Kazania, a związek zostaje zrobiony słowem, nie zdaniem o związku.\n\nPorządek dalszych scen jest ułożony tak samo celowo. Kuszenie otwiera τότε i Duch, który zstąpił, wyprowadza teraz Jezusa na pustynię (4,1); pierwsze słowa kusiciela przytaczają głos z nieba w trybie warunkowym — εἰ υἱὸς εἶ τοῦ θεοῦ (jeśli Synem jesteś Boga, 4,3.6). Ten sam warunek wróci spod krzyża dwa razy (27,40.43), a zaimek z w. 17 wróci w ustach poganina (27,54). Mateusz stawia zdanie Ojca na początku, pozwala je cztery razy podać w wątpliwość i każe je wyznać na końcu komuś, kto nie ma w tym żadnego interesu.\n\nZostaje racja polemiczna, bez której trudno zrozumieć, po co w ogóle dopisywać rozmowę. Mateusz pisze dla wspólnoty spierającej się z synagogą po roku 70 i pytanie „dlaczego wasz Mesjasz przyjął obrzęd dla grzeszników\" jest pytaniem, którego musiał się spodziewać. Wiersze 14–15 są najstarszą znaną nam pisaną odpowiedzią na nie, i odpowiedź nie zaprzecza faktowi. Kwalifikuje go: to właśnie jest sprawiedliwość.",
+     "children": []
+    },
+    {
+     "type": "autor_bozy",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
+     "body": "Dotąd objawienie w tej księdze szło przez pośredników: zwiastuna w trzech snach, cztery formuły wypełnienia, gwiazdę i proroka cytowanego przez uczonych w Piśmie. W w. 17 pośrednictwo się kończy. Ojciec mówi własnym głosem, jednym zdaniem, i powtórzy je jeszcze tylko przy przemienieniu (17,5) — dwa razy w dwudziestu ośmiu rozdziałach, oba razy o tym samym.",
+     "children": [
+      [
+       "Dwa pierwsze słowa",
+       "Dwa pierwsze razy mieszczą się w tej samej perykopie i trzy wiersze od siebie. Pierwsze słowo Jezusa dotyczy tego, co przystoi; pierwsze słowo Ojca dotyczy tego, kim Jezus jest. Kolejność nie jest obojętna: księga pozwala mu działać, zanim pozwoli niebu go wyjaśnić. Treścią zaś pierwszej ludzkiej wypowiedzi jest posłuszeństwo wobec kwalifikacji, o którą nikt nie prosił — Jezus nie mówi, o jaką sprawiedliwość idzie, a nikt go o to w tej Ewangelii więcej nie zapyta. Kazanie będzie długą odpowiedzią na pytanie, którego w scenie nikt nie postawił."
+      ],
+      [
+       "Trójca w półtora wiersza",
+       "Ekonomia pokazuje rozróżnienie trzech, zanim jakakolwiek nauka je sformułuje: ktoś wychodzi z wody, Duch na niego zstępuje, głos z góry nazywa go Synem. Trzy członki są odrębne i żaden nie jest zastępowalny, bo zlanie dwóch z nich w jeden odbiera zdaniu sens — mówiący nie może być tym, o kim mówi, a zstępujący nie może być tym, na kogo zstępuje. Dogmatyka będzie potrzebowała trzech stuleci, żeby to powiedzieć; scena niczego nie mówi, scena pokazuje. Mateusz dokłada do tego klamrę na końcu księgi: uczniowie zostają posłani, by w obrzędzie czynić to, co tu stało się raz — βαπτίζοντες αὐτοὺς εἰς τὸ ὄνομα τοῦ πατρὸς καὶ τοῦ υἱοῦ καὶ τοῦ ἁγίου πνεύματος (zanurzając ich w imię Ojca i Syna, i Ducha Świętego, 28,19). Czasownik βαπτίζω stoi u niego siedem razy: sześć w tym rozdziale i raz tam. Cała kariera tego słowa w księdze biegnie od Jordanu do góry w Galilei, a na obu końcach stoją trzy imiona."
+      ],
+      [
+       "Oznajmienie, nie obietnica",
+       "Głos nie obiecuje, nie nakazuje — rozkaz dojdzie dopiero w 17,5 — i nie wyznacza zadania. Nie ma w nim niczego z tego, co zapowiadał Chrzciciel: ani wiejadła, ani klepiska, ani siekiery, ani ognia nieugaszonego. Jedyne zdanie, jakie niebo wypowiada u progu działalności, mówi o upodobaniu w osobie. Czy jest to poprawka do mowy z w. 7–12, Mateusz nie rozstrzyga; rozstrzyga tylko tyle, że ogień przyjdzie później i w innych ustach, bo spichlerz i spalenie odpadu wróci jako przypowieść Jezusa (13,30.40–42). Zmienia się nie treść sądu, lecz to, kto go ogłasza i kiedy."
+      ],
+      [
+       "Zdanie, które zostanie podane w wątpliwość",
+       "Oznajmienie zostaje wydane przed próbą i próbowane własnymi słowami. Diabeł przytacza je dwa razy w trybie warunkowym (4,3.6), szydercy pod krzyżem dwa razy (27,40.43), a setnik wyznaje je po wszystkim i wyznaje tym samym zaimkiem wskazującym (27,54). Pięć przytoczeń jednego zdania, z czego cztery wrogie. Objawienie nie jest w tej Ewangelii samo dla siebie dowodem: zostaje wypowiedziane raz, wprost, i puszczone na dwadzieścia cztery rozdziały sporu. Że pierwszym, kto powtarza je poprawnie, jest pogański oficer na służbie, należy do układów, jakich Mateusz nie komentuje — podobnie jak nie skomentował tego, że pierwszymi, którzy przyszli się pokłonić, byli ludzie ze Wschodu czytający gwiazdy."
+      ]
+     ]
+    },
+    {
+     "type": "odniesienia",
+     "title": "Sieć odniesień biblijnych",
+     "body": "Jawnego cytatu nie ma w tej perykopie ani jednego — drugi raz w tej Ewangelii po rodowodzie i ostatni przed kuszeniem, które będzie z cytatów zbudowane w całości. Zdanie z nieba jest przy tym w całości z Pisma: trzy jego wyrażenia mają po źródle, żadne nie zostaje oznaczone, a który z trzech tekstów Mateusz uważał za główny, pokazuje dziewięć rozdziałów dalej, przytaczając Iz 42,1–4 najdłuższym cytatem swojej księgi w słowach, w których słychać w. 16 i 17. Poniżej miejsca, które rozstrzygają o sensie, nie te, które dają się zestawić.",
+     "children": [
+      [
+       "Ps 2,7 → w. 17",
+       "Formuła intronizacji królewskiej: υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε (Syn mój jesteś ty, ja dzisiaj zrodziłem ciebie). Mateusz bierze z niej tytuł i nie bierze drugiej osoby — a drugą osobę ma właśnie lekcja zachodnia w. 17, co jest argumentem przeciw niej, bo byłaby łatwiejsza w dwóch kierunkach naraz: zgadzałaby się z paralelami synoptycznymi i z psalmem. Osobno waży to, jak Nowy Testament tego psalmu używa: w Dz 13,33 oraz w Hbr 1,5 i 5,5 odnosi się on do zmartwychwstania i do kapłaństwa, nie do chrztu. Żaden autor nowotestamentowy nie czyta Ps 2,7 jako tekstu chrzcielnego, a jedyne miejsce, gdzie staje się chrzcielny, to warianty — u Łukasza 3,22 kodeks D czyta w głosie całe zdanie o zrodzeniu dzisiaj."
+      ],
+      [
+       "Iz 42,1 → w. 16–17",
+       "Pierwsza pieśń o Słudze: wybrany, Duch na niego położony, upodobanie duszy Boga. Związek jest w tej perykopie najmocniejszy ze wszystkich, i to nie na domysł, bo Mateusz sam go pokazuje. W 12,18 przytacza ten werset w brzmieniu ὁ ἀγαπητός μου εἰς ὃν εὐδόκησεν ἡ ψυχή μου· θήσω τὸ πνεῦμά μου ἐπʼ αὐτόν (umiłowany mój, w którym upodobała sobie dusza moja; położę Ducha mojego na niego) — a to są trzy elementy w. 16 i 17 naraz: umiłowany, upodobanie i Duch położony na niego. Grecki Izajasz nie ma w tym miejscu ani ἀγαπητός, ani εὐδόκησεν; ma παῖς i προσεδέξατο. Przytoczenie Mateusza nie idzie więc za Septuagintą, a głos nad Jordanem idzie za tym samym nieseptuagintalnym brzmieniem co przytoczenie. Teologicznie znaczy to, że tytuł królewski zostaje z miejsca spięty z losem Sługi, i że spina je ewangelista, nie późniejsza egzegeza."
+      ],
+      [
+       "Rdz 22,2.12.16 → w. 17",
+       "Trzy razy w jednym opowiadaniu Izaak jest nazwany synem jedynym, a Septuaginta oddaje hebrajskie יָחִיד (jachid, jedyny) przez ἀγαπητός (umiłowany). Przymiotnik z w. 17 niesie zatem dwie rzeczy, których hebrajskie słowo nie łączy: jedyność i to, że ojciec prowadzi syna na górę, żeby go złożyć. Figura i wypełnienie są tu po stronie ojcostwa, nie po stronie ofiary: w Rdz 22 ręka zostaje zatrzymana, a w tej Ewangelii nie zostanie. Mateusz Abrahama już dwa razy w tej księdze przywołał — w pierwszym wierszu rodowodu i w ostrzeżeniu Chrzciciela o dzieciach wzbudzonych z kamieni (3,9) — więc słowo pada w kontekście, w którym ten patriarcha jest obecny."
+      ],
+      [
+       "Iz 63,19 → w. 16",
+       "Żądanie: oby rozdarł niebiosa i zstąpił. Septuaginta ma tu ἐὰν ἀνοίξῃς τὸν οὐρανόν (gdybyś otworzył niebo), a hebrajski mówi o rozdarciu. Marek wybiera rozdarcie i pisze σχιζομένους τοὺς οὐρανούς, więc u niego prośba proroka zostaje spełniona co do słowa; Mateusz wybiera otwarcie, bliższe greckiemu Izajaszowi, i czasownik rozdzierania zachowuje na zasłonę przybytku (27,51). Różnica nie jest stylistyczna: rozdarcie jest nieodwracalne, otwarcie nie, a Mateusz ma w planie jedno nieodwracalne rozdarcie i stawia je przy śmierci."
+      ],
+      [
+       "Ez 1,1 → w. 16",
+       "Formuła powołania prorockiego: otworzyły się niebiosa i prorok zobaczył widzenia Boże. Paralela jest ścisła co do słów i odwrotna co do kierunku. U Ezechiela niebo otwiera się dla widzącego i to on jest przedmiotem powołania; w w. 16 otwiera się nad tym, którego za chwilę nazwie głos. Jeśli przyjąć nawiasowe αὐτῷ, scena zbliża się do gatunku Ezechielowego; jeśli je odrzucić, oddala się od niego, bo widzenie przestaje być prywatne. Wariant tekstowy rozstrzyga więc o przynależności gatunkowej całej perykopy, i to jest główna racja, dla której wydawcy postawili nawias, zamiast wybrać."
+      ],
+      [
+       "Iz 11,2 i Iz 61,1 → w. 16",
+       "Dwa teksty o Duchu spoczywającym na postaci oczekiwanej: na różdżce z korzenia Jessego (11,2) i na tym, kogo Pan pomazał, by głosił ubogim (61,1). Oba mają przyimek, który w w. 16 stoi przy przyjściu Ducha, i oba opisują wyposażenie, nie przemianę. Iz 61,1 jest przy tym tekstem, którego Mateusz nie cytuje nigdy, choć cytuje Izajasza częściej niż ktokolwiek inny w Nowym Testamencie — a Łukasz każe Jezusowi przeczytać go na głos w Nazarecie (Łk 4,18). To, co Łukasz daje do odczytania, Mateusz opowiada jako zdarzenie i zostawia bez wersetu."
+      ],
+      [
+       "Rdz 1,2 → w. 16",
+       "Duch Boży unoszący się nad wodami. Wyrażenie Mateusza, πνεῦμα θεοῦ, jest dokładnym odpowiednikiem רוּחַ אֱלֹהִים (ruach Elohim) i różni się od tego, co w tym miejscu mają Marek i Łukasz. Tło pierwszej karty Pisma jest zatem w jego wyborze słowa, a nie w żadnym komentarzu; Mateusz nie mówi o nowym stworzeniu i nie musi, bo wymówił dwa słowa, po których czytelnik Septuaginty sam je słyszy. Dodać trzeba, że ten sam ewangelista otworzył księgę rzeczownikiem γένεσις (1,1), również z pierwszej karty."
+      ],
+      [
+       "Rdz 8,8–12 → w. 16",
+       "Gołębica Noego wraca nad opadającą wodę z gałązką, czyli z wiadomością, że sąd wodą się skończył. Jako figura jest to miejsce najczęściej przy tej perykopie przywoływane i trzeba o nim powiedzieć dwie rzeczy. Pierwsza: typologia jest patrystyczna, nie Mateuszowa — ewangelista nie daje żadnego znaku, że o Noego myślał. Druga: działa mimo to, i działa dokładnie, bo łączy ptaka, wodę i koniec sądu, a cała mowa z w. 7–12 była o sądzie nadchodzącym. Figurą jest ptak zwiastujący, że woda ustąpiła; wypełnieniem Duch nad wodą tego, który sąd weźmie na siebie."
+      ],
+      [
+       "Joz 3,14–17 → w. 13",
+       "Izrael wchodzi do ziemi przez rozstąpiony Jordan pod wodzą, która nosi imię Jehoszua. Protagonista tej Ewangelii nosi to imię z nakazu zwiastuna (1,21), a jego działalność publiczna zaczyna się w tej rzece. Mateusz związku nie robi i nie podpowiada; robią go rzeka i imię, i dlatego warto zaznaczyć, że typologia jest tu dostępna, a nie zasygnalizowana. Co do rzeczy zaś różnica jest istotna: tam wody się rozstąpiły, żeby lud przeszedł na drugi brzeg, tutaj nie dzieje się z wodą nic, a przechodzi się przez nią, nie obok niej."
+      ],
+      [
+       "2 Krl 2,8–14 → w. 13.16",
+       "Nad Jordanem Eliasz uderza wodę płaszczem, przechodzi, zostaje wzięty, a duch spada w podwójnej mierze na tego, który został. Jedenaście wierszy wcześniej Mateusz ubrał Jana w sierść i pas skórzany, czyli w opis Eliasza z 2 Krl 1,8, a później każe Jezusowi nazwać go Eliaszem wprost (11,14; 17,12). To, co dzieje się nad jego Jordanem, jest zstąpieniem Ducha na drugiego człowieka. Zbieżność jest częściowa i trzeba to powiedzieć: Elizeusz o ducha prosi i prosi o podwójną miarę, Jezus nie prosi o nic, a Jan nie zostaje wzięty, tylko aresztowany (4,12). Mateusz nie daje tu żadnego sygnału, więc paralela ma wagę tła, nie dowodu."
+      ],
+      [
+       "Oz 11,1 i Wj 4,22 → w. 17",
+       "Izrael jest u Ozeasza synem wezwanym z Egiptu, a u Wyjścia pierworodnym synem Boga. Mateusz przytoczył Ozeasza jako formułę wypełnienia o powrocie dziecka (2,15), więc wyrażenie „Syn mój\" padło w tej księdze o Jezusie już raz — przez proroka i o ludzie. W w. 17 pada bez pośrednictwa. Układ jest przemyślany: tytuł zostaje najpierw przeprowadzony przez Izraela i dopiero potem wypowiedziany przez Ojca, a między jednym a drugim leżą dwa rozdziały, w których dziecko powtarza drogę ludu — zejście do Egiptu, wyjście, przejście przez wodę, czterdzieści dni na pustyni."
+      ],
+      [
+       "2 Sm 7,14 → w. 17",
+       "Obietnica dla potomstwa Dawida: ja będę mu ojcem, a on będzie mi synem. Jest to tekst, z którego wyrasta Ps 2,7, i jest to tekst czytany mesjańsko w tym stuleciu — Florilegium z Qumran zestawia go z innymi obietnicami i odnosi do oczekiwanej postaci (4Q174). Tytuł „Syn Boga\" był więc w tym środowisku dostępny i nie wymagał tła hellenistycznego; zwój nazywany dziś 4Q246 posługuje się nawet wyrażeniem „syn Najwyższego\". Dla perykopy znaczy to, że głos nie wprowadza kategorii nowej, lecz przypisuje kategorię znaną jednej osobie — a Mateusz zbudował cały rodowód na dziedzictwie Dawida. Sigla qumrańskie wymagają sprawdzenia."
+      ],
+      [
+       "Mt 1,22; 2,15.17.23 → w. 15",
+       "Cztery formuły wypełnienia rozdziałów pierwszego i drugiego są jedynymi dotąd użyciami czasownika πληρόω, wszystkie w ustach narratora i wszystkie o Piśmie. W w. 15 czasownik przechodzi do ust Jezusa, a dopełnienie zmienia się z „powiedzianego\" na „sprawiedliwość\". Następne wystąpienie wraca do narratora (4,14), a kolejne jest znowu Jezusa i dotyczy Prawa i Proroków (5,17). Mateusz nie zestawia tych użyć żadnym zdaniem; zestawia je tym, że użył jednego słowa, i przez to twierdzi coś, czego nie wypowiada — że wypełnianie Pisma i wypełnianie sprawiedliwości jest jedną rzeczą."
+      ],
+      [
+       "Mt 5,17–20; 6,1.33; 21,32 → w. 15",
+       "Sześć dalszych wystąpień δικαιοσύνη rozstrzyga, co słowo znaczy w w. 15. Można jej łaknąć (5,6), można za nią być prześladowanym (5,10), musi przewyższyć sprawiedliwość uczonych w Piśmie i faryzeuszów (5,20), można ją odprawiać na pokaz przed ludźmi (6,1) i szukać jej razem z królestwem (6,33). Rozstrzyga jednak ostatnie: Jan „przyszedł drogą sprawiedliwości\" — ἦλθεν ἐν ὁδῷ δικαιοσύνης (21,32) — więc wejście w obrzęd Jana samo jest czynem tej sprawiedliwości. Zdanie z w. 15 nie jest zagadką; jest zakwalifikowaniem czynu, a kwalifikacja zostaje potwierdzona osiemnaście rozdziałów później, w zdaniu wypowiedzianym przeciw tym, którzy Janowi nie uwierzyli."
+      ],
+      [
+       "Mt 4,1–11 → całość",
+       "Ciąg dalszy jest zrobiony z tej perykopy. Otwiera go τότε, wyprowadza na pustynię Duch, który przed chwilą zstąpił, a kusiciel przytacza zdanie Ojca w trybie warunkowym: εἰ υἱὸς εἶ τοῦ θεοῦ (jeśli Synem jesteś Boga, 4,3.6). Kolejność jest Mateuszowym układem i działa tylko w tej kolejności — kto ma w uchu głos z w. 17, słyszy kuszenie jako pytanie o zdanie wypowiedziane cztery wiersze wcześniej. Dodać trzeba, że próba dotyczy nie tego, czy Jezus jest Synem, lecz co Syn ma prawo zrobić, i trzy odpowiedzi padają z Pwt, czyli z tej samej księgi, w której lud był na pustyni czterdzieści lat."
+      ],
+      [
+       "Mt 17,5 i 2 P 1,17 → w. 17",
+       "Przy przemienieniu zdanie wraca słowo w słowo, z jedną zamianą okolicznika — głos wychodzi z obłoku, nie z niebios — i z trzema słowami dołożonymi: ἀκούετε αὐτοῦ (słuchajcie go). Pierwsze wystąpienie identyfikuje, drugie nakazuje, a odstęp między nimi jest całą pierwszą połową działalności. Jedyne przytoczenie tych słów poza Ewangeliami, 2 P 1,17, odnosi się do przemienienia i jest w liście podane jako świadectwo naoczne. Chrztu nie przytacza przy tym nikt. Scena nad Jordanem nie zostaje w listach nowotestamentowych przywołana ani razu z głosem, a jedyne jej streszczenie, Dz 10,37–38, mówi o pomazaniu Duchem i głosu nie wspomina."
+      ],
+      [
+       "Mt 27,40.43.54 → w. 17",
+       "Zdanie Ojca wraca pod krzyżem trzy razy. Dwa razy jako warunek w ustach wrogich — jeśli jesteś Synem Boga, zejdź z krzyża (27,40), i powiedział, że jest Synem Boga (27,43) — a trzeci raz jako wyznanie: ἀληθῶς θεοῦ υἱὸς ἦν οὗτος (prawdziwie Syn Boga był ten, 27,54). Trzecie przytoczenie trzyma się przy tym Mateuszowego zaimka z w. 17, a wypowiada je dowódca straży, który o niczym poza egzekucją nie wie. Kontrast jest zbudowany na jednym słowie: to samo οὗτος, którym Ojciec wskazał Syna nad wodą, wskazuje go po śmierci, i oba razy wskazuje ktoś spoza grona uczniów."
+      ],
+      [
+       "Mt 28,16–20 → w. 16–17",
+       "Na końcu księgi uczniowie dostają polecenie zanurzania w imię Ojca i Syna, i Ducha Świętego. Trzy imiona są te same, co trzy członki sceny nad Jordanem, i stoją w tej samej kolejności. βαπτίζω ma u Mateusza siedem wystąpień: sześć w rozdziale trzecim i to jedno — więc cała obecność tego czasownika w księdze zamyka się między rzeką i górą. Druga klamra jest geograficzna: w w. 13 przychodzi z Galilei, a w 28,16 uczniowie idą do Galilei, na górę, którą im wskazał. Ostatnie zdanie księgi mówi zaś o obecności do skończenia wieku, czyli odpowiada na imię z 1,23, i cały łuk od Emmanuela do nakazu misyjnego przechodzi przez te dwa wiersze."
+      ],
+      [
+       "Mk 1,9–11; Łk 3,21–22; J 1,29–34 → całość",
+       "Cztery relacje o jednej scenie i cztery sposoby postępowania z jej trudnością. Marek relacjonuje bez komentarza i jest najkrótszy. Mateusz dopisuje rozmowę i zmienia zwrot bezpośredni na obwieszczenie. Łukasz chrzest degraduje składniowo do genetivu absolutu i poprzedza go wiadomością o uwięzieniu Jana, więc w jego scenie Chrzciciela właściwie nie ma. Czwarta Ewangelia chrztu nie opowiada w ogóle i zachowuje samo świadectwo Jana o zstąpieniu Ducha, które tam widzi i o którym mówi Jan, nie Jezus. Każda następna wersja zmniejsza udział Chrzciciela, i to jest jedna z niewielu tendencji redakcyjnych, którą da się przy jednej perykopie pokazać we wszystkich czterech Ewangeliach."
+      ],
+      [
+       "Dz 10,37–38 → całość",
+       "Streszczenie Piotra w domu Korneliusza: począwszy od chrztu, który głosił Jan, Bóg pomazał Jezusa Duchem Świętym i mocą. Jest to najstarsza znana nam wykładnia tej perykopy i czyta ją jako pomazanie, czyli jako czynność, od której pochodzi tytuł Χριστός. Dwie rzeczy są w tym streszczeniu znaczące. Pierwsza: głosu z nieba nie wspomina. Druga: datuje od chrztu początek działalności, dokładnie tak, jak Mateusz go tu umieszcza przed formułą ἀπὸ τότε z 4,17. Przemówienie jest skierowane do pogan, a Mateusz dopisze, że pomazany idzie do Galilei narodów (4,15)."
+      ]
+     ]
+    },
+    {
+     "type": "recepcja",
+     "title": "Znaczenie w historii i liturgii Kościoła",
+     "body": null,
+     "children": [
+      [
+       "Jordan w sporze o osobę Chrystusa",
+       "Ten właśnie wiersz był polem najstarszego sporu chrystologicznego. Cerynt i ebionici twierdzili, że Chrystus — albo Duch — zstąpił nad Jordanem na człowieka Jezusa i opuścił go przed męką; Ireneusz tę naukę przytacza i zbija, a jego odparcie opiera się na jedności osoby, czyli dokładnie na tym rozróżnieniu, które Tomasz sformułuje później jako różnicę między przyjęciem natury i posłaniem znaku (Adv. haer. I,26,1; III,11,1). Tradycja rękopiśmienna nosi ślad sporu: w miejscu paralelnym u Łukasza kodeks D i część tradycji starołacińskiej wkładają w głos zdanie z Ps 2,7 — ἐγὼ σήμερον γεγέννηκά σε (ja dzisiaj zrodziłem ciebie) — czyli lekcję, która z chrztu robi zrodzenie, a Justyn ją zna (Dial. 88; 103). Tekst Mateusza takiego wariantu nie ma, i jego οὗτός ἐστιν jest dla odczytania adopcjanistycznego brzmieniem najmniej wygodnym, bo oznajmienie o osobie zakłada osobę. Po Nicei scena zmienia funkcję i staje się głównym miejscem dowodowym dla odrębności trzech oraz dla bóstwa Ducha; na Wschodzie daje święto i jego nazwę. Odrębne dzieje ma pytanie, czy chrzest Chrystusa ustanowił sakrament — Tomasz odróżnia tam moment, w którym woda otrzymała moc, od momentu, w którym obowiązek został nałożony (ST III, q. 66, a. 2), a Hilary z Poitiers czytał już wcześniej całą scenę jako ordo (porządek) naszego chrztu: otwarte niebo, pomazanie Duchem, głos przysposobienia (In Mt. 2). Numeracje i loci wymagają sprawdzenia przy źródłach."
+      ],
+      [
+       "Liturgia",
+       "W rycie rzymskim Mt 3,13–17 jest Ewangelią święta Chrztu Pańskiego w roku A; święto zamyka okres Narodzenia i wypada w niedzielę po Objawieniu, a gdy Objawienie przypada 7 albo 8 stycznia, w następujący po nim poniedziałek. Pierwszym czytaniem jest Iz 42,1–4.6–7, drugim Dz 10,34–38 — lekcjonarz wiąże więc perykopę dokładnie z tymi dwoma tekstami, z którymi wiąże ją filologia, i robi to bez komentarza. Lata B i C czytają Mk 1,7–11 oraz Łk 3,15–16.21–22. Historycznie chrzest należał na Zachodzie do dnia oktawy Objawienia, 13 stycznia; osobny tytuł wspomnienia dostał w kalendarzu 1960 roku, a na niedzielę przeniesiono go w reformie 1969. Trzy tajemnice Objawienia rzymska liturgia trzyma nadal razem w antyfonie do Benedictus: Tribus miraculis ornatum diem sanctum colimus (czcimy dzień święty ozdobiony trzema cudami) — gwiazda, Jordan i Kana. Na Zachodzie chrzest był zatem przez wieki treścią wtórną Objawienia i jest dziś świętem własnym, tydzień później; poza tym jedynym miejscem Jordan wraca w błogosławieństwie wody chrzcielnej Wigilii Paschalnej. Wschód ustawia to inaczej i mocniej. Teofania 6 stycznia jest świętem chrztu w całości, bo magowie należą tam do Narodzenia; Ewangelią liturgii jest Mt 3,13–17, a w wigilię i w samo święto sprawuje się Wielkie Poświęcenie Wody (Μέγας Ἁγιασμός), po którym wodę zabiera się do domów, a nad rzeką albo nad morzem zanurza się krzyż. Troparion święta podaje treść dogmatyczną wprost: Ἐν Ἰορδάνῃ βαπτιζομένου σου, Κύριε, ἡ τῆς Τριάδος ἐφανερώθη προσκύνησις (gdy byłeś chrzczony w Jordanie, Panie, objawił się pokłon Trójcy). Druga grecka nazwa święta, τὰ Φῶτα (Ta Fota, Światła), wiąże je z chrztem rozumianym jako φωτισμός (oświecenie) — i z daleka z tym samym motywem światła, który starołaciński dopisek wsunął po w. 15. Nazajutrz, 7 stycznia, przypada Sobór Poprzednika. Zachód czyta więc ten tekst ku domknięciu Narodzenia, Wschód jako samo objawienie. Sigla Lekcjonarza rzymskiego, miejsce antyfony oraz rubryki Mineji i typikonu wymagają sprawdzenia w księgach przed publikacją."
+      ],
+      [
+       "Ikona Teofanii, baptysteria, malarstwo",
+       "Wschodnia ikona Teofanii ma skład ustalony i niemal niezmienny. Jezus stoi obnażony w ciemnej kolumnie wody, która sięga mu ramion i jest malowana jak grób; po lewej Jan z ręką nad jego głową, po prawej aniołowie z płótnami, a z góry wchodzi wycinek otwartego nieba z promieniami i gołębicą. U dołu, w wodzie, siedzą małe postacie personifikujące Jordan i morze — biorą się z psalmu śpiewanego w to święto: morze zobaczyło i uciekło, Jordan odwrócił się wstecz (Ps 113,3.5 wedle Septuaginty). Czasem leży tam siekiera przy korzeniu, wzięta z 3,10, a czasem wąż pod wodą, wzięty z psalmu o rozbitych łbach smoków. Ikona utrzymuje zatem w jednym obrazie sąd z mowy Chrzciciela i objawienie z teofanii, czego żaden tekst liturgiczny nie łączy tak ciasno. Na Zachodzie scena jest mozaiką obu baptysteriów Rawenny — Baptysterium Ortodoksów i Baptysterium Arian — a to jest fakt doktrynalny sam w sobie, bo dwie strony sporu trynitarnego wybrały tę samą scenę na to samo miejsce w budynku. Malarstwo późniejsze robi z niej pejzaż z dwiema postaciami: Piero della Francesca, Verrocchio z Leonardem, El Greco. Stałą pozostaje związek z obrzędem — gdziekolwiek tę scenę przedstawiano, najczęściej przedstawiano ją nad chrzcielnicą. Datowania i atrybucje wymagają weryfikacji."
+      ]
+     ]
+    },
+    {
+     "type": "patrystyka",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
+     "body": "Pytanie, jakie Ojcowie stawiają tej perykopie, jest zawsze cudze: postawili je przeciwnicy. Dlaczego bezgrzeszny przyjmuje obrzęd na odpuszczenie grzechów i kto właściwie widział gołębicę. Cztery głosy poniżej odpowiadają na to w czterech różnych trybach — Chryzostom pyta o cel, Hieronim wylicza przyczyny, Orygenes broni wiarygodności przed zarzutem, Augustyn rozstrzyga rozbieżność między ewangelistami. Orygenesa trzeba przy tym brać z dzieła apologetycznego, nie z komentarza do Mateusza, który zachował się dopiero od Mt 13,36.",
+     "children": []
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "body": "Dwa słowa tej perykopy nie wracają u Mateusza nigdy więcej: διακωλύω (stawać na drodze) i πρέπον (przystoi). Pierwsze opisuje jedyną w tej Ewangelii próbę zatrzymania Jezusa przez kogoś, kto go rozpoznał; drugie jest całym uzasadnieniem, jakie Jezus na tę próbę podaje. Oba stoją w tej samej rozmowie i oba nie mają dalszego ciągu, bo nie są potrzebne — rozmowa rozstrzyga rzecz raz.\n\nZdanie, które Jezus wypowiada, jest pierwszym w tej księdze i nie jest wyjaśnieniem. οὕτως γὰρ πρέπον ἐστὶν ἡμῖν πληρῶσαι πᾶσαν δικαιοσύνην (tak bowiem przystoi nam wypełnić całą sprawiedliwość) podaje rację, której w scenie nikt nie mógł zrozumieć, bo δικαιοσύνη dostanie treść dopiero w Kazaniu, dwa rozdziały dalej, gdzie stanie pięć razy. Czasownik przy niej należał dotąd do narratora: πληρόω wypełniał Pismo w czterech formułach rozdziałów pierwszego i drugiego i nic poza Pismem. Tutaj przechodzi do ust Jezusa i dostaje inne dopełnienie — nie to, co powiedziane, lecz to, co się należy. Mateusz nigdzie tych dwóch użyć nie zestawia; zestawia je przez to, że użył jednego słowa.\n\nPorządek scen waży przy tym więcej niż ich treść. Jezus najpierw robi coś, czego nie wyjaśnia, i dopiero wtedy niebiosa mówią, kim jest. Gdyby kolejność była odwrotna, chrzest byłby wnioskiem z deklaracji; jest odwrotnie, więc deklaracja jest odpowiedzią na postępowanie. Ta sama kolejność powtórzy się na końcu: wyrok, krzyż i dopiero potem zdanie o Synu Boga, wypowiedziane przez oficera, który o nim nic nie wiedział (27,54). Oba razy Mateusz pisze οὗτος (ten) — zaimek, który trzeba na kogoś wskazać, żeby cokolwiek znaczył.\n\nSamo zdanie z nieba jest najkrótsze z możliwych i złożone z trzech cudzych: król z drugiego psalmu, sługa z czterdziestego drugiego rozdziału Izajasza, syn jedyny z dwudziestego drugiego Księgi Rodzaju. Żadnego Mateusz nie cytuje i żadnego nie oznacza formułą; bierze z nich te słowa, które powtarzają się w więcej niż jednym miejscu, i zostawia je bez przypisu. Dziewięć rozdziałów dalej przytoczy Izajasza najdłuższym cytatem swojej księgi, a w przytoczeniu staną trzy wyrażenia z w. 16 i 17: umiłowany, upodobanie i Duch położony na niego (12,18). Kto czyta po kolei, dowiaduje się więc, co znaczył głos nad Jordanem, dopiero wtedy, gdy Jezus zacznie zakazywać mówienia o sobie. Objawienie zostało wypowiedziane w jednym zdaniu i wyjaśnione dziewięć rozdziałów później, a między jednym a drugim leży wszystko, co w tej Ewangelii najtrudniejsze: pustynia, Kazanie i pytanie, które Chrzciciel przyśle z więzienia.",
+     "children": []
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "body": "*Tekst grecki wedle wydania krytycznego Nestle-Aland, pobrany z `db.sqlite` (księga 470) wraz z Wulgatą klementyńską i aparatem; znaki aparatu usunięte z zapisu perykopy, nawiasy wydawnicze przy αὐτῷ, τὸ, τοῦ i καί w w. 16 zachowane. Przekład polski jest roboczy, własny i celowo dosłowny — nie pochodzi z żadnego wydania objętego prawem autorskim; przekład międzywierszowy z `db.sqlite` posłużył wyłącznie jako materiał kontrolny. βαπτίζω oddano przez „zanurzać\", żeby utrzymać ciągłość z perykopą piątą i słyszalność opozycji ἐν ὕδατι / ἐν πνεύματι z 3,11; πρέπον ἐστίν przez „przystoi\", za Wulgatą (decet), bo od tego słowa zależy cała sekcja trzecia; περιστερά przez „gołębica\", bo rzeczownik grecki jest rodzaju żeńskiego. Transkrypcje hebrajskie uproszczone. Dane liczbowe o częstotliwości słów policzono na tekście z `db.sqlite` po numerach Stronga — stąd liczby dla πληρόω (16), δικαιοσύνη (7), ἀγαπητός i εὐδοκέω (po 3), βαπτίζω (7), Γαλιλαία (16), ἀνοίγω (11) i ἰδού (61).*\n\n*Noty tekstualne opierają się na dziesięciu wpisach aparatu dla Mt 3,13–17 w tabeli `commentaries`; świadków podano wedle tych wpisów i nie uzupełniano z innych wydań. Lekcja ἐγὼ σήμερον γεγέννηκά σε z Łk 3,22 i wariant Łk 3,22 jako całość nie należą do tego aparatu i podano je z pamięci — wymagają sprawdzenia w aparacie do Łukasza.*\n\n*Loci patrystyczne — numer homilii Chryzostoma, miejsce u Hieronima, księgi Orygenesa i Augustyna — podano wedle standardowej numeracji i przed publikacją wymagają sprawdzenia przy źródłach (Źródła Myśli Teologicznej, PSP, Migne). To samo dotyczy loci Tomasza (ST III, q. 39; ST I, q. 43, a. 7; ST II–II, q. 58, a. 5–7; ST III, q. 7 i q. 48, a. 2; q. 66, a. 2), Augustyna De Trinitate, Hilarego In Mt. 2, Ireneusza (Adv. haer. I,26,1; III,11,1), Justyna (Dial. 88; 103), Epifaniusza (Panarion 30,13), sigliów qumrańskich (4Q174; 4Q246), loci rabinicznych (Tosefta Sota 13,2; Chagiga 15a; Bawa Mecija 59b), sigliów Testamentów Dwunastu Patriarchów, danych topograficznych doliny Jordanu, a przede wszystkim sigliów Lekcjonarza rzymskiego, miejsca antyfony Tribus miraculis, brzmienia troparionu Teofanii i rubryk Wielkiego Poświęcenia Wody. Przy pracy publikacyjnej warto zestawić analizę z komentarzami: U. Luz, W. D. Davies – D. C. Allison (ICC), R. T. France (NICNT), a po polsku A. Paciorek (NKB NT I).*",
+     "children": []
+    }
+   ],
+   "refs": [
+    [
+     [
+      "unit",
+      "w. 13",
+      3
+     ],
+     "Joz",
+     3,
+     14,
+     3,
+     17,
+     "Joz 3,14–17",
+     "typologia",
+     "Przez rozstąpiony Jordan Izrael wszedł do ziemi pod wodzą noszącą imię Jehoszua, które protagonista tej Ewangelii nosi z nakazu zwiastuna (1,21). Mateusz związku nie sygnalizuje; robią go rzeka i imię. Różnica jest istotna: tam wody się rozstąpiły, tutaj z wodą nie dzieje się nic."
+    ],
+    [
+     [
+      "unit",
+      "w. 13",
+      3
+     ],
+     "2 Krl",
+     2,
+     8,
+     2,
+     14,
+     "2 Krl 2,8–14",
+     "paralela",
+     "Nad Jordanem Eliasz uderza wodę, przechodzi i zostaje wzięty, a duch spada w podwójnej mierze na tego, kto został. Jana Mateusz ubrał w strój Eliasza jedenaście wierszy wcześniej (3,4). Zbieżność jest częściowa: Elizeusz prosi, Jezus nie, a Jan nie zostaje wzięty, lecz uwięziony (4,12)."
+    ],
+    [
+     [
+      "unit",
+      "w. 13",
+      2
+     ],
+     "Iz",
+     8,
+     23,
+     9,
+     1,
+     "Iz 8,23–9,1",
+     "tlo",
+     "Werset, który Mateusz przytoczy cztery wiersze dalej jako formułę wypełnienia i który nazywa tę krainę Galileą narodów (4,15). Przychodzący „z Galilei\" przychodzi więc z terenu, o którym własny cytat tej księgi mówi, że siedzi w ciemności."
+    ],
+    [
+     [
+      "unit",
+      "w. 14–15",
+      5
+     ],
+     "Mt",
+     16,
+     21,
+     16,
+     21,
+     "Mt 16,21",
+     "kontrast",
+     "Miejsce, w którym Mateusz na konieczność ma δεῖ (trzeba) i używa go o męce. W 3,15 napisał πρέπον ἐστίν (przystoi), czyli słowo słabsze, i ta różnica jest całą podstawą scholastycznego ujęcia chrztu Chrystusa."
+    ],
+    [
+     [
+      "unit",
+      "w. 14–15",
+      6
+     ],
+     "Mt",
+     5,
+     17,
+     5,
+     17,
+     "Mt 5,17",
+     "rozwiniecie",
+     "Następne użycie czasownika πληρόω w ustach Jezusa, tym razem o Prawie i Prorokach. Wiersz 3,15 stoi między czterema formułami wypełnienia rozdziałów pierwszego i drugiego a tym zdaniem i należy do jednego i drugiego."
+    ],
+    [
+     [
+      "unit",
+      "w. 14–15",
+      6
+     ],
+     "Mt",
+     21,
+     32,
+     21,
+     32,
+     "Mt 21,32",
+     "rozwiniecie",
+     "Ostatnie wystąpienie δικαιοσύνη u Mateusza: Jan „przyszedł drogą sprawiedliwości\". Przy takim użyciu wejście w obrzęd Jana samo jest czynem tej sprawiedliwości, a zdanie z 3,15 nie jest zagadką, lecz zakwalifikowaniem czynu."
+    ],
+    [
+     [
+      "unit",
+      "w. 14–15",
+      5
+     ],
+     "Mt",
+     6,
+     9,
+     6,
+     13,
+     "Mt 6,9–13",
+     "por",
+     "Najbliższa Mateuszowa liczba mnoga pierwszej osoby w mowie Jezusa — i nie taka sama: Modlitwę Pańską daje innym do mówienia, nie mówi jej z nimi. ἡμῖν z 3,15 wpisuje jego i Jana do jednego czynu."
+    ],
+    [
+     [
+      "unit",
+      "w. 16",
+      3
+     ],
+     "Ez",
+     1,
+     1,
+     1,
+     1,
+     "Ez 1,1",
+     "paralela",
+     "Formuła powołania prorockiego, ścisła co do słów i odwrotna co do kierunku: tam niebo otwiera się dla widzącego, tutaj nad tym, kogo za chwilę nazwie głos. Przyjęcie nawiasowego αὐτῷ zbliżałoby scenę do tego gatunku."
+    ],
+    [
+     [
+      "unit",
+      "w. 16",
+      3
+     ],
+     "Iz",
+     63,
+     19,
+     63,
+     19,
+     "Iz 63,19",
+     "aluzja",
+     "Żądanie, by Bóg rozdarł niebiosa i zstąpił. Marek bierze rozdarcie i pisze σχιζομένους, Mateusz bierze otwarcie, bliższe Septuagincie, a czasownik rozdzierania zachowuje dla zasłony przybytku w chwili śmierci (27,51)."
+    ],
+    [
+     [
+      "unit",
+      "w. 16",
+      4
+     ],
+     "Rdz",
+     1,
+     2,
+     1,
+     2,
+     "Rdz 1,2",
+     "tlo",
+     "Duch Boży unoszący się nad wodami. Mateuszowe πνεῦμα θεοῦ jest dokładnym odpowiednikiem רוּחַ אֱלֹהִים i odróżnia się od τὸ πνεῦμα Marka oraz od τὸ πνεῦμα τὸ ἅγιον Łukasza; tło pierwszej karty Pisma siedzi w samym doborze słowa."
+    ],
+    [
+     [
+      "unit",
+      "w. 16",
+      5
+     ],
+     "Rdz",
+     8,
+     8,
+     8,
+     12,
+     "Rdz 8,8–12",
+     "typologia",
+     "Gołębica Noego wraca nad opadającą wodę sądu ze znakiem, że sąd się skończył. Typologia jest patrystyczna, nie Mateuszowa — ewangelista nie daje znaku, że o Noem myślał — ale łączy ptaka, wodę i koniec sądu, a cała mowa z 3,7–12 była o sądzie nadchodzącym."
+    ],
+    [
+     [
+      "unit",
+      "w. 16",
+      5
+     ],
+     "Iz",
+     42,
+     1,
+     42,
+     1,
+     "Iz 42,1",
+     "aluzja",
+     "θήσω τὸ πνεῦμά μου ἐπʼ αὐτόν (położę Ducha mojego na niego) w Mateuszowym brzmieniu przytoczenia z 12,18 — ten sam przyimek i ten sam zaimek, co przy przyjściu Ducha w 3,16. To jest pomazanie, którego ta Ewangelia nie nazywa słowem."
+    ],
+    [
+     [
+      "unit",
+      "w. 16",
+      5
+     ],
+     "Iz",
+     11,
+     2,
+     11,
+     2,
+     "Iz 11,2",
+     "aluzja",
+     "Duch spoczywający na różdżce z korzenia Jessego: wyposażenie postaci królewskiej, nie przemiana osoby. Ten sam obraz stoi w pierwszym czytaniu święta Chrztu Pańskiego w roku B rytu rzymskiego oraz w drugiej niedzieli Adwentu roku A, razem z Mt 3,1–12."
+    ],
+    [
+     [
+      "unit",
+      "w. 17",
+      4
+     ],
+     "Ps",
+     149,
+     4,
+     149,
+     4,
+     "Ps 149,4",
+     "por",
+     "Septuagintalna składnia εὐδοκέω z przyimkiem ἐν, której grecki Nowy Testament nie wymyślił. Przy ἐν ᾧ εὐδόκησα rozstrzyga ona, że wyrażenie jest kalką, nie konstrukcją autorską."
+    ],
+    [
+     [
+      "unit",
+      "w. 17",
+      1
+     ],
+     "Mt",
+     27,
+     54,
+     27,
+     54,
+     "Mt 27,54",
+     "paralela",
+     "ἀληθῶς θεοῦ υἱὸς ἦν οὗτος (prawdziwie Syn Boga był ten) — wyznanie dowódcy straży zbudowane na tym samym zaimku wskazującym, którym Ojciec wskazał Syna nad wodą. Oba razy wskazuje ktoś spoza grona uczniów."
+    ],
+    [
+     [
+      "unit",
+      "w. 17",
+      2
+     ],
+     "Ps",
+     2,
+     7,
+     2,
+     7,
+     "Ps 2,7",
+     "aluzja",
+     "Formuła intronizacji: υἱός μου εἶ σύ (Syn mój jesteś ty). Mateusz bierze tytuł i nie bierze drugiej osoby, a drugą osobę ma właśnie lekcja zachodnia w. 17 — lekcja łatwiejsza w dwóch kierunkach naraz, bo zgadza się i z paralelami, i z psalmem."
+    ],
+    [
+     [
+      "unit",
+      "w. 17",
+      2
+     ],
+     "2 Sm",
+     7,
+     14,
+     7,
+     14,
+     "2 Sm 7,14",
+     "tlo",
+     "Obietnica dla potomstwa Dawida: ja będę mu ojcem, a on mi synem. Tekst źródłowy dla Ps 2,7 i czytany mesjańsko w tym stuleciu (4Q174), więc głos nie wprowadza kategorii nowej, lecz przypisuje znaną jednej osobie."
+    ],
+    [
+     [
+      "unit",
+      "w. 17",
+      2
+     ],
+     "Oz",
+     11,
+     1,
+     11,
+     1,
+     "Oz 11,1",
+     "tlo",
+     "„Syn mój\" padło w tej księdze już raz, w formule wypełnienia o powrocie dziecka z Egiptu (2,15), gdzie synem u proroka jest Izrael. Tytuł zostaje najpierw przeprowadzony przez lud, a dopiero potem wypowiedziany przez Ojca bez pośrednictwa."
+    ],
+    [
+     [
+      "unit",
+      "w. 17",
+      3
+     ],
+     "Rdz",
+     22,
+     2,
+     22,
+     16,
+     "Rdz 22,2.12.16",
+     "aluzja",
+     "Trzy razy Izaak jest nazwany synem jedynym, a Septuaginta oddaje יָחִיד (jachid, jedyny) przez ἀγαπητός. Grecki przymiotnik niesie więc i jedyność, i prowadzenie syna na górę; księga, która Abrahama postawiła w pierwszym wierszu rodowodu, stawia to słowo tutaj."
+    ],
+    [
+     [
+      "unit",
+      "w. 17",
+      4
+     ],
+     "Iz",
+     42,
+     1,
+     42,
+     1,
+     "Iz 42,1",
+     "aluzja",
+     "Hebrajski ma רָצְתָה נַפְשִׁי (racta nafszi), Septuaginta προσεδέξατο αὐτὸν ἡ ψυχή μου. Mateuszowe εὐδόκησα nie idzie za Septuagintą ani tutaj, ani w jego własnym przytoczeniu wersetu w 12,18 — i oba miejsca odbiegają od niej w ten sam sposób."
+    ],
+    [
+     [
+      "unit",
+      "w. 17",
+      5
+     ],
+     "Mt",
+     17,
+     5,
+     17,
+     5,
+     "Mt 17,5",
+     "paralela",
+     "Zdanie wraca słowo w słowo, z głosem wychodzącym z obłoku i z trzema słowami dołożonymi: ἀκούετε αὐτοῦ (słuchajcie go). Ojciec przemawia u Mateusza dwa razy; pierwszy raz identyfikuje, drugi nakazuje."
+    ],
+    [
+     [
+      "unit",
+      "w. 17",
+      5
+     ],
+     "2 P",
+     1,
+     17,
+     1,
+     18,
+     "2 P 1,17–18",
+     "por",
+     "Jedyne przytoczenie tych słów poza Ewangeliami. Odnosi się do przemienienia, nie do chrztu, i podane jest jako świadectwo naoczne. Scena nad Jordanem nie zostaje w listach nowotestamentowych przywołana z głosem ani razu."
+    ],
+    [
+     [
+      "unit",
+      "w. 17",
+      5
+     ],
+     "Mt",
+     12,
+     18,
+     12,
+     21,
+     "Mt 12,18–21",
+     "rozwiniecie",
+     "Najdłuższy cytat tej Ewangelii, Iz 42,1–4, przytoczony po to, by wyjaśnić, dlaczego Jezus zakazuje mówić o sobie. W przytoczeniu stoją trzy wyrażenia z 3,16–17 — ὁ ἀγαπητός μου, εὐδόκησεν i θήσω τὸ πνεῦμά μου ἐπʼ αὐτόν — i to jest Mateuszowa wykładnia głosu nad Jordanem."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Dz",
+     13,
+     33,
+     13,
+     33,
+     "Dz 13,33",
+     "por",
+     "Ps 2,7 odniesiony do zmartwychwstania. Wraz z Hbr 1,5 i 5,5 pokazuje, że Nowy Testament nie czyta tego psalmu jako tekstu chrzcielnego, a jedyne miejsca, w których staje się chrzcielny, to warianty rękopiśmienne u Łukasza."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Hbr",
+     1,
+     5,
+     1,
+     5,
+     "Hbr 1,5",
+     "por",
+     "Drugie nowotestamentowe odniesienie Ps 2,7, tu do wywyższenia Syna nad aniołów; w 5,5 ten sam werset służy do wywodu o kapłaństwie."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Iz",
+     61,
+     1,
+     61,
+     1,
+     "Iz 61,1",
+     "aluzja",
+     "Duch na pomazanym, by głosił ubogim — jedyny tekst o pomazaniu Duchem, którego Mateusz nie cytuje nigdy, choć Izajasza cytuje więcej niż ktokolwiek w Nowym Testamencie. Łukasz każe go Jezusowi przeczytać na głos (Łk 4,18); Mateusz opowiada jego treść jako zdarzenie i zostawia bez wersetu."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Mt",
+     4,
+     1,
+     4,
+     11,
+     "Mt 4,1–11",
+     "rozwiniecie",
+     "Scena następna jest zrobiona z tej: otwiera ją τότε, wyprowadza Duch, który przed chwilą zstąpił, a kusiciel przytacza zdanie Ojca w trybie warunkowym (4,3.6). Próba nie dotyczy tego, czy Jezus jest Synem, lecz co Syn ma prawo zrobić."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Mt",
+     27,
+     40,
+     27,
+     43,
+     "Mt 27,40.43",
+     "kontrast",
+     "Ten sam warunek co w 4,3.6, wypowiedziany spod krzyża dwa razy. Pięć przytoczeń zdania z 3,17 w całej księdze, z czego cztery wrogie; objawienie nie jest u Mateusza samo dla siebie dowodem."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Mt",
+     28,
+     16,
+     28,
+     20,
+     "Mt 28,16–20",
+     "rozwiniecie",
+     "Trzy imiona formuły chrzcielnej są trzema członkami sceny nad Jordanem i stoją w tej samej kolejności. βαπτίζω ma u Mateusza siedem wystąpień, sześć w rozdziale trzecim i to jedno, więc całe życie tego słowa w księdze zamyka się między rzeką i górą; druga klamra jest geograficzna, bo w 3,13 przychodzi z Galilei, a w 28,16 uczniowie idą do Galilei."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Mk",
+     1,
+     9,
+     1,
+     11,
+     "Mk 1,9–11",
+     "paralela",
+     "Wersja najkrótsza i bez komentarza: rozdzierane niebiosa, zwrot bezpośredni σὺ εἶ, bez rozmowy. Pięć poprawek Mateusza wobec tego tekstu wylicza sekcja o autorze ludzkim."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Łk",
+     3,
+     21,
+     3,
+     22,
+     "Łk 3,21–22",
+     "paralela",
+     "Łukasz usuwa Chrzciciela ze sceny dwa razy: wcześniej donosi o jego uwięzieniu (3,19–20), a sam chrzest degraduje do genetivu absolutu w zdaniu o modlitwie. Postać Ducha dopowiada przy tym tam, gdzie Mateusz zostawia ὡσεί — σωματικῷ εἴδει (w postaci cielesnej)."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "J",
+     1,
+     29,
+     1,
+     34,
+     "J 1,29–34",
+     "paralela",
+     "Czwarta Ewangelia chrztu nie opowiada wcale i zachowuje samo świadectwo Jana o zstąpieniu Ducha, które tam widzi i o którym mówi Jan, nie Jezus. Każda następna wersja zmniejsza udział Chrzciciela w scenie."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Dz",
+     10,
+     37,
+     10,
+     38,
+     "Dz 10,37–38",
+     "tlo",
+     "Najstarsza znana wykładnia perykopy: począwszy od chrztu, który głosił Jan, Bóg pomazał Jezusa Duchem Świętym i mocą. Streszczenie czyta scenę jako pomazanie, nie wspomina głosu i datuje od niej początek działalności — tak samo, jak Mateusz umieszcza ją przed formułą ἀπὸ τότε z 4,17."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Dz",
+     19,
+     1,
+     19,
+     7,
+     "Dz 19,1–7",
+     "por",
+     "Ochrzczeni chrztem Jana i nieznający Ducha Świętego zostają ochrzczeni ponownie. Miejsce, na którym stoi całe rozróżnienie obu obrzędów, wyłożone przy perykopie piątej; tutaj służy do odwrotnego wniosku, bo Jezus Ducha nie otrzymuje przez obrzęd Jana, lecz po nim i bez niego."
+    ],
+    [
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Pwt",
+     6,
+     13,
+     8,
+     3,
+     "Pwt 6,13; 8,3",
+     "tlo",
+     "Trzy odpowiedzi w scenie następnej padają z Księgi Powtórzonego Prawa, czyli z księgi czterdziestu lat na pustyni. Mateusz prowadzi Jezusa tą samą drogą co lud: zejście do Egiptu, wyjście, przejście przez wodę, czterdzieści dni próby."
+    ],
+    [
+     [
+      "section",
+      "Córka głosu"
+     ],
+     "Ml",
+     3,
+     23,
+     3,
+     24,
+     "Ml 3,23–24",
+     "tlo",
+     "Ostatnie słowa ostatniego z proroków, których śmierć tradycja rabiniczna wiąże z odejściem Ducha i z początkiem posługiwania się bat kol. Zapowiedź Eliasza z tego miejsca Mateusz odnosi do Jana (11,14; 17,12)."
+    ],
+    [
+     [
+      "section",
+      "Gołębica w źródłach"
+     ],
+     "Kpł",
+     5,
+     7,
+     5,
+     7,
+     "Kpł 5,7",
+     "tlo",
+     "Gołębica jako ofiara ubogiego, dopuszczona tam, gdzie na owcę nie stać (podobnie Kpł 12,8 przy oczyszczeniu po połogu). Ten sam ptak sprzedawano na dziedzińcu Świątyni, i tam stoi trzecie oraz ostatnie περιστερά Mateusza (21,12)."
+    ],
+    [
+     [
+      "section",
+      "Otwarte niebo jako formuła"
+     ],
+     "Iz",
+     64,
+     1,
+     64,
+     1,
+     "Iz 64,1",
+     "por",
+     "Numeracja tego samego żądania w wydaniach, które dzielą rozdział inaczej niż Septuaginta; w tekście hebrajskim stoi ono na końcu rozdziału sześćdziesiątego trzeciego."
+    ],
+    [
+     [
+      "section",
+      "Cała sprawiedliwość i liczba mnoga, w jakiej stoi"
+     ],
+     "Mt",
+     5,
+     20,
+     5,
+     20,
+     "Mt 5,20",
+     "rozwiniecie",
+     "Żądanie, by sprawiedliwość przewyższyła sprawiedliwość uczonych w Piśmie i faryzeuszów. Nic szczegółowego nie da się przewyższyć w taki sposób, więc δικαιοσύνη jest tu całością tego, czego Bóg żąda — iustitia generalis, nie jedna cnota kardynalna."
+    ],
+    [
+     [
+      "section",
+      "Jordan w sporze o osobę Chrystusa"
+     ],
+     "Mt",
+     3,
+     17,
+     3,
+     17,
+     "Mt 3,17",
+     "por",
+     "Mateuszowe οὗτός ἐστιν jest dla odczytania adopcjanistycznego brzmieniem najmniej wygodnym, bo oznajmienie o osobie zakłada osobę; wariant „ty jesteś\" i wariant Łukaszowy o zrodzeniu dzisiaj idą w stronę przeciwną."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mk",
+     1,
+     9,
+     1,
+     11,
+     "Mk 1,9–11",
+     "paralela",
+     "Źródło perykopy: trzy wiersze bez rozmowy, z rozdzieranymi niebiosami i ze zwrotem bezpośrednim σὺ εἶ. Mateusz dokłada dwa wiersze i wprowadza pięć poprawek, z których każda coś znaczy."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Iz",
+     42,
+     1,
+     42,
+     4,
+     "Iz 42,1–4",
+     "aluzja",
+     "Pierwsza pieśń o Słudze. Trzy wyrażenia głosu i zstąpienia Ducha — ἀγαπητός, εὐδοκέω, πνεῦμα ἐπʼ αὐτόν — wracają w Mateuszowym przytoczeniu tego miejsca (12,18) w brzmieniu, którego grecki Izajasz nie ma; to jest wykładnia własna ewangelisty."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Ps",
+     2,
+     7,
+     2,
+     7,
+     "Ps 2,7",
+     "aluzja",
+     "Formuła intronizacji królewskiej, z której pochodzi tytuł „Syn mój\". Mateusz nie bierze z psalmu drugiej osoby; bierze ją dopiero tekst zachodni w. 17, i to przeciw niemu świadczy."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mt",
+     4,
+     17,
+     4,
+     17,
+     "Mt 4,17",
+     "tlo",
+     "Formuła ἀπὸ τότε ἤρξατο ὁ Ἰησοῦς κηρύσσειν (od tego czasu zaczął Jezus głosić) stoi cztery wiersze po tej perykopie i jest szwem części księgi. Chrzest zamyka przygotowanie, a słowo δικαιοσύνη z 3,15 otwiera to, co Kazanie wyłoży."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Mt",
+     28,
+     19,
+     28,
+     19,
+     "Mt 28,19",
+     "rozwiniecie",
+     "Trzy imiona formuły chrzcielnej odpowiadają trzem członkom tej sceny i stoją w tej samej kolejności; βαπτίζω poza rozdziałem trzecim pada u Mateusza tylko tutaj."
+    ],
+    [
+     [
+      "section",
+      "Oz 11,1 i Wj 4,22 → w. 17"
+     ],
+     "Wj",
+     4,
+     22,
+     4,
+     22,
+     "Wj 4,22",
+     "tlo",
+     "Izrael jako syn pierworodny Boga — starsze od Ozeasza sformułowanie tej samej relacji. Tytuł, który głos przypisuje jednej osobie, był w Piśmie przypisany ludowi."
+    ]
+   ],
+   "patristic": [
+    [
+     "w. 13",
+     "św. Jan Chryzostom",
+     "Homiliae in Matthaeum",
+     "Hom. in Mt. 12",
+     "Chryzostom pyta najpierw o rzecz oczywistą: po co chrzest, który jest ku odmianie myślenia, komuś, kto nie ma czego odmieniać. Odpowiada w dwóch krokach. Obrzęd Jana był dla innych przygotowaniem, a tutaj służył temu, żeby zanurzany został rozpoznany — bez tej sceny nikt by nie wiedział, kogo Jan zapowiadał, i sam Chrzciciel mówi w czwartej Ewangelii, że po to został posłany. Wyrażenie „wypełnić całą sprawiedliwość\" wykłada zaś jako wypełnienie przykazań: δικαιοσύνη jest dla niego całością tego, czego żąda Prawo, więc chrzest jest ostatnim z obrzędów prawnych, którym Chrystus się poddał, jak obrzezanie było pierwszym. Zauważa przy tym rzecz, której Mateusz nie podkreśla: odmowa Jana jest dowodem. Nikt nie wzbrania się przed kimś, kogo nie rozpoznał."
+    ],
+    [
+     "w. 14–15",
+     "św. Hieronim",
+     "Commentariorum in Matthaeum libri IV",
+     "In Mt. I (ad 3,15)",
+     "Hieronim podaje trzy przyczyny i jego wyliczenie stało się na Zachodzie standardem. Pierwsza: ponieważ narodził się człowiekiem, miał wypełnić całą sprawiedliwość i uniżenie Prawa. Druga: żeby własnym chrztem zatwierdzić chrzest Jana. Trzecia: żeby uświęcając wody Jordanu przez zstąpienie gołębicy, pokazać przyjście Ducha w chrzcie wierzących. Trzecia jest tą, która ma skutki, bo odwraca kierunek obrzędu — woda nie obmywa jego, on uświęca wodę. Hieronim tego nie dowodzi, lecz stwierdza; dowód przyjdzie od Tomasza, cztery stulecia później i z tego samego zdania. Charakterystyczny jest też porządek wyliczenia: dwie przyczyny dotyczą Prawa i poprzednika, trzecia dotyczy wszystkich, którzy po nim do wody wejdą, i właśnie ona weszła do liturgii poświęcenia wody."
+    ],
+    [
+     "w. 16",
+     "Orygenes",
+     "Contra Celsum",
+     "I,40–48",
+     "Celsus postawił sprawę jako kwestię dowodową: kto widział gołębicę i otwarte niebo, i jakiego świadka ma się poza tym, kto o tym opowiada. Orygenes nie udaje, że zarzut jest słaby. Odpowiada w trzech kierunkach. Że Ewangelie mówią o widzeniu danym temu, nad kim niebiosa się otworzyły — a brzmienie Mateusza z celownikiem tę odpowiedź popiera. Że niebo nie jest dachem i jego otwarcie orzeka się o umysłowym wzroku, nie o sklepieniu. I że cała sprawa nie stoi na tej scenie, lecz na wypełnieniu proroków, które każdy może sprawdzić sam. Ustępstwo jest tu równie pouczające jak obrona: już w trzecim wieku wiedziano, że najsłabszym punktem opowiadania o chrzcie jest liczba jego świadków, a wariant αὐτῷ w w. 16 jest tekstową postacią tej samej trudności."
+    ],
+    [
+     "w. 17",
+     "św. Augustyn",
+     "De consensu euangelistarum",
+     "ks. II",
+     "Augustyn bierze rozbieżność jako pytanie o słowa, nie o fakty: u Mateusza głos mówi „ten jest Syn mój umiłowany\", u Marka i Łukasza „ty jesteś Syn mój\". Jego zasada brzmi, że ewangeliści przekazują sens i mają swobodę w brzmieniu, więc pytać należy nie o to, jakie słowa wybrzmiały, lecz co zostało powiedziane — a powiedziane zostało to samo, bo zdanie skierowane do Syna o Synu mówi każdemu, kto je słyszy, dokładnie tyle, ile mówi trzecia osoba Mateusza. Zasada jest uczciwa i ma koszt, który aparat pokazuje. Kopiści chcieli, żeby słowa się zgadzały, i je uzgodnili: D wraz ze starołacińską i starosyryjską tradycją czyta w Mateuszu „ty jesteś\" i dopisuje „do niego\". Metoda Augustyna tekstu broni; metoda skrybów go zmieniła."
+    ]
+   ],
+   "textual": [
+    [
+     14,
+     "ὁ δὲ Ἰωάννης",
+     "pominięcie imienia",
+     "Imienia nie mają ℵ w pierwszej ręce, B oraz koptyjski sahidycki; zdanie brzmi wtedy ὁ δὲ διεκώλυεν (ten zaś powstrzymywał), z podmiotem przeniesionym z w. 13. Imię mają 𝔓96, ℵ w ręce poprawiającej, C, D w części uzupełnionej, L, W, 0233, 0250, rodziny f¹ i f¹³, 33, tekst większościowy, tradycja łacińska, syryjska, koptyjski środkowoegipski i bohairski.",
+     "Dwa najlepsze majuskuły stoją razem, co zwykle rozstrzyga, a wydanie krytyczne tym razem za nimi nie poszło i drukuje imię bez nawiasu. Argument wewnętrzny jest po stronie krótszej lekcji: grecki bez trudu przenosi podmiot z poprzedniego zdania, a imię wygląda na objaśnienie dopisane tam, gdzie nowy mówiący zaczyna zdanie od ὁ δέ. Sensu to nie zmienia w żadną stronę, więc nota dotyczy metody, nie treści: jest to miejsce, w którym szerokość poświadczenia przeważyła nad wagą dwóch kodeksów."
+    ],
+    [
+     15,
+     "εἶπεν πρὸς αὐτόν",
+     "postać dopełnienia",
+     "πρὸς αὐτόν mają 𝔓64, ℵ, C, D w części uzupełnionej, L, W, 0233, f¹, 33 i tekst większościowy. αὐτῷ mają 𝔓96, B, f¹³, lekcjonarze 844 i 2211 oraz nieliczne inne. Dopełnienia nie ma wcale w 0250 i w pojedynczych rękopisach sahidyckich i bohairskich.",
+     "εἶπεν πρός z biernikiem jest konstrukcją Łukaszową, a nie Mateuszową — Mateusz pisze zwykle εἶπεν z celownikiem — więc lekcja drukowana jest dla tego autora mniej charakterystyczna, czyli trudniejsza, a αὐτῷ jest tym, co napisałby kopista przywykły do jego składni. Rozstrzygające jest tu nie poświadczenie, lecz ta nieregularność. Dwa papirusy stoją po przeciwnych stronach, co przy tej perykopie warto zapamiętać: wiek świadka sam nie decyduje."
+    ],
+    [
+     15,
+     "τότε ἀφίησιν αὐτόν",
+     "dodatek objaśniający",
+     "Syryjski sinajski dopisuje po αὐτόν bezokolicznik βαπτισθῆναι (zostać zanurzonym), a syryjski kuretoński ma dodatek w postaci odmiennej.",
+     "Dopełnienie tego, co grecki zostawia do wywnioskowania: Mateusz nie mówi, na co Jan przystał, bo wynika to z w. 13. Takie uzupełnienia robią przekłady chętniej niż rękopisy greckie, bo tłumacz musi wybrać składnię, a przepisujący nie musi. Lekcja nie ma greckiego poświadczenia i do historii tekstu należy jako świadectwo wykładni, nie jako wariant."
+    ],
+    [
+     15,
+     "po τότε ἀφίησιν αὐτόν",
+     "dodatek apokryficzny",
+     "Starołaciński kodeks z Vercelli (a), a w postaci odmiennej także g¹, dopisują po tym zdaniu: et cum baptizaretur lumen ingens circumfulsit de aqua, ita ut timerent omnes qui advenerant (a gdy był chrzczony, ogromne światło oświetliło wszystko wokół, z wody, tak że zlękli się wszyscy, którzy przyszli). Żaden świadek grecki tego nie ma.",
+     "Dopisek nie jest wymysłem skryby. Motyw światła nad Jordanem jest drugowieczny i poświadczony niezależnie w trzech kanałach: Justyn mówi o ogniu zapalonym w rzece (Dial. 88), Epifaniusz przytacza fragment ewangelii ebionitów z wielkim światłem (Panarion 30,13), a tradycja starołacińska wsuwa je wprost do tekstu Mateusza. Jest to więc ślad opowiadania krążącego obok kanonicznego, a nie zabieg redakcyjny jednego rękopisu. Wschodnia nazwa święta — τὰ Φῶτα (Ta Fota, Światła) — ten motyw utrzymała. Loci wymagają sprawdzenia."
+    ],
+    [
+     16,
+     "ἠνεῴχθησαν [αὐτῷ]",
+     "lekcja sporna, nawias wydawniczy",
+     "Celownika nie mają ℵ w pierwszej ręce, B, lekcjonarz 2211, część rękopisów Wulgaty, syryjski sinajski i kuretoński, sahidycki, Ireneusz w przekładzie łacińskim i Cyryl Jerozolimski. Mają go ℵ w ręce poprawiającej, C, D w części uzupełnionej, L, W, 0233, f¹ i f¹³, 33, tekst większościowy, tradycja łacińska, peszitta i harkleńska, środkowoegipski i bohairski oraz Ireneusz w tekście greckim.",
+     "Wydawcy stawiają nawias i jest to postępowanie uczciwe, bo poświadczenie dzieli się wzdłuż zwykłych linii, a argument wewnętrzny biegnie w obie strony. Z celownikiem niebo otwiera się dla niego samego i scena jest widzeniem prywatnym, bliskim gatunkowi Ez 1,1; bez celownika zdanie jest otwarte i trzecia osoba następnego wiersza nie sprawia kłopotu. Marek celownika nie ma, Łukasz też nie — kopista harmonizujący do Marka usunąłby go, kopista objaśniający, kto widział, dopisałby. Jest to dokładnie ten punkt, w którym główne pytanie interpretacyjne perykopy staje się pytaniem tekstowym, i wydanie krytyczne od rozstrzygnięcia się uchyla."
+    ],
+    [
+     16,
+     "[τὸ] πνεῦμα [τοῦ] θεοῦ",
+     "rodzajniki",
+     "Obu rodzajników nie mają ℵ, B, bohairski i Ireneusz. Mają je C, D w części uzupełnionej, L, W, 0233, f¹ i f¹³ oraz tekst większościowy.",
+     "Aparat zaznacza oba miejsca jednym znakiem z adnotacją bis, więc stoją albo padają razem. Bez rodzajników wyrażenie brzmi πνεῦμα θεοῦ, czyli dokładnie tak, jak Septuaginta ma w Rdz 1,2 i jak Mateusz pisze w 12,28; forma z rodzajnikami jest normalizacją. Wydawcy drukują rodzajniki w nawiasie, zachowując zarazem lekcję, którą uważają za pierwotną, i tę, która ma szersze poparcie — rozwiązanie, które w przekładzie jest nieprzekładalne, bo polszczyzna rodzajnika nie ma."
+    ],
+    [
+     16,
+     "εὐθὺς ἀνέβη",
+     "szyk wyrazów i pominięcie",
+     "Szyk odwrócony, ἀνέβη εὐθύς, mają C, L, 0233 w postaci odmiennej, f¹³ i tekst większościowy, a popierają go łacińskie d i h oraz syryjska harkleńska. Samego przysłówka nie ma 1391 i nieliczne minuskuły oraz syryjski sinajski. Szyk drukowany mają ℵ, B, D w części uzupełnionej, W, f¹, 33, 700, lekcjonarze 844 i 2211, tradycja łacińska, peszitta i koptyjska.",
+     "εὐθύς jest słowem Marka i jego obecność w tym miejscu jest śladem źródła. Zarówno przestawienie, jak i pominięcie osłabiają wyrazistość tego śladu, a to jest kierunek, w którym pracuje kopista, nie autor. Za lekcją drukowaną stoją przy tym najstarsi świadkowie obu stron tradycji, aleksandryjskiej i zachodniej, co przy tak drobnym wariancie rozstrzyga."
+    ],
+    [
+     16,
+     "καταβαῖνον ὡσεὶ περιστεράν",
+     "rozszerzenie zachodnie",
+     "D oraz nieliczne inne, tradycja italska, część rękopisów Wulgaty i w postaci odmiennej harkleńska czytają καταβαίνοντα ἐκ τοῦ οὐρανοῦ ὡς (zstępującego z nieba jako).",
+     "Trzy zmiany w jednym wyrażeniu, i każda usuwa trudność. Imiesłów staje się męski, co likwiduje niezgodność rodzaju; dopisana fraza podaje, skąd Duch przyszedł, czego tekst nie mówi; a ὡσεί ustępuje częstszemu ὡς. Tekst zachodni robi tu to, co robi w całej tej perykopie — porządkuje. Łącznie z lekcjami w. 17 daje to spójną redakcję całej sceny, w której niejasności nie zostaje żadna, i właśnie ta spójność jest argumentem przeciw niej."
+    ],
+    [
+     17,
+     "οὗτός ἐστιν",
+     "harmonizacja do Marka i Łukasza",
+     "D, starołaciński a oraz syryjski sinajski i kuretoński, a także Ireneusz, czytają σὺ εἶ (ty jesteś). Aparat oznacza tę lekcję jako zgodność z miejscem paralelnym.",
+     "Poświadczenie jest nieliczne i wąskie geograficznie, a argument wewnętrzny rozstrzyga, bo σὺ εἶ jest zarazem brzmieniem paraleli synoptycznych i brzmieniem Ps 2,7 — dwa niezależne ciągnienia w tę samą stronę. Lekcja warta jest zapisania z innego powodu: usuwa jedyną cechę, którą Mateuszowa wersja głosu różni się od wszystkich pozostałych. Gdyby ją przyjąć, cała sekcja o autorze ludzkim traciłaby najmocniejszy argument, a scena przestałaby odpowiadać na pytanie z w. 14."
+    ],
+    [
+     17,
+     "λέγουσα",
+     "dodatek harmonizujący",
+     "D, starołacińskie a, b, g¹ i h oraz prawdopodobnie syryjski sinajski i kuretoński dopisują po λέγουσα wyrażenie πρὸς αὐτόν (do niego).",
+     "Ci sami świadkowie co w nocie poprzedniej, i obie lekcje pracują razem: z dopisanym „do niego\" i z podmienionym „ty jesteś\" Mateuszowe obwieszczenie staje się w całości Markową sceną prywatną. Osobno każda z nich jest drobną harmonizacją; razem są odczytaniem całej perykopy, i to odczytaniem nie Mateuszowym. Jest to dobry przykład na to, że warianty tekstu zachodniego w jednym wierszu trzeba oceniać łącznie, bo pojedynczo wyglądają na przypadek, a parami na zamysł."
+    ]
+   ],
+   "theme_links": [
+    [
+     "głos z niebios: Syn umiłowany",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "głos z niebios: Syn umiłowany",
+     [
+      "block",
+      "w. 17"
+     ]
+    ],
+    [
+     "głos z niebios: Syn umiłowany",
+     [
+      "unit",
+      "w. 17",
+      1
+     ]
+    ],
+    [
+     "głos z niebios: Syn umiłowany",
+     [
+      "unit",
+      "w. 17",
+      2
+     ]
+    ],
+    [
+     "głos z niebios: Syn umiłowany",
+     [
+      "unit",
+      "w. 17",
+      3
+     ]
+    ],
+    [
+     "głos z niebios: Syn umiłowany",
+     [
+      "unit",
+      "w. 17",
+      4
+     ]
+    ],
+    [
+     "głos z niebios: Syn umiłowany",
+     [
+      "section",
+      "Zdanie, które zostanie podane w wątpliwość"
+     ]
+    ],
+    [
+     "teofania nad Jordanem i formuła chrzcielna",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "teofania nad Jordanem i formuła chrzcielna",
+     [
+      "block",
+      "w. 16"
+     ]
+    ],
+    [
+     "teofania nad Jordanem i formuła chrzcielna",
+     [
+      "unit",
+      "w. 16",
+      3
+     ]
+    ],
+    [
+     "teofania nad Jordanem i formuła chrzcielna",
+     [
+      "section",
+      "Trójca w półtora wiersza"
+     ]
+    ],
+    [
+     "teofania nad Jordanem i formuła chrzcielna",
+     [
+      "section",
+      "Posłanie widzialne i gołębica, której nie przyjęto"
+     ]
+    ],
+    [
+     "teofania nad Jordanem i formuła chrzcielna",
+     [
+      "section",
+      "Jordan w sporze o osobę Chrystusa"
+     ]
+    ],
+    [
+     "teofania nad Jordanem i formuła chrzcielna",
+     [
+      "section",
+      "Liturgia"
+     ]
+    ],
+    [
+     "pomazanie, którego Mateusz nie nazywa",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "pomazanie, którego Mateusz nie nazywa",
+     [
+      "unit",
+      "w. 16",
+      4
+     ]
+    ],
+    [
+     "pomazanie, którego Mateusz nie nazywa",
+     [
+      "unit",
+      "w. 16",
+      5
+     ]
+    ],
+    [
+     "pomazanie, którego Mateusz nie nazywa",
+     [
+      "section",
+      "Duch, który niczego nie dodaje"
+     ]
+    ],
+    [
+     "sprawiedliwość wedle Mateusza",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "sprawiedliwość wedle Mateusza",
+     [
+      "block",
+      "w. 14–15"
+     ]
+    ],
+    [
+     "sprawiedliwość wedle Mateusza",
+     [
+      "unit",
+      "w. 14–15",
+      5
+     ]
+    ],
+    [
+     "sprawiedliwość wedle Mateusza",
+     [
+      "unit",
+      "w. 14–15",
+      6
+     ]
+    ],
+    [
+     "sprawiedliwość wedle Mateusza",
+     [
+      "section",
+      "Cała sprawiedliwość i liczba mnoga, w jakiej stoi"
+     ]
+    ],
+    [
+     "formuły wypełnienia",
+     [
+      "unit",
+      "w. 14–15",
+      6
+     ]
+    ],
+    [
+     "formuły wypełnienia",
+     [
+      "section",
+      "Zakończenie: intencja całości"
+     ]
+    ],
+    [
+     "chrzest wodą, Duchem i ogniem",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "chrzest wodą, Duchem i ogniem",
+     [
+      "block",
+      "w. 13"
+     ]
+    ],
+    [
+     "chrzest wodą, Duchem i ogniem",
+     [
+      "unit",
+      "w. 13",
+      4
+     ]
+    ],
+    [
+     "chrzest wodą, Duchem i ogniem",
+     [
+      "section",
+      "Obrzęd dla grzeszników i kto go przyjmuje"
+     ]
+    ],
+    [
+     "słowo Chrzciciela i słowo Jezusa",
+     [
+      "block",
+      "w. 14–15"
+     ]
+    ],
+    [
+     "słowo Chrzciciela i słowo Jezusa",
+     [
+      "unit",
+      "w. 14–15",
+      2
+     ]
+    ],
+    [
+     "słowo Chrzciciela i słowo Jezusa",
+     [
+      "section",
+      "Oznajmienie, nie obietnica"
+     ]
+    ],
+    [
+     "Jan Chrzciciel jako Eliasz",
+     [
+      "unit",
+      "w. 13",
+      3
+     ]
+    ],
+    [
+     "Syn Dawida i chrystologia królewska",
+     [
+      "unit",
+      "w. 17",
+      2
+     ]
+    ],
+    [
+     "dziewicze poczęcie i działanie Ducha",
+     [
+      "unit",
+      "w. 16",
+      4
+     ]
+    ],
+    [
+     "nowy Mojżesz i powtórzone wyjście",
+     [
+      "unit",
+      "w. 13",
+      3
+     ]
+    ],
+    [
+     "z nami Bóg: obecność od 1,23 do 28,20",
+     [
+      "section",
+      "Trójca w półtora wiersza"
+     ]
+    ],
+    [
+     "królestwo niebios jako omowa",
+     [
+      "unit",
+      "w. 17",
+      0
+     ]
+    ]
+   ],
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     "ST III, q. 39, a. 1–8",
+     [
+      "section",
+      "Przystojność, nie konieczność"
+     ],
+     "Kwestia De baptizatione Christi w całości: czy przystało, by Chrystus został ochrzczony, czy miał być ochrzczony chrztem Jana, w jakim czasie, dlaczego otworzyły się niebiosa, co znaczy gołębica i czy była zwierzęciem rzeczywistym. Najdokładniejszy wykład tej perykopy, jaki scholastyka zostawiła. Loci wymagają sprawdzenia.",
+     "Summa Theologiae"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "ST I, q. 43, a. 7",
+     [
+      "section",
+      "Posłanie widzialne i gołębica, której nie przyjęto"
+     ],
+     "O widzialnym posłaniu osób Boskich: znak widzialny nie zostaje przyjęty w jedność osoby, inaczej niż natura ludzka we Wcieleniu. Stąd ὡσεί z w. 16 niesie ciężar dogmatyczny. Loci wymagają sprawdzenia.",
+     "Summa Theologiae"
+    ],
+    [
+     "św. Augustyn",
+     "De Trinitate, ks. II",
+     [
+      "section",
+      "Posłanie widzialne i gołębica, której nie przyjęto"
+     ],
+     "Wywód przeciw wnioskowaniu z gołębicy i z ognia Pięćdziesiątnicy o naturze Ducha albo o tożsamości znaku ze znaczonym. Księgę podano bez rozdziału, bo numeracji nie podajemy z pamięci.",
+     "De Trinitate"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "ST III, q. 7, a. 9–12; q. 34, a. 1",
+     [
+      "section",
+      "Duch, który niczego nie dodaje"
+     ],
+     "O pełni łaski Chrystusa jako głowy (gratia capitis) i o łasce od pierwszej chwili zjednoczenia. Jeśli łaska jest pełna od początku, zstąpienie nad Jordanem jest objawieniem, nie udzieleniem. Loci wymagają sprawdzenia.",
+     "Summa Theologiae"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "ST II–II, q. 58, a. 5–7",
+     [
+      "section",
+      "Cała sprawiedliwość i liczba mnoga, w jakiej stoi"
+     ],
+     "Rozróżnienie iustitia particularis i iustitia legalis (generalis) za Arystotelesem. πᾶσαν δικαιοσύνην z 3,15 należy do drugiej. Loci wymagają sprawdzenia.",
+     "Summa Theologiae"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "ST III, q. 48, a. 2",
+     [
+      "section",
+      "Cała sprawiedliwość i liczba mnoga, w jakiej stoi"
+     ],
+     "Formuła caput et membra sunt quasi una persona mystica (głowa i członki są jakby jedną osobą mistyczną), użyta w traktacie o zadośćczynieniu. Objaśnia celownik ἡμῖν, ale go nie wyczerpuje, bo Jan do Kościoła nie należy. Loci wymagają sprawdzenia.",
+     "Summa Theologiae"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "ST III, q. 66, a. 2",
+     [
+      "section",
+      "Jordan w sporze o osobę Chrystusa"
+     ],
+     "Czy chrzest Chrystusa ustanowił sakrament: rozróżnienie chwili, w której woda otrzymała moc, od chwili, w której nałożono obowiązek. Loci wymagają sprawdzenia.",
+     "Summa Theologiae"
+    ],
+    [
+     "św. Ireneusz z Lyonu",
+     "Adv. haer. I,26,1; III,11,1",
+     [
+      "section",
+      "Jordan w sporze o osobę Chrystusa"
+     ],
+     "Nauka Cerynta i ebionitów o Chrystusie zstępującym nad Jordanem na człowieka Jezusa i opuszczającym go przed męką, wraz z odparciem opartym na jedności osoby. Loci wymagają sprawdzenia.",
+     "Adversus haereses"
+    ],
+    [
+     "św. Justyn Męczennik",
+     "Dial. 88; 103",
+     [
+      "section",
+      "Jordan w sporze o osobę Chrystusa"
+     ],
+     "Znajomość lekcji o zrodzeniu „dzisiaj\" w głosie nad Jordanem oraz wzmianka o ogniu zapalonym w Jordanie. Loci wymagają sprawdzenia.",
+     "Dialogus cum Tryphone"
+    ],
+    [
+     "św. Epifaniusz z Salaminy",
+     "Panarion 30,13",
+     [
+      "section",
+      "Najstarsze ślady zgorszenia"
+     ],
+     "Fragmenty ewangelii ebionitów z przepisaną sceną nad Jordanem, odmiennym brzmieniem głosu i wielkim światłem. Locus wymaga sprawdzenia.",
+     "Panarion"
+    ],
+    [
+     "św. Hilary z Poitiers",
+     "In Mt. 2",
+     [
+      "section",
+      "Jordan w sporze o osobę Chrystusa"
+     ],
+     "Odczytanie całej sceny jako porządku (ordo) chrztu chrześcijańskiego: otwarte niebo, pomazanie Duchem, głos przysposobienia — przy zachowaniu różnicy między synostwem z natury i z łaski. Locus wymaga sprawdzenia.",
+     "Commentarius in Matthaeum"
+    ],
+    [
+     "Qumran",
+     "4Q174",
+     [
+      "section",
+      "2 Sm 7,14 → w. 17"
+     ],
+     "Florilegium zestawia obietnicę z 2 Sm 7,14 z innymi tekstami i odnosi ją do postaci oczekiwanej; tytuł „Syn Boga\" był więc w tym środowisku dostępny. Sigla wymagają sprawdzenia.",
+     "Florilegium (4Q174)"
+    ],
+    [
+     "Tosefta",
+     "Sota 13,2",
+     [
+      "section",
+      "Córka głosu"
+     ],
+     "Przekaz o odejściu Ducha Świętego od Izraela po śmierci ostatnich proroków i o posługiwaniu się odtąd córką głosu. Locus wymaga sprawdzenia.",
+     "Tosefta"
+    ],
+    [
+     "Talmud babiloński",
+     "Chagiga 15a; Bawa Mecija 59b",
+     [
+      "section",
+      "Gołębica w źródłach"
+     ],
+     "Porównanie Ducha unoszącego się nad wodami z Rdz 1,2 do gołębicy nad pisklętami, a w drugim miejscu odmowa uznania głosu z nieba za rozstrzygający w kwestii Prawa. Loci wymagają sprawdzenia.",
+     "Talmud Bawli"
+    ],
+    [
+     "Testamenty Dwunastu Patriarchów",
+     "Test. Lewiego 18; Test. Judy 24",
+     [
+      "section",
+      "Otwarte niebo jako formuła"
+     ],
+     "Otwarcie nieba nad postacią mesjańską i duch rozumienia spoczywający na niej. Sigla wymagają sprawdzenia.",
+     "Testamenta XII Patriarcharum"
+    ]
+   ],
+   "revision_note": "2026-11-27: perykopa szósta bazy Mateusza (Mt 3,13–17). Sekcja I w czterech blokach i dwudziestu pięciu jednostkach analizy; oś na tym, że czasownik πληρόω przechodzi z ust narratora do ust Jezusa i zmienia dopełnienie z Pisma na sprawiedliwość, a głos z nieba mówi u Mateusza w trzeciej osobie, więc jest odpowiedzią na pytanie Chrzciciela z w. 14. Katena z czterech głosów (Chryzostom, Hieronim, Orygenes z Contra Celsum, Augustyn z De consensu). Dziesięć not tekstualnych wedle aparatu w db.sqlite; lekcje tekstu zachodniego w w. 16 i 17 ocenione łącznie. Nowe motywy: głos z niebios, teofania i formuła chrzcielna, pomazanie bez tytułu. Status w_opracowaniu — loci patrystyczne, rabiniczne i liturgiczne wymagają sprawdzenia przy źródłach."
+  }
+ ]
+}

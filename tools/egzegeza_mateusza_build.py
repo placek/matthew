@@ -30,7 +30,8 @@ DATA = ROOT / "data"
 DB = DATA / "egzegeza_mateusza.sqlite"
 SCHEMA = DATA / "schema.sql"
 PHASES = ["rodowod.json", "narodzenie.json", "magowie.json",
-          "egipt.json", "chrzciciel.json"]   # kolejne perykopy dopisuj na końcu — patrz README.md
+          "egipt.json", "chrzciciel.json",
+          "chrzest.json"]   # kolejne perykopy dopisuj na końcu — patrz README.md
 
 # Tytuł sekcji I jest strukturalnym szkieletem każdej perykopy (nie treścią).
 SECTION_I_TITLE = ("Tekst grecki (Nestle-Aland, wyd. 28) z przekładem "
