@@ -25,6 +25,7 @@ data/REVIEW_LOG.md            # dziennik recenzji naukowej, wiersz na plik
 db.sqlite                     # ŹRÓDŁO PRAWDY tekstu (greka, polski, Wulgata, aparat)
 tools/egzegeza_mateusza_build.py  # budowa bazy egzegezy z data/*.json
 tools/db_tekst_build.py       # budowa db.sqlite z modułów ../na (make tekst)
+tools/morphgnt_import.py      # morfologia MorphGNT na words.morphology
 tools/export_pericope.py      # baza -> Markdown (pojedyncza perykopa albo 'all')
 tools/export_typst.py         # baza -> Typst -> PDF
 tools/export_site.py          # baza -> site/ (statyczna wersja dla GitHub Pages)
@@ -33,6 +34,7 @@ Makefile                      # build, serve, export, site, typst, pdf, tekst, c
 README.md                     # dokumentacja techniczna i delimitacja 63 perykop
 SKILL.md                      # procedura dodania perykopy (skill „perykopa")
 NOWA_KSIEGA.md                # jak postawić takie repozytorium dla innej księgi
+ZRODLO_TEKSTU.md              # jak zbudować db.sqlite (skill „zrodlo-tekstu")
 humanizer.md                  # standard redakcyjny: usuwanie wzorców AI
 ```
 

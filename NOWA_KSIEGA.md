@@ -97,6 +97,7 @@ Cała maszyneria zakłada grekę. Dla księgi hebrajskiej przemyśl osobno:
 | `Makefile` | kopiuj, przepisz `SOURCES` i nazwy produktów |
 | `.github/workflows/pages.yml` | kopiuj bez zmian |
 | `CLAUDE.md`, `SKILL.md` | kopiuj i przepisz pod księgę — to nie są pliki dekoracyjne, agent z nich żyje |
+| `ZRODLO_TEKSTU.md`, `tools/db_tekst_build.py`, `tools/morphgnt_import.py` | kopiuj i przepisz stałe księgi — procedura źródła tekstu |
 | `humanizer.md` | kopiuj bez zmian |
 | `newathu.ttf`, `rgreek.ttf`, `rgreek.ttf.LICENSE`, `tools/rgreekl.py` | tylko dla księgi greckiej |
 | `data/*.json` | **nie kopiuj** — to treść Jana |
@@ -125,6 +126,76 @@ Cała maszyneria zakłada grekę. Dla księgi hebrajskiej przemyśl osobno:
    jednorazowym obrazem.
 8. **Recenzja przy źródłach.** Dziennik w `data/REVIEW_LOG.md`, wiersz na plik.
    Dopiero po niej status `ukonczona`.
+
+## Lekcje z przeniesienia na Mateusza (listopad 2026)
+
+Rzeczy, których poprzednia wersja tego dokumentu nie obejmowała, a każda
+kosztowała osobne potknięcie.
+
+**`make build` nie przejdzie na pustym `data/`.** Build woła
+`load("wprowadzenie.json")` bezwarunkowo, więc checkpoint „baza z zerami"
+wymaga szkieletu tego pliku: `intro` z kluczami `title`, `motto`, `lead`
+(może być pusty łańcuch) i `sections: []`. Dopiero wtedy `make build` daje
+bazę z zerami, a `site`, `typst` i `pdf` przechodzą na pustej treści.
+
+**`.gitignore` połknie `humanizer.md` w świeżym repozytorium.** Reguła `*.md`
+z białą listą obejmuje `README`, `CLAUDE`, `SKILL`, `NOWA_KSIEGA`
+i `data/REVIEW_LOG`, ale nie `humanizer.md` — w Janie plik przetrwał tylko
+dlatego, że był śledzony, zanim regułę wprowadzono. W nowym repozytorium
+trzeba go dopisać do białej listy wprost, razem z każdym nowym plikiem
+Markdown, który ma być śledzony (np. `ZRODLO_TEKSTU.md`). Sprawdź przed
+commitem: `git status --short --untracked-files=all | grep '\.md$'`.
+
+**Makrostruktura księgi żyje w trzech miejscach.** Podział na części
+(u Jana: Księga Znaków i Księga Męki) stoi w `browser/index.html` (funkcja
+`ksiega` w `rysujListe`) i w `tools/export_typst.py` (pętla po grupach
+w `main`). Jeśli granice części padają **w środku rozdziału** — jak u Mateusza
+formuła ἀπὸ τότε ἤρξατο ὁ Ἰησοῦς (od tego czasu zaczął Jezus) w 4,17 i 16,21 —
+to progiem musi być para rozdział-werset, a `api_pericopes` w `browser/app.py`
+trzeba dołożyć `p.verse_start`, bo samo `chapter_start` nie wystarczy.
+U Jana wystarczało, bo szew wypadał na granicy rozdziału.
+
+**Port serwera musi się różnić.** Jan stoi na 8007; nowa księga dostaje swój
+(Mateusz 8008), inaczej nie da się mieć obu przeglądarek otwartych naraz.
+
+**Nie podmieniaj treści `sed`-em z separatorem `#`.** Gdy wzorzec albo
+zamiennik sam zawiera `#`, `sed` potraktuje go jako separator i podmieni
+wcięcia w całym pliku — tak uszkodzony został skrypt budowy i trzeba go było
+odtworzyć z kopii. Do podmian w kodzie i treści używaj Pythona.
+
+**Polski cudzysłów wysadza parser Pythona także w skryptach pomocniczych.**
+Znak zamykający `„…"` to zwykłe ASCII `"`, więc kończy łańcuch w podwójnych
+cudzysłowach. W trakcie tego przeniesienia wysadził parser trzy razy — raz
+w skrypcie budowy źródła tekstu i dwa razy w skryptach podmieniających
+dokumentację. Treści z `„…"` pisz w potrójnych apostrofach.
+
+**Delimitację sprawdź programowo, zanim ją zapiszesz.** Podział na perykopy
+jest decyzją kompozycyjną, ale jego poprawność formalna jest mechaniczna:
+zakresy muszą być ciągłe, rozłączne i pokrywać całą księgę. Policz to, nie
+oglądaj:
+
+```python
+klucz = lambda c, v: c * 1000 + v
+mx = {ch: v for ch, v in baza.execute(
+    'SELECT chapter, max(verse) FROM words GROUP BY chapter')}
+prev = None
+for cs, vs, ce, ve in PERYKOPY:              # (rozdz_od, w_od, rozdz_do, w_do)
+    assert prev is None or klucz(cs, vs) == prev, ('luka albo zakładka', cs, vs)
+    assert klucz(cs, vs) <= klucz(ce, ve), ('zakres odwrotny', cs, vs)
+    assert ve <= mx[ce], ('werset poza rozdziałem', ce, ve)
+    prev = klucz(ce, ve + 1) if ve < mx[ce] else klucz(ce + 1, 1)
+```
+
+Przy Mateuszu wyszło 63 perykopy na 1068 wersetów (mediana 16 wersetów;
+u Jana 45 na 878). Zapisz podział w `README.md` **jako propozycję** i dopiero
+po zatwierdzeniu zacznij treść — dopóki `PHASES` jest pustą listą, zmiana
+podziału nie kosztuje nic.
+
+**Źródło tekstu ma teraz własną procedurę.** `db.sqlite` nie musi już być
+nieodtwarzalnym plikiem binarnym: `ZRODLO_TEKSTU.md` opisuje, który moduł
+zasila którą kolumnę, jak dowieść proweniencji, jak przedzielić Wulgatę na
+granice wersetów greckich i jak zaimportować morfologię MorphGNT. Przeczytaj
+go **przed** punktem 1 kolejności robót.
 
 ## Decyzje podejmowane raz dla całej księgi
 
