@@ -1,0 +1,2681 @@
+{
+ "books": [
+  [
+   "2 Krn",
+   "Druga Księga Kronik",
+   "ST",
+   14
+  ],
+  [
+   "Syr",
+   "Mądrość Syracha",
+   "ST",
+   26
+  ],
+  [
+   "1 P",
+   "Pierwszy List św. Piotra",
+   "NT",
+   67
+  ]
+ ],
+ "verses": {
+  "chapter": 5,
+  "items": [
+   [
+    1,
+    "Ἰδὼν δὲ τοὺς ὄχλους ἀνέβη εἰς τὸ ὄρος, καὶ καθίσαντος αὐτοῦ προσῆλθαν αὐτῷ οἱ μαθηταὶ αὐτοῦ·",
+    "Ujrzawszy zaś tłumy, wszedł na górę, a gdy usiadł, podeszli do niego uczniowie jego."
+   ],
+   [
+    2,
+    "καὶ ἀνοίξας τὸ στόμα αὐτοῦ ἐδίδασκεν αὐτοὺς λέγων·",
+    "I otworzywszy usta swoje, nauczał ich, mówiąc:"
+   ],
+   [
+    3,
+    "Μακάριοι οἱ πτωχοὶ τῷ πνεύματι, ὅτι αὐτῶν ἐστιν ἡ βασιλεία τῶν οὐρανῶν.",
+    "Szczęśliwi ubodzy duchem, bo ich jest królestwo niebios."
+   ],
+   [
+    4,
+    "μακάριοι οἱ πενθοῦντες, ὅτι αὐτοὶ παρακληθήσονται.",
+    "Szczęśliwi, którzy się smucą, bo oni zostaną pocieszeni."
+   ],
+   [
+    5,
+    "μακάριοι οἱ πραεῖς, ὅτι αὐτοὶ κληρονομήσουσιν τὴν γῆν.",
+    "Szczęśliwi łagodni, bo oni odziedziczą ziemię."
+   ],
+   [
+    6,
+    "μακάριοι οἱ πεινῶντες καὶ διψῶντες τὴν δικαιοσύνην, ὅτι αὐτοὶ χορτασθήσονται.",
+    "Szczęśliwi łaknący i pragnący sprawiedliwości, bo oni zostaną nasyceni."
+   ],
+   [
+    7,
+    "μακάριοι οἱ ἐλεήμονες, ὅτι αὐτοὶ ἐλεηθήσονται.",
+    "Szczęśliwi miłosierni, bo oni miłosierdzia doznają."
+   ],
+   [
+    8,
+    "μακάριοι οἱ καθαροὶ τῇ καρδίᾳ, ὅτι αὐτοὶ τὸν θεὸν ὄψονται.",
+    "Szczęśliwi czyści sercem, bo oni Boga zobaczą."
+   ],
+   [
+    9,
+    "μακάριοι οἱ εἰρηνοποιοί, ὅτι αὐτοὶ υἱοὶ θεοῦ κληθήσονται.",
+    "Szczęśliwi czyniący pokój, bo oni synami Boga zostaną nazwani."
+   ],
+   [
+    10,
+    "μακάριοι οἱ δεδιωγμένοι ἕνεκεν δικαιοσύνης, ὅτι αὐτῶν ἐστιν ἡ βασιλεία τῶν οὐρανῶν.",
+    "Szczęśliwi prześladowani z powodu sprawiedliwości, bo ich jest królestwo niebios."
+   ],
+   [
+    11,
+    "μακάριοί ἐστε ὅταν ὀνειδίσωσιν ὑμᾶς καὶ διώξωσιν καὶ εἴπωσιν πᾶν πονηρὸν καθʼ ὑμῶν [ψευδόμενοι] ἕνεκεν ἐμοῦ.",
+    "Szczęśliwi jesteście, kiedy was znieważą i będą prześladować, i powiedzą wszystko złe przeciw wam [kłamiąc] z powodu mnie."
+   ],
+   [
+    12,
+    "χαίρετε καὶ ἀγαλλιᾶσθε, ὅτι ὁ μισθὸς ὑμῶν πολὺς ἐν τοῖς οὐρανοῖς· οὕτως γὰρ ἐδίωξαν τοὺς προφήτας τοὺς πρὸ ὑμῶν.",
+    "Radujcie się i weselcie, bo zapłata wasza wielka w niebiosach. Tak bowiem prześladowali proroków przed wami."
+   ],
+   [
+    13,
+    "Ὑμεῖς ἐστε τὸ ἅλας τῆς γῆς· ἐὰν δὲ τὸ ἅλας μωρανθῇ, ἐν τίνι ἁλισθήσεται; εἰς οὐδὲν ἰσχύει ἔτι εἰ μὴ βληθὲν ἔξω καταπατεῖσθαι ὑπὸ τῶν ἀνθρώπων.",
+    "Wy jesteście sól ziemi. Jeśliby zaś sól zgłupiała, czym będzie posolona? Na nic już nie ma siły, chyba żeby wyrzucona na zewnątrz była deptana przez ludzi."
+   ],
+   [
+    14,
+    "Ὑμεῖς ἐστε τὸ φῶς τοῦ κόσμου. οὐ δύναται πόλις κρυβῆναι ἐπάνω ὄρους κειμένη·",
+    "Wy jesteście światło świata. Nie może się ukryć miasto leżące na górze."
+   ],
+   [
+    15,
+    "οὐδὲ καίουσιν λύχνον καὶ τιθέασιν αὐτὸν ὑπὸ τὸν μόδιον ἀλλʼ ἐπὶ τὴν λυχνίαν, καὶ λάμπει πᾶσιν τοῖς ἐν τῇ οἰκίᾳ.",
+    "Ani nie zapalają lampy i nie stawiają jej pod korcem, lecz na świeczniku, i świeci wszystkim, którzy są w domu."
+   ],
+   [
+    16,
+    "οὕτως λαμψάτω τὸ φῶς ὑμῶν ἔμπροσθεν τῶν ἀνθρώπων, ὅπως ἴδωσιν ὑμῶν τὰ καλὰ ἔργα καὶ δοξάσωσιν τὸν πατέρα ὑμῶν τὸν ἐν τοῖς οὐρανοῖς.",
+    "Tak niech zaświeci światło wasze wobec ludzi, żeby zobaczyli wasze dobre czyny i oddali chwałę Ojcu waszemu, temu w niebiosach."
+   ]
+  ]
+ },
+ "lexemes": [
+  [
+   "μακάριος",
+   "makarios",
+   "przymiotnik",
+   "szczęśliwy, godny zazdrości — u Mateusza trzynaście wystąpień, z czego dziewięć w Mt 5,3–11. Pozostałe cztery stoją przy tym, kto się nie zgorszy (11,6), przy oczach uczniów, które widzą (13,16), przy Szymonie, któremu objawił Ojciec (16,17), i przy słudze czuwającym (24,46). Wyraz nie jest życzeniem ani błogosławieństwem — nie zawiera czasownika i nie prosi Boga o nic, lecz orzeka stan"
+  ],
+  [
+   "πτωχός",
+   "ptochos",
+   "przymiotnik",
+   "ubogi, żebrzący — od πτώσσω (kulić się, kryć się), czyli nędzarz bez środków, nie człowiek skromnego majątku (na to grecki ma πένης). U Mateusza pięć wystąpień: 5,3; 11,5 (ubogim głoszona jest dobra nowina); 19,21 (rozdaj ubogim); 26,9.11 (olejek i ubodzy). LXX oddaje przez πτωχός hebrajskie עָנִי i עָנָו"
+  ],
+  [
+   "πενθέω",
+   "pentheo",
+   "czasownik",
+   "smucić się, odprawiać żałobę — czynność zewnętrzna i obrzędowa, nie samo uczucie. U Mateusza dwa wystąpienia i oba znaczące: Mt 5,4 oraz 9,15, gdzie Jezus pyta, czy goście weselni mogą się smucić, dopóki pan młody jest z nimi. LXX ma ten czasownik w Iz 61,2 o pocieszeniu wszystkich smucących się"
+  ],
+  [
+   "πραΰς",
+   "praus",
+   "przymiotnik",
+   "łagodny, nieroszczący sobie prawa — u Mateusza trzy wystąpienia i wszystkie trzy rozstrzygające: Mt 5,5 (przytoczenie Ps 37,11), 11,29 (jestem łagodny i uniżony sercem) i 21,5 (przytoczenie Za 9,9 o królu łagodnym na osiołku). Jedyny przymiotnik, którym Jezus w tej Ewangelii określa siebie, i zarazem przymiotnik wjazdu do Jerozolimy"
+  ],
+  [
+   "διψάω",
+   "dipsao",
+   "czasownik",
+   "pragnąć, odczuwać żądzę picia — u Mateusza pięć wystąpień: 5,6 oraz czterokrotnie w scenie sądu nad narodami (25,35.37.42.44), gdzie łaknienie i pragnienie są cielesne i zaspokaja je człowiek. Mt 5,6 jest jedynym miejscem, w którym czasownik ma dopełnienie niemające nic wspólnego z jedzeniem"
+  ],
+  [
+   "χορτάζω",
+   "chortazo",
+   "czasownik",
+   "nasycić — pierwotnie o paszy dla bydła (χόρτος, trawa), w grece hellenistycznej o jedzeniu do sytości. U Mateusza cztery wystąpienia: 5,6 i trzy w opowiadaniach o rozmnożeniu chlebów (14,20; 15,33.37). Strona bierna w Mt 5,6 nie podaje sprawcy"
+  ],
+  [
+   "ἐλεήμων",
+   "eleemon",
+   "przymiotnik",
+   "miłosierny, okazujący litość — w Nowym Testamencie dwa wystąpienia, u Mateusza jedno (5,7). W LXX jest przymiotnikiem samego Boga (Wj 34,6; Ps 103,8), a w Mt 5,7 zostaje orzeczony o człowieku, i to w zdaniu, którego druga połowa jest stroną bierną bez podmiotu"
+  ],
+  [
+   "ἐλεέω",
+   "eleeo",
+   "czasownik",
+   "okazać miłosierdzie, zlitować się — u Mateusza osiem wystąpień. Poza Mt 5,7 wszystkie są wołaniem o litość skierowanym do Jezusa (9,27; 15,22; 17,15; 20,30.31) albo należą do przypowieści o nielitościwym dłużniku (18,33 dwukrotnie). Mt 5,7 jest więc jedynym miejscem, w którym czasownik stoi w stronie biernej o losie człowieka"
+  ],
+  [
+   "καθαρός",
+   "katharos",
+   "przymiotnik",
+   "czysty — u Mateusza trzy wystąpienia i trzy różne porządki czystości: serce (5,8), wnętrze kielicha wobec wymytej powierzchni (23,26) i czyste płótno, w które owinięto ciało (27,59). Rytualnej czystości pokarmów ten przymiotnik u Mateusza nie dotyczy nigdy"
+  ],
+  [
+   "καρδία",
+   "kardia",
+   "rzeczownik",
+   "serce — w Biblii siedziba myśli, zamiaru i decyzji, nie uczuć. U Mateusza szesnaście wystąpień, w Kazaniu trzy (5,8; 5,28; 6,21), i prawie wszystkie dotyczą wnętrza jako miejsca, gdzie czyn już się dokonał: cudzołóstwo w sercu (5,28), skarb i serce (6,21), usta mówiące z nadmiaru serca (12,34), lud czczący wargami przy sercu dalekim (15,8)"
+  ],
+  [
+   "εἰρηνοποιός",
+   "eirenopoios",
+   "przymiotnik",
+   "czyniący pokój — hapaks całego Nowego Testamentu. Złożenie z εἰρήνη i ποιέω, poświadczone w grece hellenistycznej jako tytuł władcy, który pokój zaprowadza, nie tego, który go zachowuje. Rzeczownik odczasownikowy, nie przymiotnik stanu: mowa o działaniu, nie o spokojnym usposobieniu"
+  ],
+  [
+   "κληρονομέω",
+   "kleronomeo",
+   "czasownik",
+   "odziedziczyć, wziąć w dziedziczny dział — od κλῆρος (los, przydzielony dział). U Mateusza trzy wystąpienia: 5,5 (ziemię), 19,29 (życie wieczne) i 25,34 (królestwo przygotowane od założenia świata). W LXX czasownik jest techniczny i dotyczy objęcia ziemi obietnicy (Pwt 1,8)"
+  ],
+  [
+   "διώκω",
+   "dioko",
+   "czasownik",
+   "gonić, prześladować — u Mateusza sześć wystąpień i trzy z nich w tej perykopie (5,10.11.12). Pozostałe: nakaz modlitwy za prześladujących (5,44), zapowiedź ucieczki z miasta do miasta (10,23) i wyrzut wobec uczonych w Piśmie, którzy będą prześladować posłanych (23,34). Czasownik wiąże zatem makaryzm ósmy z mową misyjną i z mową przeciw faryzeuszom"
+  ],
+  [
+   "ὀνειδίζω",
+   "oneidizo",
+   "czasownik",
+   "lżyć, wymawiać komuś coś publicznie — u Mateusza trzy wystąpienia: 5,11, wyrzut wobec miast, które nie odmieniły myślenia (11,20), i lżenie Jezusa na krzyżu przez współukrzyżowanych (27,44). Pierwsze i trzecie wystąpienie wiąże ten sam czasownik: to, co zapowiedziano uczniom, dzieje się najpierw z nauczycielem"
+  ],
+  [
+   "μισθός",
+   "misthos",
+   "rzeczownik",
+   "zapłata, należność za pracę — wyraz z porządku najmu, nie z porządku daru. U Mateusza dziesięć wystąpień i sześć z nich w Kazaniu: 5,12; 5,46 oraz cztery razy w rozdziale szóstym, gdzie zapłata jest albo już odebrana od ludzi (6,2.5.16), albo pozostaje u Ojca (6,1). Dalej dwukrotnie o zapłacie proroka i sprawiedliwego (10,41) i raz o robotnikach w winnicy (20,8)"
+  ],
+  [
+   "ἀγαλλιάομαι",
+   "agalliaomai",
+   "czasownik",
+   "weselić się głośno, wykrzykiwać z radości — czasownik kultowy, w LXX właściwy psalmom pochwalnym (Ps 32,11; 96,11). U Mateusza hapaks (5,12). Zestawiony z χαίρετε daje w jednym wierszu dwa tryby rozkazujące, pierwsze w całym Kazaniu"
+  ],
+  [
+   "προφήτης",
+   "prophetes",
+   "rzeczownik",
+   "prorok — u Mateusza trzydzieści siedem wystąpień, najwięcej ze wszystkich Ewangelii. Przeważają formuły wprowadzające cytat (1,22; 2,15; 4,14; 12,17), ale w Mt 5,12 wyraz nie wprowadza przytoczenia: prorocy są tu nie autorami tekstu, lecz grupą prześladowanych, i tak samo w 23,29–37"
+  ],
+  [
+   "ἅλας",
+   "halas",
+   "rzeczownik",
+   "sól — u Mateusza dwa wystąpienia, oba w Mt 5,13. Forma ἅλας jest hellenistyczna i wypiera klasyczną ἅλς. W Piśmie sól należy do dwóch porządków: przymierza (Kpł 2,13; Lb 18,19) i zniszczenia (Pwt 29,22; Sdz 9,45)"
+  ],
+  [
+   "μωραίνω",
+   "moraino",
+   "czasownik",
+   "uczynić głupim, zgłupieć — u Mateusza hapaks (5,13), a w całym Nowym Testamencie jeszcze trzy razy i wszędzie o rozumie (Rz 1,22; 1 Kor 1,20). Użycie o soli jest w grece anomalne i wskazuje na podłoże semickie, gdzie ten sam rdzeń obejmuje brak smaku i brak rozumu"
+  ],
+  [
+   "καταπατέω",
+   "katapateo",
+   "czasownik",
+   "zdeptać, roztrzeć stopami — u Mateusza dwa wystąpienia: 5,13 o soli wyrzuconej i 7,6 o świniach depczących perły. Oba stoją w Kazaniu i oba mówią o rzeczy świętej albo użytecznej, która znalazła się nie na swoim miejscu"
+  ],
+  [
+   "λύχνος",
+   "lychnos",
+   "rzeczownik",
+   "lampa oliwna — gliniane naczynie wielkości dłoni, nie świeca. U Mateusza dwa wystąpienia: 5,15 i 6,22, gdzie lampą ciała jest oko. Oba należą do Kazania i oba wiążą światło z widzeniem, nie z ciepłem"
+  ],
+  [
+   "μόδιος",
+   "modios",
+   "rzeczownik",
+   "korzec — zapożyczenie z łacińskiego modius, miary ciał sypkich o objętości około ośmiu i trzech czwartych litra, a zarazem naczynia tej miary. U Mateusza hapaks (5,15). Jeden z łacinizmów tej Ewangelii, obok κῆνσος (17,25; 22,17), κοδράντης (5,26), μίλιον (5,41), πραιτώριον (27,27) i κουστωδία (27,65.66; 28,11)"
+  ],
+  [
+   "λυχνία",
+   "lychnia",
+   "rzeczownik",
+   "świecznik, podstawka pod lampę — u Mateusza hapaks (5,15). W LXX wyraz techniczny dla siedmioramiennego świecznika przybytku (Wj 25,31–40), tu zaś przedmiot domowy: półka albo wnęka w ścianie izby"
+  ],
+  [
+   "λάμπω",
+   "lampo",
+   "czasownik",
+   "świecić, jaśnieć — u Mateusza trzy wystąpienia: 5,15 (o lampie, oznajmująco), 5,16 (o świetle uczniów, rozkazująco) i 17,2, gdzie na górze zajaśniało oblicze Jezusa jak słońce. Trzy wystąpienia dzielą się więc na dwa domowe i jedno na górze przemienienia"
+  ],
+  [
+   "χαίρω",
+   "chairo",
+   "czasownik",
+   "radować się — u Mateusza sześć wystąpień i rozkład znaczący: radują się magowie nad gwiazdą (2,10), pasterz nad znalezioną owcą (18,13), a w scenach męki ten sam czasownik jest w ustach Judasza i żołnierzy jako zwykłe powitanie, czyli „witaj\" (26,49; 27,29). Ostatnie wystąpienie należy do kobiet spotykających Zmartwychwstałego (28,9). Mt 5,12 jest jedynym miejscem, w którym stoi w trybie rozkazującym"
+  ],
+  [
+   "κρύπτω",
+   "krypto",
+   "czasownik",
+   "ukryć, schować — u Mateusza siedem wystąpień i wszystkie poza 5,14 dotyczą rzeczy schowanych celowo: Ojciec ukrył objawienie przed mądrymi (11,25), skarb ukryty w roli (13,44 dwukrotnie), talent zakopany w ziemi (25,18.25). W 5,14 ukrycie jest niemożliwe, i to jedyne takie użycie"
+  ],
+  [
+   "στόμα",
+   "stoma",
+   "rzeczownik",
+   "usta — u Mateusza jedenaście wystąpień. Zwrot „otworzyć usta\" jest semicką formułą uroczystego zaczęcia mowy; Mateusz ma go w 5,2 i w 13,35, gdzie przytacza Ps 78,2 o otwarciu ust w przypowieściach. W 4,4, trzynaście wierszy wcześniej, mowa była o słowie wychodzącym z ust Boga"
+  ],
+  [
+   "μαθητής",
+   "mathetes",
+   "rzeczownik",
+   "uczeń — u Mateusza siedemdziesiąt dwa wystąpienia, a pierwsze z nich w Mt 5,1. Wyraz nie pada w opowiadaniu o powołaniu czterech (4,18–22) i wchodzi do Ewangelii dopiero przy wstępowaniu na górę. Ostatnie wystąpienie jest czasownikowe: μαθητεύσατε (uczyńcie uczniami, 28,19)"
+  ],
+  [
+   "καθίζω",
+   "kathizo",
+   "czasownik",
+   "siąść, zasiąść — u Mateusza osiem wystąpień i prawie wszystkie dotyczą zasiadania z władzą: na dwunastu tronach (19,28), po prawej i lewej stronie (20,21.23), na katedrze Mojżesza (23,2), na tronie chwały przy sądzie (25,31). Mt 5,1 jest pierwszym z nich"
+  ],
+  [
+   "προσέρχομαι",
+   "proserchomai",
+   "czasownik",
+   "podejść, przystąpić — u Mateusza pięćdziesiąt jedno wystąpienie i jeden z jego wyrazów ulubionych. Podchodzą do Jezusa proszący, uczniowie z pytaniem, przeciwnicy z próbą; w 4,3 podszedł kusiciel, w 4,11 aniołowie. W Mt 5,1 podchodzą uczniowie, i to ruch, nie nazwa, odróżnia ich od tłumu"
+  ],
+  [
+   "πόλις",
+   "polis",
+   "rzeczownik",
+   "miasto — u Mateusza dwadzieścia siedem wystąpień. W Mt 5,14 miasto jest obrazem, w 5,35 Jerozolima jest miastem wielkiego króla, a w mowie misyjnej miasto jest jednostką obchodu i odrzucenia (10,11–15.23). Obrazowe użycie stoi u Mateusza tylko tutaj"
+  ],
+  [
+   "ἔργον",
+   "ergon",
+   "rzeczownik",
+   "czyn, dzieło — u Mateusza sześć wystąpień i pierwsze z nich w 5,16. Dalej: czyny Pomazańca, o które pyta Chrzciciel z więzienia (11,2), mądrość usprawiedliwiona przez swoje czyny (11,19), czyny uczonych w Piśmie, których nie należy naśladować (23,3), i te same czyny pełnione, by je ludzie widzieli (23,5). Wyraz niesie zatem u Mateusza i polecenie z 5,16, i jego nadużycie"
+  ],
+  [
+   "δοξάζω",
+   "doxazo",
+   "czasownik",
+   "oddać chwałę, uznać za wielkiego — u Mateusza cztery wystąpienia. W 5,16 chwałę mają ludzie oddać Ojcu, w 6,2 hipokryci działają, by to ich ludzie chwalili, a w 9,8 i 15,31 tłumy oddają chwałę Bogu po uzdrowieniach. Adresat rozstrzyga o wszystkim: ten sam czasownik dzieli jałmużnę uczniów od jałmużny obłudników"
+  ],
+  [
+   "πατήρ",
+   "pater",
+   "rzeczownik",
+   "ojciec — u Mateusza sześćdziesiąt trzy wystąpienia, z czego przeważająca większość o Bogu. Mt 5,16 jest pierwszym miejscem tej Ewangelii, w którym Bóg zostaje nazwany Ojcem; cztery wcześniejsze wystąpienia dotyczą ojca Archelaosa (2,22), Abrahama (3,9) i Zebedeusza (4,21.22). Omowa „Ojciec, ten w niebiosach\" pada u Mateusza dziesięć razy w pełnym brzmieniu z ἐν (τοῖς) οὐρανοῖς i jeszcze siedem razy w postaci przymiotnikowej ὁ πατὴρ ὁ οὐράνιος (5,48; 6,14.26.32; 15,13; 18,35; 23,9)"
+  ]
+ ],
+ "semitic": [
+  [
+   "אַשְׁרֵי",
+   "aszre",
+   "hbr",
+   "szczęśliwy, godny zazdrości — forma liczby mnogiej w stanie związanym, używana wyłącznie w zdaniach orzekających o człowieku. Nie jest błogosławieństwem: hebrajski ma na nie בָּרוּךְ (baruch), i tamten wyraz zawsze ma za podmiot Boga albo odnosi się do Boga. אַשְׁרֵי otwiera Psałterz (Ps 1,1) i wraca w nim około dwudziestu pięciu razy; LXX oddaje je przez μακάριος"
+  ],
+  [
+   "בָּרוּךְ",
+   "baruch",
+   "hbr",
+   "błogosławiony — bierny imiesłów od בָּרַךְ (błogosławić). Formuła liturgiczna: błogosławi Bóg człowieka albo człowiek Boga. Rozdział na אַשְׁרֵי i בָּרוּךְ jest w Biblii hebrajskiej konsekwentny, a greka go zaciera, bo μακάριος i εὐλογητός rozchodzą się mniej ostro niż oryginały"
+  ],
+  [
+   "עֲנָוִים",
+   "anawim",
+   "hbr",
+   "ubodzy, pokorni — wyraz, który w psalmach i u proroków przechodzi od znaczenia społecznego (pozbawiony środków, bez obrońcy) do religijnego (zdany na Boga). Iz 61,1 ma עֲנָוִים tam, gdzie LXX czyta πτωχοί, a Ps 37,11 — עֲנָוִים dziedziczących ziemię, gdzie LXX ma πραεῖς. Mt 5,3 i 5,5 stoją zatem nad dwiema greckimi odpowiedniościami jednego hebrajskiego wyrazu"
+  ],
+  [
+   "עַנְוֵי רוּחַ",
+   "anwe ruach",
+   "hbr",
+   "ubodzy duchem — złożenie poświadczone w piśmiennictwie qumrańskim, w Regule Wojny wśród tych, przez których Bóg zwycięża (1QM 14,7), i w pokrewnym brzmieniu w Regule Zrzeszenia (1QS 4,3). Dla Mt 5,3 jest to jedyny znany przedchrześcijański odpowiednik całego wyrażenia, nie tylko rzeczownika; siglum i brzmienie wymagają sprawdzenia w wydaniu"
+  ],
+  [
+   "תָּפֵל",
+   "tafel",
+   "hbr",
+   "bez smaku, niesolony — przymiotnik użyty w Hi 6,6 o pokarmie bez soli. Aramejski rdzeń o tym brzmieniu obejmuje zarazem brak smaku i brak sensu, co tłumaczy, dlaczego grecki przekład Mt 5,13 wybrał μωρανθῇ (zgłupiała) zamiast czasownika o utracie smaku"
+  ],
+  [
+   "בְּרִית מֶלַח",
+   "berit melach",
+   "hbr",
+   "przymierze soli — zwrot z Lb 18,19 o wieczystym prawie kapłanów do ofiarnych darów i z 2 Krn 13,5 o prawie Dawida do królowania. Sól jest tu nie przyprawą, lecz pieczęcią trwałości, bo się nie psuje; przepis Kpł 2,13 każe solić każdą ofiarę z pokarmów"
+  ],
+  [
+   "לֵב טָהוֹר",
+   "lew tahor",
+   "hbr",
+   "serce czyste — prośba Ps 51,12, gdzie czystość serca jest czymś, co Bóg ma stworzyć, nie czymś, co człowiek przynosi. Ps 24,4 stawia czystość serca jako warunek wstąpienia na górę Pana, a Mt 5,8 wiąże ją z obietnicą widzenia Boga"
+  ],
+  [
+   "שָׂכָר",
+   "sachar",
+   "hbr",
+   "zapłata, najemne — wyraz z prawa pracy (Kpł 19,13 o należności najemnika wypłacanej tego samego dnia), przeniesiony na stosunek Boga do człowieka w Rdz 15,1, gdzie Pan mówi Abramowi, że sam jest jego zapłatą wielką. Mateuszowe ὁ μισθὸς ὑμῶν πολύς (zapłata wasza wielka) brzmi tym samym złożeniem"
+  ],
+  [
+   "עֹשֵׂה שָׁלוֹם",
+   "ose szalom",
+   "hbr",
+   "czyniący pokój — zwrot czynnościowy: szalom nie jest w hebrajskim brakiem wojny, lecz całością i nienaruszonością stanu, więc jego czynienie znaczy naprawianie, nie powstrzymywanie się. Formuła należy do języka liturgicznego i stoi w Hi 25,2 o Bogu"
+  ],
+  [
+   "פָּתַח פִּיו",
+   "patach piw",
+   "hbr",
+   "otworzył usta swoje — formuła wprowadzająca mowę uroczystą albo długą, nie zwykłą odpowiedź. Stoi w Hi 3,1, gdy Job po siedmiu dniach milczenia zaczyna mówić, i w Ps 78,2, który Mateusz przytoczy w 13,35. W Mt 5,2 zapowiada trzy rozdziały mowy"
+  ]
+ ],
+ "lexeme_semitic": [
+  [
+   "μακάριος",
+   "aszre",
+   "Grecki przymiotnik przejmuje całą funkcję hebrajskiego אַשְׁרֵי i wraz z nią jego granicę: makaryzm orzeka o człowieku i nie zwraca się do Boga. Dlatego polskie „błogosławieni\", utarte w przekładach, mówi więcej, niż stoi w tekście — zakłada błogosławiącego, którego ani grecki, ani hebrajski wyraz nie zawiera. Mateusz ma zresztą w swojej Ewangelii osobną rodzinę wyrazów na błogosławienie (εὐλογέω, 14,19; 21,9; 26,26) i nie używa jej tutaj."
+  ],
+  [
+   "μακάριος",
+   "baruch",
+   "Rozdział obu hebrajskich formuł jest w Biblii ostry, a Mt 5,3–11 trzyma się wyłącznie pierwszej z nich. Gdyby stało tam בָּרוּךְ, zdanie byłoby aktem: Bóg miałby błogosławić ubogich duchem. Stoi אַשְׁרֵי, więc zdanie jest rozpoznaniem stanu rzeczy, który już zachodzi — i dopiero w tym świetle widać, czemu klamra makaryzmów ma czas teraźniejszy (αὐτῶν ἐστιν, do nich należy), a środek czasy przyszłe."
+  ],
+  [
+   "πτωχός",
+   "anawim",
+   "Hebrajski wyraz niesie oba znaczenia naraz: nędzarza i człowieka pokornego przed Bogiem, i rozstrzygnięcie między nimi zależy od kontekstu, nie od słownika. Mt 5,3 dokłada do greckiego przymiotnika celownik τῷ πνεύματι i tym samym wybiera za czytelnika — ale wybiera w stronę, którą hebrajski wyraz już miał. Łukaszowe οἱ πτωχοί bez dopowiedzenia (Łk 6,20) wybiera stronę drugą, też obecną w oryginale."
+  ],
+  [
+   "πραΰς",
+   "anawim",
+   "Ps 37,11 ma w tekście hebrajskim עֲנָוִים, a LXX oddaje je przez πραεῖς, nie przez πτωχοί. Mt 5,5 przytacza wersję grecką, więc trzeci makaryzm i pierwszy stoją w tekście Mateusza nad jednym wyrazem hebrajskim rozszczepionym w przekładzie. Rozszczepienie nie jest u Mateusza zatarte: ubodzy duchem dostają królestwo, łagodni ziemię, i są to dwie różne obietnice."
+  ],
+  [
+   "ἅλας",
+   "berit melach",
+   "Jeśli sól w Mt 5,13 odsyła do tego zwrotu, to jej utrata smaku jest zerwaniem przymierza, a nie zepsuciem przyprawy — a obraz deptania po wyrzuceniu należy wtedy do języka sądu, nie gospodarstwa. Zastrzeżenie trzeba postawić wprost: Mateusz nie podaje żadnego sygnału, że to tło ma na myśli, a sam wyraz jest w jego tekście bez określenia. Pewne jest tylko to, że w Piśmie sól przy ofiarach jest obowiązkowa (Kpł 2,13)."
+  ],
+  [
+   "μωραίνω",
+   "tafel",
+   "Grecki czasownik znaczy „uczynić głupim\" i do soli nie pasuje; hebrajsko-aramejskie tło pasuje do obu. Stąd przypuszczenie, że za Mt 5,13 stoi wyrażenie, w którym jeden rdzeń obejmował brak smaku i brak rozumu, a tłumacz wybrał to drugie znaczenie, zostawiając w grece zdanie o soli, która zgłupiała. Przekład roboczy zachowuje tę anomalię, bo jej usunięcie usuwa świadectwo o języku źródła."
+  ],
+  [
+   "καθαρός",
+   "lew tahor",
+   "Hebrajski zwrot pada w dwóch miejscach o przeciwnych kierunkach. W Ps 51,12 człowiek prosi, żeby Bóg stworzył w nim czyste serce; w Ps 24,4 czystość serca jest tym, co człowiek ma przynieść, wstępując na górę Pana. Mt 5,8 nie rozstrzyga między nimi, lecz stawia obok siebie oba porządki: zdanie orzeka o ludziach już czystych sercem, a jego druga połowa obiecuje to, czego żaden człowiek sobie nie da."
+  ],
+  [
+   "μισθός",
+   "sachar",
+   "Rdz 15,1 jest w tej sprawie miejscem rozstrzygającym: Pan nie obiecuje Abramowi zapłaty, lecz mówi, że sam jest jego zapłatą. Mt 5,12 nie idzie tak daleko i mówi o zapłacie wielkiej w niebiosach, bez podania, czym ona jest — natomiast rozdział szósty tę nieokreśloność wyzyskuje, przeciwstawiając zapłatę już odebraną od ludzi (6,2.5.16) zapłacie u Ojca (6,1)."
+  ],
+  [
+   "εἰρηνοποιός",
+   "ose szalom",
+   "Greckie złożenie odpowiada hebrajskiemu zwrotowi czynnościowemu i dziedziczy po nim zakres: pokój trzeba zrobić, bo szalom jest stanem nienaruszonym, a nie zawieszeniem sporu. W Mt 5,9 obietnicą jest nazwanie synami Boga, czyli przypisanie czyniącemu tego, co w Hi 25,2 jest działaniem Boga samego. Mateusz wraca do tej logiki w 5,45, gdzie synami Ojca są ci, którzy naśladują jego postępowanie z dobrymi i złymi."
+  ],
+  [
+   "στόμα",
+   "patach piw",
+   "Formuła nie informuje o anatomii, lecz o wadze tego, co nastąpi — i dlatego jest w Mt 5,2 pleonazmem tylko pozornie. Mateusz użyje jej po raz drugi w 13,35, przytaczając Ps 78,2, i tam zwrot należy już do cytowanego psalmu. Zestawienie obu miejsc daje szew: mowę na górze i mowę w przypowieściach wprowadza w tej Ewangelii ta sama semicka formuła."
+  ]
+ ],
+ "occurrences": [
+  [
+   "ὄχλος",
+   1,
+   "ὄχλους"
+  ],
+  [
+   "ἀναβαίνω",
+   1,
+   "ἀνέβη"
+  ],
+  [
+   "ὄρος",
+   1,
+   "ὄρος"
+  ],
+  [
+   "καθίζω",
+   1,
+   "καθίσαντος"
+  ],
+  [
+   "προσέρχομαι",
+   1,
+   "προσῆλθαν"
+  ],
+  [
+   "μαθητής",
+   1,
+   "μαθηταί"
+  ],
+  [
+   "στόμα",
+   2,
+   "στόμα"
+  ],
+  [
+   "διδάσκω",
+   2,
+   "ἐδίδασκεν"
+  ],
+  [
+   "μακάριος",
+   3,
+   "Μακάριοι"
+  ],
+  [
+   "πτωχός",
+   3,
+   "πτωχοί"
+  ],
+  [
+   "πνεῦμα",
+   3,
+   "πνεύματι"
+  ],
+  [
+   "βασιλεία",
+   3,
+   "βασιλεία"
+  ],
+  [
+   "οὐρανός",
+   3,
+   "οὐρανῶν"
+  ],
+  [
+   "μακάριος",
+   4,
+   "μακάριοι"
+  ],
+  [
+   "πενθέω",
+   4,
+   "πενθοῦντες"
+  ],
+  [
+   "παρακαλέω",
+   4,
+   "παρακληθήσονται"
+  ],
+  [
+   "μακάριος",
+   5,
+   "μακάριοι"
+  ],
+  [
+   "πραΰς",
+   5,
+   "πραεῖς"
+  ],
+  [
+   "κληρονομέω",
+   5,
+   "κληρονομήσουσιν"
+  ],
+  [
+   "γῆ",
+   5,
+   "γῆν"
+  ],
+  [
+   "μακάριος",
+   6,
+   "μακάριοι"
+  ],
+  [
+   "πεινάω",
+   6,
+   "πεινῶντες"
+  ],
+  [
+   "διψάω",
+   6,
+   "διψῶντες"
+  ],
+  [
+   "δικαιοσύνη",
+   6,
+   "δικαιοσύνην"
+  ],
+  [
+   "χορτάζω",
+   6,
+   "χορτασθήσονται"
+  ],
+  [
+   "μακάριος",
+   7,
+   "μακάριοι"
+  ],
+  [
+   "ἐλεήμων",
+   7,
+   "ἐλεήμονες"
+  ],
+  [
+   "ἐλεέω",
+   7,
+   "ἐλεηθήσονται"
+  ],
+  [
+   "μακάριος",
+   8,
+   "μακάριοι"
+  ],
+  [
+   "καθαρός",
+   8,
+   "καθαροί"
+  ],
+  [
+   "καρδία",
+   8,
+   "καρδίᾳ"
+  ],
+  [
+   "μακάριος",
+   9,
+   "μακάριοι"
+  ],
+  [
+   "εἰρηνοποιός",
+   9,
+   "εἰρηνοποιοί"
+  ],
+  [
+   "υἱός",
+   9,
+   "υἱοί"
+  ],
+  [
+   "καλέω",
+   9,
+   "κληθήσονται"
+  ],
+  [
+   "μακάριος",
+   10,
+   "μακάριοι"
+  ],
+  [
+   "διώκω",
+   10,
+   "δεδιωγμένοι"
+  ],
+  [
+   "δικαιοσύνη",
+   10,
+   "δικαιοσύνης"
+  ],
+  [
+   "μακάριος",
+   11,
+   "μακάριοί"
+  ],
+  [
+   "ὀνειδίζω",
+   11,
+   "ὀνειδίσωσιν"
+  ],
+  [
+   "διώκω",
+   11,
+   "διώξωσιν"
+  ],
+  [
+   "χαίρω",
+   12,
+   "χαίρετε"
+  ],
+  [
+   "ἀγαλλιάομαι",
+   12,
+   "ἀγαλλιᾶσθε"
+  ],
+  [
+   "μισθός",
+   12,
+   "μισθός"
+  ],
+  [
+   "διώκω",
+   12,
+   "ἐδίωξαν"
+  ],
+  [
+   "προφήτης",
+   12,
+   "προφήτας"
+  ],
+  [
+   "ἅλας",
+   13,
+   "ἅλας"
+  ],
+  [
+   "γῆ",
+   13,
+   "γῆς"
+  ],
+  [
+   "μωραίνω",
+   13,
+   "μωρανθῇ"
+  ],
+  [
+   "καταπατέω",
+   13,
+   "καταπατεῖσθαι"
+  ],
+  [
+   "φῶς",
+   14,
+   "φῶς"
+  ],
+  [
+   "κόσμος",
+   14,
+   "κόσμου"
+  ],
+  [
+   "πόλις",
+   14,
+   "πόλις"
+  ],
+  [
+   "κρύπτω",
+   14,
+   "κρυβῆναι"
+  ],
+  [
+   "ὄρος",
+   14,
+   "ὄρους"
+  ],
+  [
+   "λύχνος",
+   15,
+   "λύχνον"
+  ],
+  [
+   "μόδιος",
+   15,
+   "μόδιον"
+  ],
+  [
+   "λυχνία",
+   15,
+   "λυχνίαν"
+  ],
+  [
+   "λάμπω",
+   15,
+   "λάμπει"
+  ],
+  [
+   "λάμπω",
+   16,
+   "λαμψάτω"
+  ],
+  [
+   "φῶς",
+   16,
+   "φῶς"
+  ],
+  [
+   "ἔργον",
+   16,
+   "ἔργα"
+  ],
+  [
+   "δοξάζω",
+   16,
+   "δοξάσωσιν"
+  ],
+  [
+   "πατήρ",
+   16,
+   "πατέρα"
+  ],
+  [
+   "οὐρανός",
+   16,
+   "οὐρανοῖς"
+  ]
+ ],
+ "works": [
+  [
+   "św. Augustyn",
+   "De sermone Domini in monte",
+   "O kazaniu Pana na górze",
+   "394",
+   "patrystyka"
+  ],
+  [
+   "Qumran",
+   "Makaryzmy (4Q525)",
+   "Tekst mądrościowy z szeregiem makaryzmów",
+   "I przed Chr.",
+   "judaizm"
+  ],
+  [
+   "Benedykt XII",
+   "Benedictus Deus",
+   "Benedictus Deus",
+   "1336",
+   "magisterium"
+  ],
+  [
+   "św. Grzegorz Palamas",
+   "Triades pro hesychastis",
+   "Triady w obronie świętych hezychastów",
+   "XIV",
+   "inna"
+  ],
+  [
+   "Franciszek",
+   "Gaudete et exsultate",
+   "Gaudete et exsultate",
+   "2018",
+   "magisterium"
+  ],
+  [
+   "J. Wellhausen",
+   "Das Evangelium Matthaei",
+   "Ewangelia Mateusza",
+   "1904",
+   "wspolczesna"
+  ],
+  [
+   "J. Dupont",
+   "Les Béatitudes",
+   "Błogosławieństwa",
+   "1958–1973",
+   "wspolczesna"
+  ],
+  [
+   "H. D. Betz",
+   "The Sermon on the Mount",
+   "Kazanie na górze",
+   "1995",
+   "wspolczesna"
+  ]
+ ],
+ "themes": [
+  [
+   "makaryzm: forma, liczba i dwa czasy",
+   "Grecki μακάριος oddaje hebrajskie אַשְׁרֵי i jest zdaniem orzekającym, nie błogosławieństwem — nie ma w nim czasownika, nie ma błogosławiącego i nie ma prośby. U Mateusza przymiotnik stoi trzynaście razy, z czego dziewięć w Mt 5,3–11; Łukasz ma cztery makaryzmy i dokłada do nich cztery „biada\" (Łk 6,20–26), których Mateusz nie ma. Rozkład czasów w Mateuszowym szeregu jest policzalny: pierwszy i ósmy makaryzm mają czas teraźniejszy (αὐτῶν ἐστιν, do nich należy) i identyczną drugą połowę, a sześć środkowych ma czasy przyszłe, w tym cztery w stronie biernej bez podmiotu. Klamra mówi więc o stanie, który już zachodzi, a środek o tym, co zrobi ktoś nienazwany."
+  ],
+  [
+   "trzecia osoba i druga: zwrot Kazania",
+   "Mt 5,3–10 mówi o kimś w trzeciej osobie liczby mnogiej, Mt 5,11–12 przechodzi na drugą osobę („szczęśliwi jesteście\"), a Mt 5,13–16 w drugiej osobie już zostaje i dwa razy otwiera zdanie emfatycznym ὑμεῖς ἐστε (wy jesteście). Punktem zwrotu jest prześladowanie: ósmy makaryzm opisuje prześladowanych z powodu sprawiedliwości jeszcze w trzeciej osobie, dziewiąty mówi już do prześladowanych wprost i podaje przyczynę nie jako sprawiedliwość, lecz jako osobę mówiącego (ἕνεκεν ἐμοῦ, z powodu mnie). Twierdzące ὑμεῖς ἐστε stoi u Mateusza wyłącznie w 5,13 i 5,14; trzecie wystąpienie tego zestawienia jest zaprzeczone (10,20)."
+  ],
+  [
+   "Ojciec wasz w niebiosach",
+   "Mt 5,16 jest pierwszym miejscem tej Ewangelii, w którym Bóg zostaje nazwany Ojcem: cztery wcześniejsze wystąpienia rzeczownika πατήρ dotyczą ojca Archelaosa (2,22), Abrahama (3,9) i Zebedeusza (4,21.22). Omowa „Ojciec, ten w niebiosach\" pada potem dziesięć razy w pełnym brzmieniu i siedem razy w postaci przymiotnikowej, a jej pierwsze wystąpienie nie jest wezwaniem ani nauką o Bogu — jest celem polecenia: żeby ludzie zobaczyli dobre czyny i oddali chwałę Ojcu. Mateusz wprowadza zatem imię Ojca nie w zdaniu o modlitwie, lecz w zdaniu o jawności czynów, i dopiero w 6,9 przechodzi do wezwania."
+  ],
+  [
+   "góra, na którą się wstępuje",
+   "W dwóch sąsiadujących rozdziałach stoją u Mateusza trzy góry: bardzo wysoka, z której diabeł pokazuje królestwa świata (4,8), ta, na którą Jezus wstępuje, by nauczać (5,1), i ta, na której leży miasto, co nie może się ukryć (5,14). Zwrot ἀνέβη εἰς τὸ ὄρος (wszedł na górę) brzmi w grece tak samo jak Wj 19,3 o Mojżeszu i jak pytanie Ps 24,3 o tego, kto wstąpi na górę Pana — a odpowiedzią psalmu jest czystość serca, która w Mt 5,8 staje się makaryzmem szóstym. Ostatnia góra tej Ewangelii jest miejscem nakazu misyjnego (28,16) i jedyną, na której uczniowie są bez tłumu."
+  ],
+  [
+   "widzenie Boga",
+   "Obietnica z Mt 5,8 — τὸν θεὸν ὄψονται (Boga zobaczą) — stoi w Piśmie przeciw zdaniu z Wj 33,20, że człowiek nie może zobaczyć Boga i pozostać żywy. Napięcie jest w Nowym Testamencie podjęte wprost (J 1,18; 1 J 3,2; 1 Kor 13,12), a w teologii stało się podstawą nauki o widzeniu uszczęśliwiającym: Benedykt XII określił je w konstytucji Benedictus Deus (1336), a Tomasz wyłożył w ST I, q. 12 wraz z pojęciem lumen gloriae (światło chwały). Wschód poszedł inną drogą: w sporze hezychastycznym czternastego wieku Grzegorz Palamas utrzymał, że widziane jest nie niedostępna istota Boga, lecz jego nieutworzone działanie. Mt 5,8 jest wersetem, o który obie strony się opierały."
+  ],
+  [
+   "zapłata i jej dwa adresy",
+   "Rzeczownik μισθός (zapłata) ma u Mateusza dziesięć wystąpień i sześć z nich w Kazaniu. Pierwsze pada w Mt 5,12 jako obietnica wielkiej zapłaty w niebiosach dla prześladowanych, a cztery następne są w rozdziale szóstym użyte przeciwnie: kto daje jałmużnę, modli się i pości na pokaz, już odebrał swoją zapłatę od ludzi (6,2.5.16) i u Ojca nie ma jej wcale (6,1). Rozstrzyga adresat, nie czyn — i ten sam rozdział adresatów organizuje Mt 5,16, gdzie dobre czyny mają być widziane przez ludzi, ale chwała ma iść do Ojca."
+  ],
+  [
+   "sól, światło i miasto: trzy obrazy jawności",
+   "Mt 5,13–16 zestawia trzy rzeczy, których własnością jest to, że nie dają się ukryć: sól, która albo soli, albo jest wyrzucana, miasto leżące na górze i lampa, której nikt nie wstawia pod korzec. Żaden z trzech obrazów nie mówi o ilości ani o sile, tylko o widoczności i o użytku; wszystkie trzy mają w zdaniu formę bezwarunkową. Mateusz rozwinie oba sąsiednie porządki osobno: deptanie wyrzuconego wróci w 7,6 przy perłach, lampa w 6,22 przy oku jako lampie ciała, a jawność dobrych czynów zostanie w 6,1–18 obwarowana zakazem czynienia ich na pokaz — i to jedno z dwóch miejsc, w których Kazanie samo siebie ogranicza."
+  ]
+ ],
+ "pericopes": [
+  {
+   "pericope": {
+    "cs": 5,
+    "vs": 1,
+    "ce": 5,
+    "ve": 16,
+    "title": "Błogosławieństwa, sól i światło",
+    "motto": "Beati pauperes spiritu (szczęśliwi ubodzy duchem)",
+    "status": "w_opracowaniu",
+    "position": 9
+   },
+   "intro": "Kazanie zaczyna się od zdań, które nikomu niczego nie nakazują. W w. 3–10 nie ma ani jednego trybu rozkazującego: osiem razy pada przymiotnik μακάριος (szczęśliwy) i osiem razy spójnik ὅτι (bo) z racją. Pierwszy tryb rozkazujący całego Kazania przychodzi w w. 12 — χαίρετε καὶ ἀγαλλιᾶσθε (radujcie się i weselcie) — i jest żądaniem radości, nie czynu. Razem z nim tekst zmienia osobę: osiem makaryzmów mówi o kimś w trzeciej osobie, dziewiąty mówi do kogoś, a w w. 13 i 14 zdanie otwiera się już emfatycznym ὑμεῖς ἐστε (wy jesteście), które w tej Ewangelii twierdząco stoi wyłącznie w tych dwóch miejscach. Punktem zwrotu jest prześladowanie: ósmy makaryzm opisuje prześladowanych jeszcze z zewnątrz, dziewiąty mówi im to samo wprost i podstawia nową przyczynę — już nie sprawiedliwość, lecz osobę mówiącego. Zamknięcie perykopy nie jest przy tym makaryzmem ani obietnicą, lecz celem: żeby ludzie zobaczyli dobre czyny i oddali chwałę Ojcu, który tym jednym wierszem (w. 16) wchodzi do tej Ewangelii po raz pierwszy jako Ojciec.",
+   "blocks": [
+    {
+     "cs": 5,
+     "vs": 1,
+     "ce": 5,
+     "ve": 2,
+     "label": "w. 1–2",
+     "greek": "Ἰδὼν δὲ τοὺς ὄχλους ἀνέβη εἰς τὸ ὄρος, καὶ καθίσαντος αὐτοῦ προσῆλθαν αὐτῷ οἱ μαθηταὶ αὐτοῦ· καὶ ἀνοίξας τὸ στόμα αὐτοῦ ἐδίδασκεν αὐτοὺς λέγων·",
+     "transl": "Ujrzawszy zaś tłumy, wszedł na górę, a gdy usiadł, podeszli do niego uczniowie jego. I otworzywszy usta swoje, nauczał ich, mówiąc:",
+     "units": [
+      [
+       "Ἰδὼν δὲ τοὺς ὄχλους",
+       "ujrzawszy zaś tłumy",
+       "Rzeczownik ὄχλος stoi tu po raz drugi w tej Ewangelii, a po raz pierwszy padł w ostatnim wierszu perykopy poprzedniej, gdzie tłumy liczne poszły za Jezusem z pięciu krain (4,25). Mateusz nie zaczyna więc Kazania od zebrania słuchaczy, lecz od spojrzenia na już zebranych — imiesłów aorystu Ἰδών opisuje czynność wcześniejszą od orzeczenia, czyli zobaczenie poprzedza wstąpienie na górę. Z tego wynika rzecz ważna dla całego Kazania: Jezus wstępuje nie po to, by odejść od tłumu, bo tłum jest przyczyną wstąpienia. Ten sam imiesłów od tego samego czasownika otworzy u Mateusza jeszcze jedno zdanie o tłumach, i będzie to zdanie o litości: ujrzawszy tłumy, ulitował się nad nimi, bo były strudzone jak owce bez pasterza (9,36)."
+      ],
+      [
+       "ἀνέβη εἰς τὸ ὄρος",
+       "wszedł na górę",
+       "Trzy wyrazy brzmią po grecku dokładnie tak, jak brzmi w LXX zdanie o Mojżeszu wstępującym na górę Bożą (Wj 19,3) i jak pytanie psalmu o tym, kto wstąpi na górę Pana (Ps 24,3 według numeracji hebrajskiej, 23,3 w LXX). Rodzajnik przy ὄρος nie wskazuje przy tym żadnej konkretnej góry znanej z opowiadania; grecki rodzajnik z tym rzeczownikiem bywa gatunkowy i oznacza wtedy wyżynę, pogórze, teren wyniesiony nad brzeg jeziora — i tak należy go tu rozumieć, bo wokół Kafarnaum nie ma góry w sensie szczytu. Mateusz ma czasownik ἀναβαίνω dziewięć razy i trzy razy o wstępowaniu na górę: tutaj, na modlitwę w samotności (14,23) i przed uzdrowieniami nad jeziorem (15,29). W rozdziale poprzednim góra była miejscem innej propozycji: na górę bardzo wysoką zabrał Jezusa diabeł i pokazał mu królestwa świata (4,8), a w pierwszym makaryzmie tej perykopy królestwo niebios zostaje nazwane czyimś i nikt go nikomu nie pokazuje."
+      ],
+      [
+       "καθίσαντος αὐτοῦ",
+       "gdy usiadł",
+       "Dopełniacz absolutny z imiesłowem aorystu, konstrukcja grecka bez odpowiednika w polszczyźnie, podaje okoliczność czasową: siedzenie poprzedza podejście uczniów. Pozycja nie jest obojętna. Nauczyciel tej epoki siedział, a słuchający stali albo siadali niżej; Mateusz posługuje się tym samym czasownikiem w zdaniu o uczonych w Piśmie i faryzeuszach, którzy zasiedli na katedrze Mojżesza (23,2), i w zapowiedzi, że Syn Człowieczy zasiądzie na tronie chwały (25,31). Osiem jego wystąpień dzieli się tak, że sześć dotyczy władzy sądzenia albo nauczania, a pierwsze z nich jest tutaj. Marek ma czasownik siadania przy nauczaniu z łodzi (Mk 4,1), Łukasz w swojej wersji mowy nie ma go wcale, bo tam Jezus staje na miejscu równym (Łk 6,17)."
+      ],
+      [
+       "προσῆλθαν αὐτῷ οἱ μαθηταὶ αὐτοῦ",
+       "podeszli do niego uczniowie jego",
+       "Wyraz μαθητής pada tu po raz pierwszy w tej Ewangelii, i pada po powołaniu, nie przy nim: w opowiadaniu o czterech rybakach (4,18–22) Mateusz nie użył go ani razu. Z siedemdziesięciu dwóch jego wystąpień to jest początek, a ostatnie jest czasownikiem nakazu misyjnego — μαθητεύσατε (uczyńcie uczniami, 28,19). Czasownik προσέρχομαι, u Mateusza pięćdziesięciojednokrotny, opisuje ruch ku Jezusowi i w tej księdze jest sposobem, w jaki wprowadzani są rozmówcy: podszedł kusiciel (4,3), podeszli aniołowie (4,11), podchodzą proszący, uczniowie i przeciwnicy. Tu podchodzą uczniowie, a tłumy pozostają tam, gdzie je ujrzano — i na tym jednym czasowniku opiera się całe rozróżnienie słuchaczy Kazania. Rozróżnienie to nie jest przy tym rozdziałem: w 7,28 zdumieją się nauką właśnie tłumy, czyli słyszały ją również. Forma προσῆλθαν jest aorystem mieszanym, z końcówką czasu przeszłego nieokreślonego pierwszego na temacie drugiego — zjawisko regularne w grece hellenistycznej. Kodeks B i nieliczne rękopisy opuszczają zaimek αὐτῷ; zob. noty tekstualne."
+      ],
+      [
+       "ἀνοίξας τὸ στόμα αὐτοῦ",
+       "otworzywszy usta swoje",
+       "Po grecku zwrot jest nadmiarowy, bo nauczanie już zakłada otwarcie ust. Nadmiar jest semicki: פָּתַח פִּיו (patach piw, otworzył usta swoje) jest w Biblii hebrajskiej formułą zapowiadającą mowę długą albo uroczystą, i stoi na przykład w Hi 3,1, gdzie Job po siedmiu dniach milczenia zaczyna mówić. Mateusz użyje jej po raz drugi, przytaczając Ps 78,2 o otwarciu ust w przypowieściach (13,35), i oba miejsca stoją u niego przed wielkimi mowami. Rzeczownik στόμα ma w tej Ewangelii jedenaście wystąpień, a najbliższe wcześniejsze jest w odpowiedzi na pustyni, gdzie człowiek żyje słowem wychodzącym przez usta Boga (4,4). Zestawienie jest ciche i nie zostaje skomentowane: w rozdziale czwartym mówiły usta Boga w przytoczeniu z Księgi Powtórzonego Prawa, w rozdziale piątym otwierają się usta Jezusa bez przytoczenia."
+      ],
+      [
+       "ἐδίδασκεν αὐτοὺς λέγων",
+       "nauczał ich, mówiąc",
+       "Czas przeszły niedokonany ἐδίδασκεν nie opisuje jednego wykładu, lecz czynność rozciągniętą — tak samo jak w 4,23, gdzie nauczanie w synagogach było trybem życia, nie zdarzeniem. Z tego wynika, że trzy rozdziały mowy nie są u Mateusza stenogramem jednego popołudnia, i sam ewangelista niczego takiego nie twierdzi. Czasownik διδάσκω ma u niego czternaście wystąpień, a jego dwa pierwsze stoją w 4,23 i tutaj, czyli w zdaniu zbiorczym i w zdaniu, które to zbiorcze zdanie wypełnia treścią. Zaimek αὐτούς odsyła do uczniów z wiersza poprzedniego, nie do tłumów — i jest to jedyny w tej perykopie wyraz, który adresata nauki w ogóle określa. Imiesłów λέγων wprowadza mowę niezależną wedle składni semickiej, tak samo jak w 3,1–2 przy Chrzcicielu."
+      ]
+     ]
+    },
+    {
+     "cs": 5,
+     "vs": 3,
+     "ce": 5,
+     "ve": 6,
+     "label": "w. 3–6",
+     "greek": "Μακάριοι οἱ πτωχοὶ τῷ πνεύματι, ὅτι αὐτῶν ἐστιν ἡ βασιλεία τῶν οὐρανῶν. μακάριοι οἱ πενθοῦντες, ὅτι αὐτοὶ παρακληθήσονται. μακάριοι οἱ πραεῖς, ὅτι αὐτοὶ κληρονομήσουσιν τὴν γῆν. μακάριοι οἱ πεινῶντες καὶ διψῶντες τὴν δικαιοσύνην, ὅτι αὐτοὶ χορτασθήσονται.",
+     "transl": "Szczęśliwi ubodzy duchem, bo ich jest królestwo niebios. Szczęśliwi, którzy się smucą, bo oni zostaną pocieszeni. Szczęśliwi łagodni, bo oni odziedziczą ziemię. Szczęśliwi łaknący i pragnący sprawiedliwości, bo oni zostaną nasyceni.",
+     "units": [
+      [
+       "Μακάριοι",
+       "szczęśliwi",
+       "Przymiotnik, nie czasownik — i w tym tkwi rozstrzygnięcie, które polskie przekłady zwykle zacierają. Makaryzm nie błogosławi: nie ma w nim ani orzeczenia, ani błogosławiącego, ani prośby. Hebrajski rozdzielał to ostro: אַשְׁרֵי (aszre, szczęśliwy) orzeka o człowieku i otwiera Psałterz (Ps 1,1), a בָּרוּךְ (baruch, błogosławiony) jest formułą, w której błogosławi Bóg albo błogosławi się Bogu. LXX oddaje pierwsze przez μακάριος, drugie przez εὐλογητός, i Mateusz zna oba porządki — εὐλογέω ma w swojej Ewangelii przy łamaniu chlebów (14,19) i przy wjeździe do Jerozolimy (21,9), a tu go nie używa. Utarte polskie „błogosławieni\" zakłada więc błogosławiącego, którego w tekście nie ma; przekład roboczy mówi „szczęśliwi\", bo tyle stoi w grece. Co do liczby: przymiotnik pada u Mateusza trzynaście razy, w tym dziewięć w tym jednym szeregu, i jeszcze cztery razy — o tym, kto się nie zgorszy (11,6), o oczach uczniów (13,16), o Szymonie, któremu objawił Ojciec (16,17), i o słudze, którego pan zastanie czuwającego (24,46)."
+      ],
+      [
+       "οἱ πτωχοὶ τῷ πνεύματι",
+       "ubodzy duchem",
+       "Grecki πτωχός to nie człowiek niezamożny, lecz nędzarz: wyraz pochodzi od πτώσσω (kulić się), a na średni niedostatek greka ma πένης. Celownik τῷ πνεύματι jest celownikiem odniesienia i zacieśnia wyraz, który sam w sobie jest majątkowy. Hebrajskie tło tłumaczy, dlaczego zacieśnienie nie jest dodatkiem z zewnątrz: עֲנָוִים (anawim) znaczy w psalmach i u proroków zarazem pozbawionego środków i pokornego przed Bogiem, i to drugie znaczenie wyrasta z pierwszego, bo kto nie ma obrońcy, ma Boga. Pisma qumrańskie mają całe wyrażenie: עַנְוֵי רוּחַ (anwe ruach, ubodzy duchem) stoi w Regule Wojny wśród tych, przez których Bóg zwycięża (1QM 14,7), a pokrewny zwrot w Regule Zrzeszenia (1QS 4,3). Łukasz ma w tym miejscu samych ubogich bez dopowiedzenia i dokłada „biada wam, bogaci\" (Łk 6,20.24), więc wybiera drugą stronę tego samego hebrajskiego wyrazu. Rozstrzygnięcie Mateuszowe wraca u niego w 11,29, gdzie Jezus nazywa siebie uniżonym sercem, i w 19,21, gdzie ubóstwo jest poleceniem, nie stanem."
+      ],
+      [
+       "ὅτι αὐτῶν ἐστιν ἡ βασιλεία τῶν οὐρανῶν",
+       "bo ich jest królestwo niebios",
+       "Jedyna racja w całym szeregu podana w czasie teraźniejszym — i podana dwa razy, tu i w makaryzmie ósmym (w. 10), co czyni z niej klamrę zamykającą osiem zdań. Sześć racji środkowych ma czasy przyszłe. Z tego wynika rozkład, którego nie trzeba interpretować, bo jest gramatyczny: to, co otwiera i zamyka szereg, już zachodzi, to, co w środku, jest obiecane. Dopełniacz αὐτῶν stoi w zdaniu przed orzeczeniem i jest przez tę pozycję wyróżniony: królestwo należy do nich, a nie do kogo innego. Omowa „niebios\" zamiast imienia Boga jest Mateuszowa i odpowiada rabinicznemu מַלְכוּת שָׁמַיִם (malkut szamajim, królowanie niebios); zdanie o przybliżeniu się królestwa padło dwa razy przed tą perykopą, u Chrzciciela i u Jezusa w identycznym brzmieniu (3,2; 4,17). Teraz królestwo nie jest już blisko — jest czyjeś."
+      ],
+      [
+       "οἱ πενθοῦντες… παρακληθήσονται",
+       "którzy się smucą… zostaną pocieszeni",
+       "Czasownik πενθέω opisuje żałobę jako czynność, nie jako nastrój: obrzęd, post, podarte szaty. U Mateusza ma dwa wystąpienia i drugie jest pytaniem, czy goście weselni mogą się smucić, dopóki pan młody jest z nimi (9,15) — czyli żałoba ma u niego swój czas, a jej zniesienie jest znakiem obecności. Para πενθοῦντες i παρακληθήσονται pochodzi z jednego miejsca Pisma: Iz 61,2 zapowiada pocieszenie wszystkich, którzy się smucą, a wiersz poprzedni tego samego proroctwa mówi o pomazanym Duchem, posłanym ogłosić dobrą nowinę ubogim. Pierwsze dwa makaryzmy Mateusza stoją więc nad dwoma kolejnymi wierszami Izajasza 61, i kolejność jest ta sama. Strona bierna παρακληθήσονται nie podaje sprawcy: to tak zwany passivum divinum (strona bierna Boża), w której podmiotem domyślnym jest Bóg, a jego imię nie pada. Czasownik παρακαλέω ma u Mateusza dziewięć wystąpień, a pierwsze z nich należało do Racheli, która nie chciała przyjąć pocieszenia nad swoimi dziećmi (2,18) — i to jedyne miejsce w tej Ewangelii, gdzie pocieszenie zostaje odrzucone."
+      ],
+      [
+       "οἱ πραεῖς… κληρονομήσουσιν τὴν γῆν",
+       "łagodni… odziedziczą ziemię",
+       "Ten jeden makaryzm jest przytoczeniem, i to niemal dosłownym: Ps 37,11 w wersji greckiej brzmi οἱ δὲ πραεῖς κληρονομήσουσιν γῆν (łagodni zaś odziedziczą ziemię), a Mateusz powtarza trzy wyrazy w tej samej kolejności i dokłada rodzajnik. Formuły wprowadzającej nie ma, imienia psalmu nie ma, i jest to jedyne przytoczenie w całej perykopie — co warto powiedzieć, bo Mateusz w pierwszych czterech rozdziałach oznaczył formułą wypełnienia pięć cytatów, a tu nie oznacza nic. Hebrajski psalm ma w tym miejscu עֲנָוִים, czyli ten sam wyraz, który stoi za ubogimi z w. 3; przekład grecki rozszczepił go na πτωχοί i πραεῖς, a Mateusz zachował oba i dał im dwie różne obietnice: królestwo i ziemię. Przymiotnik πραΰς ma u niego trzy wystąpienia i każde jest ważne: tutaj, w zaproszeniu, gdzie Jezus nazywa siebie łagodnym (11,29), i w przytoczeniu Za 9,9 o królu wjeżdżającym na osiołku (21,5). Jest to więc jedyny przymiotnik, którym Jezus w tej Ewangelii określa siebie, i zarazem przymiotnik wjazdu do miasta, w którym zginie. Rzeczownik γῆ wróci siedem wierszy dalej jako to, czego uczniowie są solą (w. 13)."
+      ],
+      [
+       "οἱ πεινῶντες καὶ διψῶντες τὴν δικαιοσύνην",
+       "łaknący i pragnący sprawiedliwości",
+       "Oba imiesłowy są w czasie teraźniejszym, czyli opisują stan trwający, a biernik τὴν δικαιοσύνην jest przy nich nietypowy: po czasownikach łaknienia i pragnienia greka stawia zwykle dopełniacz części, biernik zaś oznacza przedmiot pożądany w całości. Łukasz ma w tym miejscu samo łaknienie i dokłada „biada wam, nasyceni\" (Łk 6,21.25), więc znów chodzi u niego o głód jedzenia. Mateusz dokłada pragnienie i dokłada przedmiot, a przedmiotem jest wyraz, który w tej Ewangelii ma znaczenie własne. δικαιοσύνη pada u niego siedem razy i nie znaczy Pawłowego usprawiedliwienia: w 3,15 jest tym, co trzeba wypełnić przy chrzcie, w 5,20 miarą, którą trzeba przewyższyć, w 6,1 praktyką pobożną, w 6,33 przedmiotem szukania przed wszystkim innym. Tutaj jest przedmiotem głodu, a w makaryzmie ósmym przyczyną prześladowania (w. 10) — i te dwa wystąpienia dzielą szereg na pół, bo stoją w makaryzmie czwartym i ósmym. Cielesne znaczenie obu imiesłowów Mateusz zresztą zachowuje i zużytkuje w scenie sądu nad narodami, gdzie łaknienie i pragnienie wracają po dwa razy, policzalne i zaspokajane przez ludzi (25,35.37.42.44)."
+      ],
+      [
+       "ὅτι αὐτοὶ χορτασθήσονται",
+       "bo oni zostaną nasyceni",
+       "Czasownik χορτάζω pochodzi od χόρτος (trawa, pasza) i pierwotnie dotyczył nakarmienia bydła do syta; w grece hellenistycznej traci tę barwę, ale nie traci konkretności — znaczy najeść się, nie zaspokoić pragnienie duchowe. U Mateusza cztery wystąpienia i pozostałe trzy należą do opowiadań o rozmnożeniu chlebów: nasycili się wszyscy i zebrano dwanaście koszy (14,20), skąd wziąć tyle chleba, by nasycić taki tłum (15,33), i nasycili się, a ułomków było siedem koszy (15,37). Z tego wynika, że jedyne niecielesne użycie tego czasownika u Mateusza stoi tutaj, a w pozostałych trzech miejscach nasycenie jest wydarzeniem, które ewangelista opowiada w czasie przeszłym. Strona bierna znów nie podaje sprawcy, i jest to trzecia z czterech takich form w szeregu."
+      ]
+     ]
+    },
+    {
+     "cs": 5,
+     "vs": 7,
+     "ce": 5,
+     "ve": 10,
+     "label": "w. 7–10",
+     "greek": "μακάριοι οἱ ἐλεήμονες, ὅτι αὐτοὶ ἐλεηθήσονται. μακάριοι οἱ καθαροὶ τῇ καρδίᾳ, ὅτι αὐτοὶ τὸν θεὸν ὄψονται. μακάριοι οἱ εἰρηνοποιοί, ὅτι αὐτοὶ υἱοὶ θεοῦ κληθήσονται. μακάριοι οἱ δεδιωγμένοι ἕνεκεν δικαιοσύνης, ὅτι αὐτῶν ἐστιν ἡ βασιλεία τῶν οὐρανῶν.",
+     "transl": "Szczęśliwi miłosierni, bo oni miłosierdzia doznają. Szczęśliwi czyści sercem, bo oni Boga zobaczą. Szczęśliwi czyniący pokój, bo oni synami Boga zostaną nazwani. Szczęśliwi prześladowani z powodu sprawiedliwości, bo ich jest królestwo niebios.",
+     "units": [
+      [
+       "οἱ ἐλεήμονες… ἐλεηθήσονται",
+       "miłosierni… miłosierdzia doznają",
+       "Zdanie jest jedynym w szeregu zbudowanym na jednym rdzeniu po obu stronach: ten sam czasownik raz w przymiotniku, raz w stronie biernej. Konstrukcja ma w judaizmie nazwę i prawo — miara za miarę — i Mateusz posługuje się nią jeszcze trzy razy, zawsze w tym samym kierunku: jaką miarą mierzycie, taką wam odmierzą (7,2), odpuść nam, jak i my odpuszczamy (6,12), a przypowieść o nielitościwym dłużniku kończy się odwołaniem darowania długu temu, kto nie darował (18,33–35). Przymiotnik ἐλεήμων jest u Mateusza jedyny, a w LXX należy do Boga: „miłosierny i litościwy\" jest określeniem, które Bóg sam o sobie wypowiada w Wj 34,6 i które psalm powtarza (Ps 103,8). Orzeczenie go o człowieku, i to w zdaniu, którego druga połowa jest stroną bierną bez podmiotu, stawia obie strony w jednym porządku bez ich zrównania. Czasownik ἐλεέω ma u Mateusza osiem wystąpień i poza tym jednym wszystkie są wołaniem o litość kierowanym do Jezusa — dwaj niewidomi (9,27), Kananejka (15,22), ojciec księżycowego chłopca (17,15), znów dwaj niewidomi pod Jerychem (20,30.31)."
+      ],
+      [
+       "οἱ καθαροὶ τῇ καρδίᾳ",
+       "czyści sercem",
+       "Wyrażenie jest przytoczone z psalmu, choć nieoznaczone: Ps 24,4 w wersji greckiej stawia obok siebie niewinnego rękami i καθαρὸς τῇ καρδίᾳ (czystego sercem), a pytanie, na które to jest odpowiedzią, brzmi w wierszu poprzednim: kto wstąpi na górę Pana. Pytanie użyło przy tym tego samego czasownika, którym Mateusz opisał Jezusa siedem wierszy wcześniej (w. 1). Serce nie jest w Biblii siedzibą uczuć, lecz myśli i zamiaru, więc czystość serca nie oznacza wrażliwości, tylko niepodzielność woli; Kazanie wyłoży to w 6,21 skarbem, przy którym serce jest, i w 6,24 niemożliwością dwóch panów. Przymiotnik καθαρός ma u Mateusza trzy wystąpienia i żadne nie dotyczy czystości pokarmów: serce tutaj, wnętrze kielicha wobec umytej powierzchni (23,26) i czyste płótno, w które owinięto ciało (27,59). Rzeczownik καρδία ma szesnaście wystąpień, trzy z nich w Kazaniu (5,8; 5,28; 6,21), i prawie wszystkie o wnętrzu jako miejscu, w którym czyn już się dokonał — cudzołóstwo w sercu (5,28), serce przy skarbie (6,21), usta mówiące z nadmiaru serca (12,34). Hebrajskie לֵב טָהוֹר (lew tahor, serce czyste) jest przy tym w Ps 51,12 przedmiotem prośby o stworzenie, nie warunkiem wstępu, więc oba psalmy mówią o nim przeciwnie — i Mt 5,8 obu nie uzgadnia."
+      ],
+      [
+       "ὅτι αὐτοὶ τὸν θεὸν ὄψονται",
+       "bo oni Boga zobaczą",
+       "Jedyne miejsce całego szeregu, w którym pada wyraz θεός, i jedno z dwóch w ogóle: drugie stoi w następnym wierszu. Rozkład jest wymowny i policzalny. Klamra makaryzmów (w. 3 i 10) używa omowy „królestwo niebios\", unikającej imienia Boga; cztery racje środkowe mają strony bierne bez podmiotu, w których Bóg jest sprawcą nienazwanym; a w samym środku, w makaryzmach szóstym i siódmym, Bóg zostaje nazwany dwa razy wprost — raz jako przedmiot widzenia, raz jako ojciec nadający imię. Obietnica stoi przy tym w Piśmie przeciw zdaniu z Wj 33,20, że człowiek nie może zobaczyć Boga i żyć; napięcie to Nowy Testament podejmuje wprost (J 1,18; 1 J 3,2; 1 Kor 13,12), a teologia nazwała je widzeniem uszczęśliwiającym. Forma ὄψονται jest medialna o znaczeniu czynnym, czas przyszły od ὁράω — czasownika, który u Mateusza stoi sto trzydzieści cztery razy i którego imiesłów otworzył tę perykopę. Zobaczenie tłumów i zobaczenie Boga stoją w tym samym tekście osiem wierszy od siebie i są tym samym wyrazem."
+      ],
+      [
+       "οἱ εἰρηνοποιοί",
+       "czyniący pokój",
+       "Hapaks całego Nowego Testamentu, złożenie z εἰρήνη i ποιέω, poświadczone w grece hellenistycznej jako pochwała władcy, który pokój zaprowadził. Rzeczownik jest odczasownikowy, więc mówi o działaniu, nie o usposobieniu: nie o spokojnych, lecz o tych, którzy pokój robią. Hebrajski szalom tę czynność dopuszcza, bo nie znaczy braku wojny, lecz całość i nienaruszoność stanu rzeczy, a więc naprawianie; zwrot עֹשֵׂה שָׁלוֹם (ose szalom, czyniący pokój) stoi w Hi 25,2 o Bogu. Kazanie ten makaryzm rozwinie dwa razy, i oba razy po linii czynu wobec przeciwnika: pojednanie z bratem przed złożeniem daru (5,23–24) i miłość nieprzyjaciół jako warunek synostwa (5,44–45). Mateusz nie ma natomiast ani jednego zdania, w którym pokój byłby brakiem konfliktu — w 10,34 Jezus mówi wprost, że nie przyszedł przynieść pokoju, lecz miecz."
+      ],
+      [
+       "ὅτι αὐτοὶ υἱοὶ θεοῦ κληθήσονται",
+       "bo oni synami Boga zostaną nazwani",
+       "Strona bierna czasownika καλέω, który w tej Ewangelii przeważnie znaczy nadawanie i noszenie imienia — tak nazwany ma być Jezus (1,21.23.25), tak nazwany będzie Nazarejczykiem (2,23), tak nazwani zostaną wielkimi albo najmniejszymi w królestwie (5,19). Tutaj nazwanie jest sprawą Boga, bo nadaje imię mówiące o Nim samym. Dopełniacz θεοῦ stoi bez rodzajnika, co w grece hellenistycznej nie jest znaczące, ale sam zwrot „synowie Boga\" jest w Piśmie zarezerwowany i rzadki: dotyczy istot niebieskich (Hi 1,6), króla (Ps 2,7) i Izraela jako ludu (Oz 11,1 — wiersz, który Mateusz przytoczył w 2,15 o Jezusie). Jego orzeczenie o czyniących pokój jest zatem rozszerzeniem tytułu, nie pochwałą. Kazanie poda warunek tego samego synostwa jeszcze raz, i poda go trudniej: synami Ojca są ci, którzy miłują nieprzyjaciół, bo On każe słońcu wschodzić nad złymi i dobrymi (5,45). Kodeks Sinaiticus, C, D, rodzina f13 i część tradycji łacińskiej opuszczają tu zaimek αὐτοί; zob. noty tekstualne."
+      ],
+      [
+       "οἱ δεδιωγμένοι ἕνεκεν δικαιοσύνης",
+       "prześladowani z powodu sprawiedliwości",
+       "Imiesłów bierny czasu przeszłego dokonanego — czynność zakończona, stan trwający — i jedyna taka forma w całym szeregu, gdzie wszystkie pozostałe określenia są przymiotnikami albo imiesłowami czasu teraźniejszego. Prześladowanie nie jest zatem opisane jako coś, co się właśnie dzieje, lecz jako coś, co się dokonało i trwa jako skutek. Racja powtarza wyraz z makaryzmu czwartego: δικαιοσύνη (sprawiedliwość) stoi w w. 6 jako przedmiot głodu, a tu jako przyczyna prześladowania, i oba wystąpienia dzielą osiem zdań dokładnie na pół. Druga połowa racji jest powtórzeniem w. 3 co do wyrazu, przez co ósmy makaryzm zamyka klamrę i kończy szereg tam, gdzie się zaczął. Przyimek ἕνεκεν (z powodu) ma u Mateusza siedem wystąpień i wróci w wierszu następnym, z innym dopełnieniem: nie sprawiedliwości, lecz mnie. Czasownik διώκω stoi u Mateusza sześć razy i trzy z nich w tej perykopie; pozostałe to nakaz modlitwy za prześladowców (5,44), zapowiedź ucieczki z miasta do miasta (10,23) i wyrzut wobec tych, którzy będą prześladować posłanych (23,34)."
+      ]
+     ]
+    },
+    {
+     "cs": 5,
+     "vs": 11,
+     "ce": 5,
+     "ve": 12,
+     "label": "w. 11–12",
+     "greek": "μακάριοί ἐστε ὅταν ὀνειδίσωσιν ὑμᾶς καὶ διώξωσιν καὶ εἴπωσιν πᾶν πονηρὸν καθʼ ὑμῶν [ψευδόμενοι] ἕνεκεν ἐμοῦ. χαίρετε καὶ ἀγαλλιᾶσθε, ὅτι ὁ μισθὸς ὑμῶν πολὺς ἐν τοῖς οὐρανοῖς· οὕτως γὰρ ἐδίωξαν τοὺς προφήτας τοὺς πρὸ ὑμῶν.",
+     "transl": "Szczęśliwi jesteście, kiedy was znieważą i będą prześladować, i powiedzą wszystko złe przeciw wam [kłamiąc] z powodu mnie. Radujcie się i weselcie, bo zapłata wasza wielka w niebiosach. Tak bowiem prześladowali proroków przed wami.",
+     "units": [
+      [
+       "μακάριοί ἐστε",
+       "szczęśliwi jesteście",
+       "Ten sam przymiotnik co osiem razy wcześniej, ale po raz pierwszy z orzeczeniem i w drugiej osobie. Zmiana jest jedynym zabiegiem składniowym w tej perykopie, który zmienia adresata, i dokonuje się dokładnie w tym miejscu, gdzie tematem jest prześladowanie. Dotąd Jezus mówił o kimś, teraz mówi do kogoś — a zaimek „was\" pada w tych dwóch wierszach pięć razy. Z tego wynika, że dziewiąty makaryzm nie jest dziewiątym członem szeregu, lecz jego przełożeniem: ósmy opisał prześladowanych z zewnątrz, dziewiąty zwraca się do nich. Dlatego liczenie tych zdań jako ośmiu albo dziewięciu nie jest sporem o rachunek: osiem ma wspólną budowę i wspólną klamrę, a dziewiąte ma budowę inną, jest trzykrotnie dłuższe i jedyne zawiera tryb rozkazujący."
+      ],
+      [
+       "ὅταν ὀνειδίσωσιν ὑμᾶς καὶ διώξωσιν",
+       "kiedy was znieważą i będą prześladować",
+       "Spójnik ὅταν z trybem łączącym mówi o zdarzeniu przewidywanym, lecz nieokreślonym w czasie, czyli nie zapowiada ani nie zakłada, że już nastąpiło. Pierwszy czasownik jest mniej ostry i bardziej dotykliwy: ὀνειδίζω znaczy wymawiać komuś coś publicznie, lżyć w obecności innych. U Mateusza ma trzy wystąpienia i trzecie zamyka klamrę, której tekst nie komentuje — tak lżyli Jezusa współukrzyżowani (27,44). Co zapowiedziano uczniom, dzieje się więc najpierw z nauczycielem, a słownictwo jest to samo. Drugi czasownik powtarza wyraz z poprzedniego wiersza i wróci trzeci raz w w. 12, już w czasie przeszłym o prorokach: trzy wystąpienia w trzech wierszach i trzy różne czasy — dokonany, łączący, przeszły nieokreślony. Część ważnych świadków, między innymi Sinaiticus i W, ma tu formę czasu przyszłego διώξουσιν zamiast trybu łączącego; zob. noty tekstualne."
+      ],
+      [
+       "εἴπωσιν πᾶν πονηρὸν καθʼ ὑμῶν [ψευδόμενοι]",
+       "powiedzą wszystko złe przeciw wam [kłamiąc]",
+       "Trzeci członek jest najbardziej konkretny z trzech: nie przemoc, lecz oskarżenie — i to oskarżenie fałszywe, jeśli przyjąć imiesłów stojący w wydaniu krytycznym w nawiasie kwadratowym. Nawias znaczy, że wydawcy nie rozstrzygnęli: kodeks D, tradycja starołacińska i starosyryjski sinajski go nie mają, a wraz z nimi nie ma go Tertulian. Decyzja jest niebagatelna, bo bez tego wyrazu makaryzm obejmuje każde zniesławienie, a z nim tylko kłamliwe. Przymiotnik πονηρός ma u Mateusza dwadzieścia sześć wystąpień i jest jego wyrazem na zło czynne, nie na zło jako brak; πᾶν πονηρόν bez rzeczownika jest zwrotem zbiorczym — wszystko, co złe. Mateusz zna zresztą oskarżenia fałszywe z własnego opowiadania: w 26,59–61 szukają świadków przeciw Jezusowi, a w 12,24 przypisują mu władzę Belzebuba. Noty tekstualne notują przy tym wiersz jako jedno z najgęściej obciążonych wariantami miejsc tego rozdziału — pięć znaków aparatu w jednym zdaniu."
+      ],
+      [
+       "ἕνεκεν ἐμοῦ",
+       "z powodu mnie",
+       "Dwa wyrazy, które zmieniają cały szereg. Makaryzm ósmy podał przyczynę prześladowania jako sprawiedliwość (w. 10), dziewiąty podstawia w tym samym przyimku osobę mówiącego, i jest to pierwsze miejsce Kazania, w którym Jezus mówi o sobie. Dotąd mówił o królestwie, o ubogich, o łagodnych i o Bogu; teraz stawia siebie jako rację, dla której warto być lżonym. Zaimek jest w formie wzmocnionej ἐμοῦ, nie enklitycznej μου, co po grecku jest wyróżnieniem. Konsekwencja wychodzi dalej: w 10,18 uczniowie będą stawiani przed władcami ἕνεκεν ἐμοῦ, w 10,39 i 16,25 ten sam przyimek z tym samym zaimkiem mówi o straceniu życia. Mateusz ma więc w Kazaniu wcześniejsze o pięć rozdziałów wprowadzenie formuły, której pełną wagę ujawni mowa misyjna. Tradycja rękopiśmienna tę mocną lekcję dwa razy złagodziła: D i część tradycji łacińskiej mają tu „z powodu sprawiedliwości\", obie wersje starosyryjskie — „z powodu imienia mojego\", jak w Łk 21,12; zob. noty tekstualne."
+      ],
+      [
+       "χαίρετε καὶ ἀγαλλιᾶσθε",
+       "radujcie się i weselcie",
+       "Pierwsze dwa tryby rozkazujące Kazania na górze — i nie żądają czynu, tylko radości. Z tego wynika rzecz, którą warto postawić wprost: trzy rozdziały pouczeń zaczynają się nie od nakazu, lecz od oznajmień, a pierwszy rozkaz dotyczy postawy wobec cudzej przemocy. Drugi czasownik jest kultowy: ἀγαλλιάομαι należy w LXX do psalmów pochwalnych i opisuje radość wykrzykiwaną, nie przeżywaną w milczeniu; u Mateusza jest hapaksem. Pierwszy ma u niego sześć wystąpień i rozkład nieoczywisty — radowali się magowie nad gwiazdą (2,10), raduje się pasterz nad odnalezioną owcą (18,13), a w scenach męki ten sam wyraz jest zwykłym powitaniem w ustach Judasza i żołnierzy, czyli „witaj\" (26,49; 27,29). Jedyne inne miejsce Nowego Testamentu, gdzie radość jest odpowiedzią na zniewagę, jest Łukaszowe: apostołowie odchodzą z Sanhedrynu radując się, że stali się godni cierpieć zniewagę za imię (Dz 5,41)."
+      ],
+      [
+       "ὁ μισθὸς ὑμῶν πολὺς ἐν τοῖς οὐρανοῖς",
+       "zapłata wasza wielka w niebiosach",
+       "Rzeczownik należy do prawa najmu, nie do języka daru: μισθός jest tym, co się robotnikowi należy, i Kazanie wyzyska tę barwę do końca. Sześć z dziesięciu Mateuszowych wystąpień stoi w rozdziałach piątym i szóstym, a cztery z nich mówią o zapłacie już odebranej — kto daje jałmużnę, modli się i pości na pokaz, odebrał swoje od ludzi (6,2.5.16) i u Ojca nie ma nic (6,1). Rozstrzyga adresat, nie czyn. Przymiotnik πολύς bez rodzajnika jest orzecznikiem w zdaniu bez orzeczenia — po grecku samo „zapłata wasza wielka\" — i nie podaje ani miary, ani czym zapłata jest. Hebrajskie שָׂכָר (sachar, zapłata) ma w Rdz 15,1 rozstrzygnięcie, którego Mateusz nie powtarza: tam Pan mówi Abramowi, że sam jest jego zapłatą wielką. Określenie „w niebiosach\" nie oznacza przy tym miejsca przechowania, lecz to samo, co omowa z w. 3 — należność u Boga."
+      ],
+      [
+       "οὕτως γὰρ ἐδίωξαν τοὺς προφήτας",
+       "tak bowiem prześladowali proroków",
+       "Racja dla rozkazu radości jest historyczna, nie eschatologiczna: prześladowanie jest w Izraelu losem proroka, więc ci, których lżą, stają w ciągu, nie poza nim. Podmiot zdania jest nieokreślony — trzecia osoba liczby mnogiej bez wskazania, kto — i dokładnie tak samo nieokreślony jest podmiot trzech czasowników w wierszu poprzednim. Mateusz rozwinie ten wiersz w mowie przeciw uczonym w Piśmie, gdzie budowanie grobów prorokom zostaje nazwane przyznaniem się do ojców, którzy ich zabili (23,29–32), a posłanym zapowiedziane jest bicie w synagogach i ściganie z miasta do miasta tym samym czasownikiem (23,34). Samo twierdzenie o losie proroków jest w Piśmie poświadczone: 2 Krn 36,15–16 streszcza je jako wyszydzenie wszystkich posłanych, a Jr 26,20–23 opowiada o zabiciu Uriasza. Rzeczownik προφήτης ma u Mateusza trzydzieści siedem wystąpień, najwięcej ze wszystkich Ewangelii, i przeważnie wprowadza przytoczenie — tutaj nie wprowadza żadnego. Dopowiedzenie τοὺς πρὸ ὑμῶν (tych przed wami) opuszcza starosyryjski sinajski, a kodeks D czyta w tym miejscu inaczej; zob. noty tekstualne."
+      ]
+     ]
+    },
+    {
+     "cs": 5,
+     "vs": 13,
+     "ce": 5,
+     "ve": 16,
+     "label": "w. 13–16",
+     "greek": "Ὑμεῖς ἐστε τὸ ἅλας τῆς γῆς· ἐὰν δὲ τὸ ἅλας μωρανθῇ, ἐν τίνι ἁλισθήσεται; εἰς οὐδὲν ἰσχύει ἔτι εἰ μὴ βληθὲν ἔξω καταπατεῖσθαι ὑπὸ τῶν ἀνθρώπων. Ὑμεῖς ἐστε τὸ φῶς τοῦ κόσμου. οὐ δύναται πόλις κρυβῆναι ἐπάνω ὄρους κειμένη· οὐδὲ καίουσιν λύχνον καὶ τιθέασιν αὐτὸν ὑπὸ τὸν μόδιον ἀλλʼ ἐπὶ τὴν λυχνίαν, καὶ λάμπει πᾶσιν τοῖς ἐν τῇ οἰκίᾳ. οὕτως λαμψάτω τὸ φῶς ὑμῶν ἔμπροσθεν τῶν ἀνθρώπων, ὅπως ἴδωσιν ὑμῶν τὰ καλὰ ἔργα καὶ δοξάσωσιν τὸν πατέρα ὑμῶν τὸν ἐν τοῖς οὐρανοῖς.",
+     "transl": "Wy jesteście sól ziemi. Jeśliby zaś sól zgłupiała, czym będzie posolona? Na nic już nie ma siły, chyba żeby wyrzucona na zewnątrz była deptana przez ludzi. Wy jesteście światło świata. Nie może się ukryć miasto leżące na górze. Ani nie zapalają lampy i nie stawiają jej pod korcem, lecz na świeczniku, i świeci wszystkim, którzy są w domu. Tak niech zaświeci światło wasze wobec ludzi, żeby zobaczyli wasze dobre czyny i oddali chwałę Ojcu waszemu, temu w niebiosach.",
+     "units": [
+      [
+       "Ὑμεῖς ἐστε τὸ ἅλας τῆς γῆς",
+       "wy jesteście sól ziemi",
+       "Zaimek osobowy przy orzeczeniu, które go nie potrzebuje, jest po grecku emfazą — i to zestawienie, ὑμεῖς ἐστε, stoi u Mateusza twierdząco wyłącznie tutaj i w wierszu następnym. Trzecie wystąpienie jest zaprzeczone i mówi coś przeciwnego: to nie wy jesteście mówiącymi, lecz Duch Ojca waszego (10,20). Zdanie nie zawiera porównania ani warunku — nie mówi „macie być\" ani „jesteście jak\", lecz orzeka. Dopełniacz τῆς γῆς powtarza rzeczownik z makaryzmu trzeciego, gdzie ziemia była tym, co łagodni odziedziczą (w. 5); w jednej perykopie ten sam wyraz jest więc raz obietnicą, raz terenem zadania. Sól jest w Piśmie w dwóch porządkach i oba są obecne w tle. Przymierza: każda ofiara z pokarmów ma być posolona (Kpł 2,13), a prawa kapłanów i prawo Dawida do królowania są nazwane przymierzem soli (Lb 18,19; 2 Krn 13,5). Zniszczenia: ziemia spalona siarką i solą (Pwt 29,22) i Abimelek zasiewający solą zdobyte miasto (Sdz 9,45). Mateusz nie wskazuje żadnego z nich, a dalszy ciąg wiersza idzie w stronę drugą."
+      ],
+      [
+       "ἐὰν δὲ τὸ ἅλας μωρανθῇ",
+       "jeśliby zaś sól zgłupiała",
+       "Czasownik μωραίνω znaczy po grecku „uczynić głupim\" i do soli nie pasuje: w pozostałych trzech wystąpieniach Nowego Testamentu dotyczy rozumu (Rz 1,22; 1 Kor 1,20). Anomalia jest najprawdopodobniej śladem podłoża semickiego, w którym jeden rdzeń obejmuje brak smaku i brak sensu — hebrajskie תָּפֵל (tafel) nazywa w Hi 6,6 pokarm niesolony. Tłumacz wybrał znaczenie drugie i zostawił w grece zdanie o soli, która zgłupiała; przekład roboczy tę anomalię zachowuje, bo jej wygładzenie usuwa świadectwo o języku źródła. Rzecz sama, czyli sól tracąca słoność, nie jest przy tym niemożliwością fizyczną: sól wydobywana z okolic Morza Martwego i ze zboczy Dżebel Usdum jest skałą zmieszaną z gipsem i innymi solami, z której chlorek sodu wymywa się pierwszy, a zostaje proszek słony już tylko z nazwy. Pytanie retoryczne ἐν τίνι ἁλισθήσεται (czym będzie posolona) jest w literaturze rabinicznej poświadczone jako zagadka o rzeczy niemożliwej; odpowiedź w Talmudzie babilońskim obraca ją w żart i siglum tego miejsca wymaga sprawdzenia."
+      ],
+      [
+       "καταπατεῖσθαι ὑπὸ τῶν ἀνθρώπων",
+       "była deptana przez ludzi",
+       "Bezokolicznik strony biernej zależny od wyrażenia o bezużyteczności: sól niedobra do niczego jeszcze oprócz tego, że po wyrzuceniu po niej chodzą. Mateusz użyje tego czasownika po raz drugi w tym samym Kazaniu, o świniach depczących perły (7,6), a oba miejsca mówią o rzeczy wartościowej, która znalazła się nie tam, gdzie powinna. Rzeczownik ἄνθρωπος pada w tej perykopie dwa razy, i to rozstrzyga o jej budowie: tutaj ludzie depczą, w w. 16 ludzie patrzą i oddają chwałę. Od jednego do drugiego nie ma w tekście żadnego przejścia poza obrazem lampy. Konstrukcja εἰς οὐδὲν ἰσχύει (na nic nie ma siły) używa czasownika oznaczającego zdolność i moc, u Mateusza czterokrotnego (8,28; 9,12; 26,40); w 9,12 to samo słowo mówi o zdrowych, którzy nie potrzebują lekarza. Przysłówek ἔτι (już) opuszczają D, W, tradycja starołacińska i trzy wersje syryjskie, a wraz z nimi Cyprian; drugi wariant dotyczy składni samego wyrzucenia. Zob. noty tekstualne."
+      ],
+      [
+       "Ὑμεῖς ἐστε τὸ φῶς τοῦ κόσμου",
+       "wy jesteście światło świata",
+       "Drugie i ostatnie twierdzące ὑμεῖς ἐστε tej Ewangelii, w budowie bliźniaczej wobec poprzedniego: ten sam zaimek, to samo orzeczenie, ten sam rodzajnik przy orzeczniku. Zmienia się dopełniacz — nie ziemia, lecz świat — a wyraz κόσμος ma u Mateusza dziewięć wystąpień i pierwsze należało do diabła, który pokazał Jezusowi królestwa świata (4,8). Rzeczownik φῶς stoi u Mateusza siedem razy, a dwa pierwsze w przytoczeniu Izajasza o świetle, które wzeszło ludowi siedzącemu w ciemności (4,16). Teraz tym samym wyrazem nazwani są uczniowie, bez słowa wyjaśnienia, jak jedno ma się do drugiego; czwarta Ewangelia tę relację rozstrzyga, kładąc ten sam wyraz w usta Jezusa o sobie (J 8,12), a Mateusz nie ma takiego zdania ani razu. Zestawienie, które za to ma, jest ostrzejsze: światłem świata są ci, o których w wierszu poprzednim powiedziano, że mogą się stać bezużyteczni."
+      ],
+      [
+       "οὐ δύναται πόλις κρυβῆναι ἐπάνω ὄρους κειμένη",
+       "nie może się ukryć miasto leżące na górze",
+       "Zdanie nie jest poleceniem i nie zawiera trybu rozkazującego — stwierdza niemożliwość. Czasownik κρύπτω ma u Mateusza siedem wystąpień i wszystkie pozostałe dotyczą rzeczy ukrytych skutecznie i celowo: Ojciec ukrył objawienie przed mądrymi (11,25), skarb jest ukryty w roli (13,44), talent zakopany w ziemi (25,18.25). Tylko tutaj ukrycie jest niewykonalne. Rzeczownik ὄρος pada w tej perykopie po raz drugi, trzynaście wierszy po pierwszym (w. 1), a razem z górą bardzo wysoką z 4,8 daje trzy góry w dwóch sąsiadujących rozdziałach. Miast na wzniesieniach było w Galilei i wokół niej dość, by obraz nie wymagał objaśnienia — Sefforis na wzgórzu pod Nazaretem, Hippos nad wschodnim brzegiem jeziora, później Safed — i nie ma potrzeby szukać dla tego wiersza jednego pierwowzoru. Tło biblijne jest natomiast jedno i mocne: Iz 2,2–3 o górze domu Pana wyniesionej nad wzgórza, do której pójdą narody, i Iz 60,1–3 o narodach idących do twojego światła. Oba miejsca mówią o Jerozolimie, a Mateusz mówi o uczniach i Jerozolimy nie wymienia."
+      ],
+      [
+       "οὐδὲ καίουσιν λύχνον… ὑπὸ τὸν μόδιον",
+       "ani nie zapalają lampy… pod korcem",
+       "Obraz jest z jednej izby i trzeba go widzieć w jej rozmiarach. λύχνος jest glinianą lampką oliwną wielkości dłoni, jedyną w domu i zapalaną na całą noc; λυχνία jest podstawką albo wnęką w ścianie, a nie siedmioramiennym świecznikiem przybytku, który w LXX nosi tę samą nazwę (Wj 25,31–40). μόδιος to łacińskie modius, miara ciał sypkich około ośmiu i trzech czwartych litra i naczynie tej miary — jeden z łacinizmów tej Ewangelii, obok κῆνσος (17,25; 22,17), κοδράντης (5,26), μίλιον (5,41), πραιτώριον (27,27) i κουστωδία (27,65.66; 28,11); trzy z nich stoją w tym samym rozdziale piątym. Wstawienie zapalonej lampy pod naczynie nie jest w izbie z jednym pomieszczeniem sposobem ukrycia światła, lecz sposobem jego zgaszenia, bo pod przewróconym korcem ogień gaśnie z braku powietrza. Czasownik καίω jest u Mateusza hapaksem, a cały obraz ma u Marka i Łukasza trzy inne wersje (Mk 4,21; Łk 8,16; 11,33), w których lampa jest stawiana pod łożem albo w piwnicy. Trzy czasowniki tego wiersza stoją w trzeciej osobie liczby mnogiej bez podmiotu — nikt tak nie robi — i to jest w grece zwyczajny sposób mówienia o tym, co się robi albo czego się nie robi."
+      ],
+      [
+       "οὕτως λαμψάτω τὸ φῶς ὑμῶν ἔμπροσθεν τῶν ἀνθρώπων",
+       "tak niech zaświeci światło wasze wobec ludzi",
+       "Trzeci i ostatni tryb rozkazujący perykopy, a pierwszy, który dotyczy czynu. Forma λαμψάτω jest trzecią osobą rozkaźnika czasu przeszłego nieokreślonego, czyli żąda czynności jako całości, nie trwania — inaczej niż χαίρετε i ἀγαλλιᾶσθε z w. 12, które są rozkaźnikami czasu teraźniejszego. Podmiotem nakazu nie są przy tym uczniowie, lecz ich światło: po grecku zdanie nie mówi „świećcie\", mówi „niech zaświeci światło wasze\". Czasownik λάμπω pada w dwóch sąsiednich wierszach, raz oznajmująco o lampie, raz rozkazująco o uczniach, a trzeci raz zabłyśnie na górze przemienienia, gdzie oblicze Jezusa zajaśniało jak słońce (17,2). Wyrażenie ἔμπροσθεν τῶν ἀνθρώπων (wobec ludzi) jest tym samym, które w 6,1 zostanie zakazane: nie czyńcie waszej sprawiedliwości przed ludźmi, żeby was widzieli. Sprzeczności nie ma, ale nie wolno jej też zbywać: oba zdania mówią o widzeniu i różnią się wyłącznie tym, kto ma odnieść z niego korzyść."
+      ],
+      [
+       "ὅπως ἴδωσιν ὑμῶν τὰ καλὰ ἔργα",
+       "żeby zobaczyli wasze dobre czyny",
+       "Rzeczownik ἔργον pada tu po raz pierwszy u Mateusza i jego dalsze wystąpienia pokazują, jak dwuznaczne jest to polecenie. Chrzciciel z więzienia posyła pytanie o czyny Pomazańca (11,2), mądrość zostaje usprawiedliwiona przez swoje czyny (11,19) — a w mowie przeciw uczonym w Piśmie wszystkie ich czyny są czynione, żeby je ludzie widzieli (23,5), i nie należy ich naśladować (23,3). Ten sam wyraz w tej samej Ewangelii opisuje więc i nakaz z w. 16, i jego nadużycie. Przymiotnik καλός znaczy zarówno dobry, jak piękny i widoczny jako dobry; Kazanie użyje go trzy razy o drzewie i jego owocu (7,17–19), gdzie sprawdzalność jest całą treścią obrazu. Zdanie podrzędne z ὅπως podaje cel pierwszy, ale nie ostatni: po nim następuje jeszcze jeden czasownik i on dopiero zamyka zdanie."
+      ],
+      [
+       "καὶ δοξάσωσιν τὸν πατέρα ὑμῶν τὸν ἐν τοῖς οὐρανοῖς",
+       "i oddali chwałę Ojcu waszemu, temu w niebiosach",
+       "Bóg zostaje tu nazwany Ojcem po raz pierwszy w tej Ewangelii. Cztery wcześniejsze wystąpienia rzeczownika πατήρ dotyczą ojca Archelaosa (2,22), Abrahama (3,9) i Zebedeusza, który został w łodzi (4,21.22); teraz, w wierszu zamykającym perykopę, pada omowa, która u Mateusza wróci dziesięć razy w pełnym brzmieniu z ἐν (τοῖς) οὐρανοῖς i siedem razy w postaci przymiotnikowej ὁ πατὴρ ὁ οὐράνιος (5,48; 6,14.26.32; 15,13; 18,35; 23,9). Miejsce pierwszego wystąpienia jest niebanalne: nie modlitwa, nie nauka o Bogu, lecz zdanie o jawności czynów. Wezwanie przyjdzie w następnym rozdziale (6,9). Czasownik δοξάζω ma u Mateusza cztery wystąpienia i wszystkie cztery rozstrzyga adresat: tu chwała ma iść do Ojca, w 6,2 obłudnicy działają, żeby chwalili ich ludzie, a w 9,8 i 15,31 tłumy oddają chwałę Bogu po uzdrowieniach. Zdanie zamyka przy tym perykopę tym samym wyrazem, którym zamknięto makaryzm pierwszy i ósmy — niebiosa — i jest to jedyna klamra, jaką Mateusz nad tymi szesnastoma wierszami stawia."
+      ]
+     ]
+    }
+   ],
+   "struktura": "Szesnaście wierszy rozkłada się na trzy części o różnej składni, a nie o różnej treści. Pierwsza (w. 1–2) jest narracyjna i zbudowana z trzech imiesłowów podległych trzem orzeczeniom: ujrzawszy — wszedł, gdy usiadł — podeszli, otworzywszy usta — nauczał. Druga (w. 3–12) jest szeregiem makaryzmów, z których osiem obywa się bez orzeczenia: po przymiotniku następuje grupa określeń i racja z ὅτι. Trzecia (w. 13–16) jest mową w drugiej osobie, z dwoma zdaniami orzekającymi i jednym nakazem.\n\nSzereg makaryzmów ma budowę policzalną. Osiem zdań (w. 3–10) ma identyczny szkielet: μακάριοι, określenie w liczbie mnogiej z rodzajnikiem, ὅτι, racja. Pierwsze i ósme mają tę samą rację co do wyrazu — αὐτῶν ἐστιν ἡ βασιλεία τῶν οὐρανῶν — i to one zamykają szereg klamrą. Sześć racji środkowych ma czasy przyszłe, z czego cztery w stronie biernej bez podanego sprawcy. Imię Boga nie pada w tym szeregu ani razu w klamrze, a w samym jego środku pada dwa razy: Boga zobaczą (w. 8), synami Boga zostaną nazwani (w. 9).\n\nPierwsze cztery określenia zaczynają się po grecku na tę samą literę: πτωχοί, πενθοῦντες, πραεῖς, πεινῶντες. Zbieżność nie jest dowodem niczego, ale jest zbyt dokładna, by ją przemilczeć, i dzieli szereg na pół w tym samym miejscu, w którym dzieli go wyraz δικαιοσύνη (sprawiedliwość): pada on w makaryzmie czwartym (w. 6) i ósmym (w. 10).\n\nWiersze 11–12 nie są dziewiątym członem szeregu, lecz jego przełożeniem na drugą osobę. Mają trzykrotnie większą objętość, dwa tryby rozkazujące, własną rację historyczną o prorokach i nową przyczynę prześladowania: nie sprawiedliwość, lecz osobę mówiącego. Przejście z trzeciej osoby na drugą dokonuje się zatem na prześladowaniu i nigdzie indziej.\n\nWiersze 13 i 14 otwierają się identycznie: Ὑμεῖς ἐστε. Zestawienie to stoi u Mateusza twierdząco tylko tutaj, a trzeci raz pojawia się zaprzeczone (10,20). Oba zdania są orzekające, oba mają dopełniacz zakresu — ziemi, świata — i oba zostają rozwinięte obrazem o tej samej budowie: najpierw niemożliwość (sól bezużyteczna, miasto, które nie ukryje się), potem to, czego nikt nie robi (lampa pod korcem).\n\nWiersz 16 nie zamyka perykopy makaryzmem ani obietnicą, lecz celem — i to celem podwójnym, w dwóch zdaniach podrzędnych: żeby ludzie zobaczyli i żeby oddali chwałę Ojcu. Ostatnim wyrazem perykopy są niebiosa, czyli ten sam wyraz, który zamknął makaryzm pierwszy i ósmy.",
+   "sections": [
+    {
+     "type": "kontekst",
+     "title": "Kontekst historyczny, językowy, kulturowy i religijny",
+     "body": "Makaryzm nie jest wynalazkiem Kazania. Jest gatunkiem, który judaizm Drugiej Świątyni miał na własność od stuleci i którym posługiwał się w psalmach, w mądrości i w tekstach z Qumran; jego budowa, liczba członów i obyczaj łączenia w szeregi są poświadczone niezależnie. Poniżej kolejno: gatunek i jego hebrajska formuła, qumrański szereg makaryzmów, miejsce nauczania i postawa nauczyciela, dwa realia ostatniej części — sól z okolic Morza Martwego i jednoizbowy dom z jedną lampą — oraz pytanie o to, kto właściwie prześladuje w w. 10–12.",
+     "children": [
+      [
+       "Formuła, która orzeka, a nie błogosławi",
+       "Hebrajski rozdzielał dwa typy zdań, które grecki i polski zlewają. אַשְׁרֵי (aszre) jest formą liczby mnogiej w stanie związanym, nie ma orzeczenia i orzeka o człowieku: szczęśliwy, godny zazdrości jest ten, kto. Formuła otwiera Psałterz (Ps 1,1) i wraca w nim około dwudziestu pięciu razy, zawsze z podmiotem ludzkim i nigdy z Bogiem jako sprawcą zdania. בָּרוּךְ (baruch) jest biernym imiesłowem i należy do liturgii: błogosławi Bóg człowieka albo człowiek Boga. Septuaginta oddaje pierwsze przez μακάριος, drugie przez εὐλογητός, a Mateusz operuje oboma porządkami — εὐλογέω stoi u niego przy łamaniu chleba (14,19), przy wjeździe do Jerozolimy (21,9) i przy Wieczerzy (26,26). W Mt 5,3–12 nie ma go ani razu.\n\nZ tego wynika coś dla wszystkich przekładów. Utarte „błogosławieni\" zakłada błogosławiącego i akt błogosławieństwa, a formuła, którą Mateusz wybrał, ani jednego, ani drugiego nie zawiera. Makaryzm w judaizmie jest rozpoznaniem stanu, często przewrotnym, bo za szczęśliwego uznaje tego, komu nikt by nie zazdrościł. Mądrość Syracha ma całe szeregi takich zdań (Syr 25,7–10) i szeregi przeciwne, czyli „biada\"; Łukasz ma u siebie i jedno, i drugie (Łk 6,20–26), Mateusz tylko pierwsze — ale „biada\" dołoży osiem razy w rozdziale dwudziestym trzecim, na końcu księgi, nie na początku. Liczba członów nie była przy tym w gatunku wiążąca: szeregi w literaturze międzytestamentowej mają od trzech do dziewięciu zdań, a liczba osiem nie jest niczym wyróżniona. Numeracja psalmów i brzmienia Syracha wymagają sprawdzenia w wydaniach."
+      ],
+      [
+       "Qumran: szereg makaryzmów i ubodzy duchem",
+       "Najbliższy formalnie przedchrześcijański odpowiednik Mt 5,3–10 nie jest psalmem ani tekstem mądrościowym z kanonu, lecz zwojem z Qumran. Tekst oznaczony sygnaturą 4Q525 zawiera szereg zdań otwieranych hebrajską formułą אַשְׁרֵי, z których zachowało się kilka krótkich i jedno dłuższe na końcu, a przedmiotem pochwały jest w nich postawa wobec Prawa i mądrości. Zbieżność z Mateuszem dotyczy trzech rzeczy naraz: tej samej formuły, układu w szereg i zamknięcia szeregu członem dłuższym od pozostałych — a dokładnie tak zbudowane są w. 11–12 wobec w. 3–10. Nie wynika z tego żadna zależność tekstowa i nie należy jej sugerować; wynika tylko tyle, że układ, który Mateusz podaje, był w jego środowisku znany jako forma.\n\nDruga zbieżność jest leksykalna i dotyczy pierwszego makaryzmu. Wyrażenie עַנְוֵי רוּחַ (anwe ruach, ubodzy duchem) stoi w Regule Wojny wśród tych, przez których Bóg zwycięża w walce ostatecznej (1QM 14,7), a pokrewny zwrot o uniżeniu ducha w Regule Zrzeszenia (1QS 4,3) należy do opisu dwóch duchów. Przed odkryciami w Qumran celownik τῷ πνεύματι w Mt 5,3 uchodził za dodatek grecki, uduchawiający Łukaszowych ubogich; po nich wiadomo, że całe wyrażenie istniało po hebrajsku w judaizmie palestyńskim pierwszego wieku przed Chrystusem. Rozstrzygnięcia o pierwotności żadnej z dwóch wersji — Mateuszowej z celownikiem i Łukaszowej bez niego — to nie daje. Sigla, brzmienia i stan zachowania 4Q525 wymagają sprawdzenia w wydaniu krytycznym zwojów."
+      ],
+      [
+       "Góra, siedzenie i mowa na otwartym powietrzu",
+       "Wokół północnego brzegu jeziora nie ma góry w znaczeniu szczytu. Teren podnosi się od brzegu w szeroki stok bazaltowy i to on jest przedmiotem Mateuszowego τὸ ὄρος z rodzajnikiem gatunkowym — wyżyna, pogórze, a nie wierzchołek. Tradycja lokalizacyjna jest późna: bizantyjska kaplica przy źródłach w Tabgha, poświadczona w czwartym albo piątym wieku, znajdowała się niżej na zboczu, a dzisiejszy kościół Ośmiu Błogosławieństw powyżej Tabgha wzniósł Antonio Barluzzi w 1938 roku na planie ośmiobocznym, po jednym boku na makaryzm. Lokalizacja nie ma zatem wartości topograficznej, a wartość architektoniczną ma dopiero od dwudziestego wieku. Datowania budowli i atrybucję projektu trzeba sprawdzić.\n\nPostawa nauczyciela jest natomiast realium ścisłym. Nauczający siedział; w synagodze robił to na wyznaczonym miejscu, poza nią na czym mógł, a słuchający stali albo siadali niżej. Mateusz ten obyczaj zna i nazywa go wprost dwadzieścia rozdziałów dalej: uczeni w Piśmie i faryzeusze zasiedli na katedrze Mojżesza (23,2). Tytuł, jakim zwraca się do Jezusa rozmówca tej Ewangelii, jest przy tym stale ten sam — διδάσκαλε, co odpowiada aramejskiemu rabbi — a słuchacze są nazwani uczniami tym samym wyrazem, którym literatura rabiniczna nazywa תַּלְמִיד (talmid). Co do samego trybu nauczania na otwartym powietrzu: jest poświadczone dla wędrownych nauczycieli epoki, a w judaizmie palestyńskim nie było wyjątkiem, bo nauczanie nie wymagało urzędu ani budynku, tylko umiejętności czytania i wykładu. Loci rabiniczne są wszystkie młodsze od Ewangelii o co najmniej stulecie i wymagają sprawdzenia."
+      ],
+      [
+       "Sól, która przestaje być solą",
+       "Zdanie o soli tracącej słoność bywa czytane jako obraz świadomie niemożliwy. W Palestynie pierwszego wieku nie był niemożliwy wcale. Sól pozyskiwano dwiema drogami: z odparowywania wody Morza Martwego, o zasoleniu około trzydziestu procent, oraz z wydobycia skalnego na zboczach Dżebel Usdum, góry soli przy południowo-zachodnim brzegu. Produkt drugiej drogi nie jest chlorkiem sodu, lecz mieszaniną z gipsem i solami magnezu; chlorek sodu wymywa się z niej pierwszy, w wilgoci albo przy składowaniu, a to, co zostaje, jest proszkiem gorzkim albo obojętnym w smaku. Taka sól istotnie nie soli i nie da się jej przywrócić.\n\nDrugi użytek jest jeszcze bliższy wierszowi. Płytki solne wykładano wnętrza pieców opalanych suszonym nawozem, bo sól działa tam jako katalizator podtrzymujący spalanie; po pewnym czasie płytka traci tę własność i wtedy jest wyrzucana na drogę, gdzie się po niej chodzi. Jeśli obraz pochodzi z tego porządku, to deptanie z w. 13 nie jest karą, lecz opisem tego, co się z taką solą zwyczajnie robi. Trzeci porządek jest prawny: Kpł 2,13 każe solić każdą ofiarę z pokarmów, a Lb 18,19 i 2 Krn 13,5 nazywają przymierzem soli odpowiednio prawo kapłanów do darów i prawo Dawida do królowania — sól jest tam pieczęcią trwałości, bo się nie psuje. Czwarty jest przeciwny i mówi o soli jako o znaku zniszczenia (Pwt 29,22; Sdz 9,45). Mateusz żadnego z czterech nie wskazuje. Pytanie „czym będzie posolona\" jest wreszcie poświadczone w literaturze rabinicznej jako typ zagadki o rzeczy niemożliwej, a odpowiedź w Talmudzie babilońskim obraca je w żart; siglum tego miejsca wymaga sprawdzenia, podobnie jak dane o składzie soli z Dżebel Usdum i o płytkach piecowych."
+      ],
+      [
+       "Jedna izba, jedna lampa, jeden korzec",
+       "Dom galilejski tej epoki jest w przeważającej liczbie wypadków jedną izbą o powierzchni kilkunastu metrów, bez okna albo z otworem wentylacyjnym pod stropem, z klepiskiem i z częścią podwyższoną do spania. Wykopaliska w Kafarnaum pokazują zabudowę zbitą w kwartały wokół wspólnych dziedzińców, gdzie izby mieszkalne są małe, a praca odbywa się na dziedzińcu. W takiej izbie lampa jest jedna i to rozstrzyga o całym obrazie z w. 15: nie ma mowy o wyborze między lepszym i gorszym miejscem dla światła, bo poza świecznikiem nie ma gdzie go postawić.\n\nSama lampa jest glinianym naczyńkiem wielkości dłoni, z otworem na oliwę i dziobkiem na knot; typ herodiański ma kształt krążka z uchwytem i jest w znaleziskach galilejskich pospolity. Świecznik, czyli λυχνία, nie jest w tym wierszu sprzętem obrzędowym — to podstawka albo wnęka wyrobiona w ścianie, jakie w domach z tego okresu znajdowano. μόδιος jest natomiast rzymski i mierzy około ośmiu i trzech czwartych litra; naczynie tej miary, przewrócone na palącą się lampkę, nie zakrywa jej, lecz gasi, bo odcina powietrze. Gest z w. 15 nie jest więc ukrywaniem światła, tylko jego zniszczeniem — i stąd pytanie retoryczne nie ma odpowiedzi. Wymiary domów, typologię lamp i objętość korca trzeba sprawdzić w opracowaniach archeologicznych i metrologicznych."
+      ],
+      [
+       "Kto prześladuje: wspólnota Mateusza i synagoga po roku 70",
+       "Trzy czasowniki z w. 11 mają podmiot nieokreślony i Mateusz go nie nazywa. Nazywa go w innych miejscach, i te miejsca są zgodne: uczniów będą wydawać sanhedrynom i biczować „w synagogach ich\" (10,17), będą ich prześladować z miasta do miasta ci, do których Jezus mówi w rozdziale dwudziestym trzecim (23,34), a zwrot „synagogi ich\" stoi u Mateusza pięć razy i ani razu nie brzmi „nasze\". Wspólnota, w której ta Ewangelia powstała, mówi zatem o instytucji żydowskiej z zewnątrz i z własnego doświadczenia obrażeń. Datowanie tekstu po roku 70 opiera się między innymi na tej właśnie obserwacji.\n\nDalej trzeba być ostrożnym. Często powoływane wyjaśnienie — że chodzi o formalne wykluczenie z synagogi, dokonywane przez przekleństwo na odstępców, zwane birkat ha-minim — jest datowane rozmaicie i spornie, a jego brzmienie w pierwszym wieku nie jest znane; czwarta Ewangelia mówi o wykluczeniu ze zgromadzenia wprost (J 9,22; 16,2), Mateusz nie mówi o tym nigdy. To, co Mt 5,11 opisuje, jest przy tym mniej formalne i bardziej potoczne: zniewaga publiczna, ściganie i fałszywe oskarżenie. Takie rzeczy dzieją się bez instytucji. Pewne jest natomiast tło polityczne, w którym po upadku Jerozolimy obie strony sporu o dziedzictwo Izraela definiowały się wzajem przez odrzucenie, a wspólnoty mesjańskie traciły osłonę prawną, jaką miały jako grupy wewnątrzżydowskie. Chronologia birkat ha-minim, jej brzmienia i ocena stopnia rozdziału obu wspólnot w latach siedemdziesiątych i osiemdziesiątych wymagają sprawdzenia w opracowaniach."
+      ]
+     ]
+    },
+    {
+     "type": "teologia",
+     "title": "Obserwacje teologiczne i filozoficzne w duchu tomistycznym",
+     "body": "Szesnaście wierszy stawia scholastyce cztery pytania, z których trzy pierwsze są o jedną i tę samą rzecz widzianą z różnych stron: o to, czym jest szczęście orzekane o ludziach, którzy go nie mają. Czwarte jest o widzeniu Boga i jest w tej perykopie jedynym, przy którym Kościół zdefiniował dogmat. Porządek niżej idzie za gramatyką: najpierw czas teraźniejszy klamry, potem czasy przyszłe środka, potem zapłata, na końcu obietnica z w. 8.",
+     "children": [
+      [
+       "Beatitudo orzekana o tych, którzy jej nie mają",
+       "Trudność jest widoczna bez teologii. Zdanie orzeka szczęście o ludziach opisanych przez brak: ubogich, odprawiających żałobę, głodnych, prześladowanych. Grecki przymiotnik nie znaczy przy tym „pocieszony\" ani „nagrodzony\" — znaczy szczęśliwy, godny zazdrości, i taka jest też waga łacińskiego beatus. Scholastyka ma na to rozróżnienie, które powstało właśnie z takich miejsc. Tomasz twierdzi, że ostateczne szczęście człowieka polega na akcie, a nie na posiadaniu dóbr, i że tym aktem jest poznanie Boga; dlatego beatitudo perfecta (szczęście doskonałe) nie jest w tym życiu osiągalna, ale beatitudo imperfecta (szczęście niedoskonałe) jest — i jest nim uczestnictwo w tym samym akcie, rozpoczęte i niedokonane (ST I–II, q. 3, a. 2 i a. 8; q. 5, a. 3).\n\nRozkład czasów w szeregu ten podział odwzorowuje dokładniej, niż można by oczekiwać od zbiegu okoliczności. Klamra — makaryzm pierwszy i ósmy — ma czas teraźniejszy: królestwo niebios do nich należy, już, i to jest zdanie o stanie zachodzącym. Sześć racji środkowych ma czasy przyszłe: zostaną pocieszeni, odziedziczą, zostaną nasyceni, miłosierdzia doznają, zobaczą, zostaną nazwani. To, co w porządku łaski już jest dane, Mateusz wypowiada w czasie teraźniejszym; to, co jest dopełnieniem, w przyszłym. Trzeba przy tym powiedzieć, czego z tego nie wynika: z gramatyki greckiej nie wynika rozróżnienie scholastyczne i Mateusz żadnej teorii szczęścia nie podaje. Wynika tylko, że dwa czasy stoją w jego szeregu nieprzypadkowo, a rozróżnienie Tomasza jest narzędziem, które do tego rozkładu przystaje. Loci wymagają sprawdzenia."
+      ],
+      [
+       "Osiem makaryzmów i siedem darów: rachunek Augustyna i co z nim zrobił Tomasz",
+       "Augustyn zestawił makaryzmy z siedmioma darami Ducha z Iz 11,2–3, biorąc oba szeregi w przeciwnych kierunkach: bojaźń Boża odpowiada ubogim duchem, pobożność łagodnym, umiejętność tym, którzy się smucą, męstwo głodnym sprawiedliwości, rada miłosiernym, rozum czystym sercem, mądrość czyniącym pokój; makaryzm ósmy nie dostaje własnego daru, bo wraca do pierwszego i zamyka klamrę (De sermone Domini in monte I,3–4). Rachunek ma u niego jeszcze drugie piętro, w którym siedem makaryzmów odpowiada siedmiu prośbom Modlitwy Pańskiej. Tomasz przyjął pierwsze zestawienie i uporządkował je pojęciowo: makaryzmy nie są ani cnotami, ani darami, lecz aktami cnót i darów — czyli nie stanami duszy, lecz tym, co z nich wychodzi (ST I–II, q. 69, a. 1). Dalej rozdzielił je na te, które dotyczą życia czynnego, i te, które dotyczą kontemplacji, a nagrody uznał częściowo za obecne już teraz i częściowo za zachowane (q. 69, a. 2–4).\n\nRachunek jest piękny i jest konstrukcją. Mateusz nie łączy makaryzmów z darami Ducha ani jednym wyrazem, nie cytuje Iz 11, a jego ósmy makaryzm nie jest powtórzeniem pierwszego, tylko ma z nim identyczną drugą połowę. Uzgodnienie siedmiu z ośmioma wymagało u Augustyna potraktowania ósmego jako klamry, co jest w tekście uzasadnione, i potraktowania dziewiątego jako nienależącego do szeregu, co też jest uzasadnione. Zestawienie jest zatem obronne, ale trzeba je nazywać tym, czym jest: wykładnią systematyzującą, a nie obserwacją o tekście. Jej wartość polega na jednym rozstrzygnięciu, które z tekstu wyszło — że makaryzmy opisują akty, nie usposobienia, bo wszystkie osiem określeń jest czynne albo doznające, a żadne nie jest nazwą cechy charakteru. Loci Augustyna i Tomasza wymagają sprawdzenia."
+      ],
+      [
+       "Zapłata, zasługa i to, czego Mateusz nie dopowiada",
+       "Wiersz 12 obiecuje zapłatę wielką w niebiosach i używa wyrazu z prawa najmu. Dla scholastyki jest to miejsce z porządku zasługi, a nauka o zasłudze ma w niej kształt, który trzeba podać dokładnie, bo w potocznym ujęciu zwykle się rozpada. Tomasz twierdzi, że między człowiekiem i Bogiem nie ma sprawiedliwości wymiennej, bo nie ma wspólnej miary; zasługa jest możliwa wyłącznie na podstawie uprzedniego Bożego postanowienia i w porządku łaski, czyli nie jest roszczeniem, lecz skutkiem daru przyjętego i użytego (ST I–II, q. 114, a. 1). Stąd rozróżnienie meritum de condigno (zasługa odpowiednia) i meritum de congruo (zasługa stosowna), i stąd twierdzenie, że pierwszej łaski nikt sobie zasłużyć nie może (q. 114, a. 5).\n\nTekst Mateusza tego nie mówi i nie trzeba mu tego przypisywać. Mówi natomiast dwie rzeczy, które do tego rozstrzygnięcia przystają. Pierwsza: zapłata nie jest określona — nie powiedziano, czym ona jest, tylko że jest wielka i że jest w niebiosach, a hebrajski pierwowzór tego zwrotu idzie w Rdz 15,1 jeszcze dalej, bo tam Bóg mówi, że sam jest zapłatą. Druga: Kazanie rozdzieli zapłaty wedle adresata, nie wedle czynu — ten, kto daje jałmużnę na pokaz, odebrał swoje od ludzi i u Ojca nie ma nic (6,1–2.5.16). Czyn jest ten sam, zapłata inna, bo inny jest ten, od kogo się jej oczekuje. To nie jest nauka o zasłudze, ale jest to jej warunek wstępny: zapłata, której się żąda od ludzi, została już wypłacona. Loci wymagają sprawdzenia."
+      ],
+      [
+       "Czy człowiek może zobaczyć Boga",
+       "Mt 5,8 jest jedynym miejscem tej perykopy, przy którym Kościół wypowiedział definicję. Trudność jest z Pisma, nie z filozofii: Wj 33,20 mówi, że nikt nie może zobaczyć Boga i pozostać żywy, a Mt 5,8 obiecuje czystym sercem, że Boga zobaczą. Tomasz rozwiązuje to przez rozróżnienie w samym pojęciu widzenia. Żaden umysł stworzony nie może Boga pojąć, czyli ogarnąć go wedle całej jego poznawalności, bo to przysługuje tylko jemu samemu; ale umysł stworzony może widzieć jego istotę, jeśli zostanie do tego uzdolniony — a uzdolnia go światło chwały, lumen gloriae, które nie jest pośrednikiem między Bogiem i patrzącym, lecz wzmocnieniem samej władzy widzenia (ST I, q. 12, a. 2 i a. 5). Rozróżnienie między videre (widzieć) i comprehendere (ogarnąć) jest tu całą odpowiedzią: obietnica z Mt 5,8 jest obietnicą pierwszego, a Wj 33,20 odmawia drugiego — i odmawia go także w niebie.\n\nMetafizycznie rzecz opiera się na tym, że widzenie nie jest u Tomasza przyjęciem obrazu, lecz zjednoczeniem władzy z przedmiotem, więc tam, gdzie przedmiotem jest sam akt istnienia, żaden obraz pośredniczyć nie może i nie pośredniczy. Stąd teza, że w widzeniu uszczęśliwiającym Bóg łączy się z umysłem bezpośrednio, jako forma poznawcza, a nie przez podobieństwo (q. 12, a. 2). Tekst Mateusza do tej konstrukcji nic nie dokłada — podaje dwa wyrazy w czasie przyszłym. Dokłada natomiast warunek, którego scholastyka o widzeniu uszczęśliwiającym zwykle przy tej okazji nie wymienia, a który u Mateusza stoi w tym samym wierszu: czystość serca, czyli niepodzielność woli. Loci wymagają sprawdzenia."
+      ]
+     ]
+    },
+    {
+     "type": "autor_ludzki",
+     "title": "Autor ludzki: kim jest i co chce przekazać",
+     "body": "Materiał tej perykopy ma u Łukasza odpowiednik krótszy i inaczej ustawiony, a u Marka odpowiedników cząstkowych dwa. Łukasz podaje cztery makaryzmy w drugiej osobie i dokłada do nich cztery „biada\" (Łk 6,20–26), po czym prowadzi mowę na miejscu równym, nie na górze (Łk 6,17). Marek ma zdanie o soli w innym kontekście, przy pouczeniu o zgorszeniu (Mk 9,49–50), a zdanie o lampie przy przypowieściach (Mk 4,21). Kolacji z żadnym z tych tekstów nie da się w tym repozytorium wykonać, bo ich tu nie ma, i trzeba ją przeprowadzić przy wydaniu krytycznym; to, co da się powiedzieć o kierunku Mateuszowej pracy, opiera się na jego własnym tekście.\n\nPierwsza rzecz dotyczy liczby. Cztery makaryzmy Łukasza pokrywają się z czterema Mateuszowymi — ubodzy, głodni, smucący się, prześladowani — a cztery pozostałe Mateuszowe nie mają u niego odpowiednika: łagodni, miłosierni, czyści sercem, czyniący pokój. Co ważniejsze, te właśnie cztery dołożone są jedynymi w szeregu, które opisują postępowanie, a nie położenie. Pierwsza połowa Mateuszowej ósemki mówi o tym, co się z człowiekiem dzieje; druga o tym, co człowiek robi. Jeśli zatem któryś z dwóch ewangelistów rozbudował szereg, to rozbudowa poszła w jednym kierunku i miała jedną treść: położenie zostało zestawione z czynem. Pytanie, który szereg jest starszy, jest nierozstrzygalne na tekście samego Mateusza i warto je zostawić otwarte.\n\nDruga rzecz dotyczy osoby i adresata. Łukasz mówi od początku „wy\", Mateusz dochodzi do „wy\" dopiero w w. 11 — a to znaczy, że osiem pierwszych zdań u Mateusza jest sformułowane tak, że może je usłyszeć każdy, i tak też są umieszczone: tłumy są obecne od 4,25, uczniowie podchodzą w 5,1, a na końcu Kazania zdumiewają się nauką właśnie tłumy (7,28). Mateusz nie rozstrzyga, kto jest słuchaczem, i robi to konsekwentnie przez trzy rozdziały. Gdyby chciał rozstrzygnąć, miał do tego sposób — użyłby „wy\" od początku, jak Łukasz.\n\nTrzecia rzecz dotyczy kompozycji księgi. Kazanie jest pierwszą z pięciu wielkich mów, które Mateusz domyka tą samą formułą: καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ Ἰησοῦς (i stało się, gdy skończył Jezus, 7,28; 11,1; 13,53; 19,1; 26,1). Perykopa jest jej wstępem, a wstęp ten jest u Mateusza zbudowany tak, żeby mowa wyglądała jak nadanie: ujrzawszy tłumy, wstąpił na górę, usiadł, otworzył usta i nauczał. Zbieżność z Mojżeszem jest w samych wyrazach, bo ἀνέβη εἰς τὸ ὄρος brzmi jak Wj 19,3, i Mateusz wykorzystał już wcześniej dwa motywy z tego samego porządku — rzeź dzieci i ucieczkę do Egiptu (2,13–23). Ale zbieżność trzeba zważyć. Na Sinaj Mojżesz wstąpił, żeby odebrać; tu Jezus wstępuje, żeby wydać. Mojżesz zszedł z tablicami; tu nie ma tablic ani zstąpienia, jest zejście do uzdrowienia trędowatego (8,1). I nade wszystko: Mojżesz podał Prawo w imieniu Boga, a mówiący w Mt 5 w w. 11 podaje jako rację prześladowania siebie samego. Typologia działa więc przez różnicę, nie przez podobieństwo, i Mateusz ją zaraz dalej wyłoży wprost w zdaniu o niezniesieniu, lecz wypełnieniu Prawa (5,17).\n\nZostaje adresat historyczny. Zwrot „synagogi ich\" (4,23; 9,35; 10,17; 12,9; 13,54) i zapowiedź biczowania w nich (10,17) pokazują wspólnotę, która o instytucji żydowskiej mówi z zewnątrz, i to ta wspólnota czyta w. 11–12 jako opis własnego położenia. Mateusz nie pisze przy tym polemiki: w tej perykopie nie ma ani jednego zdania przeciw faryzeuszom, a pierwsze pada cztery wiersze za jej granicą (5,20). Tutaj jest rama i jest zapewnienie — prorocy przed wami też byli prześladowani. Dopiero w rozdziale dwudziestym trzecim to zdanie zostanie odwrócone i skierowane przeciw tym, którzy budują prorokom groby (23,29–32).",
+     "children": []
+    },
+    {
+     "type": "autor_bozy",
+     "title": "Autor Boży: co Duch Święty chce przekazać",
+     "body": "W ośmiu makaryzmach imię Boga pada dwa razy, oba w środku szeregu, a w klamrze zostaje zastąpione omową. Cztery racje są stroną bierną bez podanego sprawcy. Pierwszych jedenaście wierszy nie zawiera ani jednego trybu rozkazującego. Jeśli w tej perykopie da się wskazać coś, co przekracza relację o nauczaniu, to leży to w tych trzech rzeczach: w tym, kto w niej mówi, kto w niej działa nienazwany i co zostaje powiedziane, zanim cokolwiek zostanie nakazane.",
+     "children": [
+      [
+       "Oznajmienie przed rozkazem",
+       "Trzy rozdziały pouczeń zaczynają się od jedenastu wierszy, w których nie ma żadnego żądania. Pierwszy tryb rozkazujący Kazania pada w w. 12 i dotyczy radości; drugi dotyczy tej samej radości; trzeci, w w. 16, jest pierwszym rozkazem o czynie, i nawet on nie brzmi „świećcie\", lecz „niech zaświeci światło wasze\". Rozkład nie jest obojętny, bo Kazanie jest tekstem o wymaganiach: w rozdziałach piątym do siódmego Mateusz zebrał najostrzejsze żądania tej Ewangelii, w tym zakaz gniewu, zakaz pożądliwego spojrzenia i nakaz miłości nieprzyjaciół. Wszystkie one stoją po oznajmieniu, nie przed nim.\n\nZ tego wynika porządek, który nie jest pedagogiczny, lecz dotyczy samej rzeczy. Nie powiedziano ubogim duchem, żeby weszli do królestwa; powiedziano, że ono do nich należy. Nie wezwano uczniów, żeby stali się solą i światłem; orzeczono, że nimi są, i to w zdaniach bez warunku. Dopiero po tym przychodzi żądanie, i żądanie dotyczy skutków, nie uzyskania stanu: żeby sól soliła, żeby światło świeciło. Łukaszowa wersja makaryzmów ma tę samą cechę, więc nie jest to osobliwość redakcyjna jednego ewangelisty, lecz postać, w jakiej do obu doszły."
+      ],
+      [
+       "Cztery strony bierne i dwa imiona",
+       "Kto pocieszy smucących się, nie zostało powiedziane. Kto nasyci głodnych, nie zostało powiedziane. Kto okaże miłosierdzie miłosiernym i kto nazwie czyniących pokój synami Boga — także nie. Cztery racje w środku szeregu są stronami biernymi bez sprawcy, a grecka składnia na określenie takiego użycia ma w egzegezie nazwę passivum divinum (strona bierna Boża): podmiotem domyślnym jest Bóg, którego imienia unika się z czci. Mateusz posługuje się tym sposobem w całej księdze i tym samym tłumaczy się jego omowa „królestwo niebios\" zamiast „królestwo Boga\".\n\nRozkład nazwań jest przy tym policzalny i wart uwagi. W klamrze szeregu (w. 3 i 10) Bóg nie jest nazwany — stoi omowa. W czterech racjach środkowych Bóg jest sprawcą nienazwanym. I dokładnie w środku, w makaryzmach szóstym i siódmym, imię pada dwa razy wprost: Boga zobaczą, synami Boga zostaną nazwani (w. 8–9). Tekst, który konsekwentnie imienia unika, podaje je w swoim najgłębszym punkcie, i podaje w dwóch zdaniach, z których jedno mówi o widzeniu, a drugie o pokrewieństwie. Dalej, w ostatnim wierszu perykopy, pada imię trzecie i inne: Ojciec. Droga przez szesnaście wierszy prowadzi zatem od omowy przez dwukrotne nazwanie Bogiem do nazwania Ojcem — i jest to jedyna rzecz w tej perykopie, która narasta."
+      ],
+      [
+       "Ten, kto mówi, staje się racją",
+       "Przez dziesięć wierszy mówiący nie mówi o sobie. Ogłasza, kto jest szczęśliwy, i podaje racje, w których występują królestwo, ziemia, pocieszenie, nasycenie, miłosierdzie, widzenie Boga i synostwo. W w. 11 racja zmienia się i staje się osobą: ἕνεκεν ἐμοῦ (z powodu mnie). Ten sam przyimek, który w wierszu poprzednim wskazywał sprawiedliwość, teraz wskazuje mówiącego, i dzieje się to bez przygotowania, bez tytułu i bez żadnego objaśnienia, kim on jest.\n\nRzecz ma w tej Ewangelii ciąg dalszy, który pokazuje, że nie jest to przeoczenie. W mowie misyjnej ta sama formuła wraca trzy razy i za każdym razem waży więcej: uczniowie będą stawiani przed władcami z powodu mnie (10,18), kto straci życie z powodu mnie, znajdzie je (10,39; 16,25). W dwudziestym wieku dyskusje o chrystologii Mateusza krążyły wokół tytułów — Syn Dawida, Syn Boży, Syn Człowieczy — a w Mt 5,11 nie ma żadnego tytułu i jest coś mocniejszego od tytułu: milczące podstawienie siebie w miejsce sprawiedliwości, dla której warto być lżonym. Tego nie da się odczytać jako nauki moralnej i Mateusz nie podaje do tego żadnego komentarza. Jedyne, co podaje, to ciąg: po tych wyrazach następuje rozkaz radości i zdanie o prorokach, których też prześladowano."
+      ],
+      [
+       "Czyn widoczny, chwała przekierowana",
+       "Perykopa kończy się poleceniem, które jest w Kazaniu kłopotliwe, bo rozdział szósty wygląda na jego zaprzeczenie. W w. 16 dobre czyny mają być widziane przez ludzi; w 6,1 zakazane jest czynienie sprawiedliwości przed ludźmi, żeby być przez nich widzianym, a w 23,5 to samo zachowanie jest zarzutem wobec uczonych w Piśmie. Wyrażenie jest w 5,16 i 6,1 niemal identyczne — ἔμπροσθεν τῶν ἀνθρώπων — i to pokazuje, że Mateusz nie zestawił tych zdań nieświadomie.\n\nRóżnica nie leży w czynie i nie leży w widzeniu, bo oba są w obu miejscach te same. Leży w tym, do kogo idzie chwała, i ewangelista wypowiada to jedną składnią: ὅπως ἴδωσιν… καὶ δοξάσωσιν τὸν πατέρα ὑμῶν (żeby zobaczyli… i oddali chwałę Ojcu waszemu). Zdanie ma dwa cele i drugi unieważnia niebezpieczeństwo pierwszego. Czasownik δοξάζω ma u Mateusza cztery wystąpienia i wszystkie cztery rozstrzyga adresat: tutaj Ojciec, w 6,2 ludzie chwalący obłudnika, w 9,8 i 15,31 Bóg chwalony przez tłumy po uzdrowieniach. Ukrycie jest zatem w tej Ewangelii nakazane co do intencji i zakazane co do skutku — miasto na górze nie może się ukryć i lampa nie wchodzi pod korzec, a mimo to jałmużna ma się odbywać tak, żeby lewa ręka nie wiedziała (6,3). Oba zdania są wykonalne naraz tylko pod jednym warunkiem: że widoczność czynu nie jest jego celem. Mateusz dokłada do tego ostatni wyraz perykopy, który sam już jest odpowiedzią — niebiosa."
+      ]
+     ]
+    },
+    {
+     "type": "odniesienia",
+     "title": "Sieć odniesień biblijnych",
+     "body": "Perykopa ma jedno przytoczenie niemal dosłowne i ani jednej formuły wprowadzającej. Mt 5,5 powtarza Ps 37,11 w wersji greckiej, a Mt 5,8 powtarza wyrażenie z Ps 24,4; żadnego z nich Mateusz nie oznacza, choć w czterech pierwszych rozdziałach oznaczył formułą wypełnienia pięć cytatów. Poza tym tkanina jest z aluzji do Izajasza 61, z psalmów i z własnych powtórzeń wewnątrz Ewangelii. Poniżej te odniesienia, które rozstrzygają o sensie, a nie tylko potwierdzają brzmienie.",
+     "children": [
+      [
+       "Ps 37,11 → w. 5",
+       "Jedyne przytoczenie perykopy i jedyne miejsce, w którym Mateusz powtarza słowa Pisma bez żadnego sygnału. Wersja grecka psalmu ma οἱ δὲ πραεῖς κληρονομήσουσιν γῆν (łagodni zaś odziedziczą ziemię); Mt 5,5 powtarza trzy wyrazy w tej samej kolejności i dokłada rodzajnik przy ziemi. Hebrajski psalm ma w tym miejscu עֲנָוִים, ten sam wyraz, który stoi za ubogimi z w. 3, a LXX rozszczepiła go na πτωχοί i πραεῖς — Mateusz zachował oba greckie odpowiedniki i dał im dwie różne obietnice. Psalm mówi przy tym o ziemi w sensie kraju obietnicy i o jej dziedziczeniu wobec bezbożnych, którzy zostaną wycięci (Ps 37,9–10.22); Mateusz żadnego z tych wątków nie przytacza. Kolacja z brzmieniem Septuaginty wymaga sprawdzenia, bo tekstu psalmu nie ma w tym repozytorium."
+      ],
+      [
+       "Iz 61,1–3 → w. 3–4",
+       "Dwa pierwsze makaryzmy stoją nad dwoma kolejnymi wierszami jednego proroctwa i w tej samej kolejności. Iz 61,1 mówi o pomazanym Duchem, posłanym ogłosić dobrą nowinę ubogim — w wersji greckiej εὐαγγελίσασθαι πτωχοῖς, tym samym przymiotnikiem, co Mt 5,3; Iz 61,2 mówi o pocieszeniu wszystkich, którzy się smucą, czasownikami, które odpowiadają Mateuszowym πενθοῦντες i παρακληθήσονται. Relacja jest aluzją, nie cytatem: formuły nie ma, brzmienie nie jest przepisane, a kolejność jest identyczna. Rzecz ma w tej Ewangelii potwierdzenie z innego miejsca — w odpowiedzi posłanej Chrzcicielowi do więzienia ostatnim i najmocniejszym punktem listy jest to, że ubogim głoszona jest dobra nowina (11,5), czyli znów Iz 61,1. Brzmienia greckie wymagają kolacji."
+      ],
+      [
+       "Ps 24,3–6 → w. 1 i w. 8",
+       "Psalm pyta, kto wstąpi na górę Pana, i odpowiada: niewinny rękami i czysty sercem — a obietnicą jest oglądanie oblicza Boga Jakuba. Zbieżność jest podwójna i obejmuje dwa odległe wiersze perykopy. Pytanie psalmu używa w wersji greckiej tego samego wyrażenia o wstępowaniu na górę, które Mateusz zapisał w w. 1; odpowiedź psalmu daje wyrażenie, które Mateusz zapisał w w. 8. Relacja jest aluzją i trzeba ją podać z zastrzeżeniem: Mateusz nie sygnalizuje psalmu, a zbieżność wyrażenia o wstępowaniu zachodzi także z Wj 19,3, więc nie jest dowodem na jedno źródło. Mocna jest natomiast zbieżność druga, bo καθαρὸς τῇ καρδίᾳ jest zwrotem rzadkim. Kolacja z Septuagintą wymaga sprawdzenia."
+      ],
+      [
+       "Wj 19,3; 24,18 → w. 1",
+       "Mojżesz wstępuje na górę Bożą, by odebrać Prawo, i zdanie o jego wstąpieniu brzmi w wersji greckiej tak samo, jak Mateuszowe ἀνέβη εἰς τὸ ὄρος. Relacja jest typologiczna, a figura i wypełnienie różnią się w trzech miejscach, i wszystkie trzy są wymowne. Mojżesz wstąpił, by odebrać; Jezus wstępuje, by wydać. Mojżesz zstąpił z tablicami; tu nie ma ani tablic, ani zstąpienia, a najbliższe zdanie o zejściu z góry dotyczy uzdrowienia trędowatego (8,1). Mojżesz podał Prawo w imieniu Boga; mówiący w Mt 5 w w. 11 podaje jako rację siebie samego. Mateusz tej typologii nie sygnalizuje, choć dwa jej wątki wykorzystał w rozdziale drugim — i jeden wiersz za granicą tej perykopy wypowiada stosunek do Prawa wprost (5,17)."
+      ],
+      [
+       "Wj 33,20 → w. 8",
+       "Pan mówi Mojżeszowi, że nie może zobaczyć jego oblicza, bo człowiek nie zobaczy go i nie pozostanie żywy. Relacja wobec Mt 5,8 jest kontrastem i jest w Piśmie rozwiązywana dopiero poza Ewangelią: czwarta Ewangelia twierdzi, że Boga nikt nigdy nie widział (J 1,18), a Pierwszy List Jana obiecuje, że zobaczymy go takim, jaki jest (1 J 3,2). Mateusz nie odnosi się do Wj 33 ani jednym wyrazem i obietnicy nie obwarowuje. Trudność jest więc w tekście pozostawiona otwarta, a jej rozstrzygnięcie teologiczne przyszło w czternastym wieku, nie w pierwszym."
+      ],
+      [
+       "Ps 1,1 i Syr 25,7–10 → w. 3–10",
+       "Dwa miejsca, które pokazują gatunek. Psalm 1 otwiera Psałterz formułą אַשְׁרֵי i zdaniem orzekającym o człowieku, co jest wzorcem pojedynczego makaryzmu; Mądrość Syracha ma szereg zdań tego typu, a więc i wzorzec układu w ciąg. Relacja jest tłem, nie zależnością. Rzecz warto podać dlatego, że obie cechy Mt 5,3–10 — forma orzekająca i układ szeregowy — są w judaizmie wcześniejsze od Ewangelii, a trzecia cecha, czyli zamknięcie szeregu członem dłuższym, ma odpowiednik w qumrańskim tekście 4Q525. Brzmienia Syracha i numeracja jego wierszy wymagają sprawdzenia w wydaniach."
+      ],
+      [
+       "Kpł 2,13; Lb 18,19; 2 Krn 13,5 → w. 13",
+       "Trzy miejsca, w których sól jest nie przyprawą, lecz znakiem trwałości. Kpł 2,13 nakazuje solić każdą ofiarę z pokarmów i nie dopuszcza wyjątku; Lb 18,19 nazywa prawo kapłanów do świętych darów przymierzem soli na wieki; 2 Krn 13,5 tym samym zwrotem nazywa prawo Dawida i jego synów do królowania nad Izraelem. Relacja wobec Mt 5,13 jest tłem i trzeba przy niej postawić zastrzeżenie wyraźniejsze niż zwykle: Mateusz nie podaje żadnego sygnału, że to tło ma na myśli, a wyraz stoi u niego bez określenia. Jeśli tło jest właściwe, utrata słoności jest zerwaniem przymierza; jeśli nie jest, zdanie mówi o bezużyteczności i o niczym więcej. Porządek przeciwny, w którym sól jest znakiem zniszczenia (Pwt 29,22; Sdz 9,45), jest w Piśmie równie dobrze poświadczony."
+      ],
+      [
+       "Iz 2,2–3 i Iz 60,1–3 → w. 14",
+       "Dwa proroctwa o wyniesieniu i o świetle, do którego idą narody. Iz 2,2–3 mówi o górze domu Pana wyniesionej nad wzgórza i o narodach wstępujących na nią po naukę; Iz 60,1–3 wzywa Jerozolimę do wstania, bo przyszło jej światło, i zapowiada narody idące do tego światła. Relacja jest tłem i ma jedną ostrą różnicę: u obu proroków podmiotem jest Jerozolima, a w Mt 5,14 podmiotem są uczniowie, a Jerozolima nie jest wymieniona wcale. Mateusz przeniósł więc na ludzi to, co proroctwo mówiło o mieście, i zrobił to bez komentarza. Jego własny tekst miasto na górze wymieni jeszcze raz, i będzie to już Jerozolima nazwana miastem wielkiego króla (5,35)."
+      ],
+      [
+       "Mt 4,15–16 → w. 14.16",
+       "Dwa pierwsze z siedmiu Mateuszowych wystąpień rzeczownika φῶς (światło) stoją w przytoczeniu Izajasza o świetle, które wzeszło ludowi siedzącemu w ciemności, a przytoczenie to jest jedyną w pierwszych czterech rozdziałach formułą wypełnienia odniesioną do Galilei. Dwa następne wystąpienia stoją tutaj, o uczniach. Relacja jest rozwinięciem i Mateusz jej nie objaśnia: nie mówi, jak światło, które wzeszło nad krainą, ma się do światła, którym są uczniowie. Czwarta Ewangelia tę relację rozstrzyga zdaniem Jezusa o sobie jako świetle świata (J 8,12), a Mateusz takiego zdania nie ma ani razu — co znaczy, że u niego jedynymi nazwanymi światłem świata są uczniowie."
+      ],
+      [
+       "Mt 6,1–18 → w. 16",
+       "Osiemnaście wierszy, które stoją wobec w. 16 w napięciu niemal dosłownym. Tam zakazane jest czynienie sprawiedliwości ἔμπροσθεν τῶν ἀνθρώπων (przed ludźmi), żeby być przez nich widzianym; tutaj nakazane jest, żeby światło świeciło ἔμπροσθεν τῶν ἀνθρώπων. Relacja jest kontrastem i rozstrzyga ją adresat chwały, nie charakter czynu: w 6,2.5.16 obłudnicy odebrali swoją zapłatę od ludzi, a w 5,16 chwała ma iść do Ojca. Zestawienie pokazuje przy tym, że Mateusz nie zestawił tych zdań nieświadomie — identyczność wyrażenia jest zbyt dokładna."
+      ],
+      [
+       "Mt 23,5.29–37 → w. 12.16",
+       "Mowa przeciw uczonym w Piśmie odwraca dwa zdania tej perykopy. Wszystkie czyny, które tam są wymienione, są czynione, żeby je ludzie widzieli (23,5), czyli dokładnie przeciw temu, co rozstrzyga w. 16. A zdanie o prześladowanych prorokach, które w w. 12 jest pocieszeniem dla lżonych, w 23,29–32 staje się oskarżeniem: budowanie grobów prorokom zostaje nazwane przyznaniem się do tych, którzy ich zabili, i ten sam czasownik διώκω opisuje ściganie posłanych z miasta do miasta (23,34). Relacja jest rozwinięciem i pokazuje, że ta sama obserwacja o losie proroka działa u Mateusza w dwie strony."
+      ],
+      [
+       "Mt 10,17–23.32–39 → w. 10–12",
+       "Mowa misyjna wykłada to, co tutaj jest powiedziane skrótem. Prześladowanie dostaje tam adres — sanhedryny i synagogi, w których uczniów będą biczować (10,17) — i dostaje praktyczne następstwo: ucieczkę z miasta do miasta (10,23). Formuła ἕνεκεν ἐμοῦ (z powodu mnie) wraca w 10,18 i 10,39, za drugim razem przy stracie życia. Relacja jest rozwinięciem i jedno rozstrzyga: dwa wyrazy z Mt 5,11, które w Kazaniu stoją bez objaśnienia, w mowie misyjnej mają konsekwencję najwyższą, a Mateusz nie wprowadza między oba miejsca żadnego przejścia."
+      ],
+      [
+       "Mt 25,31–46 → w. 6–7",
+       "Scena sądu nad narodami wylicza łaknienie i pragnienie po dwa razy każde (25,35.37.42.44) i czyni z nich sprawę między ludźmi, a miarą wyroku jest okazane albo nieokazane miłosierdzie. Relacja wobec makaryzmów czwartego i piątego jest rozwinięciem i odwraca ich stronę: tam głód i pragnienie są stanem szczęśliwych, tu są stanem, w którym Syn Człowieczy jest utożsamiony z najmniejszymi. Makaryzm piąty mówi, że miłosierni miłosierdzia doznają; scena sądu podaje, od kogo i w jakim trybie. Dwa czasowniki jednego rdzenia z Mt 5,7 nie padają przy tym w 25,31–46 ani razu — jest tam czyn, nie nazwa."
+      ],
+      [
+       "Mt 11,29 i Mt 21,5 → w. 5",
+       "Trzy wystąpienia przymiotnika πραΰς u Mateusza są jedyne i wszystkie trzy mają wagę. Tutaj jest przedmiotem makaryzmu i przytoczeniem psalmu; w 11,29 Jezus nazywa siebie łagodnym i uniżonym sercem, i jest to jedyne miejsce tej Ewangelii, w którym określa siebie przymiotnikiem; w 21,5 przymiotnik należy do przytoczenia Za 9,9 o królu wjeżdżającym na osiołku. Relacja jest rozwinięciem i prowadzi jedną linią: to, co w Mt 5,5 jest obiecane łagodnym, w Mt 21,5 jest sposobem wjazdu do miasta, w którym mówiący zginie."
+      ],
+      [
+       "Mt 28,16–20 → w. 1",
+       "Ostatnia góra tej Ewangelii i ostatnie zdanie księgi. Uczniowie idą na górę, którą Jezus im wskazał, i tam dostają nakaz czynienia uczniami wszystkich narodów — czasownikiem od tego samego rdzenia, którym w Mt 5,1 zostali po raz pierwszy nazwani. Relacja jest paralelą kompozycyjną i domyka dwie rzeczy naraz: pierwsze wystąpienie rzeczownika μαθητής stoi przy wstępowaniu na pierwszą górę, ostatnie wystąpienie tego rdzenia przy ostatniej. Na górze z Mt 28 nie ma przy tym tłumów, a na górze z Mt 5 są — i to jedyna różnica, jaką Mateusz między oboma miejscami robi."
+      ],
+      [
+       "1 P 3,14; 4,13–14 → w. 10–12",
+       "Pierwszy List Piotra ma oba zdania perykopy w postaci, która wygląda na znaną autorowi z tradycji, nie z tekstu: szczęśliwi, jeśli cierpicie dla sprawiedliwości (3,14), i radujcie się, gdy uczestniczycie w cierpieniach Pomazańca, a szczęśliwi jesteście, gdy was znieważają za imię (4,13–14). Relacja jest paralelą i jest cenna z jednego powodu: pokazuje, że makaryzm o prześladowanych krążył w pierwszym wieku z obiema przyczynami — sprawiedliwością i imieniem — a tradycja rękopiśmienna Mt 5,11 obie zna, bo starosyryjski ma „z powodu imienia mojego\". Kolacja z tekstem listu wymaga sprawdzenia, bo nie ma go w tym repozytorium."
+      ],
+      [
+       "Mk 9,49–50; Łk 14,34–35; Mk 4,21; Łk 8,16 → w. 13.15",
+       "Zdania o soli i o lampie mają u pozostałych synoptyków po dwie wersje i stoją w innych kontekstach. Sól u Marka należy do pouczenia o zgorszeniu i kończy się nakazem pokoju między sobą (Mk 9,50); u Łukasza stoi po warunkach pójścia za Jezusem i mówi o soli niezdatnej ani do ziemi, ani do nawozu (Łk 14,34–35). Lampa u Marka jest przy przypowieściach i wiąże się z ukrytym, co ma się objawić (Mk 4,21–22); u Łukasza pada dwa razy, raz przy przypowieści o siewcy, raz przy znaku Jonasza (Łk 8,16; 11,33), i oba razy mówi o piwnicy albo o łożu, nie o korcu. Mateusz łączy oba obrazy z makaryzmami, czego nie robi żaden z pozostałych, i dokłada do nich miasto na górze, którego nie ma nigdzie poza nim. Kolacja z tymi tekstami wymaga wydania krytycznego, bo nie ma ich w tym repozytorium."
+      ]
+     ]
+    },
+    {
+     "type": "recepcja",
+     "title": "Znaczenie w historii i liturgii Kościoła",
+     "body": null,
+     "children": [
+      [
+       "Czy człowiek zobaczy istotę Boga: 1336 i spór hezychastyczny",
+       "Mt 5,8 jest wersetem, na którym w czternastym wieku oparły się dwa rozstrzygnięcia idące w przeciwne strony, jedno na Zachodzie, drugie na Wschodzie, i oba w ciągu jednego pokolenia.\n\nNa Zachodzie sprawa zaczęła się od kazań Jana XXII, który około roku 1331 wygłaszał pogląd, że dusze sprawiedliwych nie widzą Boga przed powszechnym zmartwychwstaniem, a dotąd oglądają jedynie człowieczeństwo Chrystusa. Spór trwał do jego śmierci, a jego następca Benedykt XII zamknął go konstytucją Benedictus Deus z 1336 roku, określając, że dusze oczyszczone widzą istotę Boga widzeniem bezpośrednim i twarzą w twarz, zanim ciała zmartwychwstaną. Tomasz dostarczył do tego narzędzi na stulecie wcześniej, rozróżniając widzenie istoty od jej ogarnięcia i wprowadzając pojęcie lumen gloriae (światło chwały) jako uzdolnienia władzy, nie pośrednika (ST I, q. 12, a. 2 i a. 5).\n\nNa Wschodzie ten sam werset służył do przeciwnego rozstrzygnięcia. W sporze o modlitwę hezychastów Grzegorz Palamas utrzymywał, że istota Boga pozostaje niedostępna także w chwale, a to, co widzą święci — jak uczniowie na górze przemienienia — jest nieutworzonym działaniem Boga, nie jego istotą. Rozróżnienie na istotę i działania zostało w Konstantynopolu przyjęte na soborach lat 1341–1351. Rozbieżność z łacińskim określeniem jest realna i nie należy jej wygładzać: łaciński Zachód mówi o widzeniu istoty, Wschód tego właśnie zdania nie przyjmuje, a obie strony cytują Mt 5,8 jako swoje. Daty, brzmienia konstytucji Benedykta XII, chronologia kazań Jana XXII i sigla soborów konstantynopolitańskich wymagają sprawdzenia przy źródłach."
+      ],
+      [
+       "Osiem, siedem, dziewięć: liczenie makaryzmów",
+       "Liczba błogosławieństw nie jest w tradycji stała, a rozbieżność nie jest pedantyczna, bo za każdym rachunkiem stoi inna wykładnia. Augustyn liczy siedem, bo ósmy uznaje za powrót do pierwszego, zamykający szereg jak klamra, i siódemkę przypisuje siedmiu darom Ducha z Iz 11,2–3 oraz siedmiu prośbom Modlitwy Pańskiej (De sermone Domini in monte I,3–4). Tradycja ośmiu jest w Kościele najpowszechniejsza i do niej odwołuje się nazwa świątyni wzniesionej nad jeziorem w 1938 roku na planie ośmiobocznym. Dziewięć liczy się wtedy, gdy w. 11–12 traktuje się jako kolejny członek szeregu, co tekst dopuszcza o tyle, o ile zaczyna się tym samym przymiotnikiem — a czemu się opiera budową, bo przechodzi na drugą osobę i jest trzy razy dłuższy. Wschód liczy najczęściej dziewięć i śpiewa cały zakres w. 3–12 jako jedną jednostkę liturgiczną.\n\nRachunek Wulgaty jest jeszcze inny i dotyczy kolejności, nie liczby. Tekst klementyński, ten sam, który stoi w `db.sqlite` tego repozytorium, ma w w. 4 Beati mites (szczęśliwi łagodni), a w w. 5 Beati qui lugent (szczęśliwi, którzy płaczą) — czyli odwrotnie niż wydanie krytyczne. Nie jest to pomyłka drukarska: aparat notuje przestawienie obu wierszy u kodeksu D, w tradycji łacińskiej, u starosyryjskiego kureteńskiego, a także u Orygenesa i Euzebiusza. Łacińska numeracja makaryzmów trzeciego i drugiego biegnie zatem w całej tradycji zachodniej inaczej niż grecka, i przy porównywaniu komentarzy patrystycznych trzeba to mieć na uwadze, bo „drugie błogosławieństwo\" znaczy u Hieronima co innego niż w wydaniu krytycznym. Loci Augustyna, datowanie kościoła i lekcje aparatu wymagają sprawdzenia."
+      ],
+      [
+       "Liturgia",
+       "Delimitacja tej perykopy pokrywa się w rycie rzymskim z dwiema kolejnymi niedzielami jednego roku. W czwartą niedzielę zwykłą roku A Ewangelią jest Mt 5,1–12a, a czytaniami So 2,3; 3,12–13 o pokornych, którzy mają szukać sprawiedliwości, i 1 Kor 1,26–31 o tym, że Bóg wybrał to, co w świecie bez znaczenia. Zestawienie jest szczelne: hebrajscy עֲנָוִים z Sofoniasza stoją obok ubogich duchem, a Pawłowy wybór słabych obok obietnicy królestwa. W piątą niedzielę zwykłą tego samego roku Ewangelią jest Mt 5,13–16, z Iz 58,7–10 o dzieleniu chleba z głodnym, po którym światło wzejdzie w ciemności, i z 1 Kor 2,1–5 o głoszeniu bez wyniosłości mowy. Dwa czytania Starego Testamentu obu niedziel wnoszą zatem to, czego Mateusz nie mówi: że ubóstwo duchowe i świecenie światła mają u proroków postać uczynku wobec cudzej biedy.\n\nMt 5,1–12a jest poza tym Ewangelią uroczystości Wszystkich Świętych, pierwszego listopada, i to jest najszerzej słyszane liturgiczne użycie tego tekstu w rycie łacińskim; w dni powszednie perykopa wraca w dziesiątym tygodniu zwykłym, w poniedziałek (w. 1–12) i wtorek (w. 13–16). Wiersze 13–16 należą też do czytań wspólnych o doktorach Kościoła i o pasterzach, gdzie „wy jesteście światło świata\" odnosi się do nauczających.\n\nWschód ustawia rzecz zupełnie inaczej, i różnica jest tu nie lekcjonarzowa, lecz gatunkowa. W rycie bizantyjskim makaryzmy nie są przede wszystkim czytaniem — są śpiewem. Zakres Mt 5,3–12 wchodzi jako trzeci antyfon Liturgii, poprzedzony prośbą łotra: pomnij na mnie, Panie, gdy przyjdziesz do królestwa swego; do kolejnych wersetów doczepia się troparia kanonu, więc makaryzmy pełnią rolę ramy dla zmiennych tekstów dnia. Ta sama jednostka stoi w nabożeństwie zwanym obiednicą, odprawianym tam, gdzie Liturgii nie ma. Czytanie Mt 5,14–19, zaczynające się od słów o świetle świata, bizantyjska tradycja wiąże ze wspomnieniami świętych hierarchów i nauczycieli. Różnicę trzeba powiedzieć wprost: na Zachodzie błogosławieństwa są Ewangelią jednego dnia w roku i dwóch niedziel jednego cyklu, na Wschodzie są tekstem powracającym w każdej Liturgii, która ma trzeci antyfon. Wszystkie sigla Lekcjonarza rzymskiego z latami cyklu, przydziały dni powszednich, perykopy ewangeliarza bizantyjskiego i miejsce makaryzmów w antyfonie wymagają sprawdzenia w księgach przed publikacją."
+      ],
+      [
+       "Sal terrae, lux mundi: od kazania do herbu i do adhortacji",
+       "Dwa zdania z w. 13–14 weszły do języka Kościoła jako nazwy urzędu, nie jako obraz. Wykładnia, w której solą ziemi i światłem świata są przede wszystkim nauczający — biskupi, kapłani i doktorzy — jest patrystyczna i stoi u Hieronima oraz u Chromacjusza; stąd wzięły ją czytania wspólne o doktorach Kościoła, a stąd heraldyka i mottoistyka kościelna, w której Lux mundi i Sal terrae należą do najczęstszych zawołań. Rzecz ma przy tym w tekście granicę: Mt 5,13–14 nie mówi do urzędu, mówi do tych, którzy podeszli, i druga osoba liczby mnogiej jest w nim jedyną wskazówką co do adresata.\n\nIkonografia samego Kazania jest przy tym uboższa, niż można by oczekiwać od tekstu tak znanego, i to z powodu rzeczowego: scena nie ma akcji. Malarstwo przedstawia zwykle Jezusa siedzącego wyżej, uczniów u stóp i tłum za nimi — tak jest u Cosima Rossellego na ścianie Kaplicy Sykstyńskiej (1481–1482), gdzie Kazanie zostało zestawione z uzdrowieniem trędowatego z następnego rozdziału, i tak u Fra Angelica we freskach klasztoru San Marco we Florencji. Wschód przedstawia nauczanie w typie Chrystusa Pantokratora z otwartą księgą, a nie jako zdarzenie na zboczu. Współczesna recepcja kościelna ma jeden dokument wprost z tego tekstu: adhortacja Franciszka o świętości w świecie dzisiejszym nosi tytuł Gaudete et exsultate (2018), wzięty z łacińskiego brzmienia w. 12, a jej rozdział trzeci jest komentarzem do ośmiu makaryzmów po kolei. Datowania fresków, atrybucje i siglum adhortacji wymagają sprawdzenia."
+      ]
+     ]
+    },
+    {
+     "type": "patrystyka",
+     "title": "Komentarze Ojców Kościoła (catena patrum)",
+     "body": "Do Mt 5–7 Ojcowie mieli tekst, jakiego nie mieli do żadnej innej części tej Ewangelii: osobne dzieło Augustyna poświęcone wyłącznie Kazaniu, napisane około roku 394, czyli przed jego komentarzami do Jana i przed sporem pelagiańskim. Obok niego stoją cztery komentarze ciągłe — Chryzostoma, Hieronima, Hilarego i Chromacjusza — a Orygenes nie, bo grecki tekst jego komentarza zachował się dopiero od Mt 13,36; w tej perykopie występuje on wyłącznie jako świadek tekstu, przy przestawieniu wierszy czwartego i piątego. Pięć głosów poniżej idzie w pięciu kierunkach: Hilary o górze i o tym, kto na niej słucha, Chryzostom o tym, czemu szereg zaczyna się od ubóstwa i jak jedno zdanie wyrasta z poprzedniego, Augustyn o liczbie i o powrocie ósmego do pierwszego, Hieronim o tym, czemu do ubóstwa dołożono ducha i czemu prorocy, a Chromacjusz o soli i świetle jako o urzędzie. Dwóch tekstów trzeba przy tym nie użyć pod cudzym imieniem: Opus imperfectum in Matthaeum, choć chodzi pod imieniem Chryzostoma, jest anonimowym komentarzem łacińskim o ariańskim zabarwieniu, a komentarz do Mateusza z PL 92 nie jest dziełem Bedy.",
+     "children": []
+    },
+    {
+     "type": "zakonczenie",
+     "title": "Zakończenie: intencja całości",
+     "body": "Liczba zaimków drugiej osoby w tych szesnastu wierszach rozkłada się nierówno i cała perykopa jest w tym rozkładzie zawarta. Od w. 1 do w. 10 nie ma ich wcale. Od w. 11 do w. 16 jest ich dziewięć. Granica przebiega przez jedno zdanie, a jego tematem jest prześladowanie.\n\nPrzed granicą mówi się o kimś. Osiem zdań orzeka szczęście o ludziach określonych przez brak albo przez postępowanie, a racji nie podaje żadnej z porządku zasługi: królestwo do nich należy, zostaną pocieszeni, odziedziczą, zostaną nasyceni. Kto pocieszy i nasyci, nie zostaje nazwany — cztery racje są stronami biernymi bez sprawcy, a w klamrze stoi omowa unikająca imienia Boga. Dwa razy, i tylko w samym środku szeregu, imię pada wprost: Boga zobaczą, synami Boga zostaną nazwani. Tekst, który imienia unika, podaje je tam, gdzie obiecuje najwięcej.\n\nPo granicy mówi się do kogoś, i zmienia się nie tylko osoba, ale i racja. Ósmy makaryzm podał za przyczynę prześladowania sprawiedliwość; dziewiąty w tym samym przyimku podstawia osobę mówiącego — ἕνεκεν ἐμοῦ (z powodu mnie) — bez tytułu, bez objaśnienia i bez żadnego przygotowania. To jest pierwsze zdanie Kazania, w którym mówiący mówi o sobie, i Mateusz nie dokłada do niego ani słowa komentarza. Dokłada rozkaz radości, pierwszy tryb rozkazujący tych trzech rozdziałów, i rację historyczną: tak prześladowali proroków przed wami.\n\nDalej już nie ma makaryzmów, są dwa orzeczenia. Wy jesteście sól ziemi, wy jesteście światło świata — oba w emfatycznej konstrukcji, która u Mateusza twierdząco stoi wyłącznie w tych dwóch miejscach. Żadne z nich nie jest wezwaniem do stania się czymkolwiek; oba są zdaniami o stanie rzeczy, po których następuje obraz niemożliwości: sól, która przestała solić, jest tylko do wyrzucenia, miasto na górze nie ukryje się, lampy nikt nie wstawia pod korzec. Jedyne, czego perykopa żąda w sprawie czynu, mieści się w jednym rozkaźniku i nawet on nie brzmi „świećcie\" — brzmi „niech zaświeci światło wasze\".\n\nI to zdanie, ostatnie, jest jedynym miejscem, w którym Mateusz podaje cel. Nie żeby ludzie uznali świecących, lecz żeby zobaczyli dobre czyny i oddali chwałę Ojcu. Rzeczownik ἔργον pada tu po raz pierwszy w tej księdze i po raz pierwszy pada też, w odniesieniu do Boga, rzeczownik πατήρ: cztery wcześniejsze wystąpienia dotyczyły ojca Archelaosa, Abrahama i Zebedeusza, który został w łodzi. Bóg wchodzi więc do tej Ewangelii jako Ojciec nie w modlitwie i nie w nauce o sobie, ale w zdaniu o jawności ludzkich czynów — a wezwanie, od którego zaczyna się Modlitwa Pańska, przyjdzie w następnym rozdziale. Tym jednym wyborem miejsca Mateusz powiedział o Ojcu więcej niż jakimkolwiek określeniem: imię pojawia się tam, gdzie chwała ma iść nie do tego, kogo widać.",
+     "children": []
+    },
+    {
+     "type": "nota",
+     "title": "Nota warsztatowa",
+     "body": "*Tekst grecki wedle wydania krytycznego Nestle-Aland, pobrany z `db.sqlite` (księga 470) wraz z Wulgatą klementyńską i aparatem; znaki aparatu usunięte z zapisu perykopy, nawias kwadratowy przy ψευδόμενοι w w. 11 zachowany, bo niesie decyzję wydawców. Przekład polski jest roboczy, własny i celowo dosłowny; przekład międzywierszowy z `db.sqlite` posłużył jako materiał kontrolny i jego wybory zostały w kilku miejscach odrzucone. μακάριοι oddano przez „szczęśliwi\", nie przez utarte „błogosławieni\": greckie μακάριος odpowiada hebrajskiemu אַשְׁרֵי i nie zawiera błogosławiącego, którego polskie „błogosławieni\" zakłada, a sam Mateusz ma na błogosławienie osobną rodzinę wyrazów (εὐλογέω, 14,19; 21,9; 26,26). οἱ πτωχοὶ τῷ πνεύματι oddano przez „ubodzy duchem\", nie „biedni duchem\" jak interlinia, bo polskie „biedny\" przeszło w stronę litości, a grecki wyraz nazywa nędzarza. οἱ πενθοῦντες oddano przez „którzy się smucą\", nie „bolejący\": czasownik dotyczy żałoby jako czynności obrzędowej. μωρανθῇ oddano przez „zgłupiała\", nie „smak straciła\" jak interlinia — anomalia grecka jest w tym miejscu świadectwem o języku źródła i jej wygładzenie usuwa dane. ἐλεήμονες i ἐλεηθήσονται oddano jednym rdzeniem („miłosierni — miłosierdzia doznają\"), żeby zachować jedność rdzenia, którą ma grecki. λύχνος oddano przez „lampa\", nie „lampka\", bo zdrobnienie w zdaniu o świeceniu wszystkim w domu brzmi przeciw treści.*\n\n*Dane liczbowe o częstotliwości policzono na tekście z `db.sqlite` po numerach Stronga — stąd liczby dla μακάριος (13, z czego 9 w tej perykopie), πτωχός (5), πενθέω (2), πραΰς (3), πεινάω (9), διψάω (5), χορτάζω (4), ἐλεήμων (1), ἐλεέω (8), καθαρός (3), καρδία (16), εἰρηνοποιός (1), κληρονομέω (3), διώκω (6), ὀνειδίζω (3), μισθός (10), ἀγαλλιάομαι (1), χαίρω (6), προφήτης (37), ἅλας (2), μωραίνω (1), ἁλίζω (1), καταπατέω (2), λύχνος (2), μόδιος (1), λυχνία (1), λάμπω (3), καίω (1), κρύπτω (7), στόμα (11), μαθητής (72), καθίζω (8), προσέρχομαι (51), πόλις (27), ἔργον (6), δοξάζω (4), πατήρ (63), δικαιοσύνη (7), φῶς (7), ὄρος (16), κόσμος (9), γῆ (43), ψεύδομαι (1) oraz dla ἄνθρωπος (115) i ὁράω (134). Twierdzenie, że Mt 5,16 jest pierwszym u Mateusza nazwaniem Boga Ojcem, sprawdzono przez wyliczenie wszystkich wcześniejszych wystąpień rzeczownika (2,22; 3,9; 4,21; 4,22). Omowę „Ojciec, ten w niebiosach\" policzono na dziesięć wystąpień w pełnym brzmieniu z ἐν (τοῖς) οὐρανοῖς i siedem w postaci przymiotnikowej (5,48; 6,14.26.32; 15,13; 18,35; 23,9). Zestawienie twierdzącego ὑμεῖς ἐστε sprawdzono na wszystkich wystąpieniach zaimka: stoi w 5,13 i 5,14, a trzeci raz zaprzeczone w 10,20. Transkrypcje hebrajskie uproszczone.*\n\n*Noty tekstualne opierają się na siedemnastu wpisach aparatu dla Mt 5,1–16 w tabeli `commentaries`; świadków podano wedle tych wpisów i nie uzupełniano z innych wydań. Przestawienie wierszy czwartego i piątego, notowane u D, w tradycji łacińskiej, u starosyryjskiego kureteńskiego, u Orygenesa i Euzebiusza, potwierdza w tym repozytorium sama Wulgata klementyńska z `db.sqlite`, która ma w w. 4 mites, a w w. 5 qui lugent. Tekstu Marka, Łukasza, Pierwszego Listu Piotra, psalmów, Izajasza i Syracha nie ma w tym repozytorium, więc wszystkie zdania o ich brzmieniu — zwłaszcza o greckim brzmieniu Ps 37,11, Ps 24,3–4, Iz 61,1–2 i o wersjach soli oraz lampy u synoptyków — podano z pamięci i wymagają kolacji przy wydaniach krytycznych. To samo dotyczy sigliów i brzmień qumrańskich (4Q525; 1QM 14,7; 1QS 4,3) oraz miejsca w Talmudzie babilońskim o soli, która przestała solić.*\n\n*Loci patrystyczne — numery homilii Chryzostoma, księga i rozdział Augustyna z De sermone Domini in monte, miejsca u Hieronima, Hilarego i Chromacjusza — podano wedle standardowej numeracji albo, gdzie numeracja jest niepewna, przez wskazanie wiersza, i przed publikacją wymagają sprawdzenia przy źródłach (Źródła Myśli Teologicznej, PSP, Migne). To samo dotyczy loci Tomasza (ST I, q. 12, a. 2 i a. 5; ST I–II, q. 3, a. 2 i a. 8; q. 5, a. 3; q. 69, a. 1–4; q. 114, a. 1 i a. 5), konstytucji Benedictus Deus (1336) i chronologii kazań Jana XXII, soborów konstantynopolitańskich lat 1341–1351 i nauki Grzegorza Palamasa o istocie i działaniach, datowania kościoła nad Tabgha i atrybucji projektu, datowań i atrybucji fresków Rossellego i Fra Angelica, sigliów adhortacji Gaudete et exsultate, danych o składzie soli z Dżebel Usdum i o płytkach piecowych, metrologii korca, chronologii birkat ha-minim, a przede wszystkim sigliów Lekcjonarza rzymskiego i perykop ewangeliarza bizantyjskiego — zwłaszcza twierdzeń, że Mt 5,1–12a jest Ewangelią uroczystości Wszystkich Świętych i czwartej niedzieli zwykłej roku A, że Mt 5,13–16 jest Ewangelią piątej niedzieli zwykłej tego samego roku, że perykopa wraca w poniedziałek i wtorek dziesiątego tygodnia zwykłego, oraz że Mt 5,3–12 wchodzi w trzeci antyfon Liturgii bizantyjskiej, a Mt 5,14–19 w czytania wspomnień hierarchów. Przy pracy publikacyjnej warto zestawić analizę z komentarzami: U. Luz, W. D. Davies i D. C. Allison (ICC), R. T. France (NICNT), H. D. Betz, monografią J. Dupont o błogosławieństwach, a po polsku A. Paciorek (NKB NT I).*",
+     "children": []
+    }
+   ],
+   "refs": [
+    [
+     [
+      "pericope"
+     ],
+     "Łk",
+     6,
+     20,
+     6,
+     26,
+     "Łk 6,20–26",
+     "paralela",
+     "Cztery makaryzmy w drugiej osobie i cztery „biada\", wygłoszone na miejscu równym, nie na górze (Łk 6,17). Pokrywają się z Mateuszowymi ubogimi, głodnymi, smucącymi się i prześladowanymi; cztery pozostałe Mateuszowe — łagodni, miłosierni, czyści sercem, czyniący pokój — nie mają u Łukasza odpowiednika i są jedynymi w szeregu, które opisują postępowanie, a nie położenie. Kolacja wymaga wydania krytycznego, bo tekstu Łukasza nie ma w tym repozytorium."
+    ],
+    [
+     [
+      "pericope"
+     ],
+     "Iz",
+     61,
+     1,
+     61,
+     3,
+     "Iz 61,1–3",
+     "aluzja",
+     "Pomazany Duchem posłany, by ogłosić dobrą nowinę ubogim i pocieszyć wszystkich, którzy się smucą. Dwa pierwsze makaryzmy Mateusza stoją nad dwoma kolejnymi wierszami tego proroctwa w tej samej kolejności, a to samo miejsce wróci w odpowiedzi posłanej Chrzcicielowi do więzienia (11,5)."
+    ],
+    [
+     [
+      "unit",
+      "w. 1–2",
+      1
+     ],
+     "Wj",
+     19,
+     3,
+     19,
+     3,
+     "Wj 19,3",
+     "typologia",
+     "Mojżesz wstępuje na górę Bożą i zdanie o jego wstąpieniu brzmi po grecku tak samo jak Mateuszowe ἀνέβη εἰς τὸ ὄρος. Figura i wypełnienie różnią się kierunkiem: Mojżesz wstąpił, by odebrać Prawo i z nim zstąpić, a tutaj wstępujący wydaje i nie zstępuje aż do uzdrowienia trędowatego (8,1)."
+    ],
+    [
+     [
+      "unit",
+      "w. 1–2",
+      1
+     ],
+     "Wj",
+     24,
+     18,
+     24,
+     18,
+     "Wj 24,18",
+     "typologia",
+     "Mojżesz wszedł w obłok i był na górze czterdzieści dni i czterdzieści nocy. Zestawienie dokłada do poprzedniego liczbę, którą Mateusz zużytkował wcześniej, w poście na pustyni (4,2), a nie tutaj: na górze Kazania nie ma ani czterdziestu dni, ani obłoku, ani żadnej zapory między mówiącym i słuchającymi."
+    ],
+    [
+     [
+      "unit",
+      "w. 1–2",
+      1
+     ],
+     "Ps",
+     24,
+     3,
+     24,
+     3,
+     "Ps 24,3",
+     "aluzja",
+     "Pytanie psalmu — kto wstąpi na górę Pana — używa w wersji greckiej tego samego wyrażenia, które Mateusz zapisał w w. 1. Odpowiedź psalmu, czystość serca, stoi w Mt 5,8 jako makaryzm szósty, więc zbieżność obejmuje dwa odległe wiersze perykopy. Zastrzeżenie: Mateusz psalmu nie sygnalizuje, a to samo wyrażenie zachodzi też z Wj 19,3."
+    ],
+    [
+     [
+      "unit",
+      "w. 1–2",
+      3
+     ],
+     "Mt",
+     28,
+     16,
+     28,
+     20,
+     "Mt 28,16–20",
+     "paralela",
+     "Ostatnia góra tej Ewangelii i ostatnie zdanie księgi. Rzeczownik μαθητής pada po raz pierwszy przy wstępowaniu na pierwszą górę (5,1), a czasownik od tego samego rdzenia — μαθητεύσατε (uczyńcie uczniami) — przy ostatniej. Różnica jest jedna: na górze z rozdziału dwudziestego ósmego nie ma tłumów."
+    ],
+    [
+     [
+      "unit",
+      "w. 1–2",
+      4
+     ],
+     "Ps",
+     78,
+     2,
+     78,
+     2,
+     "Ps 78,2",
+     "cytat",
+     "Otwarcie ust jako formuła uroczystej mowy. Mateusz przytoczy ten psalm wprost w 13,35, z formułą wypełnienia, i tam zwrot należy już do cytowanego tekstu; w Mt 5,2 ten sam zwrot jest nieoznaczony i wprowadza Kazanie. Dwa wielkie bloki mowy tej Ewangelii otwiera zatem jedna semicka formuła."
+    ],
+    [
+     [
+      "unit",
+      "w. 3–6",
+      1
+     ],
+     "Iz",
+     61,
+     1,
+     61,
+     1,
+     "Iz 61,1",
+     "aluzja",
+     "Grecka wersja ma εὐαγγελίσασθαι πτωχοῖς (ogłosić dobrą nowinę ubogim) tym samym przymiotnikiem, który stoi w Mt 5,3. Hebrajski ma w tym miejscu עֲנָוִים, wyraz obejmujący zarazem nędzarza i pokornego przed Bogiem — i to on stoi za rozszczepieniem Mateuszowych makaryzmów pierwszego i trzeciego."
+    ],
+    [
+     [
+      "unit",
+      "w. 3–6",
+      1
+     ],
+     "Ps",
+     1,
+     1,
+     1,
+     1,
+     "Ps 1,1",
+     "tlo",
+     "Pierwszy wiersz Psałterza jest wzorcem pojedynczego makaryzmu: formuła אַשְׁרֵי, zdanie bez orzeczenia, podmiot ludzki. Forma, którą Mateusz wybrał dla dziewięciu zdań, jest zatem w judaizmie wcześniejsza od Ewangelii i orzeka, a nie błogosławi."
+    ],
+    [
+     [
+      "unit",
+      "w. 3–6",
+      3
+     ],
+     "Iz",
+     61,
+     2,
+     61,
+     2,
+     "Iz 61,2",
+     "aluzja",
+     "Pocieszenie wszystkich, którzy się smucą. Mateuszowa para πενθοῦντες i παρακληθήσονται odpowiada obu wyrazom tego wiersza, a strona bierna w jego wersji nie podaje sprawcy, którego proroctwo nazywa wprost."
+    ],
+    [
+     [
+      "unit",
+      "w. 3–6",
+      3
+     ],
+     "Jr",
+     31,
+     15,
+     31,
+     15,
+     "Jr 31,15",
+     "kontrast",
+     "Rachela płacząca nad swoimi dziećmi i nie chcąca przyjąć pocieszenia. Mateusz przytoczył ten wiersz formułą wypełnienia przy rzezi w Betlejem (2,18), i to jedyne miejsce jego Ewangelii, w którym pocieszenie zostaje odrzucone. Makaryzm drugi stoi wobec tamtego wiersza jako odwrócenie, i Mateusz zestawienia nie sygnalizuje."
+    ],
+    [
+     [
+      "unit",
+      "w. 3–6",
+      4
+     ],
+     "Ps",
+     37,
+     11,
+     37,
+     11,
+     "Ps 37,11",
+     "cytat",
+     "Jedyne przytoczenie perykopy i jedyne niemal dosłowne. Wersja grecka ma οἱ δὲ πραεῖς κληρονομήσουσιν γῆν; Mt 5,5 powtarza trzy wyrazy w tej kolejności i dokłada rodzajnik. Formuły wprowadzającej nie ma, choć w czterech pierwszych rozdziałach Mateusz oznaczył pięć cytatów. Kolacja z Septuagintą wymaga sprawdzenia."
+    ],
+    [
+     [
+      "unit",
+      "w. 3–6",
+      4
+     ],
+     "Mt",
+     11,
+     29,
+     11,
+     29,
+     "Mt 11,29",
+     "rozwiniecie",
+     "Jezus nazywa siebie łagodnym i uniżonym sercem — jedyne miejsce tej Ewangelii, w którym określa siebie przymiotnikiem, i ten sam przymiotnik, który stoi w makaryzmie trzecim."
+    ],
+    [
+     [
+      "unit",
+      "w. 3–6",
+      4
+     ],
+     "Za",
+     9,
+     9,
+     9,
+     9,
+     "Za 9,9",
+     "cytat",
+     "Król przychodzący łagodny, na osiołku. Mateusz przytoczy to proroctwo z formułą wypełnienia przy wjeździe do Jerozolimy (21,5), i jest to trzecie i ostatnie wystąpienie przymiotnika πραΰς w jego Ewangelii. To, co w Mt 5,5 jest obiecane łagodnym, w Mt 21,5 jest sposobem wjazdu do miasta, w którym mówiący zginie."
+    ],
+    [
+     [
+      "unit",
+      "w. 3–6",
+      5
+     ],
+     "Mt",
+     6,
+     33,
+     6,
+     33,
+     "Mt 6,33",
+     "rozwiniecie",
+     "Szukajcie najpierw królestwa i jego sprawiedliwości, a to wszystko będzie wam dodane. Łaknienie sprawiedliwości z makaryzmu czwartego dostaje tu postać nakazu, a przedmiot obu zdań jest ten sam i w tej samej parze: królestwo i sprawiedliwość."
+    ],
+    [
+     [
+      "unit",
+      "w. 3–6",
+      6
+     ],
+     "Mt",
+     25,
+     31,
+     25,
+     46,
+     "Mt 25,31–46",
+     "rozwiniecie",
+     "Scena sądu nad narodami wylicza łaknienie i pragnienie po dwa razy każde (25,35.37.42.44) i czyni z nich sprawę między ludźmi, a miarą wyroku jest okazane albo nieokazane miłosierdzie. Tam, gdzie makaryzmy czwarty i piąty orzekają, mowa o sądzie podaje czyn i jego brak."
+    ],
+    [
+     [
+      "unit",
+      "w. 7–10",
+      0
+     ],
+     "Wj",
+     34,
+     6,
+     34,
+     6,
+     "Wj 34,6",
+     "tlo",
+     "Bóg sam o sobie: miłosierny i litościwy. Przymiotnik ἐλεήμων jest w Septuagincie określeniem Boga, powtórzonym w Ps 103,8; w Mt 5,7 zostaje orzeczony o człowieku, a druga połowa zdania jest stroną bierną bez podmiotu."
+    ],
+    [
+     [
+      "unit",
+      "w. 7–10",
+      0
+     ],
+     "Mt",
+     18,
+     23,
+     18,
+     35,
+     "Mt 18,23–35",
+     "rozwiniecie",
+     "Przypowieść o nielitościwym dłużniku kończy się odwołaniem darowanego długu temu, kto nie darował bratu. Zasada „miara za miarę\" z makaryzmu piątego jest tu opowiedziana w działaniu i w kierunku odwrotnym, a Kazanie ma ją jeszcze dwa razy (6,12; 7,2)."
+    ],
+    [
+     [
+      "unit",
+      "w. 7–10",
+      1
+     ],
+     "Ps",
+     24,
+     4,
+     24,
+     4,
+     "Ps 24,4",
+     "cytat",
+     "Wersja grecka stawia obok siebie niewinnego rękami i καθαρὸς τῇ καρδίᾳ (czystego sercem), a zwrot jest rzadki. Mt 5,8 powtarza go bez żadnego sygnału. Psalm czyni z czystości serca warunek wstąpienia na górę Pana, a obietnicą jest oglądanie oblicza."
+    ],
+    [
+     [
+      "unit",
+      "w. 7–10",
+      1
+     ],
+     "Ps",
+     51,
+     12,
+     51,
+     12,
+     "Ps 51,12",
+     "kontrast",
+     "Serce czyste stwórz we mnie, Boże. Tu czystość serca jest przedmiotem prośby o stworzenie, nie warunkiem wstępu — dokładnie przeciwnie niż w Ps 24,4. Mt 5,8 obu psalmów nie uzgadnia: zdanie orzeka o ludziach już czystych sercem, a obiecuje to, czego żaden człowiek sobie nie da."
+    ],
+    [
+     [
+      "unit",
+      "w. 7–10",
+      2
+     ],
+     "Wj",
+     33,
+     20,
+     33,
+     20,
+     "Wj 33,20",
+     "kontrast",
+     "Nie zobaczy mnie człowiek i nie pozostanie żywy. Obietnica z Mt 5,8 stoi wobec tego zdania w sprzeczności, której Mateusz nie podejmuje ani jednym wyrazem; rozstrzygnięcie przyszło w teologii widzenia uszczęśliwiającego, czternaście wieków później."
+    ],
+    [
+     [
+      "unit",
+      "w. 7–10",
+      4
+     ],
+     "Mt",
+     5,
+     43,
+     5,
+     48,
+     "Mt 5,43–48",
+     "rozwiniecie",
+     "Warunek synostwa podany trudniej niż w makaryzmie siódmym: synami Ojca są ci, którzy miłują nieprzyjaciół, bo On każe słońcu wschodzić nad złymi i dobrymi. W tym samym rozdziale ten sam tytuł zostaje związany nie z czynieniem pokoju, lecz z postępowaniem wobec wroga."
+    ],
+    [
+     [
+      "unit",
+      "w. 7–10",
+      4
+     ],
+     "Oz",
+     11,
+     1,
+     11,
+     1,
+     "Oz 11,1",
+     "tlo",
+     "Z Egiptu wezwałem syna mojego — wiersz, który Mateusz przytoczył z formułą wypełnienia o Jezusie (2,15). Tytuł „synowie Boga\" jest w Piśmie zastrzeżony i dotyczy istot niebieskich (Hi 1,6), króla (Ps 2,7) albo Izraela jako ludu; jego orzeczenie o czyniących pokój jest rozszerzeniem tytułu, nie pochwałą."
+    ],
+    [
+     [
+      "unit",
+      "w. 7–10",
+      5
+     ],
+     "Mt",
+     10,
+     17,
+     10,
+     23,
+     "Mt 10,17–23",
+     "rozwiniecie",
+     "Prześladowanie dostaje tu adres, którego makaryzm ósmy nie podaje: sanhedryny i synagogi, w których uczniów będą biczować, oraz ucieczka z miasta do miasta. Ten sam czasownik διώκω wraca w 10,23 i w 23,34."
+    ],
+    [
+     [
+      "unit",
+      "w. 11–12",
+      1
+     ],
+     "Mt",
+     27,
+     44,
+     27,
+     44,
+     "Mt 27,44",
+     "paralela",
+     "Trzecie i ostatnie wystąpienie czasownika ὀνειδίζω u Mateusza: tak lżyli Jezusa współukrzyżowani. Co zapowiedziano uczniom w w. 11, dzieje się najpierw z nauczycielem, i słownictwo jest to samo; Mateusz zestawienia nie komentuje."
+    ],
+    [
+     [
+      "unit",
+      "w. 11–12",
+      3
+     ],
+     "Mt",
+     10,
+     32,
+     10,
+     39,
+     "Mt 10,32–39",
+     "rozwiniecie",
+     "Formuła ἕνεκεν ἐμοῦ (z powodu mnie) wraca dwa razy i za drugim razem przy stracie życia (10,39), a to samo zdanie powtórzy 16,25. Dwa wyrazy, które w Kazaniu stoją bez objaśnienia, w mowie misyjnej mają konsekwencję najwyższą."
+    ],
+    [
+     [
+      "unit",
+      "w. 11–12",
+      4
+     ],
+     "Dz",
+     5,
+     41,
+     5,
+     41,
+     "Dz 5,41",
+     "paralela",
+     "Apostołowie odchodzą z Sanhedrynu radując się, że stali się godni cierpieć zniewagę za imię. Jedyne miejsce Dziejów, w którym radość jest odpowiedzią na zniewagę, i jedyny poza Mt 5,12 rozkaz tego rodzaju wykonany w opowiadaniu."
+    ],
+    [
+     [
+      "unit",
+      "w. 11–12",
+      5
+     ],
+     "Rdz",
+     15,
+     1,
+     15,
+     1,
+     "Rdz 15,1",
+     "tlo",
+     "Pan mówi Abramowi, że sam jest jego zapłatą wielką. Hebrajskie שָׂכָר (sachar) z tym samym przymiotnikiem stoi za Mateuszowym ὁ μισθὸς ὑμῶν πολύς (zapłata wasza wielka), a Mt 5,12 nie podaje, czym zapłata jest — rozstrzygnięcie Rdz 15,1 idzie dalej niż Kazanie."
+    ],
+    [
+     [
+      "unit",
+      "w. 11–12",
+      5
+     ],
+     "Mt",
+     6,
+     1,
+     6,
+     6,
+     "Mt 6,1–6",
+     "kontrast",
+     "Kto daje jałmużnę i modli się na pokaz, odebrał już swoją zapłatę od ludzi i u Ojca nie ma nic. Ten sam rzeczownik μισθός w czterech wystąpieniach rozdziału szóstego jest użyty przeciwnie niż w w. 12: rozstrzyga adresat, nie czyn."
+    ],
+    [
+     [
+      "unit",
+      "w. 11–12",
+      6
+     ],
+     "2 Krn",
+     36,
+     15,
+     36,
+     16,
+     "2 Krn 36,15–16",
+     "tlo",
+     "Streszczenie dziejów proroctwa: Pan posyłał bez przerwy, a oni wyszydzali posłanych i lekceważyli słowa. Twierdzenie z w. 12 o losie proroka ma zatem w Piśmie podstawę zbiorczą, nie jednostkową."
+    ],
+    [
+     [
+      "unit",
+      "w. 11–12",
+      6
+     ],
+     "Jr",
+     26,
+     20,
+     26,
+     23,
+     "Jr 26,20–23",
+     "tlo",
+     "Uriasz, syn Szemajasza, prorokował podobnie jak Jeremiasz, uciekł do Egiptu, został wydany i zabity mieczem. Pojedynczy przypadek, do którego odsyła zbiorcze zdanie z w. 12, i jeden z nielicznych opisanych w Biblii wprost."
+    ],
+    [
+     [
+      "unit",
+      "w. 11–12",
+      6
+     ],
+     "Mt",
+     23,
+     29,
+     23,
+     37,
+     "Mt 23,29–37",
+     "rozwiniecie",
+     "To samo twierdzenie o prorokach odwrócone i skierowane przeciw słuchaczom: budowanie grobów prorokom zostaje nazwane przyznaniem się do tych, którzy ich zabili, a ten sam czasownik διώκω opisuje ściganie posłanych z miasta do miasta. W w. 12 zdanie pociesza, w rozdziale dwudziestym trzecim oskarża."
+    ],
+    [
+     [
+      "unit",
+      "w. 13–16",
+      0
+     ],
+     "Kpł",
+     2,
+     13,
+     2,
+     13,
+     "Kpł 2,13",
+     "tlo",
+     "Każdą ofiarę z pokarmów masz posolić i nie wolno jej składać bez soli. Sól jest tu wymogiem obrzędu, nie przyprawą — i to jedno z czterech biblijnych tł obrazu z w. 13, z których Mateusz nie wskazuje żadnego."
+    ],
+    [
+     [
+      "unit",
+      "w. 13–16",
+      0
+     ],
+     "Lb",
+     18,
+     19,
+     18,
+     19,
+     "Lb 18,19",
+     "tlo",
+     "Prawo kapłanów do świętych darów nazwane przymierzem soli na wieki. Ten sam zwrot określa w 2 Krn 13,5 prawo Dawida do królowania; sól jest w nim pieczęcią trwałości, bo się nie psuje."
+    ],
+    [
+     [
+      "unit",
+      "w. 13–16",
+      0
+     ],
+     "Sdz",
+     9,
+     45,
+     9,
+     45,
+     "Sdz 9,45",
+     "kontrast",
+     "Abimelek zdobył Sychem, zburzył je i zasiał solą. Porządek przeciwny do przymierza i równie dobrze poświadczony (zob. też Pwt 29,22): sól jest tu znakiem ziemi niezdatnej do życia. Obraz z w. 13 stoi między obu porządkami i Mateusz nie rozstrzyga, do którego należy."
+    ],
+    [
+     [
+      "unit",
+      "w. 13–16",
+      2
+     ],
+     "Mt",
+     7,
+     6,
+     7,
+     6,
+     "Mt 7,6",
+     "paralela",
+     "Drugie i ostatnie wystąpienie czasownika καταπατέω u Mateusza: świnie depczące perły. Oba miejsca stoją w Kazaniu i oba mówią o rzeczy wartościowej, która znalazła się nie tam, gdzie powinna."
+    ],
+    [
+     [
+      "unit",
+      "w. 13–16",
+      3
+     ],
+     "Mt",
+     4,
+     15,
+     4,
+     16,
+     "Mt 4,15–16",
+     "rozwiniecie",
+     "Dwa pierwsze wystąpienia rzeczownika φῶς u Mateusza, w przytoczeniu Izajasza o świetle, które wzeszło ludowi siedzącemu w ciemności. Dwa następne są tutaj i dotyczą uczniów; Mateusz nie podaje, jak jedno ma się do drugiego, i nie ma w swojej Ewangelii zdania, w którym Jezus nazywa światłem świata siebie."
+    ],
+    [
+     [
+      "unit",
+      "w. 13–16",
+      3
+     ],
+     "J",
+     8,
+     12,
+     8,
+     12,
+     "J 8,12",
+     "kontrast",
+     "Ja jestem światłość świata. Czwarta Ewangelia kładzie to określenie w usta Jezusa o sobie, a u Mateusza tym samym wyrazem nazwani są wyłącznie uczniowie. Zestawienie pokazuje, że Mateuszowe w. 14 nie jest pochwałą, bo poprzedza je zdanie o soli, która może stać się bezużyteczna."
+    ],
+    [
+     [
+      "unit",
+      "w. 13–16",
+      4
+     ],
+     "Iz",
+     2,
+     2,
+     2,
+     3,
+     "Iz 2,2–3",
+     "tlo",
+     "Góra domu Pana wyniesiona nad wzgórza i narody wstępujące na nią po naukę. Podmiotem proroctwa jest Jerozolima, podmiotem Mt 5,14 są uczniowie, a Jerozolima nie jest w tym wierszu wymieniona wcale."
+    ],
+    [
+     [
+      "unit",
+      "w. 13–16",
+      4
+     ],
+     "Iz",
+     60,
+     1,
+     60,
+     3,
+     "Iz 60,1–3",
+     "tlo",
+     "Wstań, bo przyszło twoje światło, a narody pójdą do twojej światłości. To samo przeniesienie: co proroctwo mówi o mieście, Mateusz orzeka o ludziach, i robi to bez komentarza. Miasto wielkiego króla nazwie w tym samym rozdziale (5,35)."
+    ],
+    [
+     [
+      "unit",
+      "w. 13–16",
+      5
+     ],
+     "Mk",
+     4,
+     21,
+     4,
+     22,
+     "Mk 4,21–22",
+     "paralela",
+     "Markowa wersja obrazu lampy stoi przy przypowieściach i wiąże się z tym, co ukryte, a ma się objawić; lampa jest tam wstawiana pod naczynie albo pod łoże. Mateusz łączy obraz z makaryzmami, czego nie robi żaden z pozostałych, i ma w nim łaciński μόδιος. Kolacja wymaga wydania krytycznego."
+    ],
+    [
+     [
+      "unit",
+      "w. 13–16",
+      5
+     ],
+     "Łk",
+     11,
+     33,
+     11,
+     33,
+     "Łk 11,33",
+     "paralela",
+     "Łukasz ma obraz lampy dwa razy (8,16; 11,33) i w obu wersjach mówi o piwnicy albo o łożu, a drugie wystąpienie stoi przy znaku Jonasza. Kolacja wymaga wydania krytycznego, bo tekstu Łukasza nie ma w tym repozytorium."
+    ],
+    [
+     [
+      "unit",
+      "w. 13–16",
+      6
+     ],
+     "Mt",
+     17,
+     2,
+     17,
+     2,
+     "Mt 17,2",
+     "paralela",
+     "Trzecie i ostatnie wystąpienie czasownika λάμπω u Mateusza: na górze zajaśniało oblicze Jezusa jak słońce. Dwa pierwsze są w w. 15 i 16, o lampie i o uczniach, więc trzy wystąpienia rozkładają się na dwa domowe i jedno na górze."
+    ],
+    [
+     [
+      "unit",
+      "w. 13–16",
+      7
+     ],
+     "Mt",
+     23,
+     3,
+     23,
+     5,
+     "Mt 23,3–5",
+     "kontrast",
+     "Wszystkie ich czyny są czynione, żeby je ludzie widzieli, i nie należy ich naśladować. Ten sam rzeczownik ἔργον, który w w. 16 jest przedmiotem nakazu, w mowie przeciw uczonym w Piśmie jest przedmiotem zarzutu."
+    ],
+    [
+     [
+      "unit",
+      "w. 13–16",
+      8
+     ],
+     "Mt",
+     6,
+     1,
+     6,
+     18,
+     "Mt 6,1–18",
+     "kontrast",
+     "Nie czyńcie waszej sprawiedliwości przed ludźmi, żeby być przez nich widzianymi. Wyrażenie ἔμπροσθεν τῶν ἀνθρώπων jest w 5,16 i 6,1 niemal identyczne, a zdania mówią przeciwnie — i różni je wyłącznie to, do kogo idzie chwała."
+    ],
+    [
+     [
+      "unit",
+      "w. 13–16",
+      8
+     ],
+     "Mt",
+     6,
+     9,
+     6,
+     9,
+     "Mt 6,9",
+     "rozwiniecie",
+     "Wy zatem tak się modlcie: Ojcze nasz, ten w niebiosach. Omowa wprowadzona w w. 16 jako cel ludzkiej chwały staje się w następnym rozdziale wezwaniem, a Mateusz nie wstawia między oba miejsca żadnego przejścia."
+    ],
+    [
+     [
+      "section",
+      "Qumran: szereg makaryzmów i ubodzy duchem"
+     ],
+     "Syr",
+     25,
+     7,
+     25,
+     10,
+     "Syr 25,7–10",
+     "tlo",
+     "Szereg makaryzmów w literaturze mądrościowej, poświadczający, że układanie takich zdań w ciąg jest formą wcześniejszą od Ewangelii i że liczba członów nie była w gatunku wiążąca. Brzmienia i numeracja wymagają sprawdzenia w wydaniach."
+    ],
+    [
+     [
+      "section",
+      "Kto prześladuje: wspólnota Mateusza i synagoga po roku 70"
+     ],
+     "J",
+     9,
+     22,
+     9,
+     22,
+     "J 9,22",
+     "kontrast",
+     "Czwarta Ewangelia mówi o wykluczeniu ze zgromadzenia wprost i czyni z niego postanowienie władz (zob. też J 16,2). Mateusz o wykluczeniu nie mówi nigdy, a to, co opisuje w w. 11, jest mniej formalne: zniewaga publiczna, ściganie i fałszywe oskarżenie."
+    ],
+    [
+     [
+      "section",
+      "Czy człowiek może zobaczyć Boga"
+     ],
+     "1 P",
+     3,
+     14,
+     3,
+     14,
+     "1 P 3,14",
+     "paralela",
+     "Szczęśliwi, jeśli cierpicie dla sprawiedliwości — zdanie, które wygląda na znane autorowi z tradycji, nie z tekstu Mateusza, a które w 1 P 4,13–14 wraca z rozkazem radości i z przyczyną podaną jako imię. Makaryzm o prześladowanych krążył zatem w pierwszym wieku z obiema przyczynami, a tradycja rękopiśmienna Mt 5,11 obie zna."
+    ]
+   ],
+   "patristic": [
+    [
+     "w. 1–2",
+     "św. Hilary z Poitiers",
+     "Commentarius in Matthaeum",
+     "In Mt. IV (ad 5,1–2)",
+     "Hilary zatrzymuje się na dwóch szczegółach ramy, których żaden inny z łacinników nie uważa za warte uwagi: na górze i na podejściu uczniów. Góra jest u niego miejscem wysokości, z której mówi się z władzą, i czyta ją przez porównanie z Sinajem, ale porównanie prowadzi do różnicy, nie do podobieństwa: tam lud został odsunięty pod grozą śmierci, tu uczniowie podchodzą bliżej. Z tego wyprowadza myśl, która jest u niego stała — że nowe nauczanie nie ogranicza dostępu, lecz go otwiera, i że dlatego mówiący siedzi, a nie przemawia z obłoku. Drugi szczegół jest dla niego konsekwencją pierwszego: nauka zostaje dana tym, którzy podeszli, a nie wszystkim, którzy byli obecni, i to nie z powodu tajemnicy, lecz z powodu odległości, jaką każdy sam wybrał. Lokalizacji tego miejsca u Hilarego trzeba sprawdzić, bo numeracja rozdziałów jego komentarza bywa cytowana rozmaicie."
+    ],
+    [
+     "w. 3–6",
+     "św. Jan Chryzostom",
+     "Homiliae in Matthaeum",
+     "Hom. in Mt. 15",
+     "Chryzostom pyta o kolejność, bo uważa ją za zamierzoną. Czemu szereg zaczyna się od ubóstwa duchem, a nie od czegokolwiek innego? Odpowiada, że pycha jest korzeniem wszystkiego, co człowieka psuje, więc trzeba ją wyrwać pierwszą, i że nic z tego, co następuje, nie jest możliwe wcześniej — nie można być łagodnym, nie przestawszy uważać się za ważnego. Stąd jego teza o łańcuchu: każde następne zdanie wyrasta z poprzedniego, a kto przyjął pierwsze, dostaje drugie w naturalnym następstwie. Przy ubóstwie duchem zatrzymuje się osobno i tłumaczy, czemu dodano celownik: żeby nikt nie myślał, że chodzi o sam brak pieniędzy, bo bywa ubogi i nadęty, a bywa zamożny i uniżony — ubóstwo, o którym mowa, jest wybrane, nie wycierpiane. Rzecz wypada u niego nieoczekiwanie ostro, kiedy przechodzi do łagodnych: pyta, czemu obiecano im ziemię, skoro mowa o królestwie niebios, i odpowiada, że obietnica dotyczy nie dwóch rzeczy, lecz dwóch sposobów mówienia o jednej, a przy tym ziemia jest dana temu, kto o nią nie walczy — czyli odwrotnie niż to wszyscy robią."
+    ],
+    [
+     "w. 3–6",
+     "św. Augustyn",
+     "De sermone Domini in monte",
+     "De serm. Dom. I,3–4",
+     "Augustyn ma do Kazania dzieło osobne i w nim porządkuje makaryzmy liczbowo, nie treściowo. Liczy siedem, bo ósmy uznaje za powrót do pierwszego: królestwo niebios jest w obu racjach to samo, więc szereg zamyka się klamrą, a ósme zdanie nie dokłada nowego stopnia, lecz pokazuje, że droga jest skończona. Siedmiu stopniom przypisuje siedem darów Ducha z Izajasza, biorąc je w kolejności odwrotnej: bojaźń Boża przy ubogich duchem, pobożność przy łagodnych, umiejętność przy smucących się, męstwo przy głodnych sprawiedliwości, rada przy miłosiernych, rozum przy czystych sercem, mądrość przy czyniących pokój. Do tego dokłada drugie zestawienie, z siedmioma prośbami Modlitwy Pańskiej. Konstrukcja jest piękna i trzeba powiedzieć wprost, czego w tekście nie ma: Mateusz nie wspomina ani o darach, ani o Izajaszu, a ósmy makaryzm nie powtarza pierwszego, tylko ma z nim identyczną drugą połowę. Jedno natomiast wychodzi u Augustyna z samego tekstu i zostało potem przejęte przez scholastykę — że makaryzmy opisują akty, nie usposobienia. Loci wymagają sprawdzenia."
+    ],
+    [
+     "w. 7–10",
+     "św. Hieronim",
+     "Commentariorum in Matthaeum libri IV",
+     "In Mt. I (ad 5,8)",
+     "Hieronim pisze zwięźle i przy makaryzmie o czystym sercu robi uwagę filologiczną, nie budującą: zauważa, że obietnica widzenia Boga nie jest u Mateusza obwarowana żadnym zastrzeżeniem, choć Pismo gdzie indziej widzenia odmawia, i że czystość serca znaczy tu niepodzielność, nie bezgrzeszność. Dla jego sposobu czytania jest przy tym charakterystyczne, że sprawdza, czym serce jest w Piśmie, zamiast mówić, czym powinno być: wskazuje, że serce w języku biblijnym jest siedzibą zamysłu, więc czystość dotyczy intencji, a świątynia Boga buduje się w myśli, nie w uczuciu. Osobno zatrzymuje się nad tym, czemu do ubogich dodano ducha — podobnie jak Chryzostom, lecz krócej: żeby nie chwalić samej biedy, bo bieda nie jest cnotą. Trzeba przy jego lekturze pamiętać o różnicy numeracji: w tekście łacińskim, jakim się posługiwał, drugim błogosławieństwem są łagodni, a trzecim płaczący, bo tradycja zachodnia ma oba wiersze przestawione. Brzmień formuł Hieronima trzeba sprawdzić, bo bywa cytowany w wersjach wygładzonych przez katenę."
+    ],
+    [
+     "w. 13–16",
+     "św. Chromacjusz z Akwilei",
+     "Tractatus in Matthaeum",
+     "Tract. in Mt. (ad 5,13–16)",
+     "Chromacjusz czyta sól i światło jako nazwy urzędu i jest w tym najkonkretniejszy z całej czwórki. Solą ziemi nazywa tych, którym powierzono naukę, i wyciąga z obrazu wniosek dla nich niewygodny: sól nie jest pokarmem, jest tym, co pokarm zachowuje, więc nauczający nie jest celem, lecz warunkiem trwałości tego, co mu powierzono. Stąd jego uwaga o utracie smaku, którą stosuje nie do wiernych, a do nauczających: jeśli zepsuje się to, czym się soli, nie ma czym posolić soli, i dlatego zepsucie nauczyciela nie ma w Kościele lekarstwa równoległego do tego, jakie ma zepsucie ucznia. Przy świetle zatrzymuje się nad lampą pod naczyniem i czyta ją przez milczenie: wstawienie światła pod naczynie jest u niego obrazem tego, kto ma naukę i jej nie podaje. Dwa obrazy wiąże wreszcie w jedno przez wiersz szesnasty, zauważając, że chwała ma iść do Ojca, a nie do tego, kogo widać — i to jest w jego wykładzie jedyny punkt, w którym obraz zostaje ograniczony. Numeracja traktatów Chromacjusza jest w wydaniach niejednolita, więc locus podano przez wskazanie wiersza i wymaga sprawdzenia."
+    ]
+   ],
+   "textual": [
+    [
+     1,
+     "προσῆλθαν αὐτῷ",
+     "opuszczenie",
+     "Kodeks Watykański (B) i nieliczne rękopisy opuszczają zaimek αὐτῷ po orzeczeniu, zostawiając samo „podeszli uczniowie jego\".",
+     "Opuszczenie jest drobne i nie zmienia sensu, bo adresat podejścia wynika z kontekstu, a czasownik προσέρχομαι rządzi celownikiem nieobowiązkowo. Wartość noty jest inna: pokazuje, że kopiści uznawali zaimek za zbędny, a Mateusz go postawił — i że sam ruch ku Jezusowi jest w tym wierszu wyrażony dwa razy, raz czasownikiem, raz przypadkiem. Lekcja drukowana jest poświadczona szeroko."
+    ],
+    [
+     4,
+     "οἱ πενθοῦντες",
+     "transpozycja",
+     "Aparat notuje przestawienie wierszy czwartego i piątego: łagodni przed smucącymi się. Świadkami są kodeks Bezy (D), minuskuł 33, cała tradycja łacińska (lat), starosyryjski kureteński (sy^c), jeden rękopis bohairski, a z Ojców Orygenes i Euzebiusz.",
+     "To jest najważniejszy wariant tej perykopy, bo nie dotyczy brzmienia, lecz porządku, i bo świadczy o nim tekst stojący w tym samym repozytorium: Wulgata klementyńska w `db.sqlite` ma w w. 4 Beati mites, a w w. 5 Beati qui lugent. Cała zachodnia numeracja makaryzmów biegnie zatem inaczej niż grecka, co ma skutek praktyczny przy czytaniu komentarzy łacińskich — „drugie błogosławieństwo\" u Hieronima to łagodni, nie smucący się. Kierunek zmiany jest przy tym wyjaśnialny w obie strony: przestawienie łączy w jedno dwa makaryzmy zaczynające się na π i stawia obok siebie ubóstwo z łagodnością, co wygląda na porządkowanie; lekcja drukowana ma za sobą świadków greckich i tę właśnie trudność, że rozdziela wyrazy pokrewne. Uprzywilejowanie lekcji krótszej nie wchodzi tu w grę, bo obie są równej długości."
+    ],
+    [
+     4,
+     "οἱ πενθοῦντες",
+     "dodanie",
+     "Korektor Sinaiticusa, minuskuły 33 i 892, lekcjonarz 844, kilka rękopisów starołacińskich i część tradycji Wulgaty, jeden rękopis sahidycki oraz tradycja bohairska dokładają po imiesłowie słowo νῦν (teraz); tę samą lekcję ma Didymos.",
+     "Dodanie upodabnia wiersz do Łukasza, gdzie makaryzmy i „biada\" są wyposażone w okoliczniki czasu — teraz płaczecie, teraz się nasycacie (Łk 6,21.25). Kierunek harmonizacji jest przewidywalny, a świadkowie przeważnie przekładowi i wtórni. Znaczenie noty polega na tym, że pokazuje, czego w Mateuszowym szeregu nie ma: żadnego określenia czasu. Rozkład czasów gramatycznych w tym szeregu niesie całą chronologię i dodanie „teraz\" ją psuje, bo czyni z czasu przyszłego zapowiedź o określonym terminie."
+    ],
+    [
+     5,
+     "οἱ πραεῖς",
+     "koniektura",
+     "Aparat zapisuje w nawiasie kwadratowym domysł Juliusa Wellhausena, że wiersz piąty jest w tekście Mateusza wtórny i że go pierwotnie nie było. Koniektura nie ma za sobą ani jednego świadka rękopiśmiennego.",
+     "Domysł jest zrozumiały: wiersz piąty jest jedynym w szeregu przytoczeniem Pisma, powtarza Ps 37,11 niemal dosłownie, a jego usunięcie dałoby siedem makaryzmów, co zgadzałoby się z rachunkiem Augustyna, oraz pozostawiłoby trzy zdania zaczynające się na π zamiast czterech. Żaden z tych argumentów nie jest tekstowy, i to jest o koniekturze wszystko, co trzeba powiedzieć: wydawcy zapisali ją w nawiasie, bo należy do historii badań, nie do świadectw o tekście. Nota jest w tej bazie jedynym miejscem, w którym aparat notuje domysł uczonego, i warto zauważyć, czego on dotyczy — właśnie tego wiersza, który jest w perykopie jedynym cytatem."
+    ],
+    [
+     9,
+     "αὐτοὶ υἱοὶ θεοῦ",
+     "opuszczenie",
+     "Sinaiticus, kodeks C, kodeks Bezy (D), rodzina f13, nieliczne minuskuły, tradycja starołacińska, Wulgata w wydaniach klementyńskim i sykstyńskim, Peszitta oraz Didymos opuszczają zaimek αὐτοί. Lekcję drukowaną mają B, W, Θ, 0196, f1, 33, większość tekstu, część świadków łacińskich, trzy wersje syryjskie i przekłady koptyjskie.",
+     "Zaimek αὐτοί stoi w ośmiu racjach szeregu osiem razy i jest w nim wyrazem wyróżnienia: oni, a nie kto inny. Opuszczenie w jednym miejscu rozbija tę regularność, a greka bez zaimka jest poprawna, więc trudniej wyjaśnić dodanie niż usunięcie — chyba że przyjąć, iż regularność szeregu sama skłaniała do wyrównania, a to jest argument za lekcją krótszą. Podział świadków jest przy tym nietypowy, bo rozdziela wydania Wulgaty, co w notach tekstualnych tej bazy zdarza się rzadko: klementyńskie i sykstyńskie są bez zaimka, wydanie Wordswortha-White'a z nim. Rozstrzygnięcia drukowane trzeba tu traktować jako niepewne."
+    ],
+    [
+     11,
+     "ψευδόμενοι",
+     "opuszczenie",
+     "Kodeks Bezy (D), tradycja starołacińska i starosyryjski sinajski nie mają imiesłowu ψευδόμενοι, a wraz z nimi nie ma go Tertulian. Wydanie krytyczne zostawia wyraz w nawiasie kwadratowym, czyli nie rozstrzyga.",
+     "Decyzja nie jest formalna, bo zmienia zakres zdania: z imiesłowem makaryzm obejmuje wyłącznie oskarżenia kłamliwe, bez niego każde zniesławienie z powodu Jezusa. Świadkowie opuszczenia są wcześni i niezależni od siebie geograficznie, a sam wyraz wygląda na naturalne dopowiedzenie ostrożnego kopisty, który chciał wykluczyć zarzuty prawdziwe. Z drugiej strony ten sam kopista musiałby wpaść na identyczny pomysł w wielu miejscach naraz, bo lekcja z imiesłowem jest poświadczona bardzo szeroko. Nawias kwadratowy jest w tej sytuacji uczciwszy niż każde rozstrzygnięcie, a dla egzegezy znaczy jedno: na tym wyrazie nie wolno budować wykładni."
+    ],
+    [
+     11,
+     "διώξωσιν",
+     "wariant lekcji",
+     "Sinaiticus, kodeks Bezy (w przybliżeniu), W, Δ, Θ, rodzina f13 i nieliczne minuskuły mają formę czasu przyszłego διώξουσιν zamiast trybu łączącego czasu przeszłego nieokreślonego.",
+     "Różnica jednej samogłoski, a zmienia tryb wypowiedzi: tryb łączący po ὅταν mówi o zdarzeniu przewidywanym i nieokreślonym w czasie, czas przyszły — o zdarzeniu, które nastąpi. Dla wspólnoty, która prześladowania już doświadczała, druga lekcja brzmi naturalniej, i to jest najprostsze wyjaśnienie jej powstania. Rzecz jest przy tym gramatycznie pospolita, bo w grece hellenistycznej tryb łączący i czas przyszły mieszają się w zdaniach warunkowych i czasowych nieustannie, a wymowa obu form zbliżała się do siebie. Lekcja drukowana jest trudniejsza i zgodna z pozostałymi dwoma czasownikami zdania, które też są w trybie łączącym."
+    ],
+    [
+     11,
+     "πᾶν πονηρόν",
+     "dodanie",
+     "Kodeks C, W, Θ, 0196, rodziny f1 i f13, minuskuł 33 i większość tekstu dokładają po przymiotniku rzeczownik ῥῆμα (słowo), czyli „każde złe słowo\"; tę lekcję zna także Orygenes. Lekcję drukowaną mają Sinaiticus, Watykański, w przybliżeniu D, tradycja łacińska, obie wersje starosyryjskie i przekłady koptyjskie, a z Ojców Tertulian.",
+     "Zwrot πᾶν πονηρόν bez rzeczownika jest po grecku zbiorczy i nieco szorstki — „wszystko, co złe\" — a dopełnienie rzeczownikiem go porządkuje i zacieśnia do mowy. Kierunek zmiany jest zatem od trudniejszego do łatwiejszego, a ciężar świadków stoi po stronie lekcji krótszej. Dla sensu różnica jest realna: bez ῥῆμα zdanie obejmuje nie tylko oskarżenia słowne, choć kontekst trzech czasowników mówienia i tak je wysuwa na pierwszy plan."
+    ],
+    [
+     11,
+     "ἕνεκεν ἐμοῦ",
+     "wariant lekcji",
+     "Kodeks Bezy (D) i tradycja starołacińska mają w tym miejscu ἕνεκεν δικαιοσύνης (z powodu sprawiedliwości), a obie wersje starosyryjskie — „z powodu imienia mojego\", jak w Łk 21,12.",
+     "Oba warianty usuwają to samo: niespodziewane podstawienie osoby mówiącego w miejsce przyczyny, która w wierszu poprzednim była sprawiedliwością. Pierwszy wyrównuje wiersz jedenasty do dziesiątego, drugi harmonizuje z Łukaszem; oba są łatwiejsze, bo tłumaczą, czego Mateusz nie tłumaczy. Trzeba przy tym zauważyć, że obie przyczyny krążyły w pierwszym wieku niezależnie od rękopisów, bo Pierwszy List Piotra ma jedną w 3,14 (dla sprawiedliwości) i drugą w 4,14 (za imię). Lekcja drukowana jest najtrudniejsza i najlepiej poświadczona, a jej trudność jest treścią: w tym miejscu Jezus po raz pierwszy w Kazaniu mówi o sobie."
+    ],
+    [
+     11,
+     "ὀνειδίσωσιν ὑμᾶς",
+     "transpozycja",
+     "Aparat notuje w tym wierszu dwa osobne przestawienia szyku: jedno obejmuje czasowniki znieważenia i prześladowania (D, 33, starołacińskie h i k, w przybliżeniu sy^c, mae, bo), drugie wyrażenie o mówieniu złego przeciw wam (D, h, k).",
+     "Pięć znaków aparatu w jednym wierszu — dwa przestawienia, jedno opuszczenie, jedno dodanie i jeden wariant słowny — czyni z Mt 5,11 najgęściej obciążonym miejscem całego rozdziału. Żaden z wariantów nie zmienia sensu, a razem mówią jedno: wiersz był dla kopistów niewygodny i porządkowali go rozmaicie. Główny ciężar zmian spada przy tym na kodeks Bezy i na jego starołacińskie otoczenie, co w tej perykopie powtarza się przy jedenastu z siedemnastu wpisów aparatu."
+    ],
+    [
+     12,
+     "τοὺς πρὸ ὑμῶν",
+     "opuszczenie",
+     "Starosyryjski sinajski opuszcza dopowiedzenie „tych przed wami\", zostawiając samo „prześladowali proroków\". W tym samym miejscu kodeks Bezy dokłada imiesłów ὑπάρχοντας, a kodeks U i część tradycji starołacińskiej oraz starosyryjskiej — wyrażenie „ojcowie ich\", wzięte z paraleli.",
+     "Trzy zabiegi na jednym dopowiedzeniu dotyczą tej samej trudności: zdanie stawia adresatów w jednym szeregu z prorokami, a tego kopiści nie wszędzie przyjmowali. Opuszczenie usuwa porównanie, wariant „ojcowie ich\" przenosi winę na przodków prześladowców, czyli przesuwa zdanie w stronę rozdziału dwudziestego trzeciego, gdzie Mateusz je tak właśnie rozwinie (23,30–32). Lekcja drukowana jest poświadczona szeroko, a dopowiedzenie jest konieczne dla sensu wiersza: bez niego nie ma zestawienia prześladowanych uczniów z prorokami, czyli nie ma racji dla rozkazu radości."
+    ],
+    [
+     13,
+     "ἔτι",
+     "opuszczenie",
+     "Kodeks Bezy (D), W, tradycja starołacińska i trzy wersje syryjskie opuszczają przysłówek ἔτι (już), a wraz z nimi opuszcza go Cyprian.",
+     "Przysłówek niesie w tym zdaniu chronologię: sól „już\" nie ma siły, czyli miała ją wcześniej. Bez niego zdanie mówi tylko, że sól bezużyteczna jest bezużyteczna, i traci cały sens obrazu, bo chodzi w nim właśnie o utratę. Opuszczenie jest zatem wyraźnie wtórne, choć świadkowie są wcześni, i trzeba przypuszczać, że wyraz wypadł przy przepisywaniu albo został uznany za zbędny. Lekcja drukowana jest poświadczona dobrze."
+    ],
+    [
+     13,
+     "βληθὲν ἔξω",
+     "wariant lekcji",
+     "Korektor papirusu 86, kodeks Bezy (D), W, Θ, rodzina f13 i większość tekstu mają w tym miejscu bezokolicznik βληθῆναι ἔξω καί (zostać wyrzuconą na zewnątrz i), czyli dwa bezokoliczniki połączone spójnikiem. Lekcję drukowaną z imiesłowem mają pierwotny zapis papirusu 86, Sinaiticus, Watykański, kodeks C, rodzina f1, minuskuły 33 i 892.",
+     "Różnica jest składniowa i porządkuje zdanie: z dwoma bezokolicznikami wyrzucenie i zdeptanie są dwiema czynnościami równorzędnymi, z imiesłowem wyrzucenie jest okolicznością, a jedyną czynnością pozostaje deptanie. Lekcja drukowana jest szorstsza i dlatego pierwotniejsza, a jej sens jest ostrzejszy: sól nie jest do niczego dobra oprócz tego, żeby po niej chodzić. Papirus 86, jeden z najstarszych świadków tego rozdziału, ma obie lekcje — pierwotną w zapisie i wtórną w korekcie — co jest dla tego wariantu świadectwem rozstrzygającym."
+    ],
+    [
+     16,
+     "τὰ καλὰ ἔργα",
+     "opuszczenie",
+     "Pierwotny zapis Kodeksu Watykańskiego (B*) opuszcza rzeczownik ἔργα, zostawiając samo τὰ καλά (to, co dobre).",
+     "Jeden świadek, i to w zapisie poprawionym później, więc o pierwotności nie ma mowy. Nota jest jednak warta zapisu, bo dotyczy wyrazu, który w tym miejscu pada u Mateusza po raz pierwszy i który w jego Ewangelii okaże się dwuznaczny: ten sam rzeczownik opisze czyny uczonych w Piśmie, czynione, żeby je ludzie widzieli (23,5). Bez ἔργα zdanie mówiłoby o dobru bez wskazania, że chodzi o uczynki, i tym samym usuwałoby z Kazania jedyne miejsce, w którym czyn ma być widoczny."
+    ]
+   ],
+   "theme_links": [
+    [
+     "makaryzm: forma, liczba i dwa czasy",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "makaryzm: forma, liczba i dwa czasy",
+     [
+      "block",
+      "w. 3–6"
+     ]
+    ],
+    [
+     "makaryzm: forma, liczba i dwa czasy",
+     [
+      "unit",
+      "w. 3–6",
+      0
+     ]
+    ],
+    [
+     "makaryzm: forma, liczba i dwa czasy",
+     [
+      "unit",
+      "w. 3–6",
+      2
+     ]
+    ],
+    [
+     "makaryzm: forma, liczba i dwa czasy",
+     [
+      "section",
+      "Formuła, która orzeka, a nie błogosławi"
+     ]
+    ],
+    [
+     "makaryzm: forma, liczba i dwa czasy",
+     [
+      "section",
+      "Qumran: szereg makaryzmów i ubodzy duchem"
+     ]
+    ],
+    [
+     "makaryzm: forma, liczba i dwa czasy",
+     [
+      "section",
+      "Osiem, siedem, dziewięć: liczenie makaryzmów"
+     ]
+    ],
+    [
+     "makaryzm: forma, liczba i dwa czasy",
+     [
+      "section",
+      "Beatitudo orzekana o tych, którzy jej nie mają"
+     ]
+    ],
+    [
+     "trzecia osoba i druga: zwrot Kazania",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "trzecia osoba i druga: zwrot Kazania",
+     [
+      "block",
+      "w. 11–12"
+     ]
+    ],
+    [
+     "trzecia osoba i druga: zwrot Kazania",
+     [
+      "unit",
+      "w. 11–12",
+      0
+     ]
+    ],
+    [
+     "trzecia osoba i druga: zwrot Kazania",
+     [
+      "unit",
+      "w. 11–12",
+      3
+     ]
+    ],
+    [
+     "trzecia osoba i druga: zwrot Kazania",
+     [
+      "unit",
+      "w. 13–16",
+      0
+     ]
+    ],
+    [
+     "trzecia osoba i druga: zwrot Kazania",
+     [
+      "unit",
+      "w. 13–16",
+      3
+     ]
+    ],
+    [
+     "trzecia osoba i druga: zwrot Kazania",
+     [
+      "section",
+      "Ten, kto mówi, staje się racją"
+     ]
+    ],
+    [
+     "trzecia osoba i druga: zwrot Kazania",
+     [
+      "section",
+      "Zakończenie: intencja całości"
+     ]
+    ],
+    [
+     "Ojciec wasz w niebiosach",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "Ojciec wasz w niebiosach",
+     [
+      "block",
+      "w. 13–16"
+     ]
+    ],
+    [
+     "Ojciec wasz w niebiosach",
+     [
+      "unit",
+      "w. 13–16",
+      8
+     ]
+    ],
+    [
+     "Ojciec wasz w niebiosach",
+     [
+      "section",
+      "Czyn widoczny, chwała przekierowana"
+     ]
+    ],
+    [
+     "góra, na którą się wstępuje",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "góra, na którą się wstępuje",
+     [
+      "block",
+      "w. 1–2"
+     ]
+    ],
+    [
+     "góra, na którą się wstępuje",
+     [
+      "unit",
+      "w. 1–2",
+      1
+     ]
+    ],
+    [
+     "góra, na którą się wstępuje",
+     [
+      "unit",
+      "w. 13–16",
+      4
+     ]
+    ],
+    [
+     "góra, na którą się wstępuje",
+     [
+      "section",
+      "Góra, siedzenie i mowa na otwartym powietrzu"
+     ]
+    ],
+    [
+     "widzenie Boga",
+     [
+      "unit",
+      "w. 7–10",
+      1
+     ]
+    ],
+    [
+     "widzenie Boga",
+     [
+      "unit",
+      "w. 7–10",
+      2
+     ]
+    ],
+    [
+     "widzenie Boga",
+     [
+      "section",
+      "Czy człowiek może zobaczyć Boga"
+     ]
+    ],
+    [
+     "widzenie Boga",
+     [
+      "section",
+      "Czy człowiek zobaczy istotę Boga: 1336 i spór hezychastyczny"
+     ]
+    ],
+    [
+     "zapłata i jej dwa adresy",
+     [
+      "unit",
+      "w. 11–12",
+      5
+     ]
+    ],
+    [
+     "zapłata i jej dwa adresy",
+     [
+      "section",
+      "Zapłata, zasługa i to, czego Mateusz nie dopowiada"
+     ]
+    ],
+    [
+     "zapłata i jej dwa adresy",
+     [
+      "section",
+      "Czyn widoczny, chwała przekierowana"
+     ]
+    ],
+    [
+     "sól, światło i miasto: trzy obrazy jawności",
+     [
+      "pericope"
+     ]
+    ],
+    [
+     "sól, światło i miasto: trzy obrazy jawności",
+     [
+      "block",
+      "w. 13–16"
+     ]
+    ],
+    [
+     "sól, światło i miasto: trzy obrazy jawności",
+     [
+      "unit",
+      "w. 13–16",
+      0
+     ]
+    ],
+    [
+     "sól, światło i miasto: trzy obrazy jawności",
+     [
+      "unit",
+      "w. 13–16",
+      1
+     ]
+    ],
+    [
+     "sól, światło i miasto: trzy obrazy jawności",
+     [
+      "unit",
+      "w. 13–16",
+      4
+     ]
+    ],
+    [
+     "sól, światło i miasto: trzy obrazy jawności",
+     [
+      "unit",
+      "w. 13–16",
+      5
+     ]
+    ],
+    [
+     "sól, światło i miasto: trzy obrazy jawności",
+     [
+      "section",
+      "Sól, która przestaje być solą"
+     ]
+    ],
+    [
+     "sól, światło i miasto: trzy obrazy jawności",
+     [
+      "section",
+      "Jedna izba, jedna lampa, jeden korzec"
+     ]
+    ],
+    [
+     "sól, światło i miasto: trzy obrazy jawności",
+     [
+      "section",
+      "Sal terrae, lux mundi: od kazania do herbu i do adhortacji"
+     ]
+    ],
+    [
+     "sprawiedliwość wedle Mateusza",
+     [
+      "unit",
+      "w. 3–6",
+      5
+     ]
+    ],
+    [
+     "sprawiedliwość wedle Mateusza",
+     [
+      "unit",
+      "w. 7–10",
+      5
+     ]
+    ],
+    [
+     "królestwo niebios jako omowa",
+     [
+      "unit",
+      "w. 3–6",
+      2
+     ]
+    ],
+    [
+     "królestwo niebios jako omowa",
+     [
+      "section",
+      "Cztery strony bierne i dwa imiona"
+     ]
+    ],
+    [
+     "nowy Mojżesz i powtórzone wyjście",
+     [
+      "unit",
+      "w. 1–2",
+      1
+     ]
+    ],
+    [
+     "nowy Mojżesz i powtórzone wyjście",
+     [
+      "section",
+      "Autor ludzki: kim jest i co chce przekazać"
+     ]
+    ],
+    [
+     "Syn Dawida i chrystologia królewska",
+     [
+      "unit",
+      "w. 3–6",
+      4
+     ]
+    ],
+    [
+     "światłość wschodząca nad Galileą narodów",
+     [
+      "unit",
+      "w. 13–16",
+      3
+     ]
+    ],
+    [
+     "synagogi ich: Mateusz po rozejściu",
+     [
+      "section",
+      "Kto prześladuje: wspólnota Mateusza i synagoga po roku 70"
+     ]
+    ]
+   ],
+   "citations": [
+    [
+     "św. Tomasz z Akwinu",
+     "ST I–II, q. 3, a. 2 i a. 8; q. 5, a. 3",
+     [
+      "section",
+      "Beatitudo orzekana o tych, którzy jej nie mają"
+     ],
+     "Szczęście jako akt, nie jako posiadanie dóbr, i rozróżnienie na beatitudo perfecta (szczęście doskonałe), nieosiągalne w tym życiu, oraz beatitudo imperfecta (szczęście niedoskonałe), które jest rozpoczętym uczestnictwem w tym samym akcie. Rozkład czasów gramatycznych w Mt 5,3–10 — teraźniejszy w klamrze, przyszły w środku — temu podziałowi odpowiada, ale go nie dowodzi.",
+     "Summa Theologiae"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "ST I–II, q. 69, a. 1–4",
+     [
+      "section",
+      "Osiem makaryzmów i siedem darów: rachunek Augustyna i co z nim zrobił Tomasz"
+     ],
+     "Kwestia o błogosławieństwach: nie są one ani cnotami, ani darami Ducha, lecz aktami cnót i darów, a ich nagrody są częściowo obecne już teraz i częściowo zachowane. Tomasz przyjmuje tu zestawienie Augustyna z siedmioma darami i porządkuje je pojęciowo.",
+     "Summa Theologiae"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "ST I, q. 12, a. 2 i a. 5",
+     [
+      "section",
+      "Czy człowiek może zobaczyć Boga"
+     ],
+     "Rozróżnienie między widzeniem istoty Boga i jej ogarnięciem oraz pojęcie lumen gloriae (światło chwały) jako uzdolnienia władzy poznawczej, a nie pośrednika między Bogiem i patrzącym. Narzędzie, którym rozwiązuje się sprzeczność między Mt 5,8 i Wj 33,20.",
+     "Summa Theologiae"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "ST I–II, q. 114, a. 1 i a. 5",
+     [
+      "section",
+      "Zapłata, zasługa i to, czego Mateusz nie dopowiada"
+     ],
+     "Zasługa jako skutek łaski przyjętej, nie roszczenie: między człowiekiem i Bogiem nie ma sprawiedliwości wymiennej, bo nie ma wspólnej miary, a pierwszej łaski nikt sobie zasłużyć nie może. Mt 5,12 nauki o zasłudze nie zawiera, ale jej warunek wstępny podaje, bo zapłata nie jest w tym wierszu określona.",
+     "Summa Theologiae"
+    ],
+    [
+     "św. Tomasz z Akwinu",
+     "Super Mt., cap. V",
+     [
+      "section",
+      "Obserwacje teologiczne i filozoficzne w duchu tomistycznym"
+     ],
+     "Wykład Mt 5 w komentarzu do Mateusza, prowadzony stopniami od ubóstwa duchem do czystości serca. Tekst jest reportacją wykładów paryskich i jego stan krytyczny jest nierówny, co przy powoływaniu się na niego trzeba brać w rachubę.",
+     "Super Evangelium S. Matthaei lectura"
+    ],
+    [
+     "św. Augustyn",
+     "De serm. Dom. I,3–4",
+     [
+      "section",
+      "Osiem makaryzmów i siedem darów: rachunek Augustyna i co z nim zrobił Tomasz"
+     ],
+     "Siedem makaryzmów zestawionych z siedmioma darami Ducha z Iz 11,2–3 w kolejności odwrotnej, i te same siedem z siedmioma prośbami Modlitwy Pańskiej; ósmy makaryzm jako powrót do pierwszego i klamra całego szeregu. Dzieło jest najstarszym komentarzem ciągłym do Mt 5–7 i powstało około roku 394.",
+     "De sermone Domini in monte"
+    ],
+    [
+     "Qumran",
+     "4Q525",
+     [
+      "section",
+      "Qumran: szereg makaryzmów i ubodzy duchem"
+     ],
+     "Hebrajski tekst mądrościowy z szeregiem zdań otwieranych formułą אַשְׁרֵי i zamkniętym członem dłuższym od pozostałych — najbliższy formalnie przedchrześcijański odpowiednik budowy Mt 5,3–12. Zbieżność dotyczy formy, nie brzmienia, i nie wolno z niej wyprowadzać zależności tekstowej. Siglum i stan zachowania wymagają sprawdzenia w wydaniu zwojów.",
+     "Makaryzmy (4Q525)"
+    ],
+    [
+     "Qumran",
+     "1QM 14,7; 1QS 4,3",
+     [
+      "unit",
+      "w. 3–6",
+      1
+     ],
+     "Wyrażenie עַנְוֵי רוּחַ (anwe ruach, ubodzy duchem) w Regule Wojny i pokrewny zwrot o uniżeniu ducha w Regule Zrzeszenia. Przed odkryciami w Qumran celownik τῷ πνεύματι w Mt 5,3 uchodził za grecki dodatek do Łukaszowych ubogich; po nich wiadomo, że całe wyrażenie istniało po hebrajsku w judaizmie palestyńskim. O pierwotność żadnej z dwóch wersji to nie rozstrzyga.",
+     "Reguła Wojny (1QM)"
+    ],
+    [
+     "Benedykt XII",
+     "Benedictus Deus (1336)",
+     [
+      "section",
+      "Czy człowiek zobaczy istotę Boga: 1336 i spór hezychastyczny"
+     ],
+     "Określenie, że dusze oczyszczone widzą istotę Boga widzeniem bezpośrednim i twarzą w twarz, zanim ciała zmartwychwstaną — zamknięcie sporu wywołanego kazaniami Jana XXII. Mt 5,8 jest w tej sprawie wersetem podstawowym. Data i brzmienie wymagają sprawdzenia.",
+     "Benedictus Deus"
+    ],
+    [
+     "św. Grzegorz Palamas",
+     "Triady, I–III",
+     [
+      "section",
+      "Czy człowiek zobaczy istotę Boga: 1336 i spór hezychastyczny"
+     ],
+     "Teza, że istota Boga pozostaje niedostępna także w chwale, a widziane jest jego nieutworzone działanie — rozstrzygnięcie przyjęte w Konstantynopolu na soborach lat 1341–1351, czyli w tym samym pokoleniu, w którym Zachód określił widzenie istoty. Obie strony powołują Mt 5,8. Loci i sigla soborowe wymagają sprawdzenia.",
+     "Triades pro hesychastis"
+    ],
+    [
+     "J. Wellhausen",
+     "Das Evangelium Matthaei (1904)",
+     [
+      "section",
+      "Sieć odniesień biblijnych"
+     ],
+     "Domysł, że Mt 5,5 jest w tekście wtórny, zapisany w aparacie wydania krytycznego w nawiasie kwadratowym jako koniektura bez poparcia rękopiśmiennego. Wiersz piąty jest w perykopie jedynym przytoczeniem Pisma, a jego usunięcie dałoby siedem makaryzmów.",
+     "Das Evangelium Matthaei"
+    ],
+    [
+     "J. Dupont",
+     "Les Béatitudes, t. I–III",
+     [
+      "section",
+      "Autor ludzki: kim jest i co chce przekazać"
+     ],
+     "Monografia o błogosławieństwach, podstawowa dla dyskusji o pierwotności szeregu Mateuszowego wobec Łukaszowego i o stosunku obu redakcji do materiału wspólnego. Rozstrzygnięcia tej dyskusji nie da się oprzeć na samym tekście Mateusza.",
+     "Les Béatitudes"
+    ],
+    [
+     "Franciszek",
+     "Gaudete et exsultate (2018), rozdz. III",
+     [
+      "section",
+      "Sal terrae, lux mundi: od kazania do herbu i do adhortacji"
+     ],
+     "Adhortacja o świętości, której tytuł jest łacińskim brzmieniem Mt 5,12, a rozdział trzeci komentarzem do ośmiu makaryzmów po kolei. Siglum i układ rozdziałów wymagają sprawdzenia.",
+     "Gaudete et exsultate"
+    ],
+    [
+     "Talmud babiloński",
+     "Bekorot 8b",
+     [
+      "section",
+      "Sól, która przestaje być solą"
+     ],
+     "Pytanie o to, czym posolić sól, która przestała solić, postawione jako zagadka o rzeczy niemożliwej i obrócone w żart. Locus wymaga sprawdzenia, a datowanie materiału jest o stulecia późniejsze od Ewangelii, więc świadczy o typie pytania, nie o jego pierwszeństwie.",
+     "Talmud Bawli"
+    ],
+    [
+     "H. D. Betz",
+     "The Sermon on the Mount (1995)",
+     [
+      "section",
+      "Kontekst historyczny, językowy, kulturowy i religijny"
+     ],
+     "Komentarz do Kazania na górze, w którym makaryzmy są czytane jako jednostka o własnej historii literackiej, wcześniejsza od redakcji Mateuszowej. Teza o samodzielności tej jednostki jest sporna i wymaga weryfikacji przy innych komentarzach.",
+     "The Sermon on the Mount"
+    ]
+   ],
+   "revision_note": "2026-11-27: perykopa dziewiąta bazy Mateusza (Mt 5,1–16), początek Kazania na górze i pierwsza perykopa z bloku pięciu wielkich mów. Sekcja I w pięciu blokach i trzydziestu pięciu jednostkach analizy; oś na przejściu z trzeciej osoby w drugą, którego punktem zwrotu jest prześladowanie — osiem makaryzmów mówi o kimś, dziewiąty do kogoś i podstawia w miejsce sprawiedliwości osobę mówiącego (ἕνεκεν ἐμοῦ), a sól i światło stoją już tylko w drugiej osobie, w konstrukcji ὑμεῖς ἐστε, która u Mateusza twierdząco pada wyłącznie w 5,13 i 5,14. Drugi wątek: Mt 5,16 jest pierwszym w tej Ewangelii nazwaniem Boga Ojcem, i pada nie w modlitwie, lecz w zdaniu o jawności czynów. Czterdzieści dziewięć odniesień biblijnych, z czego trzy przytoczenia nieoznaczone (Ps 37,11 w w. 5, Ps 24,4 w w. 8, formuła Ps 78,2 w w. 2) i dwie typologie Mojżeszowe. Czternaście not tekstualnych z siedemnastu wpisów aparatu, w tym przestawienie wierszy czwartego i piątego potwierdzone przez Wulgatę klementyńską z `db.sqlite` oraz koniektura Wellhausena o wtórności w. 5 — jedyny domysł uczonego notowany w aparacie w całej dotychczasowej bazie. Pięć głosów kateny: Hilary o górze i o podejściu uczniów, Chryzostom o kolejności makaryzmów jako łańcuchu, Augustyn z De sermone Domini in monte o siedmiu darach i powrocie ósmego do pierwszego, Hieronim o czystym sercu, Chromacjusz o soli i świetle jako o urzędzie; Orygenes wyłączony, bo jego grecki komentarz zachował się dopiero od 13,36, i występuje tu tylko jako świadek tekstu. Loci patrystyczne, loci Tomasza, daty i brzmienia Benedictus Deus oraz soborów konstantynopolitańskich, realia soli i korca, kolacje z Łukaszem, Markiem, psalmami i Izajaszem oraz sigla lekcjonarzy rzymskiego i bizantyjskiego wymagają sprawdzenia przy źródłach."
+  }
+ ]
+}
